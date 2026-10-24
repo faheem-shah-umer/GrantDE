@@ -1,0 +1,169 @@
+{
+  "schema_version": "2.0.0",
+  "id": "erasmus-mundus-joint-masters-scholarships",
+  "slug": "erasmus-mundus-joint-masters-scholarships",
+  "title": "Erasmus Mundus Joint Master Scholarships",
+  "provider": {
+    "name": "European Union / individual programme consortia"
+  },
+  "summary": "Competitive joint-Master's scholarships open worldwide; Germany is relevant where the selected consortium includes a physical study period there.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "eu-erasmus-mundus"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "eu-erasmus-mundus"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "eu-erasmus-mundus"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unrestricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "The European Commission expressly welcomes students worldwide.",
+      "source_ids": [
+        "eu-erasmus-mundus"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "eu-erasmus-mundus"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "First degree, or final-year study with graduation before the Master's begins; a recognised equivalent may qualify.",
+        "source_ids": [
+          "eu-erasmus-mundus"
+        ]
+      },
+      {
+        "text": "Meet the selected consortium's admission and scholarship requirements.",
+        "source_ids": [
+          "eu-erasmus-mundus"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Scholarships cover participation costs and contribute to living, travel and visa expenses; consult the specific course.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "One to two academic years.",
+    "covered_costs": [],
+    "source_ids": [
+      "eu-erasmus-mundus"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "erasmus-mundus-joint-masters-scholarships-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "eu-erasmus-mundus"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Most applications fall between October and January; each consortium sets exact dates.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Choose a consortium from the official catalogue.",
+        "source_ids": [
+          "eu-erasmus-mundus"
+        ]
+      },
+      {
+        "text": "For this Germany directory, check that the mobility route actually includes physical study in Germany.",
+        "source_ids": [
+          "eu-erasmus-mundus"
+        ]
+      },
+      {
+        "text": "Apply directly to the institution running the selected programme.",
+        "source_ids": [
+          "eu-erasmus-mundus"
+        ]
+      }
+    ],
+    "official_programme_url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
+    "application_url": null,
+    "source_ids": [
+      "eu-erasmus-mundus"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "eu-erasmus-mundus",
+        "url": "https://erasmus-plus.ec.europa.eu/opportunities/individuals/students/erasmus-mundus-joint-masters",
+        "title": "Erasmus Mundus Joint Master Scholarships",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/eu-erasmus-mundus",
+        "sha256": "71e771f6bd30449c73b3c59f42cd4108ef2070b1342a74b061357c4545d20917",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "This is a programme family, not a list of every German-partner consortium or a Germany-only award."
+    ]
+  }
+}

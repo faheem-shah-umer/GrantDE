@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0.0",
+  "id": "berlin-elsa-neumann-doctoral-scholarship",
+  "slug": "berlin-elsa-neumann-doctoral-scholarship",
+  "title": "Elsa Neumann Doctoral Scholarship",
+  "provider": {
+    "name": "State of Berlin / participating Berlin universities"
+  },
+  "summary": "Doctoral support under Berlin's young-researcher funding framework for German and international candidates with strong academic results.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-tu-berlin"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-tu-berlin"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Participating Berlin universities"
+      ],
+      "notes": "Doctoral candidates must be enrolled and supervised at one of the four participating Berlin universities.",
+      "source_ids": [
+        "review-20261024-elsa-conditions"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unrestricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "The university explicitly describes German and international doctoral candidates.",
+      "source_ids": [
+        "curated-tu-berlin"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-tu-berlin"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Doctoral study within the participating Berlin university scheme.",
+        "source_ids": [
+          "curated-tu-berlin"
+        ]
+      },
+      {
+        "text": "Exceptional academic achievement, particularly in the university degree.",
+        "source_ids": [
+          "curated-tu-berlin"
+        ]
+      },
+      {
+        "text": "Enrolment and supervision at a participating Berlin university are required.",
+        "source_ids": [
+          "review-20261024-elsa-conditions"
+        ]
+      },
+      {
+        "text": "The same doctoral project must not already have received public funding; annual progress reports and supervisor statements apply to continuing full awards.",
+        "source_ids": [
+          "review-20261024-elsa-conditions"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 1,350 monthly base plus EUR 100 monthly research-cost allowance. Family supplements and travel-cost reimbursement can be requested. Full-time awards last up to 36 months; final-stage completion awards last at most 12 months and cannot be extended.",
+    "amount_min": 1350,
+    "amount_max": 1350,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Full-time doctoral scholarship: up to 36 months. Completion award: at most 12 months, non-extendable.",
+    "covered_costs": [
+      "research",
+      "study_completion"
+    ],
+    "source_ids": [
+      "review-20261024-elsa-conditions"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "berlin-elsa-neumann-doctoral-scholarship-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "curated-tu-berlin"
+      ]
+    },
+    {
+      "id": "berlin-elsa-neumann-doctoral-scholarship-round-november-2026",
+      "opens_on": "2026-09-16",
+      "deadline": "2026-11-11",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "open",
+      "as_of": "2026-10-24",
+      "applicable_country_codes": null,
+      "notes": "TU Berlin states 16 September–11 November 2026, noon; central DRS confirms the November deadline and earliest funding start 1 April 2027. The timezone is not explicit, so the noon clock time remains descriptive.",
+      "source_ids": [
+        "review-20261024-elsa",
+        "review-20261024-elsa-central"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "The overview lists April for funding starting in July and October for funding starting in April; exact year-specific dates require the current call.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Read the detailed Center for Junior Scholars information and current call.",
+        "source_ids": [
+          "curated-tu-berlin"
+        ]
+      },
+      {
+        "text": "Apply through the stated university process.",
+        "source_ids": [
+          "curated-tu-berlin"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.fu-berlin.de/sites/drs/funding/nafoeg/index.html",
+    "application_url": null,
+    "source_ids": [
+      "curated-tu-berlin",
+      "review-20261024-elsa-central"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-tu-berlin",
+        "url": "https://www.tu.berlin/en/international/students-1/international-students/international-degree-seeking-students/scholarships-and-other-funding-for-international-students",
+        "title": "Scholarships and Other funding for international students - TU Berlin",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-tu-berlin",
+        "sha256": "cd2dbc58399ea8229f40b62ff8c583987769ca3d8bdfc64458a8b77861ce26c6",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      },
+      {
+        "id": "review-20261024-elsa",
+        "url": "https://www.tu.berlin/go5168/",
+        "title": "Elsa-Neumann-Stipendium des Landes Berlin (NaFöG) - TU Berlin",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-elsa",
+        "sha256": "f1afaa018049b52dc2c80622612c22e46c074c20ed55dbdfea43c47503447c82",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      },
+      {
+        "id": "review-20261024-elsa-central",
+        "url": "https://www.fu-berlin.de/sites/drs/funding/nafoeg/index.html",
+        "title": "Elsa-Neumann-Stipendium des Landes Berlin • Dahlem Research School • Freie Universität Berlin",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-elsa-central",
+        "sha256": "2b84850948d8ff2ca2d73953fb41a4f4b52e72c64b0b70edfe7ba7e2aef72a90",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      },
+      {
+        "id": "review-20261024-elsa-conditions",
+        "url": "https://www.fu-berlin.de/sites/drs/funding/nafoeg/about-nafoeg.html",
+        "title": "Das Elsa-Neumann-Stipendium • Dahlem Research School • Freie Universität Berlin",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-elsa-conditions",
+        "sha256": "94879850185f9225a0f6a3f368cab55641d03ef79804c859d72f0d3c5ae3b092",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      }
+    ],
+    "last_checked": "2026-10-24",
+    "last_reviewed": "2026-10-24",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "The central application-information brochure and full document checklist still need detailed review; noon deadline timezone is not explicitly stated."
+    ]
+  }
+}

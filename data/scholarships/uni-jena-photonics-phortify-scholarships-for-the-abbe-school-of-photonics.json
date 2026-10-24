@@ -1,0 +1,201 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-jena-photonics-phortify-scholarships-for-the-abbe-school-of-photonics",
+  "slug": "uni-jena-photonics-phortify-scholarships-for-the-abbe-school-of-photonics",
+  "title": "PHORTIFY Scholarships for the Abbe School of Photonics",
+  "provider": {
+    "name": "Abbe School of Photonics / European Union"
+  },
+  "summary": "EU-funded master's scholarships awarded for academic excellence to international students in M.Sc. Photonics or M.Sc. Quantum Science & Technology at Jena.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "M.Sc. Photonics or M.Sc. Quantum Science & Technology",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "natural_sciences",
+        "engineering",
+        "other"
+      ],
+      "notes": "Photonics and Quantum Science & Technology",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Friedrich Schiller University Jena"
+      ],
+      "notes": "Abbe School of Photonics",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationals of specified list of eligible countries",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Must be studying on-campus, not online",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Must be a national of an eligible country",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      },
+      {
+        "text": "Must be admitted to or enrolled in M.Sc. Photonics or M.Sc. Quantum Science & Technology",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      },
+      {
+        "text": "Must study on-campus",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      },
+      {
+        "text": "Submit two letters of recommendation",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Academic excellence",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 992 per month for a fixed period of 12 months.",
+    "amount_min": 992,
+    "amount_max": 992,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "12 months",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-jena-photonics"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Indicate interest during the online application process in the application portal.",
+      "applicable_country_codes": null,
+      "id": "uni-jena-photonics-phortify-scholarships-for-the-abbe-school-of-photonics-round-regular-application-procedure",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Two letters of recommendation",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Indicate interest during the online application process in the application portal",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      },
+      {
+        "text": "Submit two letters of recommendation in the portal",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.asp.uni-jena.de/16049/m-sc-photonics-quantum-phortify-program",
+    "application_url": "https://friedolin2.uni-jena.de/qisserver/pages/cs/sys/portal/hisinoneStartPage.faces?chco=y&sessionlanguage=en",
+    "source_ids": [
+      "uni-jena-photonics"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-jena-photonics",
+        "url": "https://www.asp.uni-jena.de/16808/scholarships-available",
+        "title": "Abbe School of Photonics • Master scholarships | Abbe School of Photonics",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-jena-photonics",
+        "sha256": "8dc6e8a42b54294b6ccbe0da953fc23b75c97959152ed8b9ff9f1794fdb4ce1b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Grants international students physical Master's study funding in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Invalid country code in allowed_country_codes; original rule retained in research snapshot.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

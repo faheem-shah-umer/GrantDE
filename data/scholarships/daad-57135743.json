@@ -1,0 +1,196 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57135743",
+  "slug": "daad-57135743",
+  "title": "DAAD Postgraduate Music Scholarships",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Postgraduate or complementary artistic study in Germany in the named discipline.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "other"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-57135743"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "music"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-57135743"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-57135743"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "DAAD_programme_country_selection_required"
+      ],
+      "notes": "Country eligibility requires the relevant DAAD application context.",
+      "source_ids": [
+        "daad-57135743"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany",
+        "outside_germany"
+      ],
+      "notes": "No more than 15 months in Germany at the application deadline.",
+      "source_ids": [
+        "daad-57135743"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Qualifying first degree; normally earned within the preceding six years.",
+        "source_ids": [
+          "daad-57135743"
+        ]
+      },
+      {
+        "text": "A new eligible German programme; already-started postgraduate programmes in Germany are excluded.",
+        "source_ids": [
+          "daad-57135743"
+        ]
+      },
+      {
+        "text": "Meet the host's teaching-language requirements and obtain admission or supervision.",
+        "source_ids": [
+          "daad-57135743"
+        ]
+      },
+      {
+        "text": "A first music degree is required, or exhaustion of available home-country instrumental training where no degree exists; artistic study rather than musicology.",
+        "source_ids": [
+          "daad-57135743"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 992 monthly, insurance, study and conditional travel support; tuition is excluded.",
+    "amount_min": 992,
+    "amount_max": 992,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Degree study: 10–24 months; complementary study generally one academic year.",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-57135743"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "daad-57135743-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "daad-57135743"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Current primary deadline requires country-specific confirmation; portfolio upload dates are separate.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "CV",
+        "source_ids": [
+          "daad-57135743"
+        ]
+      },
+      {
+        "text": "Motivation letter",
+        "source_ids": [
+          "daad-57135743"
+        ]
+      },
+      {
+        "text": "Music video or sound samples",
+        "source_ids": [
+          "daad-57135743"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Apply through DAAD, then submit requested work samples through its media database.",
+        "source_ids": [
+          "daad-57135743"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743",
+    "application_url": null,
+    "source_ids": [
+      "daad-57135743"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57135743",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135743",
+        "title": "DAAD Postgraduate Music Scholarships",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/daad-57135743",
+        "sha256": "2510e6d93eaee2d08dcf850cf4404af3b0d9b3cffea3527141c4daa5d40f3c47",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Confirm the complete current checklist, country eligibility, exceptions and primary deadline."
+    ]
+  }
+}

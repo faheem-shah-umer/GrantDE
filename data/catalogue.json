@@ -1,0 +1,12 @@
+{
+  "format": "GrantDE working catalogue",
+  "schema_version": "2.0.0",
+  "records": "scholarships",
+  "schema": "schema/scholarship.schema.json",
+  "vocabularies": "schema/vocabularies.json",
+  "evidence_files": [
+    "sources.json",
+    "evidence/2026-10-24-source-review.json"
+  ],
+  "collected_on": "2026-10-23"
+}

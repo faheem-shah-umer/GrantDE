@@ -1,0 +1,173 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000321",
+  "slug": "daad-10000321",
+  "title": "German Studies Research Grant",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Funding for research visits to Germany of 1-2 months for qualified North American students, graduates, and doctoral candidates carrying out research projects on German cultural studies.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "doctorate",
+        "exchange",
+        "other"
+      ],
+      "notes": "Aimed at undergraduates, graduates, and doctoral candidates/PhD students.",
+      "source_ids": [
+        "daad-10000321"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "humanities",
+        "social_sciences"
+      ],
+      "notes": "Subjects relating to German affairs and German cultural studies.",
+      "source_ids": [
+        "daad-10000321"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Universities or non-university institutes, archives and research institutes in Germany.",
+      "source_ids": [
+        "daad-10000321"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "CA",
+        "US"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": [
+        "North America"
+      ],
+      "notes": "Aimed at qualified students, graduates and doctoral candidates from North America (specifically Canada and United States of America).",
+      "source_ids": [
+        "daad-10000321"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants from North America living in Canada or the United States of America.",
+      "source_ids": [
+        "daad-10000321"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Carrying out research projects on German cultural studies",
+        "source_ids": [
+          "daad-10000321"
+        ]
+      },
+      {
+        "text": "Qualified students, graduates and doctoral candidates",
+        "source_ids": [
+          "daad-10000321"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "A contribution towards travel and accommodation expenses of from 2,000 to 3,000 USD depending on length of stay.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "USD",
+    "frequency": "variable",
+    "duration": "1-2 months",
+    "covered_costs": [
+      "travel",
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000321"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No specific deadline dates mentioned on the page.",
+      "applicable_country_codes": [
+        "CA",
+        "US"
+      ],
+      "id": "daad-10000321-round-default-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000321"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000321",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000321"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000321",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000321",
+        "title": "German Studies Research Grant - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000321",
+        "sha256": "f41fa7930fcd0ecee0a7b12449955665c68e51f8b07485a3bf6a4b5da1490a05",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme supports research visits in Germany for international students, graduates, and doctoral candidates."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Universities or non-university institutes, archives and research institutes in Germany."
+    ]
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000102",
+  "slug": "daad-10000102",
+  "title": "European Union: Erasmus+ Mobility Programme for Higher Education Students",
+  "provider": {
+    "name": "DAAD / European Union"
+  },
+  "summary": "Erasmus+ mobility supports study periods and traineeships in specified programme and partner countries for eligible higher education students.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Covers Bachelor's, Master's, doctoral students, and comprehensive degree courses such as medicine or traditional diploma courses.",
+      "source_ids": [
+        "daad-10000102"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Open to all disciplines.",
+      "source_ids": [
+        "daad-10000102"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Enrolled at a higher education institution participating in the Erasmus+ project AND whose home institution has signed an Erasmus cooperation agreement with the receiving institution.",
+      "source_ids": [
+        "daad-10000102"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Erasmus+ programme countries",
+        "Erasmus+ partner countries"
+      ],
+      "notes": "Students are either nationals of a country participating in the Erasmus+ programme, or nationals of other countries enrolled in a regular degree course at an institution of higher education in a participating country.",
+      "source_ids": [
+        "daad-10000102"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Residing in a participating country/origin country as stipulated by regulations.",
+      "source_ids": [
+        "daad-10000102"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Regularly enrolled at a higher education institution",
+        "source_ids": [
+          "daad-10000102"
+        ]
+      },
+      {
+        "text": "Enrolled at a higher education institution participating in the Erasmus+ project and home institution has signed an Erasmus cooperation agreement with receiving institution",
+        "source_ids": [
+          "daad-10000102"
+        ]
+      },
+      {
+        "text": "Students are at least in the second year of their degree course (not applicable to Master's students) before applying for a study visit (may apply for internship in first year)",
+        "source_ids": [
+          "daad-10000102"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Master's students are not restricted by the second-year requirement.",
+        "source_ids": [
+          "daad-10000102"
+        ]
+      },
+      {
+        "text": "Internship applications are allowed in the first year of study.",
+        "source_ids": [
+          "daad-10000102"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "The grant value varies depending on destination and higher education institution. Sponsored students are exempt from tuition, registration, examination, laboratory and library fees at the host institution.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "variable",
+    "duration": "2 to 12 months (maximum 36 months for studies or traineeships: up to 12 months for Bachelor's, Master's, or doctoral students; up to 24 months for comprehensive degree courses like medicine/state exam/diploma, with an additional 12 months for doctoral students)",
+    "covered_costs": [
+      "tuition"
+    ],
+    "source_ids": [
+      "daad-10000102"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Please contact the International Office of your home institution for further information on the application deadlines.",
+      "applicable_country_codes": null,
+      "id": "daad-10000102-round-unspecified-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000102"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Contact the Erasmus+ coordinators at the International Office of your home institution.",
+        "source_ids": [
+          "daad-10000102"
+        ]
+      }
+    ],
+    "official_programme_url": "https://daad.de/go/en/stipa10000102",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000102"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000102",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000102",
+        "title": "European Union: Erasmus+ Mobility Programme for Higher Education Students - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000102",
+        "sha256": "d6971b95088108a0890c4310a2352327ebff1444e35a00da5b6b576b7d132329",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "In scope because international higher education students can receive funding for study and traineeship mobility periods including physical stays in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Covers Bachelor's, Master's, doctoral students, and comprehensive degree courses such as medicine or traditional diploma courses.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Open to all disciplines.",
+      "A structured restriction needs manual classification: Enrolled at a higher education institution participating in the Erasmus+ project AND whose home institution has signed an Erasmus cooperation agreement with the receiving institution."
+    ]
+  }
+}

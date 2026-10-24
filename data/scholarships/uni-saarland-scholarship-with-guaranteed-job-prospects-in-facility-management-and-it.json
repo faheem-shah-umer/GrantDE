@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-saarland-scholarship-with-guaranteed-job-prospects-in-facility-management-and-it",
+  "slug": "uni-saarland-scholarship-with-guaranteed-job-prospects-in-facility-management-and-it",
+  "title": "Scholarship with guaranteed job prospects in facility management and IT",
+  "provider": {
+    "name": "Saarland University"
+  },
+  "summary": "Master's scholarship in electrical engineering or computer science at Saarland University with monthly funding and subsequent employment commitment.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Restricted to Master's degree students starting their first semester.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Restricted to electrical engineering or computer science.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Must study at Saarland University and commit to work in facility management or IT there.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality restrictions not specified.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "For studying at Saarland University in Germany.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Starting the first semester of a Master's degree in electrical engineering or computer science",
+        "source_ids": [
+          "uni-saarland"
+        ]
+      },
+      {
+        "text": "Commit to a minimum of five years' work in facility management or IT at Saarland University after graduation",
+        "source_ids": [
+          "uni-saarland"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Scholarship holders receive €850 per month for the entire duration of their studies.",
+    "amount_min": 850,
+    "amount_max": 850,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Entire duration of studies",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-saarland"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No specific application dates provided on the page.",
+      "applicable_country_codes": null,
+      "id": "uni-saarland-scholarship-with-guaranteed-job-prospects-in-facility-management-and-it-round-general",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.uni-saarland.de/en/page/karriere/einstiegsmoeglichkeiten/stipendium.html",
+    "application_url": null,
+    "source_ids": [
+      "uni-saarland"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-saarland",
+        "url": "https://www.uni-saarland.de/en/studies/financing/scholarships.html",
+        "title": "Scholarships | Financing your studies | Universität des Saarlandes",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-saarland",
+        "sha256": "1eb63be3f18f8a92916ad0b5e786fa3a11aa30082e93b28a1d1ee53d48563bdf",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports students studying a Master's degree at Saarland University in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Unrecognised criterion status: {'enum': ['restricted', 'unrestricted', 'unknown'], 'values': ['master'], 'notes': \"Restricted to Master's degree students starting their first semester.\"}",
+      "Unrecognised criterion status: {'enum': ['restricted', 'unrestricted', 'unknown'], 'values': ['engineering', 'computer_science'], 'notes': 'Restricted to electrical engineering or computer science.'}",
+      "Unrecognised criterion status: {'enum': ['restricted', 'unrestricted', 'unknown'], 'values': ['Saarland University'], 'notes': 'Must study at Saarland University and commit to work in facility management or IT there.'}",
+      "Unrecognised nationality status; consult the saved source extraction.",
+      "Unrecognised criterion status: {'enum': ['restricted', 'unrestricted', 'unknown'], 'values': ['in_germany'], 'notes': 'For studying at Saarland University in Germany.'}"
+    ]
+  }
+}

@@ -1,0 +1,262 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-potsdam-phd-completion-scholarship-for-doctoral-students",
+  "slug": "uni-potsdam-phd-completion-scholarship-for-doctoral-students",
+  "title": "Completion Scholarship for Doctoral Students",
+  "provider": {
+    "name": "University of Potsdam (International Office / STIBET program of the DAAD)"
+  },
+  "summary": "Three graduation scholarships funded by the DAAD STIBET program supporting international doctoral students in their final phase of studies at the University of Potsdam.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Doctoral students only.",
+      "source_ids": [
+        "uni-potsdam-phd"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Doctoral students from all disciplines.",
+      "source_ids": [
+        "uni-potsdam-phd"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "University of Potsdam"
+      ],
+      "notes": "Applicants must be enrolled at the University of Potsdam.",
+      "source_ids": [
+        "uni-potsdam-phd"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Non-German nationality.",
+      "source_ids": [
+        "uni-potsdam-phd"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Must be enrolled at the University of Potsdam in Germany.",
+      "source_ids": [
+        "uni-potsdam-phd"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Enrolled as a doctoral student at the University of Potsdam",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "Doctorate must be in the final phase (to be completed within the next twelve months)",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "Non-German nationality",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "Foreign university entrance qualification (Abitur)",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "No other scholarship may be received at the start of the Completion Scholarship",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "Economic neediness",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "1.300 EUR/ month",
+    "amount_min": 1300,
+    "amount_max": 1300,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "max. 6 months",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-potsdam-phd"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-10-01",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Application deadline until October 1st, 2026.",
+      "applicable_country_codes": null,
+      "id": "uni-potsdam-phd-completion-scholarship-for-doctoral-students-round-october-1st-2026-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-potsdam-phd"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Online application",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "Copy of the letter of admission to doctoral studies at the University of Potsdam (= “Anzeige der Promotionsabsicht”)",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "Copy of the current certificate of enrollment (= Studienbescheinigung)",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "Copy of the foreign university entrance qualification in English or German translation",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "Letter of motivation including information on previous funding for the doctorate (max. 1 page)",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "Brief description of the doctoral project including work plan (max. 1 page)",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "Curriculum vitae in tabular form (max. 3 pages)",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "Statement from the academic supervisor (max. 2 pages)",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "If applicable, copy of the birth certificate(s) of the child/children",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "If applicable, application of child allowance",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "If applicable, confirmation of non-receipt of child benefit (= Kindergeld)",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      },
+      {
+        "text": "Consent to data privacy policy",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit the online application with required documents directly through the University of Potsdam website.",
+        "source_ids": [
+          "uni-potsdam-phd"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.uni-potsdam.de/en/welcomecenter/preparation/completion-scholarship-for-doctoral-students",
+    "application_url": "https://www.uni-potsdam.de/en/welcomecenter/preparation/completion-scholarship-for-doctoral-students#c793479",
+    "source_ids": [
+      "uni-potsdam-phd"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-potsdam-phd",
+        "url": "https://www.uni-potsdam.de/en/welcomecenter/preparation/completion-scholarship-for-doctoral-students",
+        "title": " Preparing your stay -  Welcome Center Potsdam - University of Potsdam",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-potsdam-phd",
+        "sha256": "8588132cd68ac469d2b7e7fecc914a8dc04f6facd17b6d37a9b00713e7336b68",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International doctoral candidates receive funding for completing their doctoral studies physically at the University of Potsdam, Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Doctoral students from all disciplines.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

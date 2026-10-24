@@ -1,0 +1,164 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-jena-photonics-spie-optics-and-photonics-scholarships",
+  "slug": "uni-jena-photonics-spie-optics-and-photonics-scholarships",
+  "title": "SPIE Optics and Photonics Scholarships",
+  "provider": {
+    "name": "SPIE"
+  },
+  "summary": "Scholarships for Student Members worldwide studying optics, photonics or related fields.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Supports educational expenses for Student Members",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "natural_sciences",
+        "engineering",
+        "other"
+      ],
+      "notes": "Optics, photonics or related fields",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Worldwide/unspecified universities",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Worldwide student members",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Must be an SPIE Student Member",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      },
+      {
+        "text": "Studying optics, photonics or related fields",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Potential contribution to optics and photonics or a related discipline",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "In 2026, SPIE awarded $351,000 in scholarships to 85 scholars (individual amounts vary).",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "USD",
+    "frequency": "annual",
+    "duration": "Not specified",
+    "covered_costs": [
+      "study_completion",
+      "other"
+    ],
+    "source_ids": [
+      "uni-jena-photonics"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Awarded annually. Check SPIE Scholarships website for current dates.",
+      "applicable_country_codes": null,
+      "id": "uni-jena-photonics-spie-optics-and-photonics-scholarships-round-annual-application",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Awarded annually",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://spie.org/membership/student-resources/scholarships",
+    "application_url": null,
+    "source_ids": [
+      "uni-jena-photonics"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-jena-photonics",
+        "url": "https://www.asp.uni-jena.de/16808/scholarships-available",
+        "title": "Abbe School of Photonics • Master scholarships | Abbe School of Photonics",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-jena-photonics",
+        "sha256": "8dc6e8a42b54294b6ccbe0da953fc23b75c97959152ed8b9ff9f1794fdb4ce1b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports student members pursuing studies including eligible degrees in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "This is a German university's summary of an external award. The actual provider page and current call still need independent review; do not assume all overseas-study destinations, universities or applicants are covered.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

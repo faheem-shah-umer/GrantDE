@@ -1,0 +1,250 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-dresden-scholarships-for-the-promotion-of-equal-opportunities",
+  "slug": "uni-dresden-scholarships-for-the-promotion-of-equal-opportunities",
+  "title": "Scholarships for the Promotion of Equal Opportunities",
+  "provider": {
+    "name": "International Office of TU Dresden (Financed by the STIBET-Programme of the DAAD)"
+  },
+  "summary": "Financial support for international students at TU Dresden facing special challenges, life circumstances, or unequal socio-cultural starting situations.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "diploma",
+        "bachelor",
+        "master",
+        "state_exam"
+      ],
+      "notes": "International students of TU Dresden on the level of a diploma, bachelor, master or state exam student.",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All subjects at TU Dresden are eligible.",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "TU Dresden"
+      ],
+      "notes": "Limited to TU Dresden.",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": null,
+      "notes": "International students; students with multiple nationalities where one is German are NOT eligible.",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Enrollment at TU Dresden during the funding period and stay at the place of study (no stay abroad).",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "International student at TU Dresden in diploma, bachelor, master, or state exam program",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "At least three successfully completed examinations at TU Dresden",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Good academic performance (average grade of at least 2.5)",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Enrollment at TU Dresden during the funding period and stay at the place of study (no stay abroad)",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "No other scholarships during the funding period",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "No income from paid employment or state social benefits above EUR 634 gross/month",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Special challenges and life circumstances (at least one characteristic must be fulfilled: refugee background, caring for children up to 12, degree of disability >= 50% or chronic illness, caring for relatives, strong dependence on gainful employment, or other special challenges)",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 300 per month for a maximum of 3 months.",
+    "amount_min": 300,
+    "amount_max": 300,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "3 months (maximum until the deadline for the submission of final thesis)",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-dresden"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "1 February until 18 March for the funding period 1 April - 30 September (summer semester)",
+      "applicable_country_codes": null,
+      "id": "uni-dresden-scholarships-for-the-promotion-of-equal-opportunities-round-summer-semester-funding-period",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "1 August until 8 September for the funding period 1 October - 31 March (winter semester)",
+      "applicable_country_codes": null,
+      "id": "uni-dresden-scholarships-for-the-promotion-of-equal-opportunities-round-winter-semester-funding-period",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Summer semester deadline: 1 February until 18 March. Winter semester deadline: 1 August until 8 September.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "STIBET scholarship application form (Scholarship for the Promotion of Equal Opportunities)",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Certificate of enrollment for the funding period",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Certificate from the Examination Office stating the credits achieved to date and the average grade",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Current list of grades issued by the examination office",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Proof of income: current bank statement (1-page bank statement with current account balance)",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Proof in German or English of the special challenges and circumstances",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Send complete application documents exclusively in digital form (PDF documents named Last name_First name, max. 10 MB) by the application deadline.",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      }
+    ],
+    "official_programme_url": "https://tu-dresden.de/studium/vor-dem-studium/internationales/stipendien/stibet-i?set_language=en",
+    "application_url": null,
+    "source_ids": [
+      "uni-dresden"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-dresden",
+        "url": "https://tu-dresden.de/studium/vor-dem-studium/internationales/stipendien/stibet-i?set_language=en",
+        "title": "Scholarship- and Mentoring Programme (DAAD-STIBET) — Studies — TU Dresden",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-dresden",
+        "sha256": "2f235bdddb3d1eb6a16237da15e7ef4321f49f4cea0944ec939da58ff17cc92f",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Provides student funding for international students physically studying for a degree in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All subjects at TU Dresden are eligible."
+    ]
+  }
+}

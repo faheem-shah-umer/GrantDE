@@ -1,0 +1,189 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-bonn-degree-completion-scholarship",
+  "slug": "uni-bonn-degree-completion-scholarship",
+  "title": "Degree completion scholarship",
+  "provider": {
+    "name": "University of Bonn / DAAD"
+  },
+  "summary": "Scholarships supporting international students with good to very good study achievements expected to graduate within 12 months.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "state_exam"
+      ],
+      "notes": "Enrollment at the University of Bonn as a regular student (bachelor's, master's or state examination students, no exchange students).",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "University of Bonn"
+      ],
+      "notes": "Must be enrolled at the University of Bonn.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": null,
+      "notes": "Foreign citizenship (dual nationals must not hold German citizenship). University entrance qualification from outside Germany.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Must be enrolled at the University of Bonn; may not be used for studies in a (neighboring) foreign country or for a semester abroad.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Enrollment at the University of Bonn as a regular student (bachelor's, master's or state examination students, no exchange students)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Foreign citizenship (dual nationals must not hold German citizenship)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "University entrance qualification from outside Germany",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Current average grade of at least 2.5",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Expected to graduate within 12 months of receiving funding",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Students who are confronted with special circumstances and challenges (e.g. refugee background, degree of disability or chronic illness, care of minor children in their own household) are given preferential treatment",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Students who are particularly involved in volunteer work are given preferential treatment",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Funding amount not explicitly detailed in numerical cash value within this text (mentioned as funded under DAAD STIBET program guidelines).",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Up to 12 months (expected graduation within 12 months)",
+    "covered_costs": [],
+    "source_ids": [
+      "uni-bonn"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "The selection process for 2026 has already been completed, and applications are no longer being accepted. The next call for applications will be issued in December 2026, subject to funding approval.",
+      "applicable_country_codes": null,
+      "id": "uni-bonn-degree-completion-scholarship-round-2026-application-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Next call for applications will be issued in December 2026, subject to funding approval by the DAAD and the Federal Foreign Office.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.uni-bonn.de/en/studying/international-students/costs-and-financing-for-international-students",
+    "application_url": null,
+    "source_ids": [
+      "uni-bonn"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-bonn",
+        "url": "https://www.uni-bonn.de/en/studying/international-students/costs-and-financing-for-international-students",
+        "title": "Costs and Financing for International Students — University of Bonn",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-bonn",
+        "sha256": "2191bde3bb5b62519b453e091357845db5ba309b44e5f2db7d49f7c5aa894ccc",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International degree-seeking students at the University of Bonn in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

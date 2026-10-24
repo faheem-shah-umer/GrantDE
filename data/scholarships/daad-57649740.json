@@ -1,0 +1,192 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57649740",
+  "slug": "daad-57649740",
+  "title": "Gilman-DAAD Germany Scholarships",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "DAAD provides up to 40 additional scholarships per year for U.S. undergraduate Pell Grant recipients to study, intern, or take short courses in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "exchange",
+        "short_course",
+        "other"
+      ],
+      "notes": "For U.S. undergraduate students (Bachelor's or community college students transferring to a Bachelor's program), or short-term courses/internships.",
+      "source_ids": [
+        "daad-57649740"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines are eligible as part of the eligible study/internship programs.",
+      "source_ids": [
+        "daad-57649740"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German universities or pre-approved summer courses/partner institutions.",
+      "source_ids": [
+        "daad-57649740"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "US"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "U.S. undergraduate students.",
+      "source_ids": [
+        "daad-57649740"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants must be living in and applying from the United States of America.",
+      "source_ids": [
+        "daad-57649740"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Must meet all eligibility requirements for a regular Gilman Scholarship",
+        "source_ids": [
+          "daad-57649740"
+        ]
+      },
+      {
+        "text": "Must be matriculated full-time in a degree program in a U.S. accredited college or university and still be matriculated upon completion",
+        "source_ids": [
+          "daad-57649740"
+        ]
+      },
+      {
+        "text": "Must have completed their second year of study at the time of departure (or demonstrate transfer into a four-year Bachelor's degree from a community college)",
+        "source_ids": [
+          "daad-57649740"
+        ]
+      },
+      {
+        "text": "Only U.S. Pell Grant recipients are eligible",
+        "source_ids": [
+          "daad-57649740"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Students who have received a Gilman Scholarship funded by ECA in the past or who are receiving Gilman funding at the time of application are not eligible",
+        "source_ids": [
+          "daad-57649740"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Funding of up to USD $5,000 depending on each scholar's financial need (determined by IIE). Also includes health, accident, and private liability insurance, and a meeting for scholarship holders in Germany.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "USD",
+    "frequency": "variable",
+    "duration": "1 – 12 months (Summer or winter short-term course up to three months; semester or academic year; or internships at least 6 weeks in length)",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "travel"
+    ],
+    "source_ids": [
+      "daad-57649740"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application announced twice a year in mid-January and mid-August at gilmanscholarship.org, with deadlines in March and October.",
+      "applicable_country_codes": [
+        "US"
+      ],
+      "id": "daad-57649740-round-general-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57649740"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Announced twice a year in mid-January and mid-August, with deadlines in March and October.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Visit the official Gilman website to apply.",
+        "source_ids": [
+          "daad-57649740"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57649740",
+    "application_url": "https://www.gilmanscholarship.org/",
+    "source_ids": [
+      "daad-57649740"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57649740",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57649740",
+        "title": "Gilman-DAAD Germany Scholarships - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57649740",
+        "sha256": "222ec7fe94f5d1004cfd9ad5258f9b1910308347f3067c268d1aeff0e47e2d43",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds U.S. undergraduate students to study, intern, or take short courses physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines are eligible as part of the eligible study/internship programs.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: German universities or pre-approved summer courses/partner institutions."
+    ]
+  }
+}

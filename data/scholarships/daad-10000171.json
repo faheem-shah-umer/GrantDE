@@ -1,0 +1,165 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000171",
+  "slug": "daad-10000171",
+  "title": "Hermann Niermann Scholarships",
+  "provider": {
+    "name": "Hermann Niermann Foundation/European Institute for German Language"
+  },
+  "summary": "Support for highly qualified international students and researchers in German Studies for study and research stays in Germany across multiple funding lines ranging from short stays to doctoral projects.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "doctorate",
+        "exchange"
+      ],
+      "notes": "Covers BA, MA, postgraduate study/specialisation, and doctoral projects. Postdoctoral researchers are also targeted in track F.",
+      "source_ids": [
+        "daad-10000171"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "humanities"
+      ],
+      "notes": "German Studies, German language, literature and culture.",
+      "source_ids": [
+        "daad-10000171"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified on the page.",
+      "source_ids": [
+        "daad-10000171"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Estonia, Hungary, Kosovo, Latvia, Lithuania, Montenegro, North Macedonia, Poland, Romania, Serbia, Slovakia, Slovenia and Ukraine.",
+      "source_ids": [
+        "daad-10000171"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany",
+        "outside_germany"
+      ],
+      "notes": "Research/study stays take place in Germany; applicants apply from their home countries.",
+      "source_ids": [
+        "daad-10000171"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Depending on the purpose; usually at least a Bachelor's degree is required.",
+        "source_ids": [
+          "daad-10000171"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "The amount of the grant depends on the purpose. It ranges from 950 EUR per month for a short stay to 2,250 EUR per month for a research project.",
+    "amount_min": 950,
+    "amount_max": 2250,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "depending on the scholarship programme",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000171"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadlines are published on the programme website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000171-round-programme-website-deadlines",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000171"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "All application forms and further information on the application procedure can be found on the programme website.",
+        "source_ids": [
+          "daad-10000171"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000171",
+    "application_url": "https://euridis.de/foerderung/hermann-niermann-stipendien/",
+    "source_ids": [
+      "daad-10000171"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000171",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000171",
+        "title": "Hermann Niermann Foundation/European Institute for German Language: Hermann Niermann Scholarships - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000171",
+        "sha256": "a034ce4bf96eeb34280f2ef3550abfbbf9dc7a0d7aacf3fb40f8f0e3a9089906",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International students and researchers can receive funding for physical study and research stays in Germany. Postdoctoral track F is excluded from student scope, but mixed lines are included."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Funding line F is for postdoctoral researchers and is outside student scope, but other lines cover students/doctoral candidates.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Invalid country code in allowed_country_codes; original rule retained in research snapshot.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

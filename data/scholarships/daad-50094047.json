@@ -1,0 +1,282 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-50094047",
+  "slug": "daad-50094047",
+  "title": "CAS-DAAD-Programme / Joint Fellowship Programme for Doctoral Students of CAS",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Provides young Chinese doctoral students from UCAS and CAS research institutes a research stay of 12 to 22 months in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Doctoral candidates or participants in a combined Master and PhD programme who commenced their studies at least one year before.",
+      "source_ids": [
+        "daad-50094047"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Disciplines not explicitly restricted or specified as all.",
+      "source_ids": [
+        "daad-50094047"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "A German institution of higher education or research institution, with the exception of Max-Planck or Fraunhofer institutes",
+      "source_ids": [
+        "daad-50094047"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "CN"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": [
+        "China, PR"
+      ],
+      "notes": "Up and coming young Chinese scientists",
+      "source_ids": [
+        "daad-50094047"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Candidates who are living and applying from China, PR (UCAS and CAS research institutes).",
+      "source_ids": [
+        "daad-50094047"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Doctoral candidates or participants in a combined Master and PhD programme who commenced their studies at least one year before.",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "No more than three years should have been passed since the starting of doctoral studies or the combined Master and PhD programme.",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Language qualifications: English (IELTS 5.5 / TOEFL iBT 80) or German (DSH II / TestDaF 4x4 or higher).",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Doctoral students with a confirmed job offer for after their PhD may not apply.",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "A monthly scholarship payment of 1,350 euro from UCAS in the first year, 1,200 euro from DAAD in the second year. Health, accident and personal liability insurance. A lump sum travel allowance.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "12 – 22 months",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "travel"
+    ],
+    "source_ids": [
+      "daad-50094047"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "The application occurs online through the DAAD Portal in the period between 4 November and 4 December.",
+      "applicable_country_codes": [
+        "CN"
+      ],
+      "id": "daad-50094047-round-annual-application-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-50094047"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Annually between 4 November and 4 December.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Information Sheet",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Online application form",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Full curriculum vitae in tabular form",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "List of publications if applicable",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Extensive and detailed description of the research proposal agreed upon with academic adviser (signed by German host professor)",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Schedule of planned research work (signed by German host professor)",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Letter confirming supervision by an academic adviser in Germany",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Declaration from the scientific supervisor in Germany on safety-relevant and ethical aspects",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Admission to doctoral programme in China (if available)",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "University degree certificate indicating final grades (Bachelor and Master)",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Certificate of knowledge of German or English language",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Two recent, supporting letters of recommendation from university lecturers",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Request recommendation form in the DAAD Portal as a writable PDF and have it completed",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Prepare application documents and translations if necessary",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Fill out application form and upload documents in PDF format to the portal",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      },
+      {
+        "text": "Submit the application online",
+        "source_ids": [
+          "daad-50094047"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50094047",
+    "application_url": "https://www.daad.de/go/en/stipa50094047",
+    "source_ids": [
+      "daad-50094047"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-50094047",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50094047",
+        "title": "CAS-DAAD-Programme / Joint Fellowship Programme for Doctoral Students of CAS - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-50094047",
+        "sha256": "fc4a4062b7f501154afa283f46fc72919f4473ab5c562b089a71cdf21e5fcc87",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International doctoral students receive funding for a research stay physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "An upcoming call needs its opening date confirmed.",
+      "A structured restriction needs manual classification: A German institution of higher education or research institution, with the exception of Max-Planck or Fraunhofer institutes"
+    ]
+  }
+}

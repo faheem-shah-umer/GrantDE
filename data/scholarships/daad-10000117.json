@@ -1,0 +1,228 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000117",
+  "slug": "daad-10000117",
+  "title": "Evangelisches Studienwerk: Scholarship for Students",
+  "provider": {
+    "name": "Evangelisches Studienwerk"
+  },
+  "summary": "Full-time study scholarship in Germany for Protestant students from all disciplines. Offers monthly base amount, study cost allowance, and mentoring.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "other"
+      ],
+      "notes": "Undergraduate degree courses and full-time degree courses. Master's degree programmes can only be funded if the students have already been funded by the Evangelisches Studienwerk in their undergraduate degree programme. It is not possible to apply solely for a Master's degree programme.",
+      "source_ids": [
+        "daad-10000117"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Open to students from all disciplines and subjects.",
+      "source_ids": [
+        "daad-10000117"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State or state-recognised higher education institution.",
+      "source_ids": [
+        "daad-10000117"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "EU member states",
+        "Switzerland",
+        "Eligible for funding according to BAföG § 8"
+      ],
+      "notes": "Citizenship of an EU member state, of Switzerland or eligibility for funding according to BAföG § 8. Non-German nationals must submit proof of German language at level C1.",
+      "source_ids": [
+        "daad-10000117"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Students with citizenship of an EU member state, Switzerland or eligibility for funding according to §8 BAföG are only eligible if they study or plan to study in Germany.",
+      "source_ids": [
+        "daad-10000117"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "citizenship of an EU member state, of Switzerland or eligibility for funding according to BAföG § 8",
+        "source_ids": [
+          "daad-10000117"
+        ]
+      },
+      {
+        "text": "Applicants must be of protestant faith (exceptions in justified cases only).",
+        "source_ids": [
+          "daad-10000117"
+        ]
+      },
+      {
+        "text": "evidence of social involvement and suitability for the chosen subject",
+        "source_ids": [
+          "daad-10000117"
+        ]
+      },
+      {
+        "text": "higher education entrance qualification (general or subject-specific, etc.)",
+        "source_ids": [
+          "daad-10000117"
+        ]
+      },
+      {
+        "text": "The selected course of study must be a full-time degree course; part-time courses are not eligible for funding.",
+        "source_ids": [
+          "daad-10000117"
+        ]
+      },
+      {
+        "text": "application only until the end of the 3rd subject-related semester",
+        "source_ids": [
+          "daad-10000117"
+        ]
+      },
+      {
+        "text": "No academic degree has been obtained yet.",
+        "source_ids": [
+          "daad-10000117"
+        ]
+      },
+      {
+        "text": "Non-German nationals must submit proof of German language at level C1.",
+        "source_ids": [
+          "daad-10000117"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Applicants are welcome to apply if they are not a member of a Protestant church (evaluated by a committee).",
+        "source_ids": [
+          "daad-10000117"
+        ]
+      },
+      {
+        "text": "Exceptions to the protestant faith requirement in justified cases only.",
+        "source_ids": [
+          "daad-10000117"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "base amount of up to 855 EUR per month, supplementary study cost allowance of 300 EUR, additional financial support, e.g. when studying abroad",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "typically throughout the entire course of study",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000117"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "1 October to 15 January (midnight) for a scholarship for the following winter semester Source deadline clock time: midnight; timezone needs confirmation.",
+      "applicable_country_codes": null,
+      "id": "daad-10000117-round-winter-semester-scholarship",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000117"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "1 April to 15 July (midnight) for a scholarship for the following summer semester Source deadline clock time: midnight; timezone needs confirmation.",
+      "applicable_country_codes": null,
+      "id": "daad-10000117-round-summer-semester-scholarship",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000117"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "1 October to 15 January for the following winter semester; 1 April to 15 July for the following summer semester.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000117",
+    "application_url": "https://www.evstudienwerk.de/english/scholarship-for-students/",
+    "source_ids": [
+      "daad-10000117"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000117",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000117",
+        "title": "Evangelisches Studienwerk: Scholarship for Students - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000117",
+        "sha256": "84ba7aab3dd4cd9750db617af9b99702919abf2599bc53adfdaaf3f6651d21ec",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds full-time degree courses at state or state-recognised higher education institutions in Germany for eligible international and domestic students."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Deadline time omitted from structured clock field because timezone was not established: midnight",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Open to students from all disciplines and subjects.",
+      "A structured restriction needs manual classification: State or state-recognised higher education institution."
+    ]
+  }
+}

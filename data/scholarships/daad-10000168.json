@@ -1,0 +1,208 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000168",
+  "slug": "daad-10000168",
+  "title": "Catholic Academic Exchange Service (KAAD): Scholarship Programme 1",
+  "provider": {
+    "name": "Catholic Academic Exchange Service (KAAD)"
+  },
+  "summary": "KAAD Scholarship Programme 1 supports post-graduates and academics with work experience from Africa, Asia, the Middle East, and Latin America to pursue Master's, PhD, or research stays in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate",
+        "other"
+      ],
+      "notes": "Master's degree, PhD, post-doctoral studies (excluded from student award track), or research project.",
+      "source_ids": [
+        "daad-10000168"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines are generally eligible as no subject restrictions are mentioned.",
+      "source_ids": [
+        "daad-10000168"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German higher education institution.",
+      "source_ids": [
+        "daad-10000168"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Africa",
+        "Asia",
+        "the Middle East",
+        "Latin America"
+      ],
+      "notes": "Open to applicants from countries in Africa, Asia, the Middle East or Latin America.",
+      "source_ids": [
+        "daad-10000168"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Must currently reside in a country in Africa, Asia, the Middle East or Latin America.",
+      "source_ids": [
+        "daad-10000168"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Catholic denomination (or another Christian denomination if from the Middle East, or proposed by a Catholic partner organisation with willingness for inter-religious dialogue)",
+        "source_ids": [
+          "daad-10000168"
+        ]
+      },
+      {
+        "text": "completed university education and work experience in home country",
+        "source_ids": [
+          "daad-10000168"
+        ]
+      },
+      {
+        "text": "excellent academic achievement and potential",
+        "source_ids": [
+          "daad-10000168"
+        ]
+      },
+      {
+        "text": "focus on permanent reintegration in home country",
+        "source_ids": [
+          "daad-10000168"
+        ]
+      },
+      {
+        "text": "socially engaged and involved in the Church",
+        "source_ids": [
+          "daad-10000168"
+        ]
+      },
+      {
+        "text": "German language knowledge prior to stay at least on level B1 (or at least level A2 for English language courses of study)",
+        "source_ids": [
+          "daad-10000168"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Candidates from non-partner countries will be eligible only as an exception.",
+        "source_ids": [
+          "daad-10000168"
+        ]
+      },
+      {
+        "text": "Non-Christian candidates are eligible if recommended by local churches.",
+        "source_ids": [
+          "daad-10000168"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Exact base student stipend amounts not numerically specified on this page.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Not specified",
+    "covered_costs": [
+      "language_course"
+    ],
+    "source_ids": [
+      "daad-10000168"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "The individual partner committees set their own deadlines.",
+      "applicable_country_codes": null,
+      "id": "daad-10000168-round-partner-committee-deadlines",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000168"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "The individual partner committees set their own deadlines.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Applications are submitted to the partner committees in the candidates' home countries.",
+        "source_ids": [
+          "daad-10000168"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000168",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000168"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000168",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000168",
+        "title": "Catholic Academic Exchange Service (KAAD): Scholarship Programme 1 - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000168",
+        "sha256": "6bbb5d3e8649cc67ead4c113e80f59b7464bede8930ae9e89ae2157abb4dceb1",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme supports international students and researchers for post-graduate studies and research projects at a higher-education institution in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines are generally eligible as no subject restrictions are mentioned.",
+      "A structured restriction needs manual classification: German higher education institution."
+    ]
+  }
+}

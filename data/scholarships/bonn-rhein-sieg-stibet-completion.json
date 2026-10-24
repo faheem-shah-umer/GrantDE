@@ -1,0 +1,182 @@
+{
+  "schema_version": "2.0.0",
+  "id": "bonn-rhein-sieg-stibet-completion",
+  "slug": "bonn-rhein-sieg-stibet-completion",
+  "title": "Hochschule Bonn-Rhein-Sieg STIBET Degree Completion Grant",
+  "provider": {
+    "name": "Hochschule Bonn-Rhein-Sieg"
+  },
+  "summary": "Short-term completion funding for international students at Bonn-Rhein-Sieg with good academic results and financial difficulties.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-university-bonn-rhein-sieg"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-university-bonn-rhein-sieg"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Hochschule Bonn-Rhein-Sieg"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-university-bonn-rhein-sieg"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "international_students"
+      ],
+      "notes": "The institutional source limits this grant to international students.",
+      "source_ids": [
+        "curated-university-bonn-rhein-sieg"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-university-bonn-rhein-sieg"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "International student at Hochschule Bonn-Rhein-Sieg.",
+        "source_ids": [
+          "curated-university-bonn-rhein-sieg"
+        ]
+      },
+      {
+        "text": "Good academic performance, financial difficulty and approaching completion of the degree.",
+        "source_ids": [
+          "curated-university-bonn-rhein-sieg"
+        ]
+      },
+      {
+        "text": "The relevant application deadline depends on the date of registration for the final thesis.",
+        "source_ids": [
+          "curated-university-bonn-rhein-sieg"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 650 per month for up to three months.",
+    "amount_min": 650,
+    "amount_max": 650,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Up to three months.",
+    "covered_costs": [
+      "study_completion"
+    ],
+    "source_ids": [
+      "review-20261024-hbrs"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "bonn-rhein-sieg-stibet-completion-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "curated-university-bonn-rhein-sieg"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "The announcement is generally made in February and July. The individual deadline depends on final-thesis registration; confirm it with the International Office.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Ask the International Office for the current completion-grant call and the deadline linked to thesis registration.",
+        "source_ids": [
+          "curated-university-bonn-rhein-sieg"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.h-brs.de/en/io/scholarships-international-students",
+    "application_url": null,
+    "source_ids": [
+      "curated-university-bonn-rhein-sieg"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-university-bonn-rhein-sieg",
+        "url": "https://www.h-brs.de/en/io/scholarships-international-students",
+        "title": "Scholarships for International Students | Hochschule Bonn-Rhein-Sieg (H-BRS)",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-university-bonn-rhein-sieg",
+        "sha256": "13dc3592b284ef1468486d4f56b30f58e7fc06991b1231017c48c44095ffb618",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      },
+      {
+        "id": "review-20261024-hbrs",
+        "url": "https://www.h-brs.de/en/io/scholarships-international-students",
+        "title": "Scholarships for International Students | Hochschule Bonn-Rhein-Sieg (H-BRS)",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-hbrs",
+        "sha256": "d091f91c48d60fad71e7250e2a29bc7623a10ab85ab4f1b2e0b2e26618da4b71",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      }
+    ],
+    "last_checked": "2026-10-24",
+    "last_reviewed": "2026-10-24",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "The institutional overview confirms EUR 650/month for up to three months. Obtain the applicable thesis-registration deadline and full document list from the International Office."
+    ]
+  }
+}

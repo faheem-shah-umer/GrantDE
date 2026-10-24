@@ -1,0 +1,281 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57650857",
+  "slug": "daad-57650857",
+  "title": "Future Ukraine: Research Grants for Ukrainian Master´s students and researchers",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Short research stays in Germany for highly qualified Ukrainian Master's students, doctoral students, and researchers to strengthen cooperation and support Ukraine's science landscape.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Includes graduates (Master's students), doctoral candidates, postdoctoral researchers, university teachers, and professors.",
+      "source_ids": [
+        "daad-57650857"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Project proposals from all academic disciplines are eligible for funding. Other regulations apply for human medicine, veterinary medicine and dentistry.",
+      "source_ids": [
+        "daad-57650857"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State or state-recognised institution of higher education or non-university research institute in Germany.",
+      "source_ids": [
+        "daad-57650857"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "UA"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": [
+        "eligible_non_ukrainian_permanent_residents_of_ukraine_before_2022_02_24"
+      ],
+      "notes": "Ukrainian citizens OR eligible third-country nationals who held permanent residence in Ukraine before or on 24 February 2022. The alternative residence-based route must not be excluded by a nationality-only filter.",
+      "source_ids": [
+        "daad-57650857"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Regardless of the country in which they currently reside, provided they work/are enrolled in higher education institutions in Ukraine (or third-country nationals with a permanent residence permit in Ukraine before or on Feb 24, 2022).",
+      "source_ids": [
+        "daad-57650857"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Applicants must be enrolled in or work at a Ukrainian university or a state-recognized research institution",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Have Ukrainian citizenship or be a third-country national who has resided in Ukraine with a permanent residence permit before or on February 24, 2022",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Good knowledge of German and/or English",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Research project agreed upon with a scientific host/supervisor in Germany",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "A master's degree program or a doctoral program at a German university is not eligible for funding, not even partially.",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Monthly payments of €992 for graduates (Master's students), €1,400 for doctoral candidates, €2,000 for postdocs, €2,150 for experienced researchers with a doctorate and university teachers, and €2,300 for professors. Includes health, accident and personal liability insurance cover if applicable, travel allowance if applicable, and a subsidy for additional costs resulting from disability or chronic illness.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "One month to a maximum of six months",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "travel",
+      "research"
+    ],
+    "source_ids": [
+      "daad-57650857"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-12-10",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "open",
+      "notes": "Applications for research stays in 2027 are possible until 10. December 2026.",
+      "applicable_country_codes": [
+        "UA"
+      ],
+      "id": "daad-57650857-round-research-stays-in-2027",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57650857"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Online application form",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Full curriculum vitae in tabular form (max. 3 pages)",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "List of published publications (max. 10 pages), if available",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Research proposal as well as presentation of previous research work (max. 5 pages in total)",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Schedule of the planned research work (work plan)",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Confirmation of supervision by the academic host in Germany",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Last university degree certificate with indication of final grade(s) or doctoral degree certificate",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Other documents that support your application (e.g. certificates of employment, proof of internships or voluntary work, etc.)",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Proof of knowledge of the research language (German, English or other)",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Current proof of affiliation with a Ukrainian higher education institution",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Proof of Ukrainian citizenship (passport copy) or for third-country nationals: permanent residence permit in Ukraine",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "German or English translations of documents submitted in any other language",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Prepare application documents and save in PDF format",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Fill out the application form and upload documents to the DAAD portal",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      },
+      {
+        "text": "Submit the application online",
+        "source_ids": [
+          "daad-57650857"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57650857",
+    "application_url": null,
+    "source_ids": [
+      "daad-57650857"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57650857",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57650857",
+        "title": "Future Ukraine: Research Grants for Ukrainian Master´s students and researchers - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57650857",
+        "sha256": "6bb818b389534ecf0744cc2cf3b8a61d94b1b8ef498d9ab16bbd8add784917b8",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Funds international graduate students, doctoral students, and researchers for short research stays at higher education or research institutions in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Includes graduates (Master's students), doctoral candidates, postdoctoral researchers, university teachers, and professors.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Project proposals from all academic disciplines are eligible for funding. Other regulations apply for human medicine, veterinary medicine and dentistry.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: State or state-recognised institution of higher education or non-university research institute in Germany.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Regardless of the country in which they currently reside, provided they work/are enrolled in higher education institutions in Ukraine (or third-country nationals with a permanent residence permit in Ukraine before or on Feb 24, 2022)."
+    ]
+  }
+}

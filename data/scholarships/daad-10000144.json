@@ -1,0 +1,179 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000144",
+  "slug": "daad-10000144",
+  "title": "Doctoral Fellowships",
+  "provider": {
+    "name": "Herzog August Bibliothek"
+  },
+  "summary": "Fellowships for particularly qualified junior doctoral candidates in historical studies to conduct research at the Herzog August Library in Wolfenbüttel, Germany, for 2 to 10 months.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Junior doctoral candidates/PhD students are eligible.",
+      "source_ids": [
+        "daad-10000144"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "humanities"
+      ],
+      "notes": "All areas of historical study.",
+      "source_ids": [
+        "daad-10000144"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Herzog August Library"
+      ],
+      "notes": "Research must be centred on the Herzog August Library during the stay.",
+      "source_ids": [
+        "daad-10000144"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Countries explicitly listed in the selection dropdown.",
+      "source_ids": [
+        "daad-10000144"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany",
+        "in_germany"
+      ],
+      "notes": "Applicants from Germany and abroad are eligible; country dropdown and residency condition apply.",
+      "source_ids": [
+        "daad-10000144"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Particularly qualified junior academic/researcher status",
+        "source_ids": [
+          "daad-10000144"
+        ]
+      },
+      {
+        "text": "Doctoral candidate from an area of historical study",
+        "source_ids": [
+          "daad-10000144"
+        ]
+      },
+      {
+        "text": "Library's holdings must be essential for research",
+        "source_ids": [
+          "daad-10000144"
+        ]
+      },
+      {
+        "text": "Demonstrated outstanding competence in academic or scientific work",
+        "source_ids": [
+          "daad-10000144"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "1,300 EUR per month (increased by 150 EUR per month until further notice due to additional funding). Rent is to be paid from the scholarship funds. Allowance for material expenses of 100 EUR per month. Contribution to travel expenses if they cannot be borne by a third party.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "2 to 10 months",
+    "covered_costs": [
+      "living_costs",
+      "research",
+      "travel"
+    ],
+    "source_ids": [
+      "daad-10000144"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "1 April and 1 October of each year",
+      "applicable_country_codes": null,
+      "id": "daad-10000144-round-annual-deadlines",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000144"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "1 April and 1 October of each year",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000144",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000144"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000144",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000144",
+        "title": "Herzog August Bibliothek: Doctoral Fellowships - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000144",
+        "sha256": "256693c931da1794f0051fde7f626abfd0f00f251dabae87947740995a680d1c",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international doctoral candidates conducting research physically in Germany at the Herzog August Library."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Deadlines occur on 1 April and 1 October annually, but specific upcoming round dates with years are not stated in a way that maps to YYYY-MM-DD format without extrapolation.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page.",
+      "Invalid country code in allowed_country_codes; original rule retained in research snapshot.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

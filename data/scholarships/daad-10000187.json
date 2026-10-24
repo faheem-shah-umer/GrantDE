@@ -1,0 +1,234 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000187",
+  "slug": "daad-10000187",
+  "title": "Universität Hamburg: Merit Scholarships for International Students",
+  "provider": {
+    "name": "Universität Hamburg"
+  },
+  "summary": "Merit support for international degree students already enrolled at Hamburg. The university currently states that no further application calls are planned.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "state_exam"
+      ],
+      "notes": "The current detailed rules explicitly exclude doctoral researchers.",
+      "source_ids": [
+        "curated-hamburg-merit"
+      ]
+    },
+    "subject_areas": {
+      "status": "unrestricted",
+      "values": null,
+      "notes": "The introduction says all subjects; current degree-specific requirements govern.",
+      "source_ids": [
+        "curated-hamburg-merit"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Universität Hamburg"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-hamburg-merit"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": null,
+      "notes": "German citizenship, including dual German citizenship, is excluded.",
+      "source_ids": [
+        "curated-hamburg-merit"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Residence permit or EU ID plus German residence registration is required.",
+      "source_ids": [
+        "curated-hamburg-merit"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "At least two completed semesters in the subject at Hamburg; for a two-year Master's degree, one completed semester is sufficient.",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      },
+      {
+        "text": "Applicants must not be eligible for BAföG under Section 8.",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      },
+      {
+        "text": "Good to excellent academic performance.",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      },
+      {
+        "text": "Two evaluations from eligible full-time doctoral teaching staff at Hamburg, using the university template.",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      },
+      {
+        "text": "No academic leave or study-abroad semester during funding; a German bank account is required for payment.",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      },
+      {
+        "text": "The page caps additional earnings at EUR 603 monthly and disallows other additional funding.",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Up to EUR 992 per month; award for 12 months, with reapplication possible up to two years total.",
+    "amount_min": null,
+    "amount_max": 992,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Two semesters (12 months); reapplication up to a maximum total of two years.",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "curated-hamburg-merit"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "The university explicitly states no further calls are currently planned. An older 15 April application link remains on the page and must not be treated as a confirmed future round.",
+      "applicable_country_codes": null,
+      "id": "daad-10000187-round-calls-suspended-as-stated-on-the-current-page",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "curated-hamburg-merit"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "CV",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      },
+      {
+        "text": "Motivation letter using the university template",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      },
+      {
+        "text": "Current academic transcript or STiNE record; Master's students also submit their previous degree certificate",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      },
+      {
+        "text": "Residence permit, or EU ID and German residence registration",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      },
+      {
+        "text": "Two evaluations using the university's form",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      },
+      {
+        "text": "Evidence of additional academic achievements or awards, where applicable",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Check whether the university has announced a new call before preparing an application.",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      },
+      {
+        "text": "If a call resumes, register using the student email address and upload a complete application through the university portal.",
+        "source_ids": [
+          "curated-hamburg-merit"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.uni-hamburg.de/en/internationales/studierende/incoming/studium-mit-abschluss/waehrend-des-studiums/finanzierung/leistungsstipendien.html",
+    "application_url": null,
+    "source_ids": [
+      "curated-hamburg-merit"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-hamburg-merit",
+        "url": "https://www.uni-hamburg.de/en/internationales/studierende/incoming/studium-mit-abschluss/waehrend-des-studiums/finanzierung/leistungsstipendien.html",
+        "title": "Merit scholarships : UHH : University of Hamburg",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-hamburg-merit",
+        "sha256": "cc20bb43fb0131af42a295b6ce51a96fc83d9e8434ac85e703b6b55a41a0c86a",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Provider explicitly suspends further calls; retain for coverage and historical context and do not display as open."
+    ]
+  }
+}

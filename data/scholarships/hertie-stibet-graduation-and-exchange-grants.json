@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0.0",
+  "id": "hertie-stibet-graduation-and-exchange-grants",
+  "slug": "hertie-stibet-graduation-and-exchange-grants",
+  "title": "Hertie School STIBET I Grants",
+  "provider": {
+    "name": "Hertie School"
+  },
+  "summary": "Short-term support for eligible international students completing their Master's or joining through partner exchanges.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "exchange"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-hertie-stibet"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-hertie-stibet"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Hertie School"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-hertie-stibet"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": null,
+      "notes": "Non-German nationals with a foreign school-leaving qualification.",
+      "source_ids": [
+        "uni-hertie-stibet"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-hertie-stibet"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Master's completion expected within one year, OR incoming exchange/dual-degree attendance of one or two semesters.",
+        "source_ids": [
+          "uni-hertie-stibet"
+        ]
+      },
+      {
+        "text": "Minimum grade 71.0 on the school's stated scale; completion applicants face financial difficulties.",
+        "source_ids": [
+          "uni-hertie-stibet"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Usually EUR 250–850 monthly, depending on that year's resources.",
+    "amount_min": 250,
+    "amount_max": 850,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Usually two to four months.",
+    "covered_costs": [],
+    "source_ids": [
+      "uni-hertie-stibet"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "hertie-stibet-graduation-and-exchange-grants-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "uni-hertie-stibet"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Current calls are circulated in the enrolled-student newsletter.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.hertie-school.org/en/study/scholarships/external-funding/stibet",
+    "application_url": null,
+    "source_ids": [
+      "uni-hertie-stibet"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-hertie-stibet",
+        "url": "https://www.hertie-school.org/en/study/scholarships/external-funding/stibet",
+        "title": "Hertie School STIBET I Grants",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/uni-hertie-stibet",
+        "sha256": "ccba74c9dd50be011b8cf8040c7ca7f9d6c4802fd10da2287b102d8b9b12b4d5",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Confirm the current call and the selected completion or exchange route."
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "sources": {
+    "review-20261024-amirana": {
+      "original_capture_sha256": "06e34b3b1dd8a99273cbd5f75dcc0a58127807b5d655d1ee5f7b088d6bc60666",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-amirana-call": {
+      "original_capture_sha256": "73abb7fde30085f62072a68126f83bbb2683dc993585fce08bf5ee1f4f53094b",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-artes": {
+      "original_capture_sha256": "40a68350b8dea1fd46a3cf8f3935390e8c547f9ac6d783d8645ca8c3c9a8efe8",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-boell": {
+      "original_capture_sha256": "4e1b0e8c846703caa2d612cff4e0cc9cc9c24a10b117eed68644da1bbdc012ec",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-boell-checklist-2026": {
+      "original_capture_sha256": "07d19123d7b69a964be34d424b937712702c6969cd8e6515792bc42ce18f98d2",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-boell-finance": {
+      "original_capture_sha256": "aaeadcfd0ccb2d13662626fc0258aefdfb256f997b6ffacd435064f8ddaec7b9",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-boell-finance-2026": {
+      "original_capture_sha256": "7c7d90400dc360bdda1ec50589b0bfeae759bc404f69e45e4d195fff374d478e",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-boell-german": {
+      "original_capture_sha256": "65acf6f1ccf45ad18857c1e284c53845633d0bcb8f136133f482aa65f2c34986",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-boell-phd-checklist": {
+      "original_capture_sha256": "b512d8b461f2fb0fab925271a1003c13f9ca6c6668ec18ba6e4a68bbf437ee80",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-boell-study-checklist": {
+      "original_capture_sha256": "782811e347d386acf2ad00979527f265c652f6e380d8212f360db6e6c34ee271",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-daad-master": {
+      "original_capture_sha256": "ddda9045c9eee0b62a75d3b0b94a8db7beb0c35fdf75ad984926fba26d5bbe65",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-deutschland-faq": {
+      "original_capture_sha256": "10436a4b193ecc959f5d9f6cc88362be81674c3e1524d6a8e3b252cefa26c15c",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-elsa": {
+      "original_capture_sha256": "f1afaa018049b52dc2c80622612c22e46c074c20ed55dbdfea43c47503447c82",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-elsa-central": {
+      "original_capture_sha256": "2b84850948d8ff2ca2d73953fb41a4f4b52e72c64b0b70edfe7ba7e2aef72a90",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-elsa-conditions": {
+      "original_capture_sha256": "94879850185f9225a0f6a3f368cab55641d03ef79804c859d72f0d3c5ae3b092",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-fau": {
+      "original_capture_sha256": "35638d26493cd0082f4b886ec8197aa48462cd0137ee30b29489acee01d57bd0",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-fes": {
+      "original_capture_sha256": "506ff69889499af27cd1aefeb2c1a0d176d78ba47d3127d603b6f17fbd5b02f3",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-fes-faq": {
+      "original_capture_sha256": "b5429dd32cbac5018475759871b079c5aaa373da14ce7797ce9ce7cb48466bad",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-hbrs": {
+      "original_capture_sha256": "d091f91c48d60fad71e7250e2a29bc7623a10ab85ab4f1b2e0b2e26618da4b71",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-heidelberg-completion": {
+      "original_capture_sha256": "720a6d9d36b0fab502b73baaf057c14edd58040c40d35c64a9272c4afc191210",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "review-20261024-stuttgart": {
+      "original_capture_sha256": "59e0cbf0a26128f39602a8f8b88fe76a62d30d4c426e1ad0c444b413c6a6d27c",
+      "checksum_encoding": "UTF-8 JSON, ensure_ascii=False, indent=2, trailing LF",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    }
+  }
+}

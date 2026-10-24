@@ -1,0 +1,33 @@
+name: Validate catalogue
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  catalogue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - name: Install pinned dependencies and local package
+        run: |
+          python -m pip install -r requirements-dev.txt
+          python -m pip install --no-build-isolation --no-deps -e .
+      - run: python -m grantde.validate
+      - run: python -m grantde.normalise check
+      - run: python -m grantde.report --output docs/CATALOGUE_REPORT.md --check
+      - name: Check JavaScript syntax
+        run: |
+          for file in static/js/*.js static/js/*.mjs; do node --check "$file"; done
+      - run: python -m pip check
+      - run: python -m grantde.build --preview

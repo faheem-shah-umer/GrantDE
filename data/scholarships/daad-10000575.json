@@ -1,0 +1,210 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000575",
+  "slug": "daad-10000575",
+  "title": "HessenFonds for Refugees and Researchers at Risk",
+  "provider": {
+    "name": "Hessian Ministry of Higher Education, Research, Science and the Arts"
+  },
+  "summary": "Scholarships for exceptionally talented and high achieving students, PhD students, and researchers with refugee status or who are endangered, enabling them to continue their studies or scientific career at public higher education institutions in Hessen.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Supports students, PhD students, and researchers. Mixed PhD/postdoc schemes: awards for students and PhD students are described; researcher/postdoc track is also included.",
+      "source_ids": [
+        "daad-10000575"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All subject areas are eligible based on the general description.",
+      "source_ids": [
+        "daad-10000575"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "public higher education institutions in Hessen"
+      ],
+      "notes": "Must be enrolled or placed at a public higher education institution in the State of Hessen.",
+      "source_ids": [
+        "daad-10000575"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Open to individuals with refugee status or persecuted and endangered researchers in their home countries. A large drop-down list of countries of origin/residence is shown on the page.",
+      "source_ids": [
+        "daad-10000575"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Entitled to asylum or recognised refugee for no longer than 4 years by the start of funding; maximum constant residence in Germany must not be longer than 5 years by the start of funding.",
+      "source_ids": [
+        "daad-10000575"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Entitled to asylum or recognised refugee for no longer than 4 years by the start of funding",
+        "source_ids": [
+          "daad-10000575"
+        ]
+      },
+      {
+        "text": "Maximum constant residence in Germany must not be longer than 5 years by the start of funding",
+        "source_ids": [
+          "daad-10000575"
+        ]
+      },
+      {
+        "text": "For students: enrolled at a public higher education institution in the State of Hessen and high academic achievements",
+        "source_ids": [
+          "daad-10000575"
+        ]
+      },
+      {
+        "text": "For PhD students: accepted as a PhD student and supervised at a public higher education institution in Hessen and high academic achievements",
+        "source_ids": [
+          "daad-10000575"
+        ]
+      },
+      {
+        "text": "For researchers: guarantee of a research or teaching placement at a public higher education institution in Hessen, a supporting statement from the same institution, and exceptional achievements in research and/or teaching",
+        "source_ids": [
+          "daad-10000575"
+        ]
+      },
+      {
+        "text": "For researchers at risk: threatened by persecution in home countries and nominated by a university or university of applied sciences in Hessen",
+        "source_ids": [
+          "daad-10000575"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Follow-up applications need a separate explanatory statement.",
+        "source_ids": [
+          "daad-10000575"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Students: 300 EUR/month; PhD students: 1,200 EUR/month; researchers: 2,300 EUR/month.",
+    "amount_min": 300,
+    "amount_max": 300,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "12 months",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000575"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "The next deadline for nominations of the candidates at the ministry can be found on the Hessian ministry website. Application deadlines at higher education institutions are prior to the ministry deadline.",
+      "applicable_country_codes": null,
+      "id": "daad-10000575-round-default-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000575"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Applications have to be submitted to the respective public higher education institution in Hessen.",
+        "source_ids": [
+          "daad-10000575"
+        ]
+      },
+      {
+        "text": "Contact the refugee coordinators or international offices at your higher education institution.",
+        "source_ids": [
+          "daad-10000575"
+        ]
+      },
+      {
+        "text": "Nomination of the candidates at the ministry.",
+        "source_ids": [
+          "daad-10000575"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000575",
+    "application_url": "https://daad.de/go/en/stipa10000575",
+    "source_ids": [
+      "daad-10000575"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000575",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000575",
+        "title": "HessenFonds for Refugees and Researchers at Risk - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000575",
+        "sha256": "09f2c607740aaf46d6979e34d92c35eec238fd63fbb1001027767becddd7b82e",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds international students, PhD students, and researchers with refugee status or at risk for physically studying or researching in Germany at public higher education institutions in Hessen."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Mixed PhD/postdoc scheme; described student and PhD awards alongside researcher/postdoc rates.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Supports students, PhD students, and researchers. Mixed PhD/postdoc schemes: awards for students and PhD students are described; researcher/postdoc track is also included.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All subject areas are eligible based on the general description.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

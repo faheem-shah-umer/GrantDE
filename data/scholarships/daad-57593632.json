@@ -1,0 +1,200 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57593632",
+  "slug": "daad-57593632",
+  "title": "KOSPIE Tunisia Study and Practical Stays",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Thesis-related study and practical stays in Germany for engineering and computing students at Tunisian universities.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "diploma"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-daad-kospie-tunisia"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering",
+        "computer_science"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-daad-kospie-tunisia"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Technische Universität Chemnitz",
+        "Technische Universität Dresden",
+        "Hochschule Offenburg",
+        "Hochschule Schmalkalden"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-daad-kospie-tunisia"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality details require confirmation.",
+      "source_ids": [
+        "curated-daad-kospie-tunisia"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-daad-kospie-tunisia"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Relevant enrolment at a state or state-recognised Tunisian university and required engineering-cycle admission or completion evidence.",
+        "source_ids": [
+          "curated-daad-kospie-tunisia"
+        ]
+      },
+      {
+        "text": "English proof no older than two years: TOEFL iBT 78, IELTS 6.0, TOEIC Listening/Reading 750, or onSET B2.",
+        "source_ids": [
+          "curated-daad-kospie-tunisia"
+        ]
+      },
+      {
+        "text": "Enrolment at the German host throughout funding; semester and tuition fees are not covered.",
+        "source_ids": [
+          "curated-daad-kospie-tunisia"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 992 monthly, insurance and travel support.",
+    "amount_min": 992,
+    "amount_max": 992,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Six months within February–September 2027, with host-specific fixed periods.",
+    "covered_costs": [],
+    "source_ids": [
+      "curated-daad-kospie-tunisia"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-04-30",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Selection in July 2026; host start dates differ.",
+      "applicable_country_codes": null,
+      "id": "daad-57593632-round-2027-cohort",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "curated-daad-kospie-tunisia"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "ID, CV and motivation",
+        "source_ids": [
+          "curated-daad-kospie-tunisia"
+        ]
+      },
+      {
+        "text": "School and university records",
+        "source_ids": [
+          "curated-daad-kospie-tunisia"
+        ]
+      },
+      {
+        "text": "Engineering-cycle and English-language evidence",
+        "source_ids": [
+          "curated-daad-kospie-tunisia"
+        ]
+      },
+      {
+        "text": "Host-choice form signed by home-university teacher",
+        "source_ids": [
+          "curated-daad-kospie-tunisia"
+        ]
+      },
+      {
+        "text": "Academic recommendation",
+        "source_ids": [
+          "curated-daad-kospie-tunisia"
+        ]
+      },
+      {
+        "text": "Translations into German or English",
+        "source_ids": [
+          "curated-daad-kospie-tunisia"
+        ]
+      }
+    ],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57593632",
+    "application_url": null,
+    "source_ids": [
+      "curated-daad-kospie-tunisia"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-daad-kospie-tunisia",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57593632",
+        "title": "KOSPIE Combined study and practice stays for engineers from developing countries Tunisia - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-daad-kospie-tunisia",
+        "sha256": "257964c7d0216e3b89b0e56809c550a3e34e717dca9bcee82997b3c16e472ca6",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": []
+  }
+}

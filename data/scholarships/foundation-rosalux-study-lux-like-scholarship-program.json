@@ -1,0 +1,162 @@
+{
+  "schema_version": "2.0.0",
+  "id": "foundation-rosalux-study-lux-like-scholarship-program",
+  "slug": "foundation-rosalux-study-lux-like-scholarship-program",
+  "title": "Lux like scholarship program",
+  "provider": {
+    "name": "Rosa Luxemburg Foundation"
+  },
+  "summary": "Scholarship program for students without an academic background who hold or are about to graduate with a high school diploma.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "For individuals who would like to study with a (technical) high school diploma.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines implied by general welcome, though unstated explicitly.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No specific institutions listed.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality requirements not specified.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Residence requirements not explicitly detailed.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Do not have an academic background",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Already have or are about to graduate from a (technical) high school diploma",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Interested in or committed to socio-political and social issues",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Haven't yet studied",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "No amount specified.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Not specified",
+    "covered_costs": [],
+    "source_ids": [
+      "foundation-rosalux-study"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No dates provided.",
+      "applicable_country_codes": null,
+      "id": "foundation-rosalux-study-lux-like-scholarship-program-round-unspecified-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/study-scholarship",
+    "application_url": null,
+    "source_ids": [
+      "foundation-rosalux-study"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "foundation-rosalux-study",
+        "url": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/study-scholarship",
+        "title": "Study scholarship - Rosa-Luxemburg-Stiftung",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/foundation-rosalux-study",
+        "sha256": "a54ba04ee3a75ad890737fcb6cf96610ebc96cfbd59700aa07238ae6e40fb2ce",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "In scope as it provides funding for students to study."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: For individuals who would like to study with a (technical) high school diploma.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines implied by general welcome, though unstated explicitly."
+    ]
+  }
+}

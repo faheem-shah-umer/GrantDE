@@ -1,0 +1,302 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57871506",
+  "slug": "daad-57871506",
+  "title": "Future Network Weimar Triangle: Science for Europe - Doctoral candidates (to Germany)",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Funding for doctoral candidates from France and Poland for research stays in Germany lasting three to twelve months, focusing on future-oriented topics and active participation in working groups.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "PhD students/doctoral candidates only.",
+      "source_ids": [
+        "daad-57871506"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering",
+        "computer_science",
+        "mathematics",
+        "natural_sciences",
+        "medicine",
+        "health_sciences",
+        "agriculture",
+        "environment",
+        "social_sciences",
+        "humanities",
+        "other"
+      ],
+      "notes": "PhD students from all disciplines who are working on specific future-oriented topics.",
+      "source_ids": [
+        "daad-57871506"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Universities or non-university research institutions in Germany.",
+      "source_ids": [
+        "daad-57871506"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "France",
+        "Poland"
+      ],
+      "notes": "Targeted at applicants from France and Poland.",
+      "source_ids": [
+        "daad-57871506"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants should not have been resident in Germany for longer than 15 months at the application deadline. Individual doctorate in France or Poland.",
+      "source_ids": [
+        "daad-57871506"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Applicants should not have graduated any longer than six years before the application deadline",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Start of the doctorate should not be longer than 3 years ago",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Not resident in Germany for longer than 15 months at the application deadline",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Very good English language skills",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Active participation in one of the working groups throughout the scholarship period",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Monthly scholarship instalment of 1,400 Euros. Monthly lump sum for research expenses of 102 Euros. Additional benefits available under certain circumstances.",
+    "amount_min": 1400,
+    "amount_max": 1400,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "three to twelve months",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance",
+      "research"
+    ],
+    "source_ids": [
+      "daad-57871506"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-11-02",
+      "deadline_time": null,
+      "timezone": "Europe/Berlin",
+      "availability": "open",
+      "notes": "The DAAD portal closes at 24.00 hrs. (CET or CEST) on the last application day. Source specifies Central European seasonal time. Unnormalised source clock time: 24.00.",
+      "applicable_country_codes": null,
+      "id": "daad-57871506-round-application-deadline-2026",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57871506"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Full curriculum vitae in tabular form (max. 3 pages)",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Letter of motivation (1-3 pages)",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Letter of motivation for the chosen working group on the future-oriented topic (approx. 1 page)",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Detailed description of the PhD project (5-8 pages)",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Schedule of planned research work",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "University degree certificate and transcripts of records of your last academic degree",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Declaration from the scientific supervisor in Germany on safety-relevant and ethical aspects",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Confirmation from the academic host or the host institution in Germany",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Proof of admission as a doctoral candidate at the home university",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Summary of your final thesis (Master or equivalent) (approx. 1 page)",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "List of publications (max. 10 pages)",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Proof of language proficiency (only if planning fieldwork/interviews in a language other than working language)",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "One recent letter of recommendation from a university teacher with DAAD cover sheet",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Request recommendation form and have it completed by a university teacher",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Prepare application documents and translations if necessary",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Fill out the application form and upload application documents in PDF format to the DAAD portal",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      },
+      {
+        "text": "Submit the application online",
+        "source_ids": [
+          "daad-57871506"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57871506",
+    "application_url": null,
+    "source_ids": [
+      "daad-57871506"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57871506",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57871506",
+        "title": "Future Network Weimar Triangle: Science for Europe - Doctoral candidates (to Germany) - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57871506",
+        "sha256": "70635d975d6df79ca41edbc89f0eee687b24a1f9a61070278955232b4a735026",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds PhD students for research stays in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm the source deadline clock time; it was not converted automatically.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Universities or non-university research institutions in Germany."
+    ]
+  }
+}

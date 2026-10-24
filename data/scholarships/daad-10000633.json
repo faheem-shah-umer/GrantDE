@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000633",
+  "slug": "daad-10000633",
+  "title": "International Scholarship Programme of the Avicenna Studienwerk",
+  "provider": {
+    "name": "Avicenna Studienwerk"
+  },
+  "summary": "Supports international Muslim students and doctoral candidates enrolled at German higher education institutions with financial and non-material assistance.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate"
+      ],
+      "notes": "Enrolment for a Master's degree or doctorate at a German higher education institution.",
+      "source_ids": [
+        "daad-10000633"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "all fields of study and subjects",
+      "source_ids": [
+        "daad-10000633"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German higher education institutions",
+      "source_ids": [
+        "daad-10000633"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Target group includes international students and doctoral candidates; specific country eligibility requires selecting from the database country list.",
+      "source_ids": [
+        "daad-10000633"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Enrolment or at least acceptance at a German higher education institution.",
+      "source_ids": [
+        "daad-10000633"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "above average potential for academic/research achievement",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      },
+      {
+        "text": "social, cultural or political involvement",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      },
+      {
+        "text": "enrolment (or at least acceptance) for a Master's degree or doctorate at a German higher education institution",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      },
+      {
+        "text": "German language proficiency (B2 level or above)",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Exceptions are possible for the German language proficiency requirement.",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Monthly scholarship for students 844 EUR / for doctoral candidates 1,275 EUR. Additional monthly healthcare allowance: 100 EUR, monthly travel allowance: 100 EUR. Possible additional benefits: family allowance, start-up/book allowance and printing cost subsidy.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Entire duration of the Master's programme (standard period of study). Doctoral studies are funded for a maximum period of 3 years (36 months).",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "travel",
+      "research",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000633"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "The scholarships are awarded annually. Current deadlines can be found on the programme website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000633-round-annual-scholarship-call",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000633"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "The scholarships are awarded annually.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "informal letter of motivation (max. 2 pages)",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      },
+      {
+        "text": "CV in table form (max. 2 pages)",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      },
+      {
+        "text": "certificate of higher education entrance qualification (Abitur, A-Levels, etc.)",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      },
+      {
+        "text": "university certificate and if applicable job references",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      },
+      {
+        "text": "current certificate of enrolment",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      },
+      {
+        "text": "proof of social involvement",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      },
+      {
+        "text": "2 academic letters of recommendation",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      },
+      {
+        "text": "copy of your passport",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      },
+      {
+        "text": "current transcript of records",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      },
+      {
+        "text": "short outline of your dissertation project (max. 3 pages) (for doctoral candidates only)",
+        "source_ids": [
+          "daad-10000633"
+        ]
+      }
+    ],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000633",
+    "application_url": "https://www.avicenna-studienwerk.de/scholarship/#ISP-en",
+    "source_ids": [
+      "daad-10000633"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000633",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000633",
+        "title": "International Scholarship Programme of the Avicenna Studienwerk - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000633",
+        "sha256": "729fcc6e1335d613ff12cb83a62b78c8175c5196eff60b27043a33fc702bc96a",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Funds international students and doctoral candidates for studying or researching in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: all fields of study and subjects",
+      "A structured restriction needs manual classification: German higher education institutions"
+    ]
+  }
+}

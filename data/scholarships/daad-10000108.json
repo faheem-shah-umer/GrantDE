@@ -1,0 +1,234 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000108",
+  "slug": "daad-10000108",
+  "title": "Konrad-Adenauer-Stiftung: International Scholarship Programme",
+  "provider": {
+    "name": "Konrad-Adenauer-Stiftung"
+  },
+  "summary": "Study and doctoral funding for academically strong, socially engaged international applicants who want to study or research at a German university.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "doctorate"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-kas"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-kas"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-kas"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": null,
+      "notes": "The international programme is primarily aimed at non-EU applicants; the page expressly excludes German applicants from this route.",
+      "source_ids": [
+        "curated-kas"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany",
+        "outside_germany"
+      ],
+      "notes": "Domestic selection is available to applicants already in Germany; overseas applications use participating KAS offices, which vary by year.",
+      "source_ids": [
+        "curated-kas"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "German language ability at least B2, including for English-taught degree programmes.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      },
+      {
+        "text": "Bachelor's applicants must have completed at least two semesters; a later call-to-action uses different wording, so confirm the applicable study stage.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      },
+      {
+        "text": "Master's applicants must intend to enrol in a four-semester programme; the minimum funding period is four semesters.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      },
+      {
+        "text": "Doctoral applicants need full admission to a doctoral programme at a German university.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      },
+      {
+        "text": "Above-average academic results, social or political engagement and commitment to democracy and human rights.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      },
+      {
+        "text": "The international route does not fund human medicine or dentistry leading to state examinations, medical specialisation or postdoctoral projects.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      },
+      {
+        "text": "Follow-up bridge funding from an existing scholarship is excluded, with an exception for moving from a previously funded degree to a new higher degree.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Volunteer experience in the applicant's home country is highly encouraged.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      }
+    ],
+    "exceptions": [
+      {
+        "text": "A Master's applicant may apply before finishing the first degree if the transcript is provided and the certificate follows.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      },
+      {
+        "text": "Doctoral research abroad can be allowed with justification and supervisor support, for at most 25% of the total funding period.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Bachelor's, Master's and postgraduate awards up to EUR 992 monthly, normally two years; doctoral awards up to EUR 1,400 monthly, normally three years. Conditional insurance, family, child and research-travel support may apply; tuition reimbursement up to EUR 750 per semester is exceptional.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "monthly",
+    "duration": "Normally two years for study and three years for a doctorate; programme-specific conditions apply.",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "research",
+      "travel",
+      "tuition"
+    ],
+    "source_ids": [
+      "curated-kas"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "daad-10000108-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "curated-kas"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Domestic applications: 15 July at 12:00 noon, labelled CET by the source, each year. Overseas office deadlines and selected countries vary. No new year-specific round is inferred.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Choose the domestic route or a participating overseas KAS office.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      },
+      {
+        "text": "Read the linked German application notes and checklist.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      },
+      {
+        "text": "For the domestic route, upload the required documents through KAS Campus.",
+        "source_ids": [
+          "curated-kas"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.kas.de/en/web/begabtenfoerderung-und-kultur/international-talent-development",
+    "application_url": "http://campus.kas.de/",
+    "source_ids": [
+      "curated-kas"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-kas",
+        "url": "https://www.kas.de/en/web/begabtenfoerderung-und-kultur/international-talent-development",
+        "title": "...for international students and doctoral candidates - Scholarship and Culture - Konrad-Adenauer-Stiftung",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-kas",
+        "sha256": "817fb512f64a4a9318b26f7e55b76bbe8e4db5ec98cc1acef8b9463e3983f1b0",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Confirm the source's CET clock label for a July deadline before assigning a timestamp.",
+      "The page gives conflicting shorthand wording for the Bachelor's semester threshold; the explicit mandatory section says two completed semesters.",
+      "Required documents are in linked checklists that have not yet been reviewed."
+    ]
+  }
+}

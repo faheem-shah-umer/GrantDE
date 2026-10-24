@@ -1,0 +1,292 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-50026200",
+  "slug": "daad-50026200",
+  "title": "Study Scholarships – Master Studies for All Academic Disciplines",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Funding for a new postgraduate or Master's programme in Germany, or a recognised study year within a Master's programme completed abroad.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-daad-master"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Artistic disciplines and architecture are directed to separate subject-specific DAAD scholarships; consult those routes.",
+      "source_ids": [
+        "curated-daad-master"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-daad-master"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "DAAD_programme_country_selection_required"
+      ],
+      "notes": "The origin-unspecified source does not establish a complete eligibility country list. Use the country-specific DAAD selection; do not infer eligibility from the dropdown.",
+      "source_ids": [
+        "curated-daad-master"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany",
+        "in_germany"
+      ],
+      "notes": "Applicants resident in Germany for more than 15 months at the deadline cannot be considered.",
+      "source_ids": [
+        "curated-daad-master"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "First academic degree completed by the start of funding; the most recent degree should generally be no more than six years old at the deadline.",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "A new programme at a state or state-recognised German university; an already-started Master's in Germany cannot be funded.",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "The current call funds programmes starting in winter semester 2027; funding normally begins on 1 October 2027.",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "Admission to the named host programme is required before funding begins; university admission and scholarship applications are separate.",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "Provide proof of the programme's teaching language, including when the university does not itself require it.",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "Do not exceed 15 months of residence in Germany at the application deadline.",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "For a study year within a degree abroad, the home university must recognise the credits without extending the standard study period.",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Degree-programme stays outside Germany normally must be essential, outside the applicant's home country and no more than one quarter of the scholarship; specified joint or double degrees may allow up to half.",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "EUR 992 monthly, insurance contributions, travel allowance on application and EUR 460 annual study allowance. Conditional rent, family, disability and language support may apply. Tuition fees are not covered.",
+    "amount_min": 992,
+    "amount_max": 992,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "10–24 months, normally the standard duration of the chosen programme, with a progress check after the first year.",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "travel",
+      "language_course"
+    ],
+    "source_ids": [
+      "review-20261024-daad-master"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "daad-50026200-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "curated-daad-master"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Applications generally possible from 1 June to the country-specific deadline. The origin-unspecified page does not provide a current universal deadline.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Tabular CV, maximum three pages",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "Motivation letter, one to three pages",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "Admission letter, or submission before funding starts",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "DAAD form identifying preferred Master's programmes, when applicable",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "Home-university credit recognition for a study year within a degree abroad",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "Current transcript and degree certificate, with the latter submitted by funding start if needed",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "Proof of the teaching language, normally no older than three years",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "One recent supporting university-teacher recommendation",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "German or English translations for documents in other languages",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Confirm country-specific eligibility and deadline in the DAAD database.",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "Apply separately for admission at the German university.",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "Register in the DAAD portal during the application period and request the recommendation form.",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      },
+      {
+        "text": "Upload and submit the complete scholarship application before the country-specific deadline.",
+        "source_ids": [
+          "curated-daad-master"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200",
+    "application_url": null,
+    "source_ids": [
+      "curated-daad-master"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-daad-master",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200",
+        "title": "Study Scholarships - Master Studies for All Academic Disciplines - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-daad-master",
+        "sha256": "74744f05e7d98343a591f3dd20a00eeb93f3101693854e8d1b20b41300371c5f",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      },
+      {
+        "id": "review-20261024-daad-master",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200",
+        "title": "Study Scholarships - Master Studies for All Academic Disciplines - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-daad-master",
+        "sha256": "ddda9045c9eee0b62a75d3b0b94a8db7beb0c35fdf75ad984926fba26d5bbe65",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval. A cached repeat of the same-day live fetch was archived within ten minutes."
+      }
+    ],
+    "last_checked": "2026-10-24",
+    "last_reviewed": "2026-10-24",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Country-specific eligibility and deadlines remain unresolved on the origin-unspecified DAAD page; do not use its country selector as a nationality whitelist."
+    ]
+  }
+}

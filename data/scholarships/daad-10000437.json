@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000437",
+  "slug": "daad-10000437",
+  "title": "Digital GreenTalents Award",
+  "provider": {
+    "name": "Federal Ministry of Education and Research"
+  },
+  "summary": "Annual award for 20 young scientists worldwide combining digital technology and sustainability, funding a 1- to 3-month research stay in Germany and a mentoring programme.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate"
+      ],
+      "notes": "PhD students and students in the final year of a Master's degree.",
+      "source_ids": [
+        "daad-10000437"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "other"
+      ],
+      "notes": "Research topics combining digital technology and sustainability.",
+      "source_ids": [
+        "daad-10000437"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Research institution or company in Germany.",
+      "source_ids": [
+        "daad-10000437"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Applicants from around the world (listed in the source's country selection).",
+      "source_ids": [
+        "daad-10000437"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "International applicants living outside Germany.",
+      "source_ids": [
+        "daad-10000437"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "current enrolment in a PhD programme or the final year of a Master's programme",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      },
+      {
+        "text": "not older than 30 years",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      },
+      {
+        "text": "very good English skills",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      },
+      {
+        "text": "above-average grades",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Time spent on childcare, etc. can be taken into account for the age limit.",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Fully-funded 1- to 3-month research stay in Germany, accompanying mentoring programme, and participation in the Digital GreenTalent SummerSchool.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "variable",
+    "duration": "1 to 3 months",
+    "covered_costs": [
+      "research",
+      "travel",
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000437"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application periods will be published on the website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000437-round-general",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000437"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Annually, periods published on the website.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "proof of current enrolment in a Master's or doctoral programme (if currently studying) or proof of PhD degree (if just completed)",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      },
+      {
+        "text": "university transcript indicating final grade(s)",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      },
+      {
+        "text": "English language proficiency certificate (for non-native speakers)",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      },
+      {
+        "text": "short video",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      },
+      {
+        "text": "resume",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      },
+      {
+        "text": "list of publications, if applicable",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Conduct application online through the Digital GreenTalents website using the online tool LimeSurvey.",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      },
+      {
+        "text": "Upload all required documents as PDF files.",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      },
+      {
+        "text": "Upload application video as described on the website.",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      },
+      {
+        "text": "Answer motivation questions (max. 500 words) during online application.",
+        "source_ids": [
+          "daad-10000437"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000437",
+    "application_url": "https://digitalgreentalents.de/",
+    "source_ids": [
+      "daad-10000437"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000437",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000437",
+        "title": "Federal Ministry of Education and Research: Digital GreenTalents Award - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000437",
+        "sha256": "e73b191d1e3088f25bd963903636a71e10ad2fdb07df53dc19fc33a3ff07a941",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The award funds a research stay in Germany for international PhD students and final-year Master's students."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Research institution or company in Germany.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

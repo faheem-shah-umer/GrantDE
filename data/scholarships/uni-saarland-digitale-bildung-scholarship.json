@@ -1,0 +1,150 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-saarland-digitale-bildung-scholarship",
+  "slug": "uni-saarland-digitale-bildung-scholarship",
+  "title": "Digitale Bildung Scholarship",
+  "provider": {
+    "name": "App Camps"
+  },
+  "summary": "Free one-year access to online training courses, webinars, and networking sessions for teacher training students.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Open to teacher training degree programmes, Bachelor's or Master's of Education programmes, or Business and Economics Education programme.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Restricted to teacher training, Education, and Business and Economics Education programmes.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No institution restrictions stated.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality restrictions not specified.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Open to students on teacher training programmes in Germany.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Enrolled on a teacher training degree programme (from first semester onwards), Bachelor's or Master's of Education programme, or Business and Economics Education programme",
+        "source_ids": [
+          "uni-saarland"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Free, one-year access to online training courses, webinars and networking sessions (no cash award). Successfully completing students receive a digital education and media skills certificate.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "one_off",
+    "duration": "One year",
+    "covered_costs": [
+      "language_course",
+      "other"
+    ],
+    "source_ids": [
+      "uni-saarland"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No specific deadlines provided on the page.",
+      "applicable_country_codes": null,
+      "id": "uni-saarland-digitale-bildung-scholarship-round-general",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://appcamps.de/stipendium-digitale-bildung/",
+    "application_url": null,
+    "source_ids": [
+      "uni-saarland"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-saarland",
+        "url": "https://www.uni-saarland.de/en/studies/financing/scholarships.html",
+        "title": "Scholarships | Financing your studies | Universität des Saarlandes",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-saarland",
+        "sha256": "1eb63be3f18f8a92916ad0b5e786fa3a11aa30082e93b28a1d1ee53d48563bdf",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports teacher training students physically studying in Germany, though the award is non-cash digital access."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Unrecognised criterion status: {'enum': ['restricted', 'unrestricted', 'unknown'], 'values': ['bachelor', 'master', 'other'], 'notes': \"Open to teacher training degree programmes, Bachelor's or Master's of Education programmes, or Business and Economics Education programme.\"}",
+      "Unrecognised criterion status: {'enum': ['restricted', 'unrestricted', 'unknown'], 'values': ['education', 'business_economics'], 'notes': 'Restricted to teacher training, Education, and Business and Economics Education programmes.'}",
+      "Unrecognised criterion status: {'enum': ['restricted', 'unrestricted', 'unknown'], 'values': None, 'notes': 'No institution restrictions stated.'}",
+      "Unrecognised nationality status; consult the saved source extraction.",
+      "Unrecognised criterion status: {'enum': ['restricted', 'unrestricted', 'unknown'], 'values': ['in_germany'], 'notes': 'Open to students on teacher training programmes in Germany.'}"
+    ]
+  }
+}

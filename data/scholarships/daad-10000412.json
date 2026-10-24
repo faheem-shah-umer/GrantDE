@@ -1,0 +1,184 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000412",
+  "slug": "daad-10000412",
+  "title": "German Academic Scholarship Foundation: Scholarships for Students",
+  "provider": {
+    "name": "Studienstiftung"
+  },
+  "summary": "Scholarships for full-time students at state or state-recognised higher education institutions in Germany or the EU/Switzerland with exceptional talent, academic records, and community commitment.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Sponsorship is open to all degree programmes and all types of higher education institutions. Second, additional, further or postgraduate studies are not eligible, but a consecutive Master's programme that follows a completed Bachelor's programme does not count as such.",
+      "source_ids": [
+        "daad-10000412"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Sponsorship is open to all degree programmes.",
+      "source_ids": [
+        "daad-10000412"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "state or state-recognised higher education institution (university, university of applied sciences, college of art and music) in Germany",
+        "higher education institution in a member state of the European Union (EU) or in Switzerland"
+      ],
+      "notes": "Applies to state or state-recognised institutions in Germany, EU, or Switzerland.",
+      "source_ids": [
+        "daad-10000412"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Students with German citizenship or students who acquired higher education entrance qualification in Germany, individuals entitled to permanent residence or settlement in Germany, asylum seekers, recognised refugees, subsidiary protection, tolerated individuals after 15 months, EU citizens studying permanently in Germany seeking a degree, and countries listed in the selection dropdown.",
+      "source_ids": [
+        "daad-10000412"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Covers studies in Germany, EU member states, or Switzerland.",
+      "source_ids": [
+        "daad-10000412"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Course of study at a state or state-recognised higher education institution in Germany or a member state of the EU or Switzerland",
+        "source_ids": [
+          "daad-10000412"
+        ]
+      },
+      {
+        "text": "Meet requirements of §§ 8 Para. 1 to 3 or 61 BAföG, or EU/accession candidate citizens studying permanently in Germany for a degree",
+        "source_ids": [
+          "daad-10000412"
+        ]
+      },
+      {
+        "text": "Only full-time studies can be funded",
+        "source_ids": [
+          "daad-10000412"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Second, additional, further or postgraduate studies are not eligible, but a consecutive Master's programme following a Bachelor's is eligible.",
+        "source_ids": [
+          "daad-10000412"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Allowance toward cost of study of 300 EUR and an income-dependent grant calculated per BAföG regulations. Additional allowances for scholars with children, health, and nursing care insurance.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Entire standard period of study",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "research",
+      "travel"
+    ],
+    "source_ids": [
+      "daad-10000412"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Deadlines vary depending on the selection procedure and can be found on the homepage.",
+      "applicable_country_codes": null,
+      "id": "daad-10000412-round-default-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000412"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Students can apply themselves or be nominated by school administration, examination office, or lecturers.",
+        "source_ids": [
+          "daad-10000412"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000412",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000412"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000412",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000412",
+        "title": "German Academic Scholarship Foundation: Scholarships for Students - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000412",
+        "sha256": "337faf9a16c4b86945608c301a95d49f1eeef77b0047391b49294bad59f067af",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds students completing studies at a higher education institution in Germany, meeting international student and residency eligibility pathways specified."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Sponsorship is open to all degree programmes and all types of higher education institutions. Second, additional, further or postgraduate studies are not eligible, but a consecutive Master's programme that follows a completed Bachelor's programme does not count as such.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Sponsorship is open to all degree programmes.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page.",
+      "Invalid country code in allowed_country_codes; original rule retained in research snapshot.",
+      "Nationality restriction is not enumerated.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Covers studies in Germany, EU member states, or Switzerland."
+    ]
+  }
+}

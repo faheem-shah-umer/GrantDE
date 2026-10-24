@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-leipzig-stibet-graduation-scholarship",
+  "slug": "uni-leipzig-stibet-graduation-scholarship",
+  "title": "STIBET Graduation Scholarship",
+  "provider": {
+    "name": "Leipzig University / DAAD"
+  },
+  "summary": "The STIBET Graduation Scholarship at Leipzig University supports international students approaching the end of their degree who are experiencing financial need.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Mentions bachelor's degree and doctoral researchers generally, but specific degree levels are not comprehensively restricted or listed.",
+      "source_ids": [
+        "uni-leipzig"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No disciplines explicitly restricted or listed, except a mention of Communication and Media Studies for an example student.",
+      "source_ids": [
+        "uni-leipzig"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Leipzig University"
+      ],
+      "notes": "The scholarship is featured for Leipzig University under the STIBET programme.",
+      "source_ids": [
+        "uni-leipzig"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Available to international students; specific country eligibility is not detailed.",
+      "source_ids": [
+        "uni-leipzig"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Requires the student to be at Leipzig University/Germany approaching graduation.",
+      "source_ids": [
+        "uni-leipzig"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Demonstrate financial need",
+        "source_ids": [
+          "uni-leipzig"
+        ]
+      },
+      {
+        "text": "Approaching the end of the degree",
+        "source_ids": [
+          "uni-leipzig"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Three-month scholarship providing financial support for students finishing their degree.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "one_off",
+    "duration": "3 months",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-leipzig"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No specific application deadlines are mentioned on the page.",
+      "applicable_country_codes": null,
+      "id": "uni-leipzig-stibet-graduation-scholarship-round-general-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-leipzig"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.daad.de/de/infos-services-fuer-hochschulen/weiterfuehrende-infos-zu-daad-foerderprogrammen/stibet-i/",
+    "application_url": null,
+    "source_ids": [
+      "uni-leipzig"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-leipzig",
+        "url": "https://www.uni-leipzig.de/en/newsdetail/artikel/stibet-graduation-scholarship-helping-students-cross-the-finish-line-2026-07-20",
+        "title": "Universität Leipzig: STIBET Graduation Scholarship: Helping students cross the finish line",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-leipzig",
+        "sha256": "b17c6bd5e5bfb1b1da444d0094983439f01eb0419e05a552c9fa6b861c3ae799",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship supports international students at a German university (Leipzig University) to complete their studies."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Exact stipend monetary amount is not stated.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

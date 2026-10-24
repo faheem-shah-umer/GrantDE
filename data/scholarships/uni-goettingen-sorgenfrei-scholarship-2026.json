@@ -1,0 +1,165 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-goettingen-sorgenfrei-scholarship-2026",
+  "slug": "uni-goettingen-sorgenfrei-scholarship-2026",
+  "title": "Sorgenfrei-Scholarship 2026",
+  "provider": {
+    "name": "University of Göttingen"
+  },
+  "summary": "One-time financial grant for students at the University of Göttingen to cover study-related expenses.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All regular students at the University of Göttingen who are enrolled in a degree program in the summer semester of 2026 and will graduate from Göttingen are eligible.",
+      "source_ids": [
+        "uni-goettingen"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No discipline restriction mentioned.",
+      "source_ids": [
+        "uni-goettingen"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "University of Göttingen"
+      ],
+      "notes": "Must be a student at the University of Göttingen.",
+      "source_ids": [
+        "uni-goettingen"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "No nationality restriction mentioned.",
+      "source_ids": [
+        "uni-goettingen"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Must be enrolled at the University of Göttingen and graduate from Göttingen.",
+      "source_ids": [
+        "uni-goettingen"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Enrolled in a degree program at the University of Göttingen in the summer semester of 2026",
+        "source_ids": [
+          "uni-goettingen"
+        ]
+      },
+      {
+        "text": "Will graduate from Göttingen",
+        "source_ids": [
+          "uni-goettingen"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "A one-time financial grant of €1,000 to cover study-related expenses. A total of ten scholarships will be awarded. The selection will be random.",
+    "amount_min": 1000,
+    "amount_max": 1000,
+    "currency": "EUR",
+    "frequency": "one_off",
+    "duration": "not specified",
+    "covered_costs": [
+      "research",
+      "other"
+    ],
+    "source_ids": [
+      "uni-goettingen"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-06-07",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Interested applicants can apply until June 7 2026.",
+      "applicable_country_codes": null,
+      "id": "uni-goettingen-sorgenfrei-scholarship-2026-round-2026-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-goettingen"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Apply until June 7 2026",
+        "source_ids": [
+          "uni-goettingen"
+        ]
+      }
+    ],
+    "official_programme_url": "https://uni-goettingen.de/en/707360.html",
+    "application_url": null,
+    "source_ids": [
+      "uni-goettingen"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-goettingen",
+        "url": "https://www.uni-goettingen.de/en/575849.html",
+        "title": "Scholarships and Funding for International Students - Georg-August-Universität Göttingen",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-goettingen",
+        "sha256": "41013d8fb60a96eb341a92b9ba53bfd6b39f8b750b20f647a6a73771a9041a5e",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International students enrolled at the University of Göttingen can receive funding for studying physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All regular students at the University of Göttingen who are enrolled in a degree program in the summer semester of 2026 and will graduate from Göttingen are eligible.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: No discipline restriction mentioned.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

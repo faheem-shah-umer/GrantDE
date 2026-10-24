@@ -1,0 +1,273 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-bonn-scholarships-for-students-with-a-refugee-background-nrwege-ins-studium",
+  "slug": "uni-bonn-scholarships-for-students-with-a-refugee-background-nrwege-ins-studium",
+  "title": "Scholarships for students with a refugee background (NRWege ins Studium)",
+  "provider": {
+    "name": "University of Bonn / Ministry of Culture and Science of NRW"
+  },
+  "summary": "NRWege ins Studium supports students of the University of Bonn who have a refugee history with monthly scholarships.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Can be applied for before study program starts as long as enrolled as a student of the University of Bonn.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "University of Bonn"
+      ],
+      "notes": "Must be enrolled as a student of the University of Bonn.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": null,
+      "notes": "Refugee background with specific criteria (BAMF decision, temporary/humanitarian protection, residence permit for admission from abroad, no final deportation order, no settlement permit). University entrance qualification obtained abroad.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Must have arrived in Germany within the past 5 years since first being funded by NRWege (extendable to 7 years under conditions). Living in Germany.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Refugee status meeting program specifications (received first BAMF decision, temporary protection, protection on humanitarian grounds, residence permit for admission from abroad, no final deportation order, no settlement permit)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "University entrance qualification equivalent to Abitur obtained abroad (not at a German school)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Arrived in Germany within the past 5 years since first being funded by NRWege (extendable up to 7 years with underage children, family care, or illness)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Enrollment or letter of admission as a student of the University of Bonn starting from winter term 2025/26",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Willingness to participate in counselling and activities within the NRWege program",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Strong motivation for achievement and interest in your subject",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Social engagement can be a plus (active membership in an association, social and political engagement, cultural activities)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "€300 per month for a scholarship complementing an income of max. €992; up to €992 per month for full scholarships in individual cases if not eligible to BAföG.",
+    "amount_min": 300,
+    "amount_max": 992,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "October 2025 to September 2026 with option of extension",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-bonn"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2025-08-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Application deadline was August 15, 2025.",
+      "applicable_country_codes": null,
+      "id": "uni-bonn-scholarships-for-students-with-a-refugee-background-nrwege-ins-studium-round-2025-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Letter of motivation (one or two pages)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Curriculum vitae",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Transcript of records (or certificate of German language skills with grade if about to start study program)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Certificate of enrollment or letter of admission from the University of Bonn",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Copy of residence permit or first BAMF decision",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "BAföG decision or proof of application for BAföG",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Informal disclosure of general financial situation",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "If applicable, proof of income from sources of public funding other than BAföG",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "If applicable, proof of income from a part-time job or other activities",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "If applicable or mandatory (4th semester or above), letter of recommendation",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "If applicable, proof of social engagement or outstanding achievements",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "If applicable, proof of previous funding by NRWege",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Complete the application form and upload requested application documents",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Participate in an interview via Zoom if applying for a full scholarship of €934",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.uni-bonn.de/en/studying/international-students/costs-and-financing-for-international-students",
+    "application_url": null,
+    "source_ids": [
+      "uni-bonn"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-bonn",
+        "url": "https://www.uni-bonn.de/en/studying/international-students/costs-and-financing-for-international-students",
+        "title": "Costs and Financing for International Students — University of Bonn",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-bonn",
+        "sha256": "2191bde3bb5b62519b453e091357845db5ba309b44e5f2db7d49f7c5aa894ccc",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Students with refugee background enrolled at the University of Bonn in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

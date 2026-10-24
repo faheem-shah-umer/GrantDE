@@ -1,0 +1,313 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-haw-excellence-excellence-scholarships",
+  "slug": "uni-haw-excellence-excellence-scholarships",
+  "title": "Excellence scholarships",
+  "provider": {
+    "name": "Hamburg University of Applied Sciences (HAW Hamburg)"
+  },
+  "summary": "Merit-based scholarships awarded to high-achieving international Bachelor's and Master's students studying at HAW Hamburg.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master"
+      ],
+      "notes": "Bachelor's students from the third semester onwards and Master's students from the second semester onwards.",
+      "source_ids": [
+        "uni-haw-excellence"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines are eligible, except students in fee-based or continuing education programmes, or joint/double degree programmes entitled to funding from other sponsors.",
+      "source_ids": [
+        "uni-haw-excellence"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Hamburg University of Applied Sciences"
+      ],
+      "notes": "Must be enrolled at HAW Hamburg.",
+      "source_ids": [
+        "uni-haw-excellence"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Must have obtained higher education entrance qualification (HZB) abroad or completed a German Studienkolleg. Students with dual citizenship including German are not eligible. International students who are refugees cannot apply.",
+      "source_ids": [
+        "uni-haw-excellence"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Must be enrolled as an international student at HAW Hamburg in Germany.",
+      "source_ids": [
+        "uni-haw-excellence"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Enrolled as an international student at HAW Hamburg (full-time and/or part-time)",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Obtained higher education entrance qualification (HZB) abroad or successfully completed a German Studienkolleg",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Bachelor's students: in third semester or higher and successfully completed at least 50 ECTS credits recorded in Transcript of Records",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Master's students: in second semester or higher and successfully completed at least 25 ECTS credits recorded in Transcript of Records",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Within the standard period of study for the degree programme",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Average grade of at least 2.2",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Must not have received the merit scholarship before, or received it no more than twice (can apply a third time; fourth award no longer possible)",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Residency status pursuant to section 16 of the federal residency act (residency for the purpose of study) or EU citizenship",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Must submit two recommendation letters from lecturers (for first-time applicants or if previous ones are older than 12 months)",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Must apply via Mobility Online and submit CV, certificate of enrolment, transcript of records, copy of residency permit or passport/ID, bank account information form, and financial circumstances form",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Temporary residence permit (Fiktionsbescheinigung) is accepted",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Merit-based scholarships are awarded in the amount of at least €1,800 for one semester, paid out in installments.",
+    "amount_min": 1800,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "one_off",
+    "duration": "One semester",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-haw-excellence"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2026-09-01",
+      "deadline": "2026-09-30",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Application option activated starting September 1, 2026.",
+      "applicable_country_codes": null,
+      "id": "uni-haw-excellence-excellence-scholarships-round-winter-semester-2026-2027",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-haw-excellence"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Deadline is March 30 of each year. The academic excellence scholarship is expected to be awarded for the last time in the summer semester of 2027. Extracted deadline was '03-30'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "uni-haw-excellence-excellence-scholarships-round-summer-semester-recurring",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-haw-excellence"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Deadline is September 30 of each year, portal opens 4 weeks before. Extracted opens_on was '09-01'; year not confirmed. Extracted deadline was '09-30'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "uni-haw-excellence-excellence-scholarships-round-winter-semester-recurring",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-haw-excellence"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Summer semester deadline: March 30 of each year. Winter semester deadline: September 30 of each year.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Recommendation letters of two lecturers",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Current CV (max. 2 pages)",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Current Certificate of enrolment from myHAW",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Current transcript of records from myHAW",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Copy of residency permit (non-EU citizens) or copy of passport or personal ID card (EU citizens)",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Bank account information form",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Financial circumstances form",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Approach lecturers for recommendation letters in advance",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Register and log in using HAW ID in Mobility Online application portal",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Upload required application documents to Mobility Online before the application deadline",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      },
+      {
+        "text": "Have referees send completed recommendation letters directly to io_scholarships@haw-hamburg.de",
+        "source_ids": [
+          "uni-haw-excellence"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.haw-hamburg.de/en/international/international-students/funding-and-scholarships/scholarships/excellence-scholarships/",
+    "application_url": "https://www.service4mobility.com/europe/BewerbungServlet?identifier=HAMBURG06&kz_bew_pers=S&kz_bew_art=IN&aust_prog=LEIST_STIP&sprache=de",
+    "source_ids": [
+      "uni-haw-excellence"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-haw-excellence",
+        "url": "https://www.haw-hamburg.de/en/international/international-students/funding-and-scholarships/scholarships/excellence-scholarships/",
+        "title": "HAW-Hamburg: Excellence scholarships",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-haw-excellence",
+        "sha256": "e4b6d885997daf34a31277e0cafb246cadcc5de0af16648f3fc921bbe779f691",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International students enrolled in a Bachelor's or Master's degree program at HAW Hamburg in Germany can receive student funding for studying physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Unconfirmed date '03-30' was not converted to a year-specific date.",
+      "Unconfirmed date '09-01' was not converted to a year-specific date.",
+      "Unconfirmed date '09-30' was not converted to a year-specific date.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines are eligible, except students in fee-based or continuing education programmes, or joint/double degree programmes entitled to funding from other sponsors.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

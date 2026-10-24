@@ -1,0 +1,194 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57471580",
+  "slug": "daad-57471580",
+  "title": "Combined study and practical stays for engineers from developing countries (KOSPIE) with Colombian universities • DAAD",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Funding for advanced engineering students from specific Colombian universities to spend a study semester and an industrial internship in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Advanced students (undergraduates)",
+      "source_ids": [
+        "daad-57471580"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering"
+      ],
+      "notes": "Engineers",
+      "source_ids": [
+        "daad-57471580"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Instituto Tecnológico Metropolitano (ITM)",
+        "Universidad Nacional de Colombia, Bogotá (UNAL)",
+        "Escuela Colombiana de Ingeniería Julio Garavito, Bogotá",
+        "Universidad Santo Tomás, Bogotá (USTA)",
+        "Pontificia Universidad Javeriana, Cali (PUJ)",
+        "Universidad del Valle, Cali (Univalle)",
+        "Universidad del Norte, Barranquilla (Uninorte)",
+        "Universidad de Antioquia (UdeA)",
+        "Universidad Autónoma de Bucaramanga (UNAB)",
+        "Universidad Pontificia Bolivariana, Bucaramanga",
+        "Universidad Industrial de Santander (UIS)",
+        "Universidad de Manizalez (UM)",
+        "Universidad de Quindío, Armenia (Uniquindio)"
+      ],
+      "notes": "Must be from one of the listed participating Colombian universities.",
+      "source_ids": [
+        "daad-57471580"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "CO"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Colombia",
+      "source_ids": [
+        "daad-57471580"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Country in which you are living and from which you are applying must be Colombia.",
+      "source_ids": [
+        "daad-57471580"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Advanced students of engineering from one of the listed participating universities",
+        "source_ids": [
+          "daad-57471580"
+        ]
+      },
+      {
+        "text": "Knowledge of German (at least Level B1)",
+        "source_ids": [
+          "daad-57471580"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Academic achievements",
+        "source_ids": [
+          "daad-57471580"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Preparatory German language courses in Colombia (university); Costs of outward and return travel (ICETEX); 2-month intensive language course in Germany including costs of accommodation and pocket money of 475 euros a month during this period (DAAD); One-off study allowance of 460 euros (DAAD); Medical, accident and personal liability insurance (DAAD); Monthly partial scholarship of 342 euros for 10 months (DAAD); Monthly partial scholarship of 650 euros for 10 months (ICETEX); Tutorial supervision at German host university (DAAD)",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "12 months",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance",
+      "research",
+      "language_course",
+      "study_completion",
+      "other"
+    ],
+    "source_ids": [
+      "daad-57471580"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "",
+      "applicable_country_codes": [
+        "CO"
+      ],
+      "id": "daad-57471580-round-default",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57471580"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Students from the above schools apply through the International Office.",
+        "source_ids": [
+          "daad-57471580"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57471580",
+    "application_url": null,
+    "source_ids": [
+      "daad-57471580"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57471580",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57471580",
+        "title": "Combined study and practical stays for engineers from developing countries (KOSPIE) with Colombian universities - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57471580",
+        "sha256": "3265288a2c57ae24965de9bea33db7ac304c6d0a5bdf61dc8d3efa2802514d5a",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international students from Colombia for study and practical stays physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Advanced students (undergraduates)"
+    ]
+  }
+}

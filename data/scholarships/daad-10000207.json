@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000207",
+  "slug": "daad-10000207",
+  "title": "Deutschlandstipendium",
+  "provider": {
+    "name": "Federal Government and participating German universities"
+  },
+  "summary": "A public-private scholarship for high-achieving and committed students at participating German universities, awarded independently of nationality and family income.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-deutschland-official"
+      ]
+    },
+    "subject_areas": {
+      "status": "unrestricted",
+      "values": null,
+      "notes": "The official federal FAQ explicitly accepts all subject areas at participating institutions.",
+      "source_ids": [
+        "review-20261024-deutschland-faq"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Participating public or state-recognised universities in Germany"
+      ],
+      "notes": "The national programme requires a participating institution; individual selection rules and deadlines are set by that university.",
+      "source_ids": [
+        "curated-deutschland-official"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unrestricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "The official source explicitly welcomes first- and higher-semester students of all nationalities.",
+      "source_ids": [
+        "curated-deutschland-official"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-deutschland-official"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Meet the requirements of the participating university's own selection process.",
+        "source_ids": [
+          "curated-deutschland-official"
+        ]
+      },
+      {
+        "text": "The federal FAQ excludes doctoral candidates, students at federal universities, and administrative-university students receiving trainee remuneration.",
+        "source_ids": [
+          "review-20261024-deutschland-faq"
+        ]
+      },
+      {
+        "text": "Other merit-based material scholarships averaging EUR 30/month or more generally prevent simultaneous receipt; consult the provider's detailed exceptions and university rules.",
+        "source_ids": [
+          "review-20261024-deutschland-faq"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Academic achievement, social commitment, personal achievements and overcoming social or family obstacles are considered.",
+        "source_ids": [
+          "curated-deutschland-official"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 300 per month, funded equally by the Federal Government and private sponsors. Personal and parental income do not determine the award.",
+    "amount_min": 300,
+    "amount_max": 300,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Normally at least two semesters; up to the standard study period, subject to university review and continued private funding.",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "review-20261024-deutschland-faq"
+    ],
+    "repayment_required": false
+  },
+  "application_rounds": [
+    {
+      "id": "daad-10000207-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "curated-deutschland-official"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "There is no single national deadline. Apply directly to the participating university within its local application period.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Find a participating university using the official map.",
+        "source_ids": [
+          "curated-deutschland-official"
+        ]
+      },
+      {
+        "text": "Check that university's requirements, selection rules and current call.",
+        "source_ids": [
+          "curated-deutschland-official"
+        ]
+      },
+      {
+        "text": "Apply directly to the university.",
+        "source_ids": [
+          "curated-deutschland-official"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/the-deutschlandstipendium-best-of-both-worlds-for-students.html",
+    "application_url": null,
+    "source_ids": [
+      "curated-deutschland-official"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-deutschland-official",
+        "url": "https://www.deutschlandstipendium.de/deutschlandstipendium/de/services/english/the-deutschlandstipendium-best-of-both-worlds-for-students.html",
+        "title": "The Deutschlandstipendium: What you need to know about the German public-private scholarship - BMFTR Deutschlandstipendium",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-deutschland-official",
+        "sha256": "7b230098b14a138e857c5d6e5e82ae7c8f731ae23a1b1d8d06eb41c584585e84",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      },
+      {
+        "id": "review-20261024-deutschland-faq",
+        "url": "https://www.deutschlandstipendium.de/deutschlandstipendium/de/studierende/haeufig-gestellte-fragen/haeufig-gestellte-fragen_node.html",
+        "title": "Häufig gestellte Fragen - BMFTR Deutschlandstipendium",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-deutschland-faq",
+        "sha256": "10436a4b193ecc959f5d9f6cc88362be81674c3e1524d6a8e3b252cefa26c15c",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      }
+    ],
+    "last_checked": "2026-10-24",
+    "last_reviewed": "2026-10-24",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "The federal FAQ verifies the national programme; each chosen university sets its own call, document requirements and selection process. The English programme URL returned no usable text in this retrieval, so its reachability is not certified."
+    ]
+  }
+}

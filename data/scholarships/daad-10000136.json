@@ -1,0 +1,215 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000136",
+  "slug": "daad-10000136",
+  "title": "Copernicus Fellowship Programme",
+  "provider": {
+    "name": "Copernicus Hamburg"
+  },
+  "summary": "Copernicus Hamburg awards 6-month fellowships to Eastern and Central European, North African, and Central Asian students for university study and internships in Germany, including living expenses, travel, visa fees, and monthly spending money.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "other"
+      ],
+      "notes": "Bachelor's or Master's students who have completed at least 1 semester. Medical students must be enrolled in the 4th or 5th year at their home university.",
+      "source_ids": [
+        "daad-10000136"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "law",
+        "social_sciences",
+        "business_economics",
+        "humanities",
+        "natural_sciences",
+        "computer_science",
+        "medicine",
+        "architecture"
+      ],
+      "notes": "Architecture is only in connection with the Hamburg special programme 'Architecture for students from Cluj University in Romania'.",
+      "source_ids": [
+        "daad-10000136"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified.",
+      "source_ids": [
+        "daad-10000136"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Eastern and Central European",
+        "North African",
+        "Central Asian"
+      ],
+      "notes": "Eligible countries listed in the application portal include Albania, Algeria, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Egypt, Estonia, Georgia, Hungary, Kazakhstan, Kyrgyzstan, Latvia, Libya, Lithuania, Moldova, Montenegro, Morocco, North Macedonia, Poland, Romania, Serbia, Slovakia, Slovenia, Tajikistan, Tunisia, Turkmenistan, Ukraine, Uzbekistan.",
+      "source_ids": [
+        "daad-10000136"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany",
+        "outside_germany"
+      ],
+      "notes": "Applicants apply from and live in their home country and spend time studying and interning in Germany.",
+      "source_ids": [
+        "daad-10000136"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Completed at least 1 semester (Bachelor's or Master's) or enrolled in 4th/5th year (medical students)",
+        "source_ids": [
+          "daad-10000136"
+        ]
+      },
+      {
+        "text": "Provide at least 3 proofs of achievement during the semester",
+        "source_ids": [
+          "daad-10000136"
+        ]
+      },
+      {
+        "text": "Good to very good German language skills (level B2 or C1)",
+        "source_ids": [
+          "daad-10000136"
+        ]
+      },
+      {
+        "text": "Proof of societal engagement",
+        "source_ids": [
+          "daad-10000136"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Covers living expenses during the funding period (accommodation, board, health insurance, enrolment, and public transport), a monthly spending money allowance of presently 310 EUR, least expensive travel to and from Germany, and visa fees.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "about 6 months",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000136"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadline 1 September for the following summer semester (programme start 1 April). Year not explicitly stated in source. Extracted deadline was '09-01'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000136-round-summer-semester",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000136"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadline 1 March for the following winter semester (programme start 1 October). Year not explicitly stated in source. Extracted deadline was '03-01'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000136-round-winter-semester",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000136"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Application deadlines are 1 September for the summer semester and 1 March for the winter semester annually.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Find application forms and relevant information on the application procedure on the Copernicus website.",
+        "source_ids": [
+          "daad-10000136"
+        ]
+      },
+      {
+        "text": "Select status and country in the application portal (desktop computer recommended).",
+        "source_ids": [
+          "daad-10000136"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000136",
+    "application_url": "https://copernicus-stipendium.de/voraussetzungen/",
+    "source_ids": [
+      "daad-10000136"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000136",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000136",
+        "title": "Copernicus Hamburg: Copernicus Fellowship Programme - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000136",
+        "sha256": "47216263f9ae8df08ea0057b88ffe91212134667c20048d48b430b3b134fb562",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme provides fellowships for international students to physically study and complete internships in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Unconfirmed date '09-01' was not converted to a year-specific date.",
+      "Unconfirmed date '03-01' was not converted to a year-specific date."
+    ]
+  }
+}

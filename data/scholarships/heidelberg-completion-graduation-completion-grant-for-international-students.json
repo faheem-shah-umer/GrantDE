@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0.0",
+  "id": "heidelberg-completion-graduation-completion-grant-for-international-students",
+  "slug": "heidelberg-completion-graduation-completion-grant-for-international-students",
+  "title": "Graduation Completion grant for international students",
+  "provider": {
+    "name": "International Relations Department, Heidelberg University"
+  },
+  "summary": "Financial support for international students in their final semester experiencing unexpected financial difficulties, to help them successfully complete their studies.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Mentioned as international students in their final semester; specific degree levels like bachelor or master are not explicitly enumerated.",
+      "source_ids": [
+        "heidelberg-completion"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No complete subject list is stated; the university, study-stage and programme exclusions must be checked.",
+      "source_ids": [
+        "heidelberg-completion"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Heidelberg University"
+      ],
+      "notes": "Limited to Heidelberg University.",
+      "source_ids": [
+        "heidelberg-completion"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "international_students"
+      ],
+      "notes": "The source explicitly targets international students; it does not give an exhaustive country list.",
+      "source_ids": [
+        "review-20261024-heidelberg-completion"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "For students studying at Heidelberg University in Germany, excluding stays abroad outside of Germany.",
+      "source_ids": [
+        "heidelberg-completion"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Must be in final semester of studies",
+        "source_ids": [
+          "heidelberg-completion"
+        ]
+      },
+      {
+        "text": "Good grades",
+        "source_ids": [
+          "heidelberg-completion"
+        ]
+      },
+      {
+        "text": "Got into financial difficulties through no fault of own and have no other means of financial support, and/or had to reduce part-time employment to complete studies",
+        "source_ids": [
+          "heidelberg-completion"
+        ]
+      },
+      {
+        "text": "The provider excludes exchange/short-term students, postgraduate Master's programmes, doctoral students and HfsJ students. Clarify the provider's meaning of postgraduate Master's for the applicant's programme.",
+        "source_ids": [
+          "review-20261024-heidelberg-completion"
+        ]
+      },
+      {
+        "text": "Support is not for tuition-fee shortages, stays abroad, or applicants able to fund completion through savings or parental support.",
+        "source_ids": [
+          "review-20261024-heidelberg-completion"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Excluded: students who have not taken care of sufficient financing before starting studies, students able to finance studies through savings or parents, fieldwork/stay abroad outside Germany, students without sufficient funds for tuition fees, exchange or short-term students, post-graduate master's degree students, doctoral students, and students at the Hochschule für jüdische Studien HfsJ",
+        "source_ids": [
+          "heidelberg-completion"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "The grant amounts to €500 per month and is paid out for a maximum of 6 months.",
+    "amount_min": 500,
+    "amount_max": 500,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "maximum of 6 months",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "review-20261024-heidelberg-completion"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application period for the summer semester: February 1st. - February 28th (Year not stated).",
+      "applicable_country_codes": null,
+      "id": "heidelberg-completion-graduation-completion-grant-for-international-students-round-summer-semester-application-period",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "heidelberg-completion"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application period for the winter semester: August 1st - August 31th (Year not stated).",
+      "applicable_country_codes": null,
+      "id": "heidelberg-completion-graduation-completion-grant-for-international-students-round-winter-semester-application-period",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "heidelberg-completion"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Application period for the summer semester is February 1st to February 28th. Application period for the winter semester is August 1st to August 31st.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "fully completed application form",
+        "source_ids": [
+          "heidelberg-completion"
+        ]
+      },
+      {
+        "text": "an informal letter in which you briefly explain why you need financial support (max. 1 page, DIN A4)",
+        "source_ids": [
+          "heidelberg-completion"
+        ]
+      },
+      {
+        "text": "current transcript of records",
+        "source_ids": [
+          "heidelberg-completion"
+        ]
+      },
+      {
+        "text": "confirmation from the examination office that you have registered for the final examination OR confirmation from your supervisor or the examination office, that you intend to take the final examination within an agreed timeframe",
+        "source_ids": [
+          "heidelberg-completion"
+        ]
+      },
+      {
+        "text": "current employment contracts (if applicable)",
+        "source_ids": [
+          "heidelberg-completion"
+        ]
+      },
+      {
+        "text": "bank statements of all bank accounts for the last three months",
+        "source_ids": [
+          "heidelberg-completion"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Direct questions and application documents via e-mail to the International Relations Office (caroline.faure-brac@zuv.uni-heidelberg.de)",
+        "source_ids": [
+          "heidelberg-completion"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.uni-heidelberg.de/en/study/management-of-studies/funding-of-studies/graduation-completion-grant-for-international-students",
+    "application_url": "https://backend.uni-heidelberg.de/de/dokumente/beihilfe-formular/download",
+    "source_ids": [
+      "heidelberg-completion"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "heidelberg-completion",
+        "url": "https://www.uni-heidelberg.de/en/study/management-of-studies/funding-of-studies/graduation-completion-grant-for-international-students",
+        "title": "Graduation Completion grant for international students - Heidelberg University",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/heidelberg-completion",
+        "sha256": "9c75fae3edeee0cb349e9d93eece03cffcf939a6594d76afa46bfaa0fecbfa65",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Provides financial support to international students studying in Germany for completion of their degree."
+      },
+      {
+        "id": "review-20261024-heidelberg-completion",
+        "url": "https://www.uni-heidelberg.de/en/study/management-of-studies/funding-of-studies/graduation-completion-grant-for-international-students",
+        "title": "Graduation Completion grant for international students - Heidelberg University",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-heidelberg-completion",
+        "sha256": "720a6d9d36b0fab502b73baaf057c14edd58040c40d35c64a9272c4afc191210",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      }
+    ],
+    "last_checked": "2026-10-24",
+    "last_reviewed": "2026-10-24",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "The provider's postgraduate Master's exclusion needs programme-specific interpretation; do not describe all Master's programmes as eligible.",
+      "February and August application windows have no explicit year on the page; do not manufacture a current round."
+    ]
+  }
+}

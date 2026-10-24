@@ -1,0 +1,323 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000113",
+  "slug": "daad-10000113",
+  "title": "Heinrich Böll Foundation: International PhD Scholarship",
+  "provider": {
+    "name": "Heinrich-Böll-Stiftung"
+  },
+  "summary": "Doctoral support for international applicants with a graduate degree earned abroad who plan to pursue a PhD in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-boell-apply"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-boell-apply"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "State or state-recognised university in Germany"
+      ],
+      "notes": "Check the applicable EU/non-EU funding route and any permitted periods abroad.",
+      "source_ids": [
+        "review-20261024-boell-phd-checklist"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "EU",
+        "DAC_country_list"
+      ],
+      "notes": "The English application page names EU and DAC countries; the German study page and checklists distinguish EU/non-EU routes and DAC priority. These are not an exhaustive country whitelist. Confirm the current route with the provider.",
+      "source_ids": [
+        "review-20261024-boell",
+        "review-20261024-boell-phd-checklist"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-boell-apply"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Graduate degree completed abroad and intended doctoral study in Germany.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      },
+      {
+        "text": "Complete application through the foundation's online portal.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      },
+      {
+        "text": "International applicants must provide German at B2 or DSH 1 level, with a certificate, under the linked doctoral checklist.",
+        "source_ids": [
+          "review-20261024-boell-phd-checklist"
+        ]
+      },
+      {
+        "text": "Provide evidence of admission to doctoral study and a research plan/timetable. Confirm any late-submission exception with the foundation.",
+        "source_ids": [
+          "review-20261024-boell-phd-checklist"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Priority to applicants from DAC countries who are not yet resident in Germany.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "October 2026 overview: AA-funded non-EU Bildungsauslaender receive a EUR 1,500 monthly base; BMFTR-funded EU/Bildungsinlaender routes list EUR 1,750, plus EUR 100 research/mobility allowance. Family, child and other support depend on the route and personal circumstances. Older checklist rates are superseded by this dated overview; additional income is offset.",
+    "amount_min": 1500,
+    "amount_max": 1750,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Normally three years, with a possible extension of up to six months according to the linked doctoral checklist.",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "research"
+    ],
+    "source_ids": [
+      "review-20261024-boell-finance-2026",
+      "review-20261024-boell-finance",
+      "review-20261024-boell-phd-checklist"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2026-07-15",
+      "deadline": "2026-09-01",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Published application window.",
+      "applicable_country_codes": null,
+      "id": "daad-10000113-round-fall-2026",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "curated-boell-apply"
+      ]
+    },
+    {
+      "opens_on": "2027-01-15",
+      "deadline": "2027-03-01",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "upcoming",
+      "notes": "Published application window.",
+      "applicable_country_codes": null,
+      "id": "daad-10000113-round-spring-2027",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "curated-boell-apply"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Application form with CV, motivation, civic engagement and PhD project outline",
+        "source_ids": [
+          "review-20261024-boell-phd-checklist"
+        ]
+      },
+      {
+        "text": "Degree certificate, translations and explanation of grading where needed",
+        "source_ids": [
+          "review-20261024-boell-phd-checklist"
+        ]
+      },
+      {
+        "text": "University admission to doctoral studies or justified supervisor confirmation",
+        "source_ids": [
+          "review-20261024-boell-phd-checklist"
+        ]
+      },
+      {
+        "text": "B2 or DSH 1 German-language certificate for international applicants",
+        "source_ids": [
+          "review-20261024-boell-phd-checklist"
+        ]
+      },
+      {
+        "text": "Research expose of at most ten pages, including thesis structure and timetable",
+        "source_ids": [
+          "review-20261024-boell-phd-checklist"
+        ]
+      },
+      {
+        "text": "Third-party civic-engagement reference using the foundation form",
+        "source_ids": [
+          "review-20261024-boell-phd-checklist"
+        ]
+      },
+      {
+        "text": "Two academic expert reports, one from the main supervisor, using the foundation form",
+        "source_ids": [
+          "review-20261024-boell-phd-checklist"
+        ]
+      },
+      {
+        "text": "Residence/asylum documentation for refugees where applicable",
+        "source_ids": [
+          "review-20261024-boell-phd-checklist"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Check the doctoral checklist and formal requirements.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      },
+      {
+        "text": "Register and upload the required material.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      },
+      {
+        "text": "Submit the complete application before the portal closes.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.boell.de/en/applying-scholarship",
+    "application_url": "https://stipendium.boell.de/Default.aspx?lg=ENU&tp=3&an=&ad=&lk=2",
+    "source_ids": [
+      "curated-boell-apply"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-boell-apply",
+        "url": "https://www.boell.de/en/applying-scholarship",
+        "title": "Applying for a scholarship | Heinrich Böll Stiftung",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-boell-apply",
+        "sha256": "c96b87ff187755ec531111687b0da3b5b8acdce93a6bb3f8bf0c924576f89335",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      },
+      {
+        "id": "review-20261024-boell",
+        "url": "https://www.boell.de/en/applying-scholarship",
+        "title": "Applying for a scholarship | Heinrich Böll Stiftung",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-boell",
+        "sha256": "4e1b0e8c846703caa2d612cff4e0cc9cc9c24a10b117eed68644da1bbdc012ec",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      },
+      {
+        "id": "review-20261024-boell-phd-checklist",
+        "url": "https://www.boell.de/sites/default/files/2026-04/3-a2-1b-info_checklist_application_prom_may_2025.pdf",
+        "title": "Heinrich Boell Foundation: doctoral application checklist (June 2025)",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-boell-phd-checklist",
+        "sha256": "b512d8b461f2fb0fab925271a1003c13f9ca6c6668ec18ba6e4a68bbf437ee80",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      },
+      {
+        "id": "review-20261024-boell-finance",
+        "url": "https://www.boell.de/en/2025/05/14/financial-support",
+        "title": "Financial Support | Heinrich Böll Stiftung",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-boell-finance",
+        "sha256": "aaeadcfd0ccb2d13662626fc0258aefdfb256f997b6ffacd435064f8ddaec7b9",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      },
+      {
+        "id": "review-20261024-boell-finance-2026",
+        "url": "https://www.boell.de/sites/default/files/2026-10/uebersicht_finanzielle-forderung_engl_10_2026.pdf",
+        "title": "Heinrich Boell Foundation: financial support overview (October 2026)",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-boell-finance-2026",
+        "sha256": "7c7d90400dc360bdda1ec50589b0bfeae759bc404f69e45e4d195fff374d478e",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      }
+    ],
+    "last_checked": "2026-10-24",
+    "last_reviewed": "2026-10-24",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Confirm country/funding route. The still-linked June 2025 checklist contains older monetary rates; the October 2026 financial overview is used for current amounts."
+    ]
+  }
+}

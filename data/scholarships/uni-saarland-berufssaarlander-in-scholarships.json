@@ -1,0 +1,155 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-saarland-berufssaarlander-in-scholarships",
+  "slug": "uni-saarland-berufssaarlander-in-scholarships",
+  "title": "BerufsSaarländer*in scholarships",
+  "provider": {
+    "name": "Saarland"
+  },
+  "summary": "Scholarships for students studying a STEM subject in Saarland, providing a monthly grant and post-graduation work commitment.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Degree levels not explicitly specified beyond being for students.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Restricted to STEM subjects (science, technology, engineering and mathematics). ",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Scholarship holders must undertake to work in one of the Saarland state administrative agencies after graduating.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality restrictions not specified on the page.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Study takes place in Saarland, Germany.",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Choose to study a STEM subject (science, technology, engineering and mathematics)",
+        "source_ids": [
+          "uni-saarland"
+        ]
+      },
+      {
+        "text": "Undertake to work in one of the Saarland state administrative agencies for at least five years after graduating",
+        "source_ids": [
+          "uni-saarland"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Scholarship holders receive a monthly grant of €850.",
+    "amount_min": 850,
+    "amount_max": 850,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Not specified",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-saarland"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Starting in the winter semester of 2024/2025, 22 scholarships provided each year. Specific deadlines not stated on this page.",
+      "applicable_country_codes": null,
+      "id": "uni-saarland-berufssaarlander-in-scholarships-round-general",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-saarland"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.saarland.de/DE/portale/karriere/stipendien/stipendien_node.html",
+    "application_url": null,
+    "source_ids": [
+      "uni-saarland"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-saarland",
+        "url": "https://www.uni-saarland.de/en/studies/financing/scholarships.html",
+        "title": "Scholarships | Financing your studies | Universität des Saarlandes",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-saarland",
+        "sha256": "1eb63be3f18f8a92916ad0b5e786fa3a11aa30082e93b28a1d1ee53d48563bdf",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports students studying in Germany (Saarland) with a monthly grant."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Unrecognised criterion status: {'enum': ['restricted', 'unrestricted', 'unknown'], 'values': ['unknown'], 'notes': 'Degree levels not explicitly specified beyond being for students.'}",
+      "Unrecognised criterion status: {'enum': ['restricted', 'unrestricted', 'unknown'], 'values': ['engineering', 'natural_sciences', 'mathematics', 'computer_science'], 'notes': 'Restricted to STEM subjects (science, technology, engineering and mathematics).'}",
+      "Unrecognised criterion status: {'enum': ['restricted', 'unrestricted', 'unknown'], 'values': ['Saarland state administrative agencies'], 'notes': 'Scholarship holders must undertake to work in one of the Saarland state administrative agencies after graduating.'}",
+      "Unrecognised nationality status; consult the saved source extraction.",
+      "Unrecognised criterion status: {'enum': ['restricted', 'unrestricted', 'unknown'], 'values': ['in_germany'], 'notes': 'Study takes place in Saarland, Germany.'}"
+    ]
+  }
+}

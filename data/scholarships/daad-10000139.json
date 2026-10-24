@@ -1,0 +1,182 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000139",
+  "slug": "daad-10000139",
+  "title": "Evonik Foundation Scholarship",
+  "provider": {
+    "name": "Evonik Foundation"
+  },
+  "summary": "Funding for Master's/Diplom theses, doctoral theses, and Postdocs in natural sciences. Includes mentoring and financial support.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "diploma",
+        "doctorate",
+        "other"
+      ],
+      "notes": "Master's or Diplom programme or (completed) doctoral programme. Postdocs are excluded from the extracted student award.",
+      "source_ids": [
+        "daad-10000139"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "natural_sciences"
+      ],
+      "notes": "Natural sciences",
+      "source_ids": [
+        "daad-10000139"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Carried out by a distinguished chemical research working group at a German higher education institution or at a non-university research institution.",
+      "source_ids": [
+        "daad-10000139"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality/country list is presented on the page but specific country codes are not explicitly listed in text format.",
+      "source_ids": [
+        "daad-10000139"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Country in which you are living and from which you are applying is selected from a dropdown list.",
+      "source_ids": [
+        "daad-10000139"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "research project which matches the content criteria of the particular year",
+        "source_ids": [
+          "daad-10000139"
+        ]
+      },
+      {
+        "text": "project carried out by a distinguished chemical research working group at a German higher education institution or at a non-university research institution",
+        "source_ids": [
+          "daad-10000139"
+        ]
+      },
+      {
+        "text": "excellent academic record",
+        "source_ids": [
+          "daad-10000139"
+        ]
+      },
+      {
+        "text": "Applicants are not able to finance the desired academic training through their own funds or allowances from parents or third parties.",
+        "source_ids": [
+          "daad-10000139"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Diplom or Master's theses: 250 to 600 EUR per month over a period of 6 months. Doctoral theses: 1,850 EUR per month over 2 years with an option to renew the sponsorship for 1 year at the most. Additional applications can be filed to acquire specialist literature and to attend scientific conferences.",
+    "amount_min": 250,
+    "amount_max": 1850,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Diplom or Master's theses: 6 months; doctoral theses: 2 years with an option to renew the sponsorship for 1 year at the most",
+    "covered_costs": [
+      "living_costs",
+      "research",
+      "travel"
+    ],
+    "source_ids": [
+      "daad-10000139"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "The key funding areas are published annually in January. Submission ends at the end of February of the same year. Funding will not be available until June of each year at the earliest.",
+      "applicable_country_codes": null,
+      "id": "daad-10000139-round-annual-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000139"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "The key funding areas are published annually in January. Submission ends at the end of February of the same year.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Please find the application forms and all information on the application procedure on the Evonik Foundation website.",
+        "source_ids": [
+          "daad-10000139"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000139",
+    "application_url": "https://www.evonik-stiftung.de/de/stipendien/stipendium-der-evonik-stiftung/evonik-stiftung-scholarship-167747.html",
+    "source_ids": [
+      "daad-10000139"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000139",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000139",
+        "title": "Evonik Foundation: Evonik Foundation Scholarship - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000139",
+        "sha256": "622337cae04c3b02d7201ade13c0469cc7a01fa652b0973e9098f02727b23ff1",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme supports international students and doctoral candidates conducting research theses at German higher education or research institutions."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Mixed PhD/postdoc scheme; postdoc track excluded from student award.",
+      "Country eligibility uses an extensive HTML select list which is not fully transcribed as ISO codes.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "A structured restriction needs manual classification: Carried out by a distinguished chemical research working group at a German higher education institution or at a non-university research institution."
+    ]
+  }
+}

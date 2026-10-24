@@ -1,0 +1,234 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-haw-completion-final-year-scholarships-degree-completion-grant",
+  "slug": "uni-haw-completion-final-year-scholarships-degree-completion-grant",
+  "title": "Final Year Scholarships (Degree Completion Grant)",
+  "provider": {
+    "name": "Studierendenwerk Hamburg"
+  },
+  "summary": "International Bachelor's and Master's students at HAW Hamburg can apply for a final year scholarship with Studierendenwerk Hamburg to receive funding to complete their studies.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master"
+      ],
+      "notes": "Limited to Bachelor's and Master's students.",
+      "source_ids": [
+        "uni-haw-completion"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines are eligible, though students in Master of Public Health or European Master of Medical Technology and Healthcare Business are generally excluded except in rare winter semester cases.",
+      "source_ids": [
+        "uni-haw-completion"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "HAW Hamburg"
+      ],
+      "notes": "Must be an international student at HAW Hamburg.",
+      "source_ids": [
+        "uni-haw-completion"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "EU citizens",
+        "International students with residency status pursuant to section 16 of the federal residency act"
+      ],
+      "notes": "Eligible: Students with residency status pursuant to section 16 of the federal residency act and EU citizens. International students who are refugees cannot apply. Other residency statuses only in exceptional cases.",
+      "source_ids": [
+        "uni-haw-completion"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Students must be studying at HAW Hamburg in Germany.",
+      "source_ids": [
+        "uni-haw-completion"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "International Bachelor's or Master's student at HAW Hamburg",
+        "source_ids": [
+          "uni-haw-completion"
+        ]
+      },
+      {
+        "text": "Planning to complete studies no more than 12 months after submitting application",
+        "source_ids": [
+          "uni-haw-completion"
+        ]
+      },
+      {
+        "text": "Financing studies personally and demonstrating financial need",
+        "source_ids": [
+          "uni-haw-completion"
+        ]
+      },
+      {
+        "text": "Not receiving BAföG or other state funding",
+        "source_ids": [
+          "uni-haw-completion"
+        ]
+      },
+      {
+        "text": "Residency status pursuant to section 16 of the federal residency act or EU citizenship (refugees cannot apply)",
+        "source_ids": [
+          "uni-haw-completion"
+        ]
+      },
+      {
+        "text": "Own funds (own income and savings divided by number of months until graduation) must not exceed the BAföG limit (€853)",
+        "source_ids": [
+          "uni-haw-completion"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "International students with a different residency status can only apply in exceptional cases and following clarification of individual situations.",
+        "source_ids": [
+          "uni-haw-completion"
+        ]
+      },
+      {
+        "text": "Students in Master of Public Health or European Master of Medical Technology and Healthcare Business can in rare cases be considered in the winter semester if additional funds are available, urgent financial need is demonstrated, and other suitable applicants are already funded.",
+        "source_ids": [
+          "uni-haw-completion"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "The amount of funding is based on your financial situation and the overall funds available. It is awarded for one semester. Earnings will be calculated against the funding amount.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "semester",
+    "duration": "One semester (can be received for a maximum of one year, requires applying again each semester)",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-haw-completion"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application period is 15 November - 31 December",
+      "applicable_country_codes": null,
+      "id": "uni-haw-completion-final-year-scholarships-degree-completion-grant-round-funding-period-1-january-30-june",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-haw-completion"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application period is 15 May - 30 June",
+      "applicable_country_codes": null,
+      "id": "uni-haw-completion-final-year-scholarships-degree-completion-grant-round-funding-period-1-july-31-december",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-haw-completion"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Applications recur annually in two windows: 15 November - 31 December and 15 May - 30 June.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Application documents (obtained directly from Studierendenwerk Hamburg by emailing examensfoerderung@stwhh.de)",
+        "source_ids": [
+          "uni-haw-completion"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Email examensfoerderung@stwhh.de to obtain application documents from Studierendenwerk Hamburg starting 01.11 or 01.05.",
+        "source_ids": [
+          "uni-haw-completion"
+        ]
+      },
+      {
+        "text": "Submit the application during the application window (15 November - 31 December or 15 May - 30 June).",
+        "source_ids": [
+          "uni-haw-completion"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.haw-hamburg.de/en/international/international-students/funding-and-scholarships/scholarships/degree-completion-grant-studierendenwerk-hamburg/",
+    "application_url": null,
+    "source_ids": [
+      "uni-haw-completion"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-haw-completion",
+        "url": "https://www.haw-hamburg.de/en/international/international-students/funding-and-scholarships/scholarships/degree-completion-grant-studierendenwerk-hamburg/",
+        "title": "HAW-Hamburg: Final Year Scholarships",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-haw-completion",
+        "sha256": "ce8d2955df8d51896e506a4387ea6689ce7493198dc94017f6e86c86645f10e1",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International Bachelor's and Master's students physically studying at HAW Hamburg in Germany can receive student funding."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Exact monetary values for the grant amount are not specified as it depends on individual financial situations and available funds.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "An upcoming call needs its opening date confirmed.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines are eligible, though students in Master of Public Health or European Master of Medical Technology and Healthcare Business are generally excluded except in rare winter semester cases."
+    ]
+  }
+}

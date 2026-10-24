@@ -1,0 +1,236 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000153",
+  "slug": "daad-10000153",
+  "title": "Friedrich Ebert Foundation: Scholarship for International Students",
+  "provider": {
+    "name": "Friedrich-Ebert-Stiftung"
+  },
+  "summary": "Study support for international students at German universities who combine strong academic results with social and political engagement.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "diploma",
+        "state_exam"
+      ],
+      "notes": "Includes Bachelor's, Master's, Diplom and state-examination courses.",
+      "source_ids": [
+        "curated-fes-study"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-fes-study"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-fes-study"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": [
+        "Global South",
+        "former CIS states",
+        "Eastern and Southeastern European states"
+      ],
+      "notes": "The FAQ names regional target groups and excludes examples including USA, Australia, New Zealand and Japan. Its EU wording varies between answers. This is not a complete country whitelist; confirm the relevant FES route.",
+      "source_ids": [
+        "review-20261024-fes-faq"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "The programme page says applications from abroad are formally possible; the linked FAQ says applicants must already be in Germany. Confirm the applicable stage and route with FES.",
+      "source_ids": [
+        "review-20261024-fes-faq"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Study at a German state or state-recognised university or university of applied sciences, with initial graded academic results.",
+        "source_ids": [
+          "curated-fes-study"
+        ]
+      },
+      {
+        "text": "Above-average grades, socio-political engagement and identification with social-democratic values.",
+        "source_ids": [
+          "curated-fes-study"
+        ]
+      },
+      {
+        "text": "German at B2 level is accepted, including for English-taught courses; the page says a certificate is not required.",
+        "source_ids": [
+          "curated-fes-study"
+        ]
+      },
+      {
+        "text": "For Bachelor's, Diplom and state examinations, apply after the first semester and at least three semesters before the end of the standard study period.",
+        "source_ids": [
+          "curated-fes-study"
+        ]
+      },
+      {
+        "text": "Medicine applicants apply after the fourth semester or Physikum and by the end of the sixth semester.",
+        "source_ids": [
+          "curated-fes-study"
+        ]
+      },
+      {
+        "text": "Master's applicants apply before or at the beginning of their first university semester; the page lists 30 November for winter and 31 May for summer.",
+        "source_ids": [
+          "curated-fes-study"
+        ]
+      },
+      {
+        "text": "The FAQ states a 15-month residence limit, with exceptions for educational/research/preparatory stays and recognised refugees; obtain route-specific confirmation.",
+        "source_ids": [
+          "review-20261024-fes-faq"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 992 per month, health-insurance costs covered, plus EUR 255 monthly for scholarship holders with a child.",
+    "amount_min": 992,
+    "amount_max": 992,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Study support; the precise award duration must be confirmed for the applicant's programme.",
+    "covered_costs": [
+      "living_costs",
+      "insurance"
+    ],
+    "source_ids": [
+      "review-20261024-fes"
+    ],
+    "repayment_required": false
+  },
+  "application_rounds": [
+    {
+      "id": "daad-10000153-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "curated-fes-study"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Master's: apply before/at the beginning of the first semester, with 30 November (winter) and 31 May (summer) listed. Other degrees have different study-stage limits. These recurring dates are not a confirmed universal current round.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Review the degree-stage and language requirements.",
+        "source_ids": [
+          "curated-fes-study"
+        ]
+      },
+      {
+        "text": "Use the foundation's online scholarship application.",
+        "source_ids": [
+          "curated-fes-study"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.fes.de/studienfoerderung/stipendium/grundfoerderung-fuer-auslaender-innen",
+    "application_url": "https://www.fes.de/studienfoerderung/bewerbung",
+    "source_ids": [
+      "curated-fes-study"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-fes-study",
+        "url": "https://www.fes.de/studienfoerderung/stipendium/grundfoerderung-fuer-auslaender-innen",
+        "title": "Stipendienprogramme der Friedrich-Ebert-Stiftung",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-fes-study",
+        "sha256": "33d9f6bd1164714c64721f42f5bed808eb4c16521951ba1b5f5ca99153424ca3",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      },
+      {
+        "id": "review-20261024-fes",
+        "url": "https://www.fes.de/studienfoerderung/stipendium/grundfoerderung-fuer-auslaender-innen",
+        "title": "Stipendienprogramme der Friedrich-Ebert-Stiftung",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-fes",
+        "sha256": "506ff69889499af27cd1aefeb2c1a0d176d78ba47d3127d603b6f17fbd5b02f3",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      },
+      {
+        "id": "review-20261024-fes-faq",
+        "url": "https://www.fes.de/studienfoerderung/faq/foerderung-von-auslaendischen-studierenden",
+        "title": "Förderung von ausländischen Studierenden",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-fes-faq",
+        "sha256": "b5429dd32cbac5018475759871b079c5aaa373da14ce7797ce9ce7cb48466bad",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      }
+    ],
+    "last_checked": "2026-10-24",
+    "last_reviewed": "2026-10-24",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "The main page permits formal applications from abroad, while the FAQ says applicants must already be in Germany. Country/EU definitions in the FAQ also vary. Clarify the applicant route before publication.",
+      "The general page does not provide a complete application-document checklist."
+    ]
+  }
+}

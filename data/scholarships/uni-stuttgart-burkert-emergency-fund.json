@@ -1,0 +1,204 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-stuttgart-burkert-emergency-fund",
+  "slug": "uni-stuttgart-burkert-emergency-fund",
+  "title": "Bürkert emergency fund",
+  "provider": {
+    "name": "Christian Bürkert Foundation / University of Stuttgart"
+  },
+  "summary": "Short-term financial aid for enrolled international students and doctoral students experiencing sudden financial difficulties at the University of Stuttgart.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Applies to students and doctoral students pursuing a degree.",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All subjects included.",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "University of Stuttgart"
+      ],
+      "notes": "Tenable at the University of Stuttgart.",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Restricted to international students.",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Residence not specified.",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "International student or doctoral student pursuing a degree at the University of Stuttgart",
+        "source_ids": [
+          "uni-stuttgart"
+        ]
+      },
+      {
+        "text": "Expect to graduate successfully (should be in the third semester)",
+        "source_ids": [
+          "uni-stuttgart"
+        ]
+      },
+      {
+        "text": "Confronted with serious, unexpected short-term financial difficulties",
+        "source_ids": [
+          "uni-stuttgart"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Qualified and highly committed international students and doctoral students",
+        "source_ids": [
+          "uni-stuttgart"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "The duration and amount are based on the temporary financial needs of the applicants and are determined by a selection committee at the International Office.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "variable",
+    "duration": "Based on temporary financial needs",
+    "covered_costs": [
+      "other"
+    ],
+    "source_ids": [
+      "uni-stuttgart"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-01-31",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Joint application date.",
+      "applicable_country_codes": null,
+      "id": "uni-stuttgart-burkert-emergency-fund-round-application-round-1",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": "2026-06-30",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Joint application date.",
+      "applicable_country_codes": null,
+      "id": "uni-stuttgart-burkert-emergency-fund-round-application-round-2",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": "2026-10-31",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Joint application date if funds are available.",
+      "applicable_country_codes": null,
+      "id": "uni-stuttgart-burkert-emergency-fund-round-application-round-3",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Personal consultation at the International Office prior to submitting the joint application form (send an e-mail beforehand).",
+        "source_ids": [
+          "uni-stuttgart"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.uni-stuttgart.de/en/study/new-in-stuttgart/finances/international/#id-994379e8-2",
+    "application_url": null,
+    "source_ids": [
+      "uni-stuttgart"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-stuttgart",
+        "url": "https://www.uni-stuttgart.de/en/study/new-in-stuttgart/finances/international/",
+        "title": "Financing your studies and working for international students | University of Stuttgart",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-stuttgart",
+        "sha256": "dfbf0d5bc058de326afc9c675f429939e15c2d8f79af00e5f73da389192ecfdd",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international students and doctoral students pursuing a degree at the University of Stuttgart, Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "An upcoming call needs its opening date confirmed.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Applies to students and doctoral students pursuing a degree.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All subjects included.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

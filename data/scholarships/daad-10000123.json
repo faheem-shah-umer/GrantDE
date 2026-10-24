@@ -1,0 +1,180 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000123",
+  "slug": "daad-10000123",
+  "title": "Herder Fellowship",
+  "provider": {
+    "name": "Herder Institute for Historical Research on East-Central Europe"
+  },
+  "summary": "Fellowship for doctoral students and postdocs enabling a research stay of up to 4 weeks at the Herder Institute, endowed with 1,900 EUR.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate",
+        "other"
+      ],
+      "notes": "Target group includes doctoral students and postdocs (postdocs are out of scope, but doctoral students are in scope).",
+      "source_ids": [
+        "daad-10000123"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "humanities"
+      ],
+      "notes": "Historical research on East-Central Europe.",
+      "source_ids": [
+        "daad-10000123"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Herder Institute for Historical Research on East-Central Europe"
+      ],
+      "notes": "Research stay takes place in the library and scientific collections of the Herder Institute.",
+      "source_ids": [
+        "daad-10000123"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": [
+        "Central and Eastern European countries",
+        "Western Europe"
+      ],
+      "notes": "Especially from Central and Eastern European countries and Western Europe, excluding Germany.",
+      "source_ids": [
+        "daad-10000123"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Excluding those based in Germany.",
+      "source_ids": [
+        "daad-10000123"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "scientific academic qualification",
+        "source_ids": [
+          "daad-10000123"
+        ]
+      },
+      {
+        "text": "knowledge of English or German",
+        "source_ids": [
+          "daad-10000123"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "monthly base amount of 1,900 EUR; for accompanying minors (up to 14 years): flat rate of 500 EUR",
+    "amount_min": 1900,
+    "amount_max": 1900,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "up to 4 weeks",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000123"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Annual call begins in April. Applications must be received by 15 August at the latest.",
+      "applicable_country_codes": null,
+      "id": "daad-10000123-round-annual-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000123"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "The Herder Institute's annual call for applications begins in April. Applications must be received by 15 August at the latest.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Application forms",
+        "source_ids": [
+          "daad-10000123"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit application via the application portal",
+        "source_ids": [
+          "daad-10000123"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000123",
+    "application_url": "https://www.herder-institut.de/en/research/herder-fellowships",
+    "source_ids": [
+      "daad-10000123"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000123",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000123",
+        "title": "Herder Institute for Historical Research on East-Central Europe: Herder Fellowship - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000123",
+        "sha256": "d74b81ab9276bc057ae81e9ff7dcf65734cdfc1a0bccc67bae66c720cc7505f6",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds doctoral students for a physical research stay in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Mixed PhD/postdoc scheme: student/doctoral award is in scope, postdocs are out of scope.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

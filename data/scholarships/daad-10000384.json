@@ -1,0 +1,200 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000384",
+  "slug": "daad-10000384",
+  "title": "Scholarship for Students With Refugee Status",
+  "provider": {
+    "name": "Evangelisches Studienwerk"
+  },
+  "summary": "Scholarship for refugees studying full-time at state or state-recognised German higher education institutions. Candidates from all disciplines with refugee status and a maximum of 3 completed semesters can apply. Provides a monthly stipend and study allowance.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Candidates must not yet have completed a degree recognised in Germany; not possible to apply for a postgraduate Master's programme only.",
+      "source_ids": [
+        "daad-10000384"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Candidates from all disciplines and subjects are welcome to apply.",
+      "source_ids": [
+        "daad-10000384"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "state or state-recognised higher education institutions in Germany"
+      ],
+      "notes": "Must be enrolled at a state or state-recognised higher education institution in Germany.",
+      "source_ids": [
+        "daad-10000384"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Refugees with refugee status; specific country list provided on the page for selection.",
+      "source_ids": [
+        "daad-10000384"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Refugees who are studying at German institutions of higher education.",
+      "source_ids": [
+        "daad-10000384"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "students with a refugee status pursuing full-time courses of study",
+        "source_ids": [
+          "daad-10000384"
+        ]
+      },
+      {
+        "text": "enrolment at a state or state-recognised higher education institution in Germany",
+        "source_ids": [
+          "daad-10000384"
+        ]
+      },
+      {
+        "text": "at the time of application, a maximum of 3 semesters completed",
+        "source_ids": [
+          "daad-10000384"
+        ]
+      },
+      {
+        "text": "evidence of German language skills of C1 level",
+        "source_ids": [
+          "daad-10000384"
+        ]
+      },
+      {
+        "text": "qualified for funding as per BAföG § 8, the German Federal Training Assistance Act",
+        "source_ids": [
+          "daad-10000384"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Applicants show respect toward other religious beliefs and openness to interact with others.",
+        "source_ids": [
+          "daad-10000384"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "monthly stipend of up to 855 EUR plus 300 EUR allowance for study costs, individual mentoring, and additional support",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "the entire course of studies",
+    "covered_costs": [
+      "living_costs",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000384"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2026-10-01",
+      "deadline": "2027-01-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "upcoming",
+      "notes": "for funding beginning in the following winter semester Source deadline clock time: midnight; timezone needs confirmation.",
+      "applicable_country_codes": null,
+      "id": "daad-10000384-round-winter-semester-funding",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000384"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": "2027-07-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "for funding beginning in the following summer semester; application period starts 1 April Source deadline clock time: midnight; timezone needs confirmation.",
+      "applicable_country_codes": null,
+      "id": "daad-10000384-round-summer-semester-funding",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000384"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "1 October to 15 January for funding beginning in the following winter semester; 1 April to 15 July for funding beginning in the following summer semester.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000384",
+    "application_url": "https://www.evstudienwerk.de/stipendium/studium/unser-stipendium-fuer-studierende-mit-fluchterfahrung/",
+    "source_ids": [
+      "daad-10000384"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000384",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000384",
+        "title": "Evangelisches Studienwerk: Scholarship for Students With Refugee Status - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000384",
+        "sha256": "b2b2c0743f5b91e4b9bc1720589daf321dc7007efe31569cb3c375bcbb288ce4",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds international students with refugee status pursuing full-time studies at German higher education institutions."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Deadline time omitted from structured clock field because timezone was not established: midnight",
+      "An upcoming call needs its opening date confirmed.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Candidates must not yet have completed a degree recognised in Germany; not possible to apply for a postgraduate Master's programme only.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Candidates from all disciplines and subjects are welcome to apply."
+    ]
+  }
+}

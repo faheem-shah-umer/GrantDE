@@ -1,0 +1,161 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-50020910",
+  "slug": "daad-50020910",
+  "title": "RISE Germany",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Summer research internships at German institutions for undergraduates studying science, engineering or computing at eligible overseas universities.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-50020910"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering",
+        "natural_sciences",
+        "computer_science"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-50020910"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-50020910"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality details require confirmation.",
+      "source_ids": [
+        "daad-50020910"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-50020910"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "At least two completed undergraduate years.",
+        "source_ids": [
+          "daad-50020910"
+        ]
+      },
+      {
+        "text": "Eligible home university in North America, the UK or Ireland; continued enrolment after returning.",
+        "source_ids": [
+          "daad-50020910"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 992 monthly, insurance and travel contributions.",
+    "amount_min": 992,
+    "amount_max": 992,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Normally three months; at least ten weeks.",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-50020910"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "daad-50020910-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "daad-50020910"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Use the official online RISE Germany application.",
+        "source_ids": [
+          "daad-50020910"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.daad.de/rise-germany",
+    "application_url": null,
+    "source_ids": [
+      "daad-50020910"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-50020910",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50020910",
+        "title": "RISE Germany",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/daad-50020910",
+        "sha256": "80cc53663b3712ce21b0a28549c40558079c0f97285f2937042445bb1b4cc59f",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "University location is not a nationality rule; check the current RISE country and enrolment definitions."
+    ]
+  }
+}

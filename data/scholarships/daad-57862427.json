@@ -1,0 +1,303 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57862427",
+  "slug": "daad-57862427",
+  "title": "GROW – Global Research Opportunities for the South",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Short research stays, preparatory, and cooperation visits in Germany for early career researchers and established academics from OECD DAC list countries.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate",
+        "other"
+      ],
+      "notes": "Aimed at doctoral candidates, postdoctoral researchers, university teachers, and established academics and scientists.",
+      "source_ids": [
+        "daad-57862427"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "health_sciences",
+        "education",
+        "environment",
+        "social_sciences",
+        "other"
+      ],
+      "notes": "Aligned with the United Nations Sustainable Development Goals (SDGs), addressing areas such as health, education, climate, governance, social inclusion and innovation systems.",
+      "source_ids": [
+        "daad-57862427"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Public or state-recognised universities or non-university research institutions in Germany.",
+      "source_ids": [
+        "daad-57862427"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Countries on the OECD DAC list in Sub Saharan Africa, Latin America and Asia"
+      ],
+      "notes": "Aimed at researchers from countries on the OECD DAC list in Sub Saharan Africa, Latin America, and Asia.",
+      "source_ids": [
+        "daad-57862427"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "You are not eligible to apply if you are already in Germany at the time of application or have been resident in Germany for longer than 15 months at the application deadline.",
+      "source_ids": [
+        "daad-57862427"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Must be a doctoral candidate, postdoctoral researcher, university teacher, or established academic/scientist.",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Must be employed at a university or a research institute in an eligible country.",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Doctoral students: The start of the doctorate should not be more than 3 years ago at the application deadline.",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Postdoctoral researchers: PhD must have been completed no more than four years before the application deadline.",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Must not be already in Germany at the time of application or conducting entire doctoral/postdoctoral research at a German higher education institution.",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Must not have been resident in Germany for longer than 15 months at the application deadline.",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Women, socioeconomically disadvantaged individuals and persons from disadvantaged regions or groups are especially encouraged to apply.",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Monthly scholarship payments of 1,400 euros for doctoral candidates and postdocs, 2,000 euros for assistant professors and lecturers, and 2,150 euros for full professors. Also includes payments towards health, accident and personal liability insurance cover and a travel allowance.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Programme Line 1: 1 to 2 months; Programme Line 2: 2 to 6 months",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "travel"
+    ],
+    "source_ids": [
+      "daad-57862427"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadlines are updated annually in the second quarter. Currently you cannot apply for this programme.",
+      "applicable_country_codes": null,
+      "id": "daad-57862427-round-annual-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57862427"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Application deadlines are updated annually in the second quarter.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Online application form",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Curriculum vitae (max. 2 pages)",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Detailed description of the project (Programme Line 1) or proposal including a transfer concept (Programme Line 2)",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Clearly structured time schedule and itinerary (Programme Line 1) or time schedule (Programme Line 2)",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Written confirmation from the academic host in Germany",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Proof of affiliation with a higher education institution",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Declaration from the scientific supervisor or host in Germany on safety-relevant and ethical aspects",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "List of publications (max. 2 pages, Programme Line 2 only)",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Letter of motivation (Programme Line 2 only)",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "University degree certificates stating final grades (Doctoral Candidates and Postdoctoral Researchers)",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Proof of admission to doctoral studies / enrolment in a doctoral programme / letter of supervision (Doctoral candidates only)",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "One recent supporting letter of recommendation on a DAAD-form",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Request and obtain recommendation form",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Prepare application documents in PDF format and translate if necessary",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Fill out the online application form and upload documents in the DAAD portal",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      },
+      {
+        "text": "Submit the application online",
+        "source_ids": [
+          "daad-57862427"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57862427",
+    "application_url": null,
+    "source_ids": [
+      "daad-57862427"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57862427",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57862427",
+        "title": "GROW – Global Research Opportunities for the South - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57862427",
+        "sha256": "23a7934e45f719f0d6b977083f316ede2a2ea57329d9028a8bb313596bd41c51",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds doctoral candidates, postdoctoral researchers, and university teachers for physical research stays and visits at institutions in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Public or state-recognised universities or non-university research institutions in Germany."
+    ]
+  }
+}

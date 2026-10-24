@@ -1,0 +1,292 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57135739",
+  "slug": "daad-57135739",
+  "title": "Doctoral Programmes in Germany",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "This scholarship programme offers international graduates and doctoral candidates the opportunity to complete a doctoral degree or structured doctoral study programme at a state or state-recognised institution of higher education or non-university research institute in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Offers the opportunity to complete your doctoral degree. Applicants must have completed a Master's degree or Diplom, or in exceptional cases a Bachelor's degree.",
+      "source_ids": [
+        "daad-57135739"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines are eligible; specific regulations apply to human medicine, veterinary medicine, and dentistry.",
+      "source_ids": [
+        "daad-57135739"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "A state or state-recognised institution of higher education or a non-university research institute in Germany.",
+      "source_ids": [
+        "daad-57135739"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Restricted to countries listed in the database selection dropdown. If your status and/or country is not included in the list, you cannot apply.",
+      "source_ids": [
+        "daad-57135739"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Your application cannot be considered if you have been resident in Germany for longer than 15 months at the application deadline.",
+      "source_ids": [
+        "daad-57135739"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Above-average qualifications and completed Master's degree or Diplom, or in exceptional cases a Bachelor's degree, at the latest by the time the funding period begins.",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Most recent university degree should have been obtained no more than six years ago before the application deadline.",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "If already started, the start of the doctorate should not be longer than 3 years ago at the time of application.",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Not resident in Germany for longer than 15 months at the application deadline.",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "For applicants from the fields of human medicine, veterinary medicine and dentistry, other regulations are applicable.",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Monthly payments of 1,400 euros. Payments towards health, accident and personal liability insurance cover. Travel allowance (upon application only). Annual research allowance of €460. Additional benefits under certain circumstances: monthly rent subsidy, monthly allowance for accompanying family members, and subsidy for disability or chronic illness. Online language course fees, preparatory language course funding, allowance for a personally chosen German language course, and reimbursement for TestDaF or DSH test fees.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Initially awarded for a maximum of three years; can be extended for a fourth year (maximum of four years in total).",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "travel",
+      "research",
+      "language_course",
+      "other"
+    ],
+    "source_ids": [
+      "daad-57135739"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Applications are possible between 1 June and the stated application deadline (updated annually in the second quarter).",
+      "applicable_country_codes": null,
+      "id": "daad-57135739-round-annual-call",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57135739"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Applications are possible between 1 June and the stated application deadline annually.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Full curriculum vitae in tabular form (max. 3 pages)",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "List of publications (max. 10 pages), if applicable",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Description of academic and personal reasons for your planned project in Germany (letter of motivation: 1-2 pages)",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "A proposal, prepared and formulated by yourself, as well as a description of previous research work (max. 10 pages in total)",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Schedule for planned research work (for individual projects)",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Letter confirming supervision by the doctoral supervisor (for individual projects)",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Module plan (for structured doctoral study programmes)",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Proof of existing contacts to the coordinator of the doctoral programme (for structured doctoral study programmes)",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Letter of admission to a study programme (for structured doctoral study programmes, may be submitted later)",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Declaration from the scientific supervisor in Germany on safety-relevant and ethical aspects",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "All university degree certificates already obtained, stating final grade(s)",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Transcripts of Records (undergraduate and postgraduate programmes)",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "One recent, supporting letter of recommendation from a university teacher",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Request and generate recommendation form as a writable PDF in the portal and have it completed by a university teacher",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Prepare application documents and translate them into German or English if necessary",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Scan paper documents and save in PDF format",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      },
+      {
+        "text": "Complete the online application form in the DAAD portal, upload all required attachments, and submit online",
+        "source_ids": [
+          "daad-57135739"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.daad.de/go/en/stipa57135739",
+    "application_url": null,
+    "source_ids": [
+      "daad-57135739"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57135739",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57135739",
+        "title": "Doctoral Programmes in Germany - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57135739",
+        "sha256": "de6b557cc9a0d363057689abd0b8e779b27df5435458abad9eb17c7636c78143",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme provides funding for international doctoral candidates to conduct research and complete a doctoral degree physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines are eligible; specific regulations apply to human medicine, veterinary medicine, and dentistry.",
+      "A structured restriction needs manual classification: A state or state-recognised institution of higher education or a non-university research institute in Germany.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

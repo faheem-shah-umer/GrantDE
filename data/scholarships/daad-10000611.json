@@ -1,0 +1,225 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000611",
+  "slug": "daad-10000611",
+  "title": "DAAD Zuse School of Embedded Composite Artificial Intelligence (SECAI): Scholarships for Master's students in AI",
+  "provider": {
+    "name": "DAAD / TU Dresden / Leipzig University"
+  },
+  "summary": "Scholarships for outstanding international and domestic Master's students studying AI or related fields at TU Dresden or Leipzig University, providing a monthly allowance and supporting academic excellence, internationalisation, and diversity.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "diploma"
+      ],
+      "notes": "Targeted at Master's students and German Diplom students considered to be at Master's level after completing the first 2 years (Grundstudium).",
+      "source_ids": [
+        "daad-10000611"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Covers AI and related fields including computer science, engineering, mathematics, social science, law, natural sciences, medicine, bioinformatics, medical informatics, nanoelectronic systems, legal aspects of AI, human/societal dimensions, and socio-technical systems/human-machine interaction.",
+      "source_ids": [
+        "daad-10000611"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "TU Dresden",
+        "Leipzig University"
+      ],
+      "notes": "Must intend to study at TU Dresden or Leipzig University.",
+      "source_ids": [
+        "daad-10000611"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Page provides a long dropdown of origin countries/regions, but does not explicitly state an unrestricted or exhaustive nationality policy.",
+      "source_ids": [
+        "daad-10000611"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Page mentions country of residence and application, but does not explicitly restrict residence status beyond global origin country selection list.",
+      "source_ids": [
+        "daad-10000611"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Currently are or soon will be students at TU Dresden or Leipzig University at Master's level",
+        "source_ids": [
+          "daad-10000611"
+        ]
+      },
+      {
+        "text": "Studies closely related to research areas of SECAI",
+        "source_ids": [
+          "daad-10000611"
+        ]
+      },
+      {
+        "text": "Demonstrate an above-average academic track record, typically with a cumulative grade point average of 1.7 or better (German grading system)",
+        "source_ids": [
+          "daad-10000611"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Women in STEM subjects are particularly encouraged to apply.",
+        "source_ids": [
+          "daad-10000611"
+        ]
+      },
+      {
+        "text": "Special personal circumstances (e.g., systematically disadvantaged or prosecuted in home countries, refugees of war) are taken into account.",
+        "source_ids": [
+          "daad-10000611"
+        ]
+      }
+    ],
+    "exceptions": [
+      {
+        "text": "Exceptions to the GPA requirement of 1.7 or better may be made in case of adverse personal circumstances.",
+        "source_ids": [
+          "daad-10000611"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Monthly allowance as defined in SECAI regulations, currently 934 EUR. Any extra income must be declared, and scholarship may be reduced by gross income exceeding 603 EUR. Foreign students may be entitled to a monthly family allowance.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "up to 24 months",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000611"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "The general deadline for all applications is 30 June. However, a limited number of outstanding applications may be selected earlier. The respective deadlines are published on the programme website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000611-round-general-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000611"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "General deadline is 30 June annually.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "motivation letter, including topical connection to SECAI and AI",
+        "source_ids": [
+          "daad-10000611"
+        ]
+      },
+      {
+        "text": "CV",
+        "source_ids": [
+          "daad-10000611"
+        ]
+      },
+      {
+        "text": "Bachelor's certificate (if available), transcript of records, other certificates if relevant",
+        "source_ids": [
+          "daad-10000611"
+        ]
+      },
+      {
+        "text": "declaration of other sources of income, including other scholarships",
+        "source_ids": [
+          "daad-10000611"
+        ]
+      },
+      {
+        "text": "reference number and submission date of Master's programme application (if applied in parallel)",
+        "source_ids": [
+          "daad-10000611"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit complete application via email to secai-office@tu-dresden.de, preferably via the TU Dresden SecureMail Portal.",
+        "source_ids": [
+          "daad-10000611"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000611",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000611"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000611",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000611",
+        "title": "DAAD Zuse School of Embedded Composite Artificial Intelligence (SECAI): Scholarships for Master&#039;s students in AI - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000611",
+        "sha256": "5d722cf61a96ddcf827a5361182cf3e9dde3258da23717558812610b3894afdb",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds Master's students for physical study and research at TU Dresden or Leipzig University in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "A limited number of outstanding applications may be selected earlier than the general 30 June deadline.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "A structured restriction needs manual classification: Covers AI and related fields including computer science, engineering, mathematics, social science, law, natural sciences, medicine, bioinformatics, medical informatics, nanoelectronic systems, legal aspects of AI, human/societal dimensions, and socio-technical systems/human-machine interaction.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

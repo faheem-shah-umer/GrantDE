@@ -1,0 +1,218 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000398",
+  "slug": "daad-10000398",
+  "title": "German Bundestag: International Parliamentary Scholarships: Programme Arab Countries",
+  "provider": {
+    "name": "German Bundestag / DAAD"
+  },
+  "summary": "A 1-month scholarship in Berlin for politically engaged graduates from Arab countries to experience the German parliamentary system.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "other"
+      ],
+      "notes": "Aimed at graduates (people who already have at least one first academic degree, e.g. Bachelor).",
+      "source_ids": [
+        "daad-10000398"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No specific academic subjects restricted, focused on political interest and graduates.",
+      "source_ids": [
+        "daad-10000398"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified.",
+      "source_ids": [
+        "daad-10000398"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "DZ",
+        "BH",
+        "EG",
+        "IQ",
+        "JO",
+        "KW",
+        "LB",
+        "LY",
+        "MA",
+        "OM",
+        "PS",
+        "QA",
+        "SA",
+        "SY",
+        "TN",
+        "AE",
+        "YE"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Arab states",
+        "programme country"
+      ],
+      "notes": "Citizenship of a programme country from the Arab states region (Algeria, Bahrain, Egypt, Iraq, Jordan, Kuwait, Lebanon, Libya, Morocco, Oman, Palestinian Territories, Qatar, Saudi Arabia, Syrian Arab Republic (Syria), Tunisia, United Arab Emirates, Yemen).",
+      "source_ids": [
+        "daad-10000398"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "\"Country\" is the country in which you are living and from which you are applying (from the listed Arab states).",
+      "source_ids": [
+        "daad-10000398"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "citizenship of a programme country",
+        "source_ids": [
+          "daad-10000398"
+        ]
+      },
+      {
+        "text": "under the age of 35 at the start of the scholarship",
+        "source_ids": [
+          "daad-10000398"
+        ]
+      },
+      {
+        "text": "university degree",
+        "source_ids": [
+          "daad-10000398"
+        ]
+      },
+      {
+        "text": "very good knowledge of the German language, at least B2 level",
+        "source_ids": [
+          "daad-10000398"
+        ]
+      },
+      {
+        "text": "interest in politics, as well as social/political commitment",
+        "source_ids": [
+          "daad-10000398"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Scholarship of 700 EUR monthly. Costs of health, accident and personal liability insurance will be covered. Travel expenses to and from Berlin will be covered. Free accommodation.",
+    "amount_min": 700,
+    "amount_max": 700,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "1 month (1 September to 30 September)",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000398"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Current deadlines can be found on the programme website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000398-round-current-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000398"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "application form",
+        "source_ids": [
+          "daad-10000398"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Use the application portal on a desktop computer.",
+        "source_ids": [
+          "daad-10000398"
+        ]
+      },
+      {
+        "text": "Submit the application form and required papers through the official application website.",
+        "source_ids": [
+          "daad-10000398"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000398",
+    "application_url": "https://www.bundestag.de/en/europe/international/exchange/ips/arabian-250618",
+    "source_ids": [
+      "daad-10000398"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000398",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000398",
+        "title": "German Bundestag: International Parliamentary Scholarships: Programme Arab Countries - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000398",
+        "sha256": "a633f91458dff59d6f5c58aaefb360205bcd132398b1356516062d506d6f9ff2",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International graduates receive funding for a physical study and research programme in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: No specific academic subjects restricted, focused on political interest and graduates."
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "schema_version": "2.0.0",
+  "id": "foundation-naumann-international-scholarships-for-foreign-students-from-non-eu-countries",
+  "slug": "foundation-naumann-international-scholarships-for-foreign-students-from-non-eu-countries",
+  "title": "Scholarships for foreign students from non-EU countries",
+  "provider": {
+    "name": "Friedrich Naumann Foundation for Freedom"
+  },
+  "summary": "Full-degree master's or state examination scholarships at German universities for committed, liberal-minded foreign students from non-EU countries with very good grades.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "state_exam"
+      ],
+      "notes": "Master's or main study stage of the state examination. Bachelor's programmes are explicitly excluded.",
+      "source_ids": [
+        "foundation-naumann-international"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No specific academic disciplines mentioned on the page.",
+      "source_ids": [
+        "foundation-naumann-international"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German universities",
+      "source_ids": [
+        "foundation-naumann-international"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Non-EU countries"
+      ],
+      "notes": "For foreign students from non-EU countries.",
+      "source_ids": [
+        "foundation-naumann-international"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Full study at German universities; study and research stays or internships abroad cannot be funded.",
+      "source_ids": [
+        "foundation-naumann-international"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Committed and liberal-minded attitude",
+        "source_ids": [
+          "foundation-naumann-international"
+        ]
+      },
+      {
+        "text": "Very good grades",
+        "source_ids": [
+          "foundation-naumann-international"
+        ]
+      },
+      {
+        "text": "Must still have two remaining semesters before completing studies",
+        "source_ids": [
+          "foundation-naumann-international"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Funding is initially granted for one year and may be extended. Exact monetary amounts are not specified.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Initially one year, with possible extension for another year until studies are completed.",
+    "covered_costs": [],
+    "source_ids": [
+      "foundation-naumann-international"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No application deadlines mentioned on the page.",
+      "applicable_country_codes": null,
+      "id": "foundation-naumann-international-scholarships-for-foreign-students-from-non-eu-countries-round-unspecified-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "foundation-naumann-international"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Required application documents (see downloadable PDF on page)",
+        "source_ids": [
+          "foundation-naumann-international"
+        ]
+      }
+    ],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.freiheit.org/scholarships-foreign-students-non-eu-countries-1",
+    "application_url": null,
+    "source_ids": [
+      "foundation-naumann-international"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "foundation-naumann-international",
+        "url": "https://www.freiheit.org/scholarships-foreign-students-non-eu-countries-1",
+        "title": "Scholarships for foreign students from non-EU countries | Friedrich Naumann Foundation",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/foundation-naumann-international",
+        "sha256": "4eb219436354a60fb5d5acdb9da822f1e59750a1a0a4c04946b50bcf7b482960",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship supports international students for full-time master's or state examination studies physically at German universities."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "A structured restriction needs manual classification: German universities"
+    ]
+  }
+}

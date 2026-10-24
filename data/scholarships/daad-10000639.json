@@ -1,0 +1,255 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000639",
+  "slug": "daad-10000639",
+  "title": "You and Europe Scholarship Programme",
+  "provider": {
+    "name": "Alfred Toepfer Stiftung & Studienstiftung des deutschen Volkes"
+  },
+  "summary": "Master's scholarship for European students in Germany promoting European understanding, dialogue, and academic excellence across various disciplines.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "Aimed at European students wishing to complete a 3- or 4-semester Master's programme in Germany (including bi-national programmes).",
+      "source_ids": [
+        "daad-10000639"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering",
+        "computer_science",
+        "mathematics",
+        "natural_sciences",
+        "medicine",
+        "health_sciences",
+        "agriculture",
+        "environment",
+        "business_economics",
+        "law",
+        "social_sciences",
+        "humanities",
+        "education",
+        "other"
+      ],
+      "notes": "Open to students of all disciplines at universities and universities of applied sciences, except students at colleges of art and music and those at universities of applied sciences studying in the visual and performing arts, design, film and music.",
+      "source_ids": [
+        "daad-10000639"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Open to students at German universities and universities of applied sciences.",
+      "source_ids": [
+        "daad-10000639"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "46 European countries and the State of Israel (Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Czech Republic, Denmark, Estonia, Finland, France, Georgia, Greece, Hungary, Iceland, Ireland, Israel, Italy, Kazakhstan, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Republic of, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom, Vatican City)"
+      ],
+      "notes": "Open to European students defined geographically in its entirety plus the State of Israel; specific countries are published on the programme website for each round.",
+      "source_ids": [
+        "daad-10000639"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "For studying in Germany; country is the country in which you are living and from which you are applying.",
+      "source_ids": [
+        "daad-10000639"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Nomination by a university lecturer including a letter of recommendation",
+        "source_ids": [
+          "daad-10000639"
+        ]
+      },
+      {
+        "text": "Above-average results in previous studies and outstanding commitment (10-15% top performers of the year)",
+        "source_ids": [
+          "daad-10000639"
+        ]
+      },
+      {
+        "text": "Fluency in English",
+        "source_ids": [
+          "daad-10000639"
+        ]
+      },
+      {
+        "text": "Intending to pursue a 3- to 4-semester Master's degree programme in Germany (incl. binational programmes)",
+        "source_ids": [
+          "daad-10000639"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Students who have already completed their higher education entrance qualification or a Bachelor's degree in Germany are not eligible.",
+        "source_ids": [
+          "daad-10000639"
+        ]
+      },
+      {
+        "text": "Students at colleges of art and music and those at universities of applied sciences pursuing studies in the visual and performing arts, design, film and music are excluded.",
+        "source_ids": [
+          "daad-10000639"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Need-based monthly scholarship ranging between 300 EUR and 1,112 EUR plus additional benefits (e.g. health insurance, family allowance, etc.) for the standard duration of a Master’s degree course.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "2 years, standard period of study for a Master's programme",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "travel"
+    ],
+    "source_ids": [
+      "daad-10000639"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "The nomination deadline is annually on 2 December. Extracted deadline was '12-02'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000639-round-nomination-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000639"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "The application deadline is annually on 4 January. Extracted deadline was '01-04'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000639-round-application-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000639"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Nomination deadline annually on 2 December; application deadline annually on 4 January.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Application form (received via link after invitation)",
+        "source_ids": [
+          "daad-10000639"
+        ]
+      },
+      {
+        "text": "Letter of recommendation via university lecturer nomination",
+        "source_ids": [
+          "daad-10000639"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "University lecturer submits a nomination including a letter of recommendation.",
+        "source_ids": [
+          "daad-10000639"
+        ]
+      },
+      {
+        "text": "Toepfer Stiftung invites suitable candidates based on nominations and sends a link for an application form.",
+        "source_ids": [
+          "daad-10000639"
+        ]
+      },
+      {
+        "text": "Candidates submit application documents for the preselection round jury review.",
+        "source_ids": [
+          "daad-10000639"
+        ]
+      },
+      {
+        "text": "Finalists are invited to the main selection procedure featuring online selection interviews conducted mainly in English.",
+        "source_ids": [
+          "daad-10000639"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000639",
+    "application_url": "https://www.daad.de/sapportal/technische_voraussetzungen/PBF_en.html",
+    "source_ids": [
+      "daad-10000639"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000639",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000639",
+        "title": "Alfred Toepfer Stiftung & Studienstiftung des deutschen Volkes: You and Europe Scholarship Programme - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000639",
+        "sha256": "dc11cae00bc0a10034ac185445b6861eab9ba615d66a8f1d4b308fbf2e41bf92",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme supports international European students completing a Master's degree in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Unconfirmed date '12-02' was not converted to a year-specific date.",
+      "Unconfirmed date '01-04' was not converted to a year-specific date.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Open to students at German universities and universities of applied sciences."
+    ]
+  }
+}

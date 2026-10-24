@@ -1,0 +1,199 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000562",
+  "slug": "daad-10000562",
+  "title": "Paired Early Career Fellowship in Applied Research (PECFAR)",
+  "provider": {
+    "name": "Indo-German Science and Technology Centre (IGSTC)"
+  },
+  "summary": "Short-term fellowship for early-career Indian and German researchers to network and explore collaboration in STEM by visiting the partner country for 1-2 months as a pair.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate",
+        "other"
+      ],
+      "notes": "Master's degree in Science/Bachelor's degree in Engineering (4 years); target group includes early career researchers holding a regular position or long-term nationally recognised fellowship.",
+      "source_ids": [
+        "daad-10000562"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering",
+        "mathematics",
+        "natural_sciences"
+      ],
+      "notes": "Science, Technology, Engineering & Mathematics (STEM)",
+      "source_ids": [
+        "daad-10000562"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No specific institutions restricted, but requires working at academia/research institution/industry.",
+      "source_ids": [
+        "daad-10000562"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "India",
+        "Germany"
+      ],
+      "notes": "Early-career Indian and German researchers (term Indian or German applicant refers to the location of the company or organisation the applicant/awardee is working at).",
+      "source_ids": [
+        "daad-10000562"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Indian or German applicant refers to the location of the company or organisation the applicant/awardee is working at.",
+      "source_ids": [
+        "daad-10000562"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Early career researchers holding a regular position in academia/a research institution/industry or holding a long-term nationally recognised fellowship",
+        "source_ids": [
+          "daad-10000562"
+        ]
+      },
+      {
+        "text": "Master’s degree in Science/Bachelor’s degree in Engineering (4 years)",
+        "source_ids": [
+          "daad-10000562"
+        ]
+      },
+      {
+        "text": "Form a pair with an early career researcher from the partner country and submit a joint proposal",
+        "source_ids": [
+          "daad-10000562"
+        ]
+      },
+      {
+        "text": "Age limit: 40 years",
+        "source_ids": [
+          "daad-10000562"
+        ]
+      },
+      {
+        "text": "Acceptance letter from the institute/organisation of the paired fellow",
+        "source_ids": [
+          "daad-10000562"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "On the German side, preference is given to researchers who have at least 4 years of experience at a German educational or research institution.",
+        "source_ids": [
+          "daad-10000562"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Fellowship: 2,300 EUR per month/fellow. In the second month, payments are calculated on a daily basis (2,300 EUR / 30 days). One-time grant to cover travel, accommodation and daily expenses. 1,500 EUR travel reimbursements (for German fellow).",
+    "amount_min": 2300,
+    "amount_max": 2300,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "1-2 months (minimum 1 month)",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "research"
+    ],
+    "source_ids": [
+      "daad-10000562"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadlines are published on the website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000562-round-unspecified-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000562"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Applications are submitted online via the IGSTC application portal.",
+        "source_ids": [
+          "daad-10000562"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000562",
+    "application_url": "https://www.igstc.org/home/pecfar_current_call",
+    "source_ids": [
+      "daad-10000562"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000562",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000562",
+        "title": "Indo-German Science and Technology Centre (IGSTC): Paired Early Career Fellowship in Applied Research (PECFAR) - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000562",
+        "sha256": "51ec59170e6e86bb0693474198267589069badbcb7a8e07f427f34d7f38a4bdf",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports early-career researchers including international researchers for short research visits to Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: No specific institutions restricted, but requires working at academia/research institution/industry."
+    ]
+  }
+}

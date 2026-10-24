@@ -1,0 +1,342 @@
+{
+  "checked_on": "2026-10-24",
+  "records": [
+    {
+      "id": "daad-50026200",
+      "source_keys": [
+        "daad-master"
+      ],
+      "changed_sections": [
+        "funding",
+        "provenance",
+        "publication"
+      ],
+      "remaining_notes": [
+        "Country-specific eligibility and deadlines remain unresolved on the origin-unspecified DAAD page; do not use its country selector as a nationality whitelist."
+      ],
+      "before_sha256": "7db49800503e0d0fb019ce0fe367a96efad1b0e270f44c0e6f5ca7dcaf7bda7e",
+      "after_sha256": "3992d1ea05faf77e5b808faa4bbd94554295e08184a5cbbfa354d3484235336e",
+      "status": "source_reviewed_with_open_items",
+      "publication_status": "draft",
+      "source_urls": [
+        "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026200"
+      ]
+    },
+    {
+      "id": "bonn-rhein-sieg-stibet-completion",
+      "source_keys": [
+        "hbrs"
+      ],
+      "changed_sections": [
+        "funding",
+        "recurring_deadline_notes",
+        "provenance",
+        "publication"
+      ],
+      "remaining_notes": [
+        "The institutional overview confirms EUR 650/month for up to three months. Obtain the applicable thesis-registration deadline and full document list from the International Office."
+      ],
+      "before_sha256": "93a3eee2df815dd3a9b92f88507b889d3021d1b2f6530f59604cd8d33db70e0f",
+      "after_sha256": "032deb118290a92133d4b2cdbf36685e495758c4400d6779ab160136b7457362",
+      "status": "source_reviewed_with_open_items",
+      "publication_status": "draft",
+      "source_urls": [
+        "https://www.h-brs.de/en/io/scholarships-international-students"
+      ]
+    },
+    {
+      "id": "daad-10000113",
+      "source_keys": [
+        "boell",
+        "boell-phd-checklist",
+        "boell-finance",
+        "boell-finance-2026"
+      ],
+      "changed_sections": [
+        "study_scope",
+        "applicant_requirements",
+        "funding",
+        "application_process",
+        "provenance",
+        "publication"
+      ],
+      "remaining_notes": [
+        "Confirm country/funding route. The still-linked June 2025 checklist contains older monetary rates; the October 2026 financial overview is used for current amounts."
+      ],
+      "before_sha256": "6bd3fef2f56857363b6e181e2591609fc17e476b27225a158a852389e4c25c01",
+      "after_sha256": "85d0ecd28170ae41faad840bb655b799c7334b34bee28249e89ac7cf7943534a",
+      "status": "source_reviewed_with_open_items",
+      "publication_status": "draft",
+      "source_urls": [
+        "https://www.boell.de/en/applying-scholarship",
+        "https://www.boell.de/sites/default/files/2026-04/3-a2-1b-info_checklist_application_prom_may_2025.pdf",
+        "https://www.boell.de/en/2025/05/14/financial-support",
+        "https://www.boell.de/sites/default/files/2026-10/uebersicht_finanzielle-forderung_engl_10_2026.pdf"
+      ]
+    },
+    {
+      "id": "daad-10000124",
+      "source_keys": [
+        "boell",
+        "boell-german",
+        "boell-study-checklist",
+        "boell-checklist-2026",
+        "boell-finance-2026"
+      ],
+      "changed_sections": [
+        "study_scope",
+        "applicant_requirements",
+        "funding",
+        "application_rounds",
+        "application_process",
+        "provenance",
+        "publication"
+      ],
+      "remaining_notes": [
+        "The English page's first-cycle-only notice for March 2027 conflicts with its Master's section and the German page/September 2026 checklist. Provider clarification is still required.",
+        "Funding and country eligibility depend on the EU/non-EU and educational-background route; do not show a universal amount or nationality whitelist."
+      ],
+      "before_sha256": "d46e47fd1955f17cdb90ddd69e5b9c849d9be9dd322caa512f73431238ab89a1",
+      "after_sha256": "9f1fb6a22925151d9f005d437fbd4c995eaf812e8840daa621dc45238f10bab4",
+      "status": "source_reviewed_with_open_items",
+      "publication_status": "draft",
+      "source_urls": [
+        "https://www.boell.de/en/applying-scholarship",
+        "https://www.boell.de/de/stipendium-studium",
+        "https://www.boell.de/sites/default/files/2026-04/2-a1-1b-info_checklist_application_stud_june_2025.pdf",
+        "https://www.boell.de/sites/default/files/2026-09/1_a1-1a-infoblatt_checkliste_bewerbung-stud_september_2026-2.pdf",
+        "https://www.boell.de/sites/default/files/2026-10/uebersicht_finanzielle-forderung_engl_10_2026.pdf"
+      ]
+    },
+    {
+      "id": "daad-10000153",
+      "source_keys": [
+        "fes",
+        "fes-faq"
+      ],
+      "changed_sections": [
+        "applicant_requirements",
+        "funding",
+        "recurring_deadline_notes",
+        "provenance",
+        "publication"
+      ],
+      "remaining_notes": [
+        "The main page permits formal applications from abroad, while the FAQ says applicants must already be in Germany. Country/EU definitions in the FAQ also vary. Clarify the applicant route before publication.",
+        "The general page does not provide a complete application-document checklist."
+      ],
+      "before_sha256": "1fea7b75f3e515619107e5312abdeca25b45d4563f16dfd2c490bb54480db7cf",
+      "after_sha256": "00c0992574858bbd068c4e2e3497e30eb05dbff47fb0a2112d5a6c22c7dded20",
+      "status": "source_reviewed_with_open_items",
+      "publication_status": "draft",
+      "source_urls": [
+        "https://www.fes.de/studienfoerderung/stipendium/grundfoerderung-fuer-auslaender-innen",
+        "https://www.fes.de/studienfoerderung/faq/foerderung-von-auslaendischen-studierenden"
+      ]
+    },
+    {
+      "id": "daad-10000207",
+      "source_keys": [
+        "deutschland-faq"
+      ],
+      "changed_sections": [
+        "study_scope",
+        "applicant_requirements",
+        "funding",
+        "provenance",
+        "publication"
+      ],
+      "remaining_notes": [
+        "The federal FAQ verifies the national programme; each chosen university sets its own call, document requirements and selection process. The English programme URL returned no usable text in this retrieval, so its reachability is not certified."
+      ],
+      "before_sha256": "df7356f8c540b013698701474ecd17664035eb2e36dca70c227efaa755a48d3b",
+      "after_sha256": "6c029dba4c548a047c3b32dc10c3a5a33898f933d2737d83859b498594ed93d3",
+      "status": "source_reviewed_with_open_items",
+      "publication_status": "draft",
+      "source_urls": [
+        "https://www.deutschlandstipendium.de/deutschlandstipendium/de/studierende/haeufig-gestellte-fragen/haeufig-gestellte-fragen_node.html"
+      ]
+    },
+    {
+      "id": "fau-international-student-graduation-scholarship",
+      "source_keys": [
+        "fau"
+      ],
+      "changed_sections": [
+        "study_scope",
+        "applicant_requirements",
+        "funding",
+        "provenance",
+        "publication"
+      ],
+      "remaining_notes": [
+        "The current source confirms 28 October 2026 at 12:00 noon but does not explicitly name a timezone or opening date; retain those as unconfirmed."
+      ],
+      "before_sha256": "690988f1b936f65a6aa5fa78b8c7159c5c1ad5e6ba9762924742a5de584bcdd7",
+      "after_sha256": "6e02919998334b77af3bb77128681b653ac32f9d0e7150af462752727dee97a9",
+      "status": "source_reviewed_with_open_items",
+      "publication_status": "draft",
+      "source_urls": [
+        "https://www.fau.eu/studying/organizing-your-studies-and-where-to-go-for-advice/funding-your-studies/scholarships-for-international-students-about-to-graduate/"
+      ]
+    },
+    {
+      "id": "heidelberg-amirana-amirana-scholarship",
+      "source_keys": [
+        "amirana",
+        "amirana-call"
+      ],
+      "changed_sections": [
+        "applicant_requirements",
+        "funding",
+        "application_process",
+        "provenance",
+        "publication",
+        "study_scope"
+      ],
+      "remaining_notes": [
+        "The call gives 15 November of the current year but is not individually year-stamped; keep the recurring date descriptive until a year-specific round is confirmed.",
+        "The medical/dental controlled degree category is not explicit in the scholarship sources; confirm the mapping before publication. An unsupported other classification has been replaced with unknown."
+      ],
+      "before_sha256": "38ae4676bbc0b02d0c3d2b82104fc3aeb39fb53b9b2bd71e461313e74442ae27",
+      "after_sha256": "d8953b1c9c5895af6e074447dbe9a72ae85dcb05ec5f699fccebe889610f229e",
+      "status": "source_reviewed_with_open_items",
+      "publication_status": "draft",
+      "source_urls": [
+        "https://www.uni-heidelberg.de/en/alumni/career/scholarships/amirana-scholarship",
+        "https://backend.uni-heidelberg.de/de/dokumente/alumniamiranaausschreibungpdf/download"
+      ]
+    },
+    {
+      "id": "heidelberg-completion-graduation-completion-grant-for-international-students",
+      "source_keys": [
+        "heidelberg-completion"
+      ],
+      "changed_sections": [
+        "study_scope",
+        "applicant_requirements",
+        "funding",
+        "provenance",
+        "publication"
+      ],
+      "remaining_notes": [
+        "The provider's postgraduate Master's exclusion needs programme-specific interpretation; do not describe all Master's programmes as eligible.",
+        "February and August application windows have no explicit year on the page; do not manufacture a current round."
+      ],
+      "before_sha256": "f81940fda2621c8a071d0d0f5ada0a30a5dd65b9d472b8c4c7999f11c1b834bf",
+      "after_sha256": "aab6de4fad0cfe2b93dd0d44b899099e7217bf5939edbc254db3e1ff8675aea0",
+      "status": "source_reviewed_with_open_items",
+      "publication_status": "draft",
+      "source_urls": [
+        "https://www.uni-heidelberg.de/en/study/management-of-studies/funding-of-studies/graduation-completion-grant-for-international-students"
+      ]
+    },
+    {
+      "id": "uni-cologne-artes-a-r-t-e-s-doctoral-scholarships",
+      "source_keys": [
+        "artes"
+      ],
+      "changed_sections": [
+        "funding",
+        "application_rounds",
+        "provenance",
+        "publication"
+      ],
+      "remaining_notes": [
+        "The call and deadlines refer to April 2027, but one portal-selection instruction still says starting April 2026. Confirm the correct application route before publication."
+      ],
+      "before_sha256": "87ecc5575a2516b150cd82135d2eb3c8a6bd85707c3212f9f7bfad80ed961e3c",
+      "after_sha256": "c65062b69d7a622cb8fe60512ebf262b5134d569f6f54db8d7467e42b9cca42c",
+      "status": "source_reviewed_with_open_items",
+      "publication_status": "draft",
+      "source_urls": [
+        "https://artes.phil-fak.uni-koeln.de/en/doctorate/funding-programmes/artes-doctoral-scholarships/application"
+      ]
+    },
+    {
+      "id": "uni-stuttgart-beihilfe",
+      "source_keys": [
+        "stuttgart"
+      ],
+      "changed_sections": [
+        "study_scope",
+        "applicant_requirements",
+        "funding",
+        "application_rounds",
+        "provenance",
+        "publication"
+      ],
+      "remaining_notes": [
+        "The 31 October 2026 joint deadline is conditional on funds; confirm availability and obtain the application form through the International Office.",
+        "Doctoral coverage is unclear between the introduction and specific Bachelor's/Master's eligibility bullets. The full document list is not public on the overview."
+      ],
+      "before_sha256": "09530934d20e3a836f0beb1f2cc3004461d6ba275c07484d06e6ac26babc573b",
+      "after_sha256": "554b77472b37fed325ba6aaf7497a610595d043b6af71805d7158b468cf31f62",
+      "status": "source_reviewed_with_open_items",
+      "publication_status": "draft",
+      "source_urls": [
+        "https://www.uni-stuttgart.de/en/study/new-in-stuttgart/finances/international/#id-994379e8-1"
+      ]
+    },
+    {
+      "id": "berlin-elsa-neumann-doctoral-scholarship",
+      "source_keys": [
+        "elsa",
+        "elsa-central",
+        "elsa-conditions"
+      ],
+      "changed_sections": [
+        "study_scope",
+        "applicant_requirements",
+        "funding",
+        "application_rounds",
+        "application_process",
+        "provenance",
+        "publication"
+      ],
+      "remaining_notes": [
+        "The central application-information brochure and full document checklist still need detailed review; noon deadline timezone is not explicitly stated."
+      ],
+      "before_sha256": "535ce79b964f7e842e8e8f88b3cc920232636a33e72340948b34e57bf0227062",
+      "after_sha256": "e208697d523ae558484c01bfeacf2914cb1d6cc6b8655e43dbedb5fd94069d7d",
+      "status": "source_reviewed_with_open_items",
+      "publication_status": "draft",
+      "source_urls": [
+        "https://www.tu.berlin/go5168/",
+        "https://www.fu-berlin.de/sites/drs/funding/nafoeg/index.html",
+        "https://www.fu-berlin.de/sites/drs/funding/nafoeg/about-nafoeg.html"
+      ]
+    }
+  ],
+  "record_count": 12,
+  "capture_count": 21,
+  "fingerprint_encoding": "SHA-256 of json.dumps(record, sort_keys=True), UTF-8; semantic snapshot rather than original file bytes",
+  "before_flag_counts": {
+    "current_dates_unconfirmed": 138,
+    "deadline_within_30_days": 8,
+    "degree_unknown": 38,
+    "documents_unknown": 111,
+    "editorial_notes_present": 179,
+    "institution_unknown": 112,
+    "nationality_unknown": 88,
+    "numeric_funding_unconfirmed": 109,
+    "past_rounds_only": 30,
+    "residence_unknown": 64,
+    "source_review_pending": 143,
+    "subject_unknown": 126
+  },
+  "after_flag_counts": {
+    "current_dates_unconfirmed": 137,
+    "deadline_within_30_days": 9,
+    "degree_unknown": 39,
+    "documents_unknown": 111,
+    "editorial_notes_present": 180,
+    "institution_unknown": 109,
+    "nationality_unknown": 87,
+    "numeric_funding_not_summarised": 106,
+    "past_rounds_only": 30,
+    "residence_unknown": 65,
+    "source_review_pending": 138,
+    "subject_unknown": 125
+  }
+}

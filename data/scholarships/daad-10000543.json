@@ -1,0 +1,226 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000543",
+  "slug": "daad-10000543",
+  "title": "Klassik Stiftung Weimar Fellowships",
+  "provider": {
+    "name": "Klassik Stiftung Weimar"
+  },
+  "summary": "Fellowships supporting scientific, essayistic, and art projects with a sojourn in Weimar, covering Weimar, Nietzsche, and Bauhaus funding lines for students, graduates, and researchers.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "doctorate",
+        "exchange",
+        "other"
+      ],
+      "notes": "Weimar and Nietzsche Fellowships require at minimum a Master of Arts degree or equivalent. Bauhaus Fellowships are for artists, cultural sector persons, students, and graduates in art, media, design, literature, curatorial practice, and cultural mediation.",
+      "source_ids": [
+        "daad-10000543"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "humanities",
+        "arts_design"
+      ],
+      "notes": "Covers scientific, essayistic, and art projects, specifically mentioning philosophy, literature, art, media, design, curatorial practice, and cultural mediation.",
+      "source_ids": [
+        "daad-10000543"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Klassik Stiftung Weimar",
+        "Goethe and Schiller Archive",
+        "Duchess Anna Amalia Library"
+      ],
+      "notes": "Fellows can work in all institutions maintained by the Klassik Stiftung Weimar, with preference given to the Goethe and Schiller Archive, the Duchess Anna Amalia Library and the museums.",
+      "source_ids": [
+        "daad-10000543"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "The dropdown list contains a comprehensive global range of countries; explicit restrictions beyond living country are not specified.",
+      "source_ids": [
+        "daad-10000543"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Country is the country in which you are living and from which you are applying.",
+      "source_ids": [
+        "daad-10000543"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "For Weimar Fellowships: working with the archival materials of the Goethe and Schiller Archive or with the holdings of the Duchess Anna Amalia Library is required.",
+        "source_ids": [
+          "daad-10000543"
+        ]
+      },
+      {
+        "text": "For Weimar and Nietzsche Fellowships: at minimum a Master of Arts degree or equivalent (e.g. a 'Magister').",
+        "source_ids": [
+          "daad-10000543"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "For Nietzsche Fellowships: a reference to Nietzsche's philosophy is expedient, though not obligatory.",
+        "source_ids": [
+          "daad-10000543"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Grant: 1,500 EUR per month. Fellows can stay in guest rooms of the Klassik Stiftung Weimar. If no guest room is available, a flat-rate accommodation allowance of 500 EUR per month will be paid.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "2-4 months",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000543"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Up-to-date information on deadlines can be found on the Klassik Stiftung Weimar website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000543-round-external-website-deadlines",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000543"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "letter of motivation",
+        "source_ids": [
+          "daad-10000543"
+        ]
+      },
+      {
+        "text": "abstract of research plan or art project (10–15 lines)",
+        "source_ids": [
+          "daad-10000543"
+        ]
+      },
+      {
+        "text": "Brief outline of the project profiling the applicant’s own research interests, the current standing of research in the relevant field and the applicant’s own preliminary work (for Weimar and Nietzsche Fellowships)",
+        "source_ids": [
+          "daad-10000543"
+        ]
+      },
+      {
+        "text": "Description of how your research project engages with collections in Weimar (4-5 pages, for Weimar Fellowships)",
+        "source_ids": [
+          "daad-10000543"
+        ]
+      },
+      {
+        "text": "detailed project description with an explanation of any previous work, a timeline and a presentation concept (4–5 pages, for Bauhaus Fellowships)",
+        "source_ids": [
+          "daad-10000543"
+        ]
+      },
+      {
+        "text": "Curriculum Vitae in tabular form",
+        "source_ids": [
+          "daad-10000543"
+        ]
+      },
+      {
+        "text": "list of publications, if applicable",
+        "source_ids": [
+          "daad-10000543"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Please apply via the online application portal and attach the required documents in one PDF file.",
+        "source_ids": [
+          "daad-10000543"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000543",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000543"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000543",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000543",
+        "title": "Klassik Stiftung Weimar Fellowships - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000543",
+        "sha256": "feb50264875cc7babf5f65b195ba6c82f7539c950638fa4d0d12c07b37873ea2",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The fellowship provides funding for international students, graduates, and researchers to conduct research or art projects with a physical stay in Germany (Weimar)."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Includes post-doctoral researchers and faculty tracks alongside student/graduate tracks; only student/graduate awards and criteria are primarily extracted while noting mixed eligibility.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000372",
+  "slug": "daad-10000372",
+  "title": "German-Czech Fund for the Future: Grants for Study Stays of German and Czech Students in the Neighbour Countries",
+  "provider": {
+    "name": "German-Czech Fund for the Future"
+  },
+  "summary": "Grants for German and Czech students in humanities and social sciences to conduct research or study for 1 to 2 semesters in the neighbour country.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "doctorate"
+      ],
+      "notes": "Undergraduates, graduates, and doctoral candidates in Bachelor's, Master's and PhD programmes.",
+      "source_ids": [
+        "daad-10000372"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "humanities",
+        "social_sciences",
+        "law",
+        "business_economics"
+      ],
+      "notes": "Humanities and social sciences (history, politics, social sciences, law, economics, linguistics, literature, cultural studies, philosophy, etc.)",
+      "source_ids": [
+        "daad-10000372"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German and Czech higher education institutions.",
+      "source_ids": [
+        "daad-10000372"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "DE",
+        "CZ"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Aimed at German and Czech students living in and applying from their home countries (Germany or Czech Republic).",
+      "source_ids": [
+        "daad-10000372"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "The grants are exclusively geared to candidates who study in their home countries and wish to spend 1 or 2 semesters in the neighbour country for study purposes.",
+      "source_ids": [
+        "daad-10000372"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Studies in humanities or social sciences",
+        "source_ids": [
+          "daad-10000372"
+        ]
+      },
+      {
+        "text": "Research project related to German-Czech topics",
+        "source_ids": [
+          "daad-10000372"
+        ]
+      },
+      {
+        "text": "Study in home country and wish to spend 1 or 2 semesters in the neighbour country",
+        "source_ids": [
+          "daad-10000372"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Language courses are not funded",
+        "source_ids": [
+          "daad-10000372"
+        ]
+      },
+      {
+        "text": "Sponsorship is not intended as a continuation grant",
+        "source_ids": [
+          "daad-10000372"
+        ]
+      },
+      {
+        "text": "Not possible to simultaneously hold a grant by the Fund and another sponsorship",
+        "source_ids": [
+          "daad-10000372"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Master's and PhD students receive 900 EUR per month; Bachelor's students 750 EUR. An additional one-off allowance of 900 EUR, respectively 650 EUR, can be granted for material expenses or travel costs.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "1 to 2 semesters",
+    "covered_costs": [
+      "living_costs",
+      "research",
+      "travel",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000372"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2027-01-31",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "The application deadline is 31 January for the following academic year.",
+      "applicable_country_codes": null,
+      "id": "daad-10000372-round-annual-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000372"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "The application deadline is 31 January for the following academic year.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Please see all application forms and further information on the application procedure at https://www.zukunftsfonds.cz/projektforderung/stipendien/",
+        "source_ids": [
+          "daad-10000372"
+        ]
+      }
+    ],
+    "official_programme_url": "https://daad.de/go/en/stipa10000372",
+    "application_url": "https://www.zukunftsfonds.cz/projektforderung/stipendien/",
+    "source_ids": [
+      "daad-10000372"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000372",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000372",
+        "title": "German-Czech Fund for the Future: Grants for Study Stays of German and Czech Students in the Neighbour Countries - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000372",
+        "sha256": "0d219dc1f4be1f4dab511a538ae42d092276f8bf5db8b03bdc1d11bf0801c9c9",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Fund supports German and Czech students undertaking study stays in the neighbour country, which includes Czech students coming to Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "An upcoming call needs its opening date confirmed.",
+      "A structured restriction needs manual classification: German and Czech higher education institutions."
+    ]
+  }
+}

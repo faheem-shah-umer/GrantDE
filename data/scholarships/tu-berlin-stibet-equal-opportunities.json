@@ -1,0 +1,172 @@
+{
+  "schema_version": "2.0.0",
+  "id": "tu-berlin-stibet-equal-opportunities",
+  "slug": "tu-berlin-stibet-equal-opportunities",
+  "title": "TU Berlin Scholarships for Promoting Equal Opportunities",
+  "provider": {
+    "name": "Technische Universität Berlin"
+  },
+  "summary": "STIBET support for enrolled international TU Berlin students facing significant financial and social challenges.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-tu-berlin"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-tu-berlin"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Technische Universität Berlin"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-tu-berlin"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "international_students"
+      ],
+      "notes": "The university describes the award specifically for international students; exact citizenship or educational-origin rules need confirmation.",
+      "source_ids": [
+        "curated-tu-berlin"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-tu-berlin"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Study at TU Berlin and face significant financial and social challenges.",
+        "source_ids": [
+          "curated-tu-berlin"
+        ]
+      },
+      {
+        "text": "Submit through the International Degree-Seeking Students Team during the annual call.",
+        "source_ids": [
+          "curated-tu-berlin"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "The page gives refugees, students with disabilities or chronic illnesses, and students caring for children or relatives as examples of the intended target group.",
+        "source_ids": [
+          "curated-tu-berlin"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Not specified in the collected source.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Not specified in the collected source.",
+    "covered_costs": [],
+    "source_ids": [
+      "curated-tu-berlin"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "tu-berlin-stibet-equal-opportunities-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "curated-tu-berlin"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Awarded once a year, subject to available funding. No confirmed date is supplied on this page.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Check the annual call with the International Degree-Seeking Students Team.",
+        "source_ids": [
+          "curated-tu-berlin"
+        ]
+      },
+      {
+        "text": "Confirm eligibility and submit the stated application material.",
+        "source_ids": [
+          "curated-tu-berlin"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.tu.berlin/en/international/students-1/international-students/international-degree-seeking-students/scholarships-and-other-funding-for-international-students",
+    "application_url": null,
+    "source_ids": [
+      "curated-tu-berlin"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-tu-berlin",
+        "url": "https://www.tu.berlin/en/international/students-1/international-students/international-degree-seeking-students/scholarships-and-other-funding-for-international-students",
+        "title": "Scholarships and Other funding for international students - TU Berlin",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-tu-berlin",
+        "sha256": "cd2dbc58399ea8229f40b62ff8c583987769ca3d8bdfc64458a8b77861ce26c6",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "This overview does not establish funding amounts, application dates or the complete eligibility and document list."
+    ]
+  }
+}

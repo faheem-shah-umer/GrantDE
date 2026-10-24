@@ -1,0 +1,232 @@
+{
+  "schema_version": "2.0.0",
+  "id": "foundation-rosalux-study-scholarship-program-for-international-students",
+  "slug": "foundation-rosalux-study-scholarship-program-for-international-students",
+  "title": "Scholarship Program for International Students",
+  "provider": {
+    "name": "Rosa Luxemburg Foundation"
+  },
+  "summary": "Scholarship awarded to foreign nationals coming to Germany to study.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "other"
+      ],
+      "notes": "Requires proof of a completed bachelor's degree or completed undergraduate studies if enrolled in a Diplom, Magister, or Staatsexamen program. Master's degree programs are listed under exclusions if referring to specific restrictions, but note text states requirement of completed bachelor's.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Domestic and international students of all disciplines are welcome to apply.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "state or state-recognized university in Germany"
+      ],
+      "notes": "Must be enrolled or have admission at a state or state-recognized university in Germany.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Foreign nationals"
+      ],
+      "notes": "Only foreign nationals can apply. EU nationals are also eligible to apply. Must not be eligible for BAföG Section 8.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Must be staying in Germany for the purpose of studying. Must not have been in Germany for more than 15 months at the time of application (unless already studied in Germany or preparing for university).",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Foreign national status",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Not eligible for BAföG Section 8",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Enrollment or at least one admission at a state or state-recognized university in Germany",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Proof of a completed bachelor's degree or completed undergraduate studies if enrolled in a Diplom, Magister, or Staatsexamen program",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Excellent academic performance",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Social or political engagement in the spirit of the Rosa Luxemburg Foundation",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Very good German language skills (B2 level)",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Not in Germany for more than 15 months at the time of application (with exceptions)",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Must be in Germany to study",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "A second full-time degree program is not eligible",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "A part-time program is not eligible",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Study abroad in the country of origin or in third countries is not eligible",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "No cash amount stated on the page.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Not specified",
+    "covered_costs": [],
+    "source_ids": [
+      "foundation-rosalux-study"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No application deadlines specified on the page.",
+      "applicable_country_codes": null,
+      "id": "foundation-rosalux-study-scholarship-program-for-international-students-round-unspecified-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Proof of language acquisition (B2 level German)",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Proof of a completed bachelor's degree or completed undergraduate studies",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      }
+    ],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/study-scholarship",
+    "application_url": null,
+    "source_ids": [
+      "foundation-rosalux-study"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "foundation-rosalux-study",
+        "url": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/study-scholarship",
+        "title": "Study scholarship - Rosa-Luxemburg-Stiftung",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/foundation-rosalux-study",
+        "sha256": "a54ba04ee3a75ad890737fcb6cf96610ebc96cfbd59700aa07238ae6e40fb2ce",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "In scope because foreign nationals receive funding to physically study in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Domestic and international students of all disciplines are welcome to apply."
+    ]
+  }
+}

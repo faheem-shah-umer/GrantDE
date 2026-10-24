@@ -1,0 +1,272 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57862424",
+  "slug": "daad-57862424",
+  "title": "Cooperation programme with Mexico (SECIHTI – Secretaría de Ciencia, Humanidades, Tecnología e Innovación) Master",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Joint scholarship programme by DAAD and Secihti supporting Mexican graduates pursuing a full-time Master's degree in innovation-driving fields at a state or state-recognised university in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "Funding is available for a complete Master's degree (full-time, on-campus).",
+      "source_ids": [
+        "daad-57862424"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering",
+        "computer_science",
+        "mathematics",
+        "natural_sciences",
+        "medicine",
+        "health_sciences",
+        "agriculture",
+        "environment",
+        "social_sciences",
+        "humanities",
+        "education",
+        "other"
+      ],
+      "notes": "Open to almost all disciplines except business administration, financial sciences, artistic disciplines, and architecture.",
+      "source_ids": [
+        "daad-57862424"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State or state-recognised universities in Germany.",
+      "source_ids": [
+        "daad-57862424"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "MX"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Applicants must be Mexican citizens.",
+      "source_ids": [
+        "daad-57862424"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Your application cannot be considered if you have been resident in Germany for longer than 15 months at the application deadline.",
+      "source_ids": [
+        "daad-57862424"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Completed all necessary courses for studies with a first degree recognised in Germany (e.g. Bachelor's degree) by the application deadline at the latest.",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "University degree should not date back more than 6 years at the time of the application deadline.",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "Proof of language skills that meet the requirements of chosen universities with at least level B2 in the language of instruction.",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "Must apply to both the DAAD call and the Secihti call and go through a parallel application process.",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Monthly scholarship payments from DAAD of 140 euros, monthly scholarship rate from Secihti of 1100 euros, and payments towards health, accident and personal liability insurance cover.",
+    "amount_min": 140,
+    "amount_max": 1240,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "10 months to a maximum of 24 months",
+    "covered_costs": [
+      "living_costs",
+      "insurance"
+    ],
+    "source_ids": [
+      "daad-57862424"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-04-22",
+      "deadline_time": null,
+      "timezone": "Europe/Berlin",
+      "availability": "closed",
+      "notes": "Applications for this scholarship programme are possible in the period from February until the stated application deadline. Source specifies Central European seasonal time. Unnormalised source clock time: 24.00.",
+      "applicable_country_codes": [
+        "MX"
+      ],
+      "id": "daad-57862424-round-2026-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57862424"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Application deadlines are updated annually in the second quarter. In most cases, they are in the same period as the previous year.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Full curriculum vitae (max. 3 pages)",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "Letter of motivation, 1 - 2 pages",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "Letter of admission to the study programme at the host university in Germany, with no academic conditions (or submitted by June 19th, 2026)",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "Form 'Information about your preferred master programmes'",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "Current overview of grades/ transcript of records",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "All university degree certificates already obtained and transcripts (or provisional document submitted by August 31, 2026)",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "Certificate of language(s) of instruction of the chosen study programme (no older than 2 years)",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "One recent, supporting letter of recommendation (on a DAAD-form) from a university teacher",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "Passport/national identity card and personal data page",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "Request recommendation form and have university teacher complete it",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "Prepare application documents and translations if necessary",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "Fill out application form and upload documents in PDF format to the DAAD portal",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      },
+      {
+        "text": "Submit the application online",
+        "source_ids": [
+          "daad-57862424"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57862424",
+    "application_url": null,
+    "source_ids": [
+      "daad-57862424"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57862424",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57862424",
+        "title": "Cooperation programme with Mexico (SECIHTI – Secretaría de Ciencia, Humanidades, Tecnología e Innovación) Master - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57862424",
+        "sha256": "218004444d1620da686b9c2ce9f5bc4c3843bd15acec9c58e0956e6bfb0dafaf",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international students from Mexico pursuing a Master's degree physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm the source deadline clock time; it was not converted automatically.",
+      "A structured restriction needs manual classification: State or state-recognised universities in Germany."
+    ]
+  }
+}

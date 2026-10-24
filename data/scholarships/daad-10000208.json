@@ -1,0 +1,173 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000208",
+  "slug": "daad-10000208",
+  "title": "Bayer Foundation: Fellowship in Drug Discovery Sciences",
+  "provider": {
+    "name": "Bayer Foundation"
+  },
+  "summary": "Financial support up to 10,000 EUR for up to 6 months for Master's and PhD students from natural sciences, pharmacy, or data science undertaking study projects, practical work experience, or research in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate"
+      ],
+      "notes": "Master's and PhD students / graduates and doctoral candidates/PhD students",
+      "source_ids": [
+        "daad-10000208"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "natural_sciences",
+        "computer_science",
+        "other"
+      ],
+      "notes": "Target group lists natural science, pharmacy, data science; description also mentions all scientific disciplines with relevance to pharmaceutical and consumer healthcare industries.",
+      "source_ids": [
+        "daad-10000208"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Specific host institutions are not restricted or named on the page.",
+      "source_ids": [
+        "daad-10000208"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "A dropdown list of countries is shown on the page for application selection, but no specific eligible/excluded nationality list is explicitly defined in the text.",
+      "source_ids": [
+        "daad-10000208"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany",
+        "outside_germany"
+      ],
+      "notes": "Students from Germany going abroad or students from abroad studying, researching or doing an internship in Germany can apply.",
+      "source_ids": [
+        "daad-10000208"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Enrolment in a Master's or PhD programme",
+        "source_ids": [
+          "daad-10000208"
+        ]
+      },
+      {
+        "text": "Strong sense of commitment and motivation",
+        "source_ids": [
+          "daad-10000208"
+        ]
+      },
+      {
+        "text": "Submit an innovative research proposal with fundamental or applied studies relevant to pharmaceutical and consumer healthcare industries",
+        "source_ids": [
+          "daad-10000208"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Individual financial funding up to 10,000 EUR.",
+    "amount_min": null,
+    "amount_max": 10000,
+    "currency": "EUR",
+    "frequency": "variable",
+    "duration": "up to 6 months",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-10000208"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Deadlines are external and updated on the Bayer Foundation website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000208-round-external-application-link",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000208"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Find application forms and further information on the application procedure on the Bayer Foundation website.",
+        "source_ids": [
+          "daad-10000208"
+        ]
+      }
+    ],
+    "official_programme_url": "https://daad.de/go/en/stipa10000208",
+    "application_url": "https://www.bayer-foundation.com/science/fellowships-stipends#ForMaster",
+    "source_ids": [
+      "daad-10000208"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000208",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000208",
+        "title": "Bayer Foundation: Fellowship in Drug Discovery Sciences - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000208",
+        "sha256": "8b9c2f198a3fc1d8d9ad4b41a81e94b88dfc7ea06e400a59634e5e2b2d4d7102",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship is open to students from abroad who are studying, researching or doing an internship in Germany, covering Master's and PhD levels."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

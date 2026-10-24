@@ -1,0 +1,284 @@
+{
+  "schema_version": "2.0.0",
+  "id": "heidelberg-amirana-amirana-scholarship",
+  "slug": "heidelberg-amirana-amirana-scholarship",
+  "title": "Amirana Scholarship",
+  "provider": {
+    "name": "Heidelberg University"
+  },
+  "summary": "Funding program for international medical and dental students from low and middle income countries of the Global South who are experiencing financial distress or need support in the final phase of their studies.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "The official scholarship sources restrict the subjects to medicine and dentistry but do not name a controlled degree level. Confirm the appropriate degree-category mapping; subject and university restrictions still apply.",
+      "source_ids": [
+        "review-20261024-amirana",
+        "review-20261024-amirana-call"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "medicine",
+        "health_sciences"
+      ],
+      "notes": "Only available for the subjects dentistry and medicine.",
+      "source_ids": [
+        "heidelberg-amirana"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Heidelberg University"
+      ],
+      "notes": "Study locations Heidelberg and Mannheim.",
+      "source_ids": [
+        "heidelberg-amirana"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "low and middle income countries of the Global South (refer to current DAC List)"
+      ],
+      "notes": "Restricted to students from low and middle income countries of the Global South according to the DAC List who are not educational residents.",
+      "source_ids": [
+        "heidelberg-amirana"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Must be studying at Heidelberg University, and not educational residents.",
+      "source_ids": [
+        "heidelberg-amirana"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Must be an international student and not an educational resident",
+        "source_ids": [
+          "heidelberg-amirana"
+        ]
+      },
+      {
+        "text": "Enrolled in dentistry or medicine at Heidelberg University (study locations Heidelberg and Mannheim)",
+        "source_ids": [
+          "heidelberg-amirana"
+        ]
+      },
+      {
+        "text": "Must have gotten into financial distress through no fault of their own or require support in the final phase of studies",
+        "source_ids": [
+          "heidelberg-amirana"
+        ]
+      },
+      {
+        "text": "Must read the document 'Financial distress'",
+        "source_ids": [
+          "heidelberg-amirana"
+        ]
+      },
+      {
+        "text": "Submit the complete application in German and review the consent/publicity conditions in the current provider call.",
+        "source_ids": [
+          "review-20261024-amirana-call"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "The linked German call provides up to EUR 300 per month, dependent on financial need and available funds. Support is normally limited to two semesters, with a progress review after the first semester; extensions are exceptional. It does not fund a complete degree.",
+    "amount_min": null,
+    "amount_max": 300,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Up to two semesters, reviewed after the first; exceptional extension only on application.",
+    "covered_costs": [
+      "living_costs",
+      "other"
+    ],
+    "source_ids": [
+      "review-20261024-amirana-call"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "15 November for funding in the following year. Extracted deadline was '11-15'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "heidelberg-amirana-amirana-scholarship-round-annual-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "heidelberg-amirana"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "15 November every year for funding in the following year.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Completed application form",
+        "source_ids": [
+          "review-20261024-amirana-call"
+        ]
+      },
+      {
+        "text": "Monthly income and expenditure statement",
+        "source_ids": [
+          "review-20261024-amirana-call"
+        ]
+      },
+      {
+        "text": "Required data-processing/publication consent form",
+        "source_ids": [
+          "review-20261024-amirana-call"
+        ]
+      },
+      {
+        "text": "Tabular CV",
+        "source_ids": [
+          "review-20261024-amirana-call"
+        ]
+      },
+      {
+        "text": "Detailed motivation letter explaining hardship, study motivation, professional goals and work/volunteering",
+        "source_ids": [
+          "review-20261024-amirana-call"
+        ]
+      },
+      {
+        "text": "Declaration of other scholarship applications",
+        "source_ids": [
+          "review-20261024-amirana-call"
+        ]
+      },
+      {
+        "text": "Statements for all personal bank accounts for the calendar month before application",
+        "source_ids": [
+          "review-20261024-amirana-call"
+        ]
+      },
+      {
+        "text": "Enrolment certificate",
+        "source_ids": [
+          "review-20261024-amirana-call"
+        ]
+      },
+      {
+        "text": "Transcript of records",
+        "source_ids": [
+          "review-20261024-amirana-call"
+        ]
+      },
+      {
+        "text": "Representative JPG photograph for publications, as requested in the call",
+        "source_ids": [
+          "review-20261024-amirana-call"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Hand in documents in due course",
+        "source_ids": [
+          "heidelberg-amirana"
+        ]
+      },
+      {
+        "text": "Send complete application documents in German via e-mail to stipendien@alumni.uni-heidelberg.de",
+        "source_ids": [
+          "heidelberg-amirana"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.uni-heidelberg.de/en/alumni/career/scholarships/amirana-scholarship",
+    "application_url": "https://www.uni-heidelberg.de/de/dokumente/alumniamiranabewerbungsunterlagenpdf/download",
+    "source_ids": [
+      "heidelberg-amirana"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "heidelberg-amirana",
+        "url": "https://www.uni-heidelberg.de/en/alumni/career/scholarships/amirana-scholarship",
+        "title": "Amirana Scholarship - Heidelberg University",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/heidelberg-amirana",
+        "sha256": "1aa73b406df9128d6b647c190e8a24c1e9d9e7db3bc0fb12bb748ce6a42bc9b7",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds international students physically studying medicine and dentistry at Heidelberg University in Germany."
+      },
+      {
+        "id": "review-20261024-amirana",
+        "url": "https://www.uni-heidelberg.de/en/alumni/career/scholarships/amirana-scholarship",
+        "title": "Amirana Scholarship - Heidelberg University",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-amirana",
+        "sha256": "06e34b3b1dd8a99273cbd5f75dcc0a58127807b5d655d1ee5f7b088d6bc60666",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      },
+      {
+        "id": "review-20261024-amirana-call",
+        "url": "https://backend.uni-heidelberg.de/de/dokumente/alumniamiranaausschreibungpdf/download",
+        "title": "Amirana Scholarship: application call and required documents",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-amirana-call",
+        "sha256": "73abb7fde30085f62072a68126f83bbb2683dc993585fce08bf5ee1f4f53094b",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      }
+    ],
+    "last_checked": "2026-10-24",
+    "last_reviewed": "2026-10-24",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "The call gives 15 November of the current year but is not individually year-stamped; keep the recurring date descriptive until a year-specific round is confirmed.",
+      "The medical/dental controlled degree category is not explicit in the scholarship sources; confirm the mapping before publication. An unsupported other classification has been replaced with unknown."
+    ]
+  }
+}

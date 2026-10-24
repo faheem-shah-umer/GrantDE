@@ -1,0 +1,166 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000494",
+  "slug": "daad-10000494",
+  "title": "SBW Berlin Scholarship",
+  "provider": {
+    "name": "SBW Berlin"
+  },
+  "summary": "Study support linked to a social project, with separate international, refugee and social-field routes.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000494"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000494"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000494"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality details require confirmation.",
+      "source_ids": [
+        "daad-10000494"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000494"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Meet the chosen route's eligibility and social-project commitments.",
+        "source_ids": [
+          "daad-10000494"
+        ]
+      },
+      {
+        "text": "Confirm the international route's return obligations and contractual repayment terms.",
+        "source_ids": [
+          "daad-10000494"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Furnished shared accommodation; tuition and monthly support depend on the route. Breach of the stated terms can trigger repayment.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Route-dependent, generally awarded for a limited period.",
+    "covered_costs": [
+      "living_costs",
+      "tuition"
+    ],
+    "source_ids": [
+      "daad-10000494"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "rolling",
+      "notes": "Places are limited; a rolling process does not guarantee a place.",
+      "applicable_country_codes": null,
+      "id": "daad-10000494-round-year-round-applications",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000494"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Initial recommendation or motivation statement",
+        "source_ids": [
+          "daad-10000494"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit the initial statement; selected applicants receive portal access.",
+        "source_ids": [
+          "daad-10000494"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000494",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000494"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000494",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000494",
+        "title": "SBW Berlin Scholarship",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/daad-10000494",
+        "sha256": "b267f254531c1f9e35911a637986ca0a67b40e2f9c06b41fe4dc1ef59e054379",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "The detailed route guidelines must be reviewed; remaining in Germany can trigger repayment under the international route.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication."
+    ]
+  }
+}

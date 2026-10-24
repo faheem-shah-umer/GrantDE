@@ -1,0 +1,1462 @@
+{
+  "sources": {
+    "boell": {
+      "original_capture_sha256": "f1255c37be8dc9cbf74a995f7ffde4250e2f280b347e1a23f0afe2472005209c",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "boell-apply": {
+      "original_capture_sha256": "c75a51f3401baf8901ed407daa5131fe4e5db84032017155313ee2fa5e4f3d58",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "curated-boell-apply": {
+      "original_capture_sha256": "c96b87ff187755ec531111687b0da3b5b8acdce93a6bb3f8bf0c924576f89335",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage.",
+        "derived_from_ref": "#/sources/boell-apply"
+      },
+      "registry_format": "metadata-only"
+    },
+    "curated-daad-57742130-extracted": {
+      "original_capture_sha256": "f4f978f3ebc5d380d9c6b4cb7a50f6d1fb3c57c32908b96fc053723d066b88ce",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage.",
+        "derived_from_ref": "#/sources/daad-57742130-extracted"
+      },
+      "registry_format": "metadata-only"
+    },
+    "curated-daad-kospie-tunisia": {
+      "original_capture_sha256": "257964c7d0216e3b89b0e56809c550a3e34e717dca9bcee82997b3c16e472ca6",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "curated-daad-master": {
+      "original_capture_sha256": "74744f05e7d98343a591f3dd20a00eeb93f3101693854e8d1b20b41300371c5f",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage.",
+        "derived_from_ref": "#/sources/daad-master"
+      },
+      "registry_format": "metadata-only"
+    },
+    "curated-deutschland-official": {
+      "original_capture_sha256": "7b230098b14a138e857c5d6e5e82ae7c8f731ae23a1b1d8d06eb41c584585e84",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage.",
+        "derived_from_ref": "#/sources/deutschland-official"
+      },
+      "registry_format": "metadata-only"
+    },
+    "curated-fes-study": {
+      "original_capture_sha256": "33d9f6bd1164714c64721f42f5bed808eb4c16521951ba1b5f5ca99153424ca3",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage.",
+        "derived_from_ref": "#/sources/fes-study"
+      },
+      "registry_format": "metadata-only"
+    },
+    "curated-hamburg-merit": {
+      "original_capture_sha256": "cc20bb43fb0131af42a295b6ce51a96fc83d9e8434ac85e703b6b55a41a0c86a",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage.",
+        "derived_from_ref": "#/sources/hamburg-merit"
+      },
+      "registry_format": "metadata-only"
+    },
+    "curated-kas": {
+      "original_capture_sha256": "817fb512f64a4a9318b26f7e55b76bbe8e4db5ec98cc1acef8b9463e3983f1b0",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage.",
+        "derived_from_ref": "#/sources/kas"
+      },
+      "registry_format": "metadata-only"
+    },
+    "curated-tu-berlin": {
+      "original_capture_sha256": "cd2dbc58399ea8229f40b62ff8c583987769ca3d8bdfc64458a8b77861ce26c6",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage.",
+        "derived_from_ref": "#/sources/tu-berlin"
+      },
+      "registry_format": "metadata-only"
+    },
+    "curated-tum": {
+      "original_capture_sha256": "b5ab02a8d3eb8e8dc14ccb3e376308d048bb50c3b7e69d683d3b0e588415f7e7",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage.",
+        "derived_from_ref": "#/sources/tum"
+      },
+      "registry_format": "metadata-only"
+    },
+    "curated-university-bonn-rhein-sieg": {
+      "original_capture_sha256": "13dc3592b284ef1468486d4f56b30f58e7fc06991b1231017c48c44095ffb618",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage.",
+        "derived_from_ref": "#/sources/university-bonn-rhein-sieg"
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000092": {
+      "original_capture_sha256": "8f9fc46b1b394da6438c1036642319123c9fde558a6f03f13472ed3b633b4037",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000101": {
+      "original_capture_sha256": "1261a504d92a83b9380b4a7fce1038eb7941cf388da0a3b96834d59c13098010",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000102": {
+      "original_capture_sha256": "d6971b95088108a0890c4310a2352327ebff1444e35a00da5b6b576b7d132329",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000103": {
+      "original_capture_sha256": "07fcf782eb76c4379b1f3557c228ffdcf77770fbce4b778671ed3705b0a80c8c",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000107": {
+      "original_capture_sha256": "b8ec4881c591ddd49da9ce4a8bc286812ca86f66f0ab62ad72d4776abdf0e839",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000114": {
+      "original_capture_sha256": "57c8817662c83f3c4ded89dc56ef39d912b96ac01ec6e6eda896aa9629411a3c",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000117": {
+      "original_capture_sha256": "84ba7aab3dd4cd9750db617af9b99702919abf2599bc53adfdaaf3f6651d21ec",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000119": {
+      "original_capture_sha256": "ffc84081b03632edc3c9cd9621688a17fda8193f3830dab00b24ed64b57ac9f1",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000123": {
+      "original_capture_sha256": "d74b81ab9276bc057ae81e9ff7dcf65734cdfc1a0bccc67bae66c720cc7505f6",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000126": {
+      "original_capture_sha256": "d9cbbe39ed25fb5e0bac513c693420be1f4ab83f742e7d392961fbdfcfbe4658",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000127": {
+      "original_capture_sha256": "80c0d1e1898e1e220869793893b9b63322a9ea94dcb831cb91bea203aea1e6fa",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000128": {
+      "original_capture_sha256": "fc5c92206b44e23494e91148ac2bbe4981078f38d1e6149fada7f1f4e2bf7907",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000131": {
+      "original_capture_sha256": "db6afaa26106554eaf198de1394c5799391c68ededd7d3b51d8f19f1b5f32c24",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000132": {
+      "original_capture_sha256": "f457aeb0d1ac217c7a4a7afd5cce3b404c886d5816ec97a2024ea6f6e75eb977",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000133": {
+      "original_capture_sha256": "c0a1befebbe71bfea00fd2bec022075360c0d5eeceac2ee72869da8dbed36fd1",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000134": {
+      "original_capture_sha256": "1a12787c7d07afe6a8e7a379029fbe680a0ecc723fd8cd939f3f8f769bb6c743",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000136": {
+      "original_capture_sha256": "47216263f9ae8df08ea0057b88ffe91212134667c20048d48b430b3b134fb562",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000139": {
+      "original_capture_sha256": "622337cae04c3b02d7201ade13c0469cc7a01fa652b0973e9098f02727b23ff1",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000141": {
+      "original_capture_sha256": "461681b948bdf0b4a2e4189736abf11bec250ab500cc2c6a1e6ee326e67467b5",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000144": {
+      "original_capture_sha256": "256693c931da1794f0051fde7f626abfd0f00f251dabae87947740995a680d1c",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000148": {
+      "original_capture_sha256": "71f1e36ef4d85f624c0faece0cdc13232f675b61416757d9ac3efafe979733e7",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000150": {
+      "original_capture_sha256": "934baed920753cfba906e51a3eb197b50b5dc95c30916b6823f31469eed896d7",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000154": {
+      "original_capture_sha256": "1f5c2a45fd2d3f49eb3a045bd2140ba079e50dff28cbd5dcf7564dc5a9119851",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000158": {
+      "original_capture_sha256": "e8f7421faa838baa99c0a1f4f8d6677d27e1a57e33cbbf3534452da63818b5de",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000159": {
+      "original_capture_sha256": "b8f267c2829583ecc28be0d1b43612345398474a19df4f2b8042bbe06fad9ed1",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000164": {
+      "original_capture_sha256": "73d29bd00c1338547e4808215e711be69257f1b4e067d780e710f88468463a3a",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000165": {
+      "original_capture_sha256": "c7d07e6b72a7e4433c7b20f66d420fb240e54480f3a0df9ac989672e069db7f0",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000168": {
+      "original_capture_sha256": "6bbb5d3e8649cc67ead4c113e80f59b7464bede8930ae9e89ae2157abb4dceb1",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000171": {
+      "original_capture_sha256": "a034ce4bf96eeb34280f2ef3550abfbbf9dc7a0d7aacf3fb40f8f0e3a9089906",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000178": {
+      "original_capture_sha256": "e500c05d370517501fb89e1845153ededd7710c5d24d5d8447e94b6818867c3a",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000185": {
+      "original_capture_sha256": "171b9b2740ba1d1c3afc817d3dfc540b70c57a1dd64747bdc495278679ee1f7d",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000198": {
+      "original_capture_sha256": "34c3a0c27ebb60614d11311507cc7242828beedc7a6db2d1bc279f5ff4cf086b",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000203": {
+      "original_capture_sha256": "b8ce7f7f58c2eb928190967312959d3c230d2942bf91465ee279bce3efa4f7a2",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000206": {
+      "original_capture_sha256": "28ba85d66a0c56317988772201e48204e416bea347d784adfd83f5ea5db34fdc",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000208": {
+      "original_capture_sha256": "8b9c2f198a3fc1d8d9ad4b41a81e94b88dfc7ea06e400a59634e5e2b2d4d7102",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000210": {
+      "original_capture_sha256": "aaa059961c5a9b1759817c9a29904f48f96cd5f4bce56aac43c12287efe6c13b",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000212": {
+      "original_capture_sha256": "90017a9f61d1232436afeed9ffcde86e416c5d2f19ea1c901456f08fb5182a23",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000220": {
+      "original_capture_sha256": "916cf54d9af48cba1ce2d6128a01573afb75f5cb3c4775d89650155e80bf1252",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000221": {
+      "original_capture_sha256": "141df756f74f730debbd2c58e87633ea661c7048627d1874ffafef661bb6657b",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000231": {
+      "original_capture_sha256": "dd745e0317a4a7c074aaa0d915004aa527e1015a1edc8460bac448babf2ad2d1",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000300": {
+      "original_capture_sha256": "205ee4b37dab7ff41d5370e0ada6356bc056b76925642765356fd4a5e0222c8c",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000312": {
+      "original_capture_sha256": "69e94e7ebfb1b29d48472cb0205755b6ce81b9484bbb2634b34a1163d6bd4a24",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000321": {
+      "original_capture_sha256": "f41fa7930fcd0ecee0a7b12449955665c68e51f8b07485a3bf6a4b5da1490a05",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000335": {
+      "original_capture_sha256": "ebe9932a34ea9c1ce5a212243db7830395b6bbc0da1db5f50a9030a7e15c6d49",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000344": {
+      "original_capture_sha256": "b9f046106736e59ae887e2150990113ed100dc00900cc72e12a54e6f8fe61318",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000366": {
+      "original_capture_sha256": "eacfec2169dc585b2da299199c4db73798e20e5f998d8a384b70e883c91da0d8",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000372": {
+      "original_capture_sha256": "0d219dc1f4be1f4dab511a538ae42d092276f8bf5db8b03bdc1d11bf0801c9c9",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000382": {
+      "original_capture_sha256": "9e94e14945b4e891a432b5d04980035259a67ef1ee0acfb025e0f0753a3e7ed2",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000384": {
+      "original_capture_sha256": "b2b2c0743f5b91e4b9bc1720589daf321dc7007efe31569cb3c375bcbb288ce4",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000398": {
+      "original_capture_sha256": "a633f91458dff59d6f5c58aaefb360205bcd132398b1356516062d506d6f9ff2",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000406": {
+      "original_capture_sha256": "2aedb830876292d976ed0cf69a7c745e6693c27ac676f88bee915149c046e07c",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000412": {
+      "original_capture_sha256": "337faf9a16c4b86945608c301a95d49f1eeef77b0047391b49294bad59f067af",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000418": {
+      "original_capture_sha256": "486dce69f0790d4417fb3e3a5cfe126ae95b7f70276b524cd212b72180c13e8d",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000422": {
+      "original_capture_sha256": "98d87fc4c1ece0af191a28c507c73956b4e2acbd1163f2b3f3e7a3d145f1cddc",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000429": {
+      "original_capture_sha256": "4fbd0be50ab79e2b9f73cc973a407b958e38546da37eebfebd5eb01d9d10576a",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000437": {
+      "original_capture_sha256": "e73b191d1e3088f25bd963903636a71e10ad2fdb07df53dc19fc33a3ff07a941",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000494": {
+      "original_capture_sha256": "b267f254531c1f9e35911a637986ca0a67b40e2f9c06b41fe4dc1ef59e054379",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000509": {
+      "original_capture_sha256": "716b5f866b3a0b2903627adb3bc429be97da5609c32f420810cdf8d6cd563e3e",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000543": {
+      "original_capture_sha256": "feb50264875cc7babf5f65b195ba6c82f7539c950638fa4d0d12c07b37873ea2",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000550": {
+      "original_capture_sha256": "b6ca6f31d784f00f532cda75d83b3d5af5315983d56edae73918c4a23bddb517",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000551": {
+      "original_capture_sha256": "e6700bd6cc180b4df9bf65dfe3ae93875d9d6faaf12e8131e7d09b325469b000",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000556": {
+      "original_capture_sha256": "94c22e300753a6618745e57656511da8cd3a3d94ef2622fa1951027325e0b2c3",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000560": {
+      "original_capture_sha256": "85b737df18975f9ba4ba4430e110ad563809300458922c11d27fbd3c8f31f26d",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000562": {
+      "original_capture_sha256": "51ec59170e6e86bb0693474198267589069badbcb7a8e07f427f34d7f38a4bdf",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000575": {
+      "original_capture_sha256": "09f2c607740aaf46d6979e34d92c35eec238fd63fbb1001027767becddd7b82e",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000611": {
+      "original_capture_sha256": "5d722cf61a96ddcf827a5361182cf3e9dde3258da23717558812610b3894afdb",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000612": {
+      "original_capture_sha256": "898a8012754e045873a0df82ac5d56370cdc005cce9d5274037677c3a8613423",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000622": {
+      "original_capture_sha256": "db040602772f3ff81c48b621e8306f96800f93bdda11928515425178d128a9bf",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000633": {
+      "original_capture_sha256": "729fcc6e1335d613ff12cb83a62b78c8175c5196eff60b27043a33fc702bc96a",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000639": {
+      "original_capture_sha256": "dc11cae00bc0a10034ac185445b6861eab9ba615d66a8f1d4b308fbf2e41bf92",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000681": {
+      "original_capture_sha256": "82d72c2d8952e5f5c56da5e38aeab6974cd1682de8b8b71786a8f45cc679810c",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000699": {
+      "original_capture_sha256": "ebd0d048e60bdb210d792cf52de22961f482b44023a392cfeb8d2c7bcd13b547",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-10000700": {
+      "original_capture_sha256": "046d418d805d3d64dcf7f8255506c4bf72580a2566e234f8338edf6540261173",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50015171": {
+      "original_capture_sha256": "479a141a2277d10832162062af14fbdceccaebccc4f911e37eb2e3f084745e7d",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50015217": {
+      "original_capture_sha256": "9dc68101bd2fb3e9501344a14e802fafb427c1461f728c54d6be3ad65098601c",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50015276": {
+      "original_capture_sha256": "63fd353ddca9b13eccf1d2681924e41cae0b90a8cfca45ca06241708029f704d",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50015450": {
+      "original_capture_sha256": "6979a78c563ba44712aee4c32b28fe73eab3c5dc4bfe72d6afeacc52161ae345",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50015492": {
+      "original_capture_sha256": "1c2278e346e52ee5888f17ba49df07b4959af71cc6c83d57f2c513f35a84ebe0",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50015638": {
+      "original_capture_sha256": "8fbb9789eac33f66c45d3040fb31b0309895a15e9632ed20ae99add92c171812",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50016578": {
+      "original_capture_sha256": "608a81d055bc9e72d93a4f001d9afd34e5747d7b71dbce65016b8919e5546a54",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50017039": {
+      "original_capture_sha256": "400e60c709a7062c88495cb92cb750e431866e7226b835d281f708fabe3f20a9",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50019749": {
+      "original_capture_sha256": "833c9faff4b9c46a03b28b9dce7016d6ca16e6dfa26fd1fc573c4ad8f7b185e4",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50020910": {
+      "original_capture_sha256": "80cc53663b3712ce21b0a28549c40558079c0f97285f2937042445bb1b4cc59f",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50026397": {
+      "original_capture_sha256": "54f1ad9dbe65c986007cdd43ccb39823972f3cfb56e3d29640f899ec7db88052",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50035295": {
+      "original_capture_sha256": "9dd162ec689603d88650b45a4fe1e845e06ac0acd4fbc2fc8e69e70d3bf1e69b",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50046485": {
+      "original_capture_sha256": "51d77d9564aab1b15f3caf54be54590d0662fb4f338bed64003f310344fd0fb5",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50076777": {
+      "original_capture_sha256": "8a2ccb7bdd73905e837a46d22ddfdb23252bfcfac7c478512242dfbc94c977f3",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50078419": {
+      "original_capture_sha256": "6e4a11343004e3857161611fe4b175b62b002c0f558e7f52e0bcdd62735d49a6",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50094047": {
+      "original_capture_sha256": "fc4a4062b7f501154afa283f46fc72919f4473ab5c562b089a71cdf21e5fcc87",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-50109971": {
+      "original_capture_sha256": "53845af8fb2f4d71c8c2bb08acbd3685b67bfe2a32de2c5c9230e744726328c7",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57135739": {
+      "original_capture_sha256": "de6b557cc9a0d363057689abd0b8e779b27df5435458abad9eb17c7636c78143",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57135742": {
+      "original_capture_sha256": "ad8f2d5adc6299f1843ede0297673d5041d173fe97d9b3c533213fba36e6a604",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57135743": {
+      "original_capture_sha256": "2510e6d93eaee2d08dcf850cf4404af3b0d9b3cffea3527141c4daa5d40f3c47",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57135744": {
+      "original_capture_sha256": "b7b43f381db8d7d9dbb15b541125b4185ff9e8500a787a1db0921b3f0f219ada",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57352834": {
+      "original_capture_sha256": "2e00d04d8fb3bbfd5070bd1ddad75b481ead59b938c3a750fa5926d4db8d6759",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57378178": {
+      "original_capture_sha256": "e33018da46f8437c4e6603ca1754ffabc4a115f31d27f4d8764bcb6b4cc4dff3",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57379863": {
+      "original_capture_sha256": "469844f664776b0656824d10def9e8f55d0bac877c86f2455b426b3026d0a086",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57471580": {
+      "original_capture_sha256": "3265288a2c57ae24965de9bea33db7ac304c6d0a5bdf61dc8d3efa2802514d5a",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57471581": {
+      "original_capture_sha256": "4aed872ec873ae6ac4e1b9bda59be2a49bd39120004ad504e9518f1f38a8b60d",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57504697": {
+      "original_capture_sha256": "e468459552ad7931f76b2915c7c624b7d910bd2639f655d2b0864d855f1680cc",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57507783": {
+      "original_capture_sha256": "983fe430fa54042ed071d23553e856a3caae4fc1e682fd16284e5f5beaa7560a",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57549329": {
+      "original_capture_sha256": "aee741edd2fdd58646b01eb998d80d499234f921b2bdcd830d54be18f2ea973f",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57593463": {
+      "original_capture_sha256": "3c27d0ab3e0ee6cc19082522c7d1caa681515a01c9c672cc028f242c0381765e",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57593632-raw": {
+      "original_capture_sha256": "47224e0b20349f2b1fbd105b7c09cbc83877ce078d1beaf9f7544eadaabd1b8c",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57649740": {
+      "original_capture_sha256": "222ec7fe94f5d1004cfd9ad5258f9b1910308347f3067c268d1aeff0e47e2d43",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57650857": {
+      "original_capture_sha256": "6bb818b389534ecf0744cc2cf3b8a61d94b1b8ef498d9ab16bbd8add784917b8",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57742121": {
+      "original_capture_sha256": "3e9a247cf3ab7f37808bb82baffd4965993db5074ef80a42d88d9cd573537a00",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57742130-extracted": {
+      "original_capture_sha256": "e1e728d1210b848af911f7c601fd3e4193344419ac1eb5bd783c9f77e2f241a6",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57808993": {
+      "original_capture_sha256": "88eb2f29caaaaaab7dfe4c4839e251f1765c16e56121b9bea99ff49c343f1491",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57809001": {
+      "original_capture_sha256": "01363c7b4427b1d9075985b801b269c58b7425954aaf038c59c8f8bad13b1c16",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57814471": {
+      "original_capture_sha256": "30192cd6c1635a04b22cb15f6409b9719bbc11c99d5368c54a305d9adbc6b1c9",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57814472": {
+      "original_capture_sha256": "cff77cf8e2e550de519fc671e63821005838ada323d1c810eeb17e1c15524825",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57862424": {
+      "original_capture_sha256": "218004444d1620da686b9c2ce9f5bc4c3843bd15acec9c58e0956e6bfb0dafaf",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57862427": {
+      "original_capture_sha256": "23a7934e45f719f0d6b977083f316ede2a2ea57329d9028a8bb313596bd41c51",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57871506": {
+      "original_capture_sha256": "70635d975d6df79ca41edbc89f0eee687b24a1f9a61070278955232b4a735026",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57874180": {
+      "original_capture_sha256": "3da65ded85b2e3b453269bee6b9b5cec2f04804e3b2f1381aab5a9579f3a1590",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-57883183": {
+      "original_capture_sha256": "7b7cb4a008b765db3169bdaf5959b7d37996c916fc49d2738eecf0614d1bec3b",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-hilde-domin": {
+      "original_capture_sha256": "1a346f7f1aed9379782a754ef1a16fb76188eba666930c5c179448a4e610c5e9",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-index": {
+      "original_capture_sha256": "2a5c52642f4aa615e3fcf2b0c40c3c2fa266b715ea1c20bb4c8fbd56109ea2d7",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-index-1": {
+      "original_capture_sha256": "5565178b5168ae5c060d59a300823847a1fc60901abf29f1cb7846f4e27c26ec",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-index-2": {
+      "original_capture_sha256": "9523d9f2d5063cafa10205f772d9740b4ffd555d5f5f81beeb2936d55ccd32be",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-master": {
+      "original_capture_sha256": "0bdaf701e1254cf1afb01123bd9171e23091a153055fc8c406b15dc0acb72826",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "daad-us-index": {
+      "original_capture_sha256": "82b617d7873aa94e66d098c16b3f93a126bc4c6d2588ee88288f158737aa2634",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "deutschland-official": {
+      "original_capture_sha256": "8f848552f4f5857accf160d402f3c3f2bdbda3fd51135bd68529dbd9e55d000a",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "deutschlandstipendium": {
+      "original_capture_sha256": "5c725f64c49307eac999416d443e8defc796094734825c0231784cae410ce03a",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "eu-erasmus-mundus": {
+      "original_capture_sha256": "71e771f6bd30449c73b3c59f42cd4108ef2070b1342a74b061357c4545d20917",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "fes": {
+      "original_capture_sha256": "72f2f575485c8f63d333be658694e8d00da644b1e9ab45ea85ab892ef4dbf2d2",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "fes-study": {
+      "original_capture_sha256": "1b89ad6e4299246b084d83fc05fa390692360c3803133fd6055992c836814908",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "foundation-kaad-two": {
+      "original_capture_sha256": "a3f17497d8e8f802e51f0e4ab37a2a4686f95bae07ca46fb1375bc8745210719",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "foundation-naumann-doctoral": {
+      "original_capture_sha256": "ea2c9347f0243ba50670784199542d31392691a798d36979f3edae5cc0d24542",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "foundation-naumann-international": {
+      "original_capture_sha256": "4eb219436354a60fb5d5acdb9da822f1e59750a1a0a4c04946b50bcf7b482960",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "foundation-rosalux-study": {
+      "original_capture_sha256": "a54ba04ee3a75ad890737fcb6cf96610ebc96cfbd59700aa07238ae6e40fb2ce",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "hamburg-merit": {
+      "original_capture_sha256": "0019d6e28bcb0f95ce2acd105325662e979e788876ce88a995b813499e326cce",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "heidelberg-amirana": {
+      "original_capture_sha256": "1aa73b406df9128d6b647c190e8a24c1e9d9e7db3bc0fb12bb748ce6a42bc9b7",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "heidelberg-completion": {
+      "original_capture_sha256": "9c75fae3edeee0cb349e9d93eece03cffcf939a6594d76afa46bfaa0fecbfa65",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "heidelberg-danziger": {
+      "original_capture_sha256": "3bdca99152c1795e31509c8dec483f0a09d98813a38b635c32f31cc1fbcf7a1a",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "heidelberg-hans-peter": {
+      "original_capture_sha256": "c14ca3dfa4415e3a10a66dbdc0d123fe037d3d95ba1af435a96771b32b8de1d1",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "heidelberg-haus": {
+      "original_capture_sha256": "97d3e21f67b42750dafbec42ec105f29698b6d09382d6a53e0ffb1679326407b",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "heidelberg-index": {
+      "original_capture_sha256": "1544d64141822e9b6a5187ff4dc201d0aa82ee482a341ebb0ac5ac733233337c",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "kas": {
+      "original_capture_sha256": "5ed0f9367bd169f27734fb1192fe512093c1ad8b00385e714d786a6d958c253e",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "tu-berlin": {
+      "original_capture_sha256": "73cb915c78bd82e9109a6195f191b185082d2c3ad1c86716c6ba0eda55e5ad86",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "tum": {
+      "original_capture_sha256": "466d73b15a2245bbeded810d2d5416800889a694b650c551557280042f3fec26",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-bonn": {
+      "original_capture_sha256": "2191bde3bb5b62519b453e091357845db5ba309b44e5f2db7d49f7c5aa894ccc",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-bremen-afghan": {
+      "original_capture_sha256": "d654c5e01f1ad046de1f13b767ad640cfd731677ea61b128fa2b8978129ed22b",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-cologne": {
+      "original_capture_sha256": "02cd39ac74c37fa8d4e335776ca33006ba84b5b7452269c0b2198b543d4d301e",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-cologne-artes": {
+      "original_capture_sha256": "93344cdef8c567b622b56dc3d5be237177484c2f4fce1d6ae1151a4f4afbd2a0",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-dresden": {
+      "original_capture_sha256": "2f235bdddb3d1eb6a16237da15e7ef4321f49f4cea0944ec939da58ff17cc92f",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-fau": {
+      "original_capture_sha256": "4a6aebbe9cd98d5c169931249a7729ae7a55c14bc146e44d8ccce07529eea96d",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-fu-berlin": {
+      "original_capture_sha256": "a14b25b00e71f328eecf9b7a6d45667eaaa1a352de5ec98e4b2b6d02a21a1da0",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-goettingen": {
+      "original_capture_sha256": "41013d8fb60a96eb341a92b9ba53bfd6b39f8b750b20f647a6a73771a9041a5e",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-goettingen-ggg": {
+      "original_capture_sha256": "2b4c9ed4f46954ce6c291f9705763ad2c1eab01e99786822b75892a24b46e7b6",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-haw-commitment": {
+      "original_capture_sha256": "e572972e2985bc3c18d0c1b2db60f26e2cb968b27cebf3a984ac909417b57cdd",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-haw-completion": {
+      "original_capture_sha256": "ce8d2955df8d51896e506a4387ea6689ce7493198dc94017f6e86c86645f10e1",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-haw-excellence": {
+      "original_capture_sha256": "e4b6d885997daf34a31277e0cafb246cadcc5de0af16648f3fc921bbe779f691",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-hertie-stibet": {
+      "original_capture_sha256": "ccba74c9dd50be011b8cf8040c7ca7f9d6c4802fd10da2287b102d8b9b12b4d5",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-hhu": {
+      "original_capture_sha256": "3f56c34e7e8d305777b0755ea30cc68499b940d8e9ba6146df655873894f8441",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-hsb": {
+      "original_capture_sha256": "0a4a8c9e994dcbcc3e64bd45b79f84f5c5addf1313d53bd2221ba90c403a2f2a",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-jena": {
+      "original_capture_sha256": "6fd157f4e4c38ba942c070a94b8ff3951335417e66c905e139f642100aeb1659",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-jena-photonics": {
+      "original_capture_sha256": "8dc6e8a42b54294b6ccbe0da953fc23b75c97959152ed8b9ff9f1794fdb4ce1b",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-leipzig": {
+      "original_capture_sha256": "b17c6bd5e5bfb1b1da444d0094983439f01eb0419e05a552c9fa6b861c3ae799",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-magdeburg": {
+      "original_capture_sha256": "7a7ce1914f139e38dd48821a9233139ad521b46b2d9ade9c5dbeea66f001d0ae",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-potsdam": {
+      "original_capture_sha256": "9756ed5e1794b955faf6276d81cec4f301d36f4c7c7938371f03cd4a33d4591c",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-potsdam-phd": {
+      "original_capture_sha256": "8588132cd68ac469d2b7e7fecc914a8dc04f6facd17b6d37a9b00713e7336b68",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-rostock": {
+      "original_capture_sha256": "6c7bcda7a5451fbd5825aa4cca2fd18df2936b4f44837566ad18b42d682dff42",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-saarland": {
+      "original_capture_sha256": "1eb63be3f18f8a92916ad0b5e786fa3a11aa30082e93b28a1d1ee53d48563bdf",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "uni-stuttgart": {
+      "original_capture_sha256": "dfbf0d5bc058de326afc9c675f429939e15c2d8f79af00e5f73da389192ecfdd",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "university-bonn-rhein-sieg": {
+      "original_capture_sha256": "0cd0155349388494e435358d76bcb0c3e83dcb82984e57517936adeca70e05fa",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    },
+    "university-haw-hamburg": {
+      "original_capture_sha256": "4b9c050ecb3709028b53aa4c7f2a57f64591a2519828798337ddf2839f266d5f",
+      "data": {
+        "content_omitted": true,
+        "reason": "Raw third-party capture retained in private local editorial storage."
+      },
+      "registry_format": "metadata-only"
+    }
+  }
+}

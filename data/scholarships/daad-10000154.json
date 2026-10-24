@@ -1,0 +1,173 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000154",
+  "slug": "daad-10000154",
+  "title": "Foreign Language Assistant Grants at German Schools",
+  "provider": {
+    "name": "Pädagogischer Austauschdienst (PAD)"
+  },
+  "summary": "Supported placements helping teachers deliver foreign-language lessons in German schools.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "other"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000154"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000154"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000154"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "AU",
+        "BE",
+        "CA",
+        "FR",
+        "IE",
+        "IT",
+        "NZ",
+        "ES",
+        "CH",
+        "TW",
+        "GB",
+        "US"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "The target group names these partner countries; each partner's current rules require confirmation.",
+      "source_ids": [
+        "daad-10000154"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000154"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Normally at least two university years including German studies and sufficient German.",
+        "source_ids": [
+          "daad-10000154"
+        ]
+      },
+      {
+        "text": "Assist with approximately 12 lessons weekly; partner-specific age and study rules apply.",
+        "source_ids": [
+          "daad-10000154"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 1,000 monthly, insurance and possible housing support.",
+    "amount_min": 1000,
+    "amount_max": 1000,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Approximately six to nine months.",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-10000154"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "daad-10000154-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "daad-10000154"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Deadlines are set by the home-country partner organisation.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Apply through the responsible partner in the home country.",
+        "source_ids": [
+          "daad-10000154"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000154",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000154"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000154",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000154",
+        "title": "Foreign Language Assistant Grants at German Schools",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/daad-10000154",
+        "sha256": "1f5c2a45fd2d3f49eb3a045bd2140ba079e50dff28cbd5dcf7564dc5a9119851",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "This is an educational assistantship grant; confirm route and partner eligibility.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication."
+    ]
+  }
+}

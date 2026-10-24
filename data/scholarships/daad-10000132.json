@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000132",
+  "slug": "daad-10000132",
+  "title": "Hanns Seidel Foundation: PhD scholarships",
+  "provider": {
+    "name": "Hanns Seidel Foundation"
+  },
+  "summary": "The Hanns Seidel Foundation provides PhD scholarships for international doctoral candidates across all disciplines completing promising theses at a higher education institution in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Doctoral projects and research stays for international doctoral candidates.",
+      "source_ids": [
+        "daad-10000132"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Applicants from all disciplines are welcome to apply.",
+      "source_ids": [
+        "daad-10000132"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State or state-recognised higher education institution or research institute in Germany.",
+      "source_ids": [
+        "daad-10000132"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "International candidates; specific eligibility depends on selecting country from the dropdown/list.",
+      "source_ids": [
+        "daad-10000132"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Completing promising doctoral theses at a higher education institution in Germany.",
+      "source_ids": [
+        "daad-10000132"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "admission to post-graduate studies at a state or state-recognised higher education institution or research institute in Germany",
+        "source_ids": [
+          "daad-10000132"
+        ]
+      },
+      {
+        "text": "above-average academic performance",
+        "source_ids": [
+          "daad-10000132"
+        ]
+      },
+      {
+        "text": "voluntary engagement (e.g. in politics, churches, social organisations, sport or music)",
+        "source_ids": [
+          "daad-10000132"
+        ]
+      },
+      {
+        "text": "interest in politics",
+        "source_ids": [
+          "daad-10000132"
+        ]
+      },
+      {
+        "text": "a sense of civic responsibility",
+        "source_ids": [
+          "daad-10000132"
+        ]
+      },
+      {
+        "text": "support for the objectives of the Hanns Seidel Foundation",
+        "source_ids": [
+          "daad-10000132"
+        ]
+      },
+      {
+        "text": "adequate knowledge of German",
+        "source_ids": [
+          "daad-10000132"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "1,650 EUR per month plus a research cost allowance of 100 EUR and family- and child allowances, if necessary. Non-material support in the form of, e.g., seminars, events and networking meetings.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Initially granted for 2 years. Under extraordinary circumstances the scholarship may be extended for 12 months.",
+    "covered_costs": [
+      "living_costs",
+      "research"
+    ],
+    "source_ids": [
+      "daad-10000132"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "15 January and 15 July of each year",
+      "applicable_country_codes": null,
+      "id": "daad-10000132-round-bi-annual-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000132"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "15 January and 15 July of each year",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Application forms and further information on the application procedure can be found at the official application link.",
+        "source_ids": [
+          "daad-10000132"
+        ]
+      }
+    ],
+    "official_programme_url": "https://daad.de/go/en/stipa10000132",
+    "application_url": "https://www.hss.de/stipendium/bewerbung/",
+    "source_ids": [
+      "daad-10000132"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000132",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000132",
+        "title": "Hanns Seidel Foundation: PhD scholarships - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000132",
+        "sha256": "f457aeb0d1ac217c7a4a7afd5cce3b404c886d5816ec97a2024ea6f6e75eb977",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Provides scholarship funding for international doctoral candidates conducting research towards their PhD at a higher education institution in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Applicants from all disciplines are welcome to apply.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: State or state-recognised higher education institution or research institute in Germany.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

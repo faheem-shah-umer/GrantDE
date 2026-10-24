@@ -1,0 +1,224 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000210",
+  "slug": "daad-10000210",
+  "title": "Evangelisches Studienwerk: Scholarship for Doctoral Students",
+  "provider": {
+    "name": "Evangelisches Studienwerk"
+  },
+  "summary": "Scholarships for German and foreign doctoral candidates of protestant faith studying at German higher-education institutions.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Doctorates as part of medical studies (Dr med, Dr med dent) are not supported. Applications involving veterinary medicine are possible. Biomedical projects only accepted if they lead to Dr rer nat (Dr nat med).",
+      "source_ids": [
+        "daad-10000210"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines",
+      "source_ids": [
+        "daad-10000210"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German higher-education institution (or in well-founded cases for Germans: EU member state, Great Britain, Norway, Switzerland)",
+      "source_ids": [
+        "daad-10000210"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "German and foreign nationals of protestant faith.",
+      "source_ids": [
+        "daad-10000210"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Students from abroad can apply if they are admitted for a doctorate at a higher education institution in Germany.",
+      "source_ids": [
+        "daad-10000210"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Applicants must be of protestant faith (exceptions in justified cases only).",
+        "source_ids": [
+          "daad-10000210"
+        ]
+      },
+      {
+        "text": "degree completed in good time",
+        "source_ids": [
+          "daad-10000210"
+        ]
+      },
+      {
+        "text": "above-average academic study and examination achievements (final grade of at least \"good\", in law \"fully satisfactory\")",
+        "source_ids": [
+          "daad-10000210"
+        ]
+      },
+      {
+        "text": "degree enabling access to doctoral studies",
+        "source_ids": [
+          "daad-10000210"
+        ]
+      },
+      {
+        "text": "admission to doctoral studies",
+        "source_ids": [
+          "daad-10000210"
+        ]
+      },
+      {
+        "text": "Students from abroad can apply if they are admitted for a doctorate at a higher education institution in Germany.",
+        "source_ids": [
+          "daad-10000210"
+        ]
+      },
+      {
+        "text": "German language skills at level B2/DSH (for non-native speaking candidates)",
+        "source_ids": [
+          "daad-10000210"
+        ]
+      },
+      {
+        "text": "Application is possible if the applicant has not worked on the project for more than 1 year.",
+        "source_ids": [
+          "daad-10000210"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "exceptions in justified cases for protestant faith requirement",
+        "source_ids": [
+          "daad-10000210"
+        ]
+      },
+      {
+        "text": "In well-founded cases, Germans can pursue their doctorate degree at a higher education institution in a member state of the European Union, in Great Britain, in Norway or in Switzerland.",
+        "source_ids": [
+          "daad-10000210"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "A full grant currently amounts to 1,650 EUR. Doctoral candidates moreover receive a research allowance of 100 EUR. If there are children under the age of 14 living with the doctoral candidate for whom the candidate is the legal guardian, the candidate is eligible for a child care allowance or support for a parental year.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Initially awarded for a period of 3 years, an extension of the funding period for up to 3.5 years at most is possible.",
+    "covered_costs": [
+      "living_costs",
+      "research"
+    ],
+    "source_ids": [
+      "daad-10000210"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "1 September to the 1st working day in December (midnight) Source deadline clock time: midnight; timezone needs confirmation.",
+      "applicable_country_codes": null,
+      "id": "daad-10000210-round-application-period-1",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000210"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "1 March to the 1st working day in June (midnight) Source deadline clock time: midnight; timezone needs confirmation.",
+      "applicable_country_codes": null,
+      "id": "daad-10000210-round-application-period-2",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000210"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "There are 2 application periods per year: 1 September to the 1st working day in December (midnight), and 1 March to the 1st working day in June (midnight).",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000210",
+    "application_url": "https://www.evstudienwerk.de/english/scholarship-for-doctoral-students/",
+    "source_ids": [
+      "daad-10000210"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000210",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000210",
+        "title": "Evangelisches Studienwerk: Scholarship for Doctoral Students - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000210",
+        "sha256": "aaa059961c5a9b1759817c9a29904f48f96cd5f4bce56aac43c12287efe6c13b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Funds international students pursuing a doctorate at a German higher-education institution."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Deadline time omitted from structured clock field because timezone was not established: midnight",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines",
+      "A structured restriction needs manual classification: German higher-education institution (or in well-founded cases for Germans: EU member state, Great Britain, Norway, Switzerland)",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

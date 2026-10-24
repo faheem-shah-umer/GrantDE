@@ -1,0 +1,241 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000556",
+  "slug": "daad-10000556",
+  "title": "Leibniz Institute of European History Mainz: Fellowships for Doctoral Students",
+  "provider": {
+    "name": "Leibniz Institute of European History (IEG)"
+  },
+  "summary": "The Leibniz Institute of European History (IEG) in Mainz awards 6 to 12-month fellowships for doctoral students in European history, the history of religion, and other historical disciplines.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "For doctoral students / PhD students.",
+      "source_ids": [
+        "daad-10000556"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "humanities",
+        "other"
+      ],
+      "notes": "European history, the history of religion, historical theology, or other historical disciplines.",
+      "source_ids": [
+        "daad-10000556"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Leibniz Institute of European History (IEG) in Mainz.",
+      "source_ids": [
+        "daad-10000556"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "The fellowship is open to PhD students from Germany and abroad.",
+      "source_ids": [
+        "daad-10000556"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "During the fellowship you are required to reside at the Institute in Mainz.",
+      "source_ids": [
+        "daad-10000556"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "PhD students must have been pursuing their doctorate for no more than 3 years at the time of taking up the fellowship",
+        "source_ids": [
+          "daad-10000556"
+        ]
+      },
+      {
+        "text": "Required to reside at the Institute in Mainz during the fellowship",
+        "source_ids": [
+          "daad-10000556"
+        ]
+      },
+      {
+        "text": "Actively participate in the IEG's research community, the weekly colloquia and scholarly activities",
+        "source_ids": [
+          "daad-10000556"
+        ]
+      },
+      {
+        "text": "Present your work at least once during your fellowship",
+        "source_ids": [
+          "daad-10000556"
+        ]
+      },
+      {
+        "text": "Proficiency in English is required to participate in discussions at the Institute",
+        "source_ids": [
+          "daad-10000556"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Particular interest is given to projects with a comparative or cross-border approach, on Europe in its relation to the wider world, on topics of intellectual and religious history, with digital tools and methods, or on environmental history",
+        "source_ids": [
+          "daad-10000556"
+        ]
+      },
+      {
+        "text": "Knowledge of German is welcome",
+        "source_ids": [
+          "daad-10000556"
+        ]
+      },
+      {
+        "text": "The IEG encourages applications from women",
+        "source_ids": [
+          "daad-10000556"
+        ]
+      },
+      {
+        "text": "The IEG preferably supports the writing up of dissertations",
+        "source_ids": [
+          "daad-10000556"
+        ]
+      }
+    ],
+    "exceptions": [
+      {
+        "text": "Exceptions to the 3-year limit for pursuing a doctorate may be made in exceptional circumstances",
+        "source_ids": [
+          "daad-10000556"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "The monthly stipend is 1,650 EUR. Additionally, you can apply for family or child allowance.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "6-12 months",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000556"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadline is 15 February for stays beginning in September. Extracted deadline was '02-15'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000556-round-stays-beginning-in-september",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000556"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadline is 15 August for stays beginning in March of the following year. Extracted deadline was '08-15'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000556-round-stays-beginning-in-march-of-the-following-year",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000556"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "The application deadlines are 15 February for stays beginning in September and 15 August for stays beginning in March of the following year.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Letters of recommendation should be submitted directly by the referees.",
+        "source_ids": [
+          "daad-10000556"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Please apply via the online application portal.",
+        "source_ids": [
+          "daad-10000556"
+        ]
+      }
+    ],
+    "official_programme_url": "https://daad.de/go/en/stipa10000556",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000556"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000556",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000556",
+        "title": "Leibniz Institute of European History Mainz: Fellowships for Doctoral Students - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000556",
+        "sha256": "94c22e300753a6618745e57656511da8cd3a3d94ef2622fa1951027325e0b2c3",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": ""
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Unconfirmed date '02-15' was not converted to a year-specific date.",
+      "Unconfirmed date '08-15' was not converted to a year-specific date.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Leibniz Institute of European History (IEG) in Mainz.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{% macro arrow(diagonal=false) -%}
+<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true">{% if diagonal %}<path d="M6 18 18 6M6 6h12v12"/>{% else %}<path d="M4 12h16m-6-6 6 6-6 6"/>{% endif %}</svg>
+{%- endmacro %}
+
+{% macro search_icon() -%}
+<svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 4.5 4.5"/></svg>
+{%- endmacro %}
+
+{% macro scholarship_card(card, preview=false, compact=false) -%}
+<article class="scholarship-card{% if compact %} compact-card{% endif %}">
+  <div class="card-top"><span class="provider">{{ card.provider }}</span><span class="status status-{{ card.primary_round.status }}">{{ card.primary_round.status|label }}</span></div>
+  <h3><a class="card-link" href="{{ card.url }}">{{ card.title }}</a></h3>
+  <p class="card-summary">{{ card.summary }}</p>
+  <div class="card-tags">
+    {% if card.degrees.status == 'unrestricted' %}<span>All degree levels</span>{% elif card.degrees['values'] %}{% for degree in card.degrees['values'][:3] %}<span>{{ degree|label }}</span>{% endfor %}{% else %}<span>Study level needs checking</span>{% endif %}
+    {% if preview and card.is_draft %}<span class="draft-tag">Draft</span>{% endif %}
+  </div>
+  <div class="card-bottom">
+    <div><span class="meta-label">Funding</span><strong>{{ card.funding }}</strong></div>
+    <div><span class="meta-label">{% if card.primary_round.applicable_country_codes %}Country-specific deadline{% else %}Deadline{% endif %}</span><strong>{% if card.primary_round.deadline %}{{ card.primary_round.deadline|date_label }}{% elif card.primary_round.status == 'rolling' %}Rolling applications{% else %}Not announced{% endif %}</strong></div>
+    <span class="card-arrow" aria-hidden="true">{{ arrow() }}</span>
+  </div>
+</article>
+{%- endmacro %}
+
+{% macro citations(ids, record) -%}
+<span class="citations">{% for source in record.provenance.sources %}{% if source.id in ids %}<a href="#source-{{ source.id }}" aria-label="Source {{ loop.index }}">[{{ loop.index }}]</a>{% endif %}{% endfor %}</span>
+{%- endmacro %}
+
+{% macro criterion(title, value, record) -%}
+<div class="criterion"><h3>{{ title }}</h3>
+  {% if value.status == 'unrestricted' %}<p class="criterion-value">Provider states no restriction.</p>
+  {% elif value['values'] %}<p class="criterion-value">{% for item in value['values'] %}{{ item|label }}{% if not loop.last %}, {% endif %}{% endfor %}</p>
+  {% else %}<p class="criterion-value muted">Details need checking</p>{% endif %}
+  {% if value.notes != 'Not specified in the collected source.' %}<p>{{ value.notes }} {{ citations(value.source_ids, record) }}</p>{% else %}<p>Confirm the full conditions with the official provider. {{ citations(value.source_ids, record) }}</p>{% endif %}
+</div>
+{%- endmacro %}

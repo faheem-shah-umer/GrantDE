@@ -1,0 +1,172 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-jena-photonics-jasso-overseas-study-support-program-for-graduate-degrees",
+  "slug": "uni-jena-photonics-jasso-overseas-study-support-program-for-graduate-degrees",
+  "title": "JASSO Overseas Study Support Program for Graduate Degrees",
+  "provider": {
+    "name": "Japan Student Services Organization (JASSO)"
+  },
+  "summary": "Government-funded scholarships for Japanese citizens and permanent residents pursuing full Master's or doctoral degrees abroad.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate"
+      ],
+      "notes": "Full Master's or doctoral degree",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Open to almost all academic fields",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Overseas university",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "JP"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Japanese citizens and permanent residents",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany",
+        "in_germany"
+      ],
+      "notes": "Overseas university",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Japanese citizenship or permanent residency",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      },
+      {
+        "text": "Pursuing a full Master's or doctoral degree at an overseas university",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "JPY 230,000 per month (published reference rate for Germany as published in 2026), supplemented by a small travel allowance.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "JPY",
+    "frequency": "monthly",
+    "duration": "Up to 24 months for Master's students",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "other"
+    ],
+    "source_ids": [
+      "uni-jena-photonics"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Consult current JASSO Overseas Study Support Program for application dates.",
+      "applicable_country_codes": [
+        "JP"
+      ],
+      "id": "uni-jena-photonics-jasso-overseas-study-support-program-for-graduate-degrees-round-2026-call",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Consult current JASSO program guidelines",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.jasso.go.jp/ryugaku/scholarship_a/daigakuin/2026.html",
+    "application_url": null,
+    "source_ids": [
+      "uni-jena-photonics"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-jena-photonics",
+        "url": "https://www.asp.uni-jena.de/16808/scholarships-available",
+        "title": "Abbe School of Photonics • Master scholarships | Abbe School of Photonics",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-jena-photonics",
+        "sha256": "8dc6e8a42b54294b6ccbe0da953fc23b75c97959152ed8b9ff9f1794fdb4ce1b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports Japanese students pursuing degrees abroad, including in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "This is a German university's summary of an external award. The actual provider page and current call still need independent review; do not assume all overseas-study destinations, universities or applicants are covered.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Open to almost all academic fields"
+    ]
+  }
+}

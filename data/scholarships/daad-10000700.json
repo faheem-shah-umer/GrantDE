@@ -1,0 +1,247 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000700",
+  "slug": "daad-10000700",
+  "title": "BAYHOST: Scholarships for language and short courses (summer/winter schools) for students and researchers from the Czech Republic",
+  "provider": {
+    "name": "BAYHOST / BTHA"
+  },
+  "summary": "Scholarships for Czech students, researchers, and lecturers to attend language and specialist short courses at Bavarian state and state-funded higher education institutions.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Covers students, researchers and lecturers.",
+      "source_ids": [
+        "daad-10000700"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No specific subject restriction mentioned.",
+      "source_ids": [
+        "daad-10000700"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Exclusively for courses at Bavarian state and state-funded higher education institutions.",
+      "source_ids": [
+        "daad-10000700"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "CZ"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Available only to Czech nationals and students/researchers from Czech higher education institutions.",
+      "source_ids": [
+        "daad-10000700"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants must be living in and applying from the Czech Republic.",
+      "source_ids": [
+        "daad-10000700"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "BTHA application form",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "Statement of purpose explaining your choice of course (one page in German or English)",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "CV in table format with a photograph and details of language skills",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "For language courses, existing language skills at a minimum of B1 level are required",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "Students and PhD candidates: certificate of enrolment, official transcript of marks and a letter of recommendation from a university lecturer (in Czech/German/English)",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "Proof of Czech citizenship (copy of identity card, passport or similar)",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "Applicants must register for their chosen short or language course independently and directly with the relevant higher education institution.",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "The scholarship covers the course fees (including accommodation costs and additional modules such as workshops and excursions). Provided it is not included in the course fees or organised by the course provider, a contribution towards accommodation costs of up to 400 EUR may be granted.",
+    "amount_min": null,
+    "amount_max": 400,
+    "currency": "EUR",
+    "frequency": "variable",
+    "duration": "Not specified",
+    "covered_costs": [
+      "tuition",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000700"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No application dates provided on the page.",
+      "applicable_country_codes": [
+        "CZ"
+      ],
+      "id": "daad-10000700-round-unspecified-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000700"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "BTHA application form",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "Statement of purpose",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "CV in table format with photo and language skills",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "Certificate of enrolment (for students and PhD candidates)",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "Official transcript of marks (for students and PhD candidates)",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "Letter of recommendation from a university lecturer",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "Proof of Czech citizenship",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register for chosen short or language course independently and directly with the relevant higher education institution.",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      },
+      {
+        "text": "Send applications for the scholarship to the BTHA by email.",
+        "source_ids": [
+          "daad-10000700"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000700",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000700"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000700",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000700",
+        "title": "BAYHOST: Scholarships for language and short courses (summer/winter schools) for students and researchers from the Czech Republic - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000700",
+        "sha256": "046d418d805d3d64dcf7f8255506c4bf72580a2566e234f8338edf6540261173",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds students and researchers for physical language and specialist courses in Bavaria, Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Covers students, researchers and lecturers.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: No specific subject restriction mentioned.",
+      "A structured restriction needs manual classification: Exclusively for courses at Bavarian state and state-funded higher education institutions."
+    ]
+  }
+}

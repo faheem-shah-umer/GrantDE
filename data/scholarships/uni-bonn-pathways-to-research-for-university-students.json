@@ -1,0 +1,142 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-bonn-pathways-to-research-for-university-students",
+  "slug": "uni-bonn-pathways-to-research-for-university-students",
+  "title": "Pathways to Research for University Students",
+  "provider": {
+    "name": "University of Bonn"
+  },
+  "summary": "Two-semester research support program for university students including a monthly grant and networking events.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "University students.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "University of Bonn"
+      ],
+      "notes": "Referenced via University of Bonn support programs link.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Not specified.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "In-country university students.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "mandatory": [],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Monthly grant of €300.",
+    "amount_min": 300,
+    "amount_max": 300,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Spans two semesters (12 months)",
+    "covered_costs": [
+      "research",
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-bonn"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2026-04-01",
+      "deadline": "2026-06-01",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Current application period: April 01 to June 01, 2026.",
+      "applicable_country_codes": null,
+      "id": "uni-bonn-pathways-to-research-for-university-students-round-2026-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.uni-bonn.de/en/studying/international-students/costs-and-financing-for-international-students",
+    "application_url": "https://www.chancengerechtigkeit.uni-bonn.de/en/support-programs/pathways-to-research-program/university-students?set_language=en",
+    "source_ids": [
+      "uni-bonn"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-bonn",
+        "url": "https://www.uni-bonn.de/en/studying/international-students/costs-and-financing-for-international-students",
+        "title": "Costs and Financing for International Students — University of Bonn",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-bonn",
+        "sha256": "2191bde3bb5b62519b453e091357845db5ba309b44e5f2db7d49f7c5aa894ccc",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "University students physically studying in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

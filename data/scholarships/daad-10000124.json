@@ -1,0 +1,367 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000124",
+  "slug": "daad-10000124",
+  "title": "Heinrich Böll Foundation: International Graduate Scholarship",
+  "provider": {
+    "name": "Heinrich-Böll-Stiftung"
+  },
+  "summary": "Support for international applicants entering a first Master's programme in Germany, with priority for applicants from DAC countries who are still living abroad.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "diploma",
+        "state_exam"
+      ],
+      "notes": "The September 2026 checklist permits international Master's applicants and the main phase of Diplom/State Examination after the intermediate examination. Apply before that study phase starts.",
+      "source_ids": [
+        "review-20261024-boell-checklist-2026"
+      ]
+    },
+    "subject_areas": {
+      "status": "unrestricted",
+      "values": null,
+      "notes": "The application page explicitly accepts all disciplines.",
+      "source_ids": [
+        "curated-boell-apply"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "State or state-recognised university in Germany"
+      ],
+      "notes": "Check the applicable EU/non-EU funding route and any permitted periods abroad.",
+      "source_ids": [
+        "review-20261024-boell-checklist-2026"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "EU",
+        "DAC_country_list"
+      ],
+      "notes": "The English application page names EU and DAC countries; the German study page and checklists distinguish EU/non-EU routes and DAC priority. These are not an exhaustive country whitelist. Confirm the current route with the provider.",
+      "source_ids": [
+        "review-20261024-boell",
+        "review-20261024-boell-checklist-2026"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-boell-apply"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "For the Master's route, complete the first degree abroad and apply before starting the programme. For Diplom/State Examination, apply before the main study phase after the intermediate examination.",
+        "source_ids": [
+          "review-20261024-boell-checklist-2026"
+        ]
+      },
+      {
+        "text": "The current English Master's section requires full-time study at a state-recognised university; check the route-specific rules in the September 2026 checklist.",
+        "source_ids": [
+          "review-20261024-boell",
+          "review-20261024-boell-checklist-2026"
+        ]
+      },
+      {
+        "text": "The Master's programme must have a standard duration of at least four semesters.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      },
+      {
+        "text": "Submit a complete online application through the foundation's portal.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      },
+      {
+        "text": "German B2 or DSH 1 proof is required, preferably with the application and at the latest by selection stage III, under the September 2026 checklist.",
+        "source_ids": [
+          "review-20261024-boell-checklist-2026"
+        ]
+      },
+      {
+        "text": "Strong academic performance, civic engagement, political interest and convincing reasons for applying are selection criteria.",
+        "source_ids": [
+          "review-20261024-boell-checklist-2026"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Priority to applicants from DAC countries who have not yet taken up residence in Germany.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      }
+    ],
+    "exceptions": [
+      {
+        "text": "Admission or enrolment confirmation may be submitted later, but no later than the third-stage interview, subject to the foundation's instructions.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "October 2026 overview: the non-EU AA study route lists EUR 992/month plus conditional allowances. The EU/Bildungsinlaender BMFTR study route is income-dependent, up to EUR 855 plus a EUR 300 monthly study-cost allowance. A single universal award amount would be misleading; income and additional support rules vary by route.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Standard study period, with a possible one-semester extension according to the September 2026 checklist.",
+    "covered_costs": [
+      "living_costs",
+      "insurance"
+    ],
+    "source_ids": [
+      "review-20261024-boell-finance-2026",
+      "review-20261024-boell-checklist-2026"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2026-07-15",
+      "deadline": "2026-09-01",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Published 2026 application window.",
+      "applicable_country_codes": null,
+      "id": "daad-10000124-round-fall-2026",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "curated-boell-apply"
+      ]
+    },
+    {
+      "opens_on": "2027-01-15",
+      "deadline": "2027-03-01",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "upcoming",
+      "notes": "The German page and September 2026 checklist explicitly describe the international Master's route, but the English landing page still says only first-cycle applications from March 2027. Confirm this conflict before relying on the round.",
+      "applicable_country_codes": null,
+      "id": "daad-10000124-round-spring-2027",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "curated-boell-apply",
+        "review-20261024-boell-german",
+        "review-20261024-boell-checklist-2026"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Scholarship application form with CV, study motivation and civic engagement",
+        "source_ids": [
+          "review-20261024-boell-checklist-2026"
+        ]
+      },
+      {
+        "text": "University entrance qualification and translations where needed",
+        "source_ids": [
+          "review-20261024-boell-checklist-2026"
+        ]
+      },
+      {
+        "text": "Transcript if study has begun; first-degree certificate or confirmation all qualifying examinations were passed for Master's applications",
+        "source_ids": [
+          "review-20261024-boell-checklist-2026"
+        ]
+      },
+      {
+        "text": "Enrolment/admission confirmation, at the latest by stage III under the stated exception",
+        "source_ids": [
+          "review-20261024-boell-checklist-2026"
+        ]
+      },
+      {
+        "text": "Written German B2 or DSH 1 proof, at the latest by stage III",
+        "source_ids": [
+          "review-20261024-boell-checklist-2026"
+        ]
+      },
+      {
+        "text": "Third-party civic-engagement reference on the foundation form",
+        "source_ids": [
+          "review-20261024-boell-checklist-2026"
+        ]
+      },
+      {
+        "text": "Academic expert reference on the foundation form; it must come from a different person than the civic reference",
+        "source_ids": [
+          "review-20261024-boell-checklist-2026"
+        ]
+      },
+      {
+        "text": "Other route-specific evidence requested by the checklist or portal",
+        "source_ids": [
+          "review-20261024-boell-checklist-2026"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Check the formal requirements and deadline.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      },
+      {
+        "text": "Compile the checklist documents and expert reports.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      },
+      {
+        "text": "Register when the portal opens, complete the application and upload all documents.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      },
+      {
+        "text": "Submit the final application online.",
+        "source_ids": [
+          "curated-boell-apply"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.boell.de/en/applying-scholarship",
+    "application_url": "https://stipendium.boell.de/Default.aspx?lg=ENU&tp=3&an=&ad=&lk=2",
+    "source_ids": [
+      "curated-boell-apply"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-boell-apply",
+        "url": "https://www.boell.de/en/applying-scholarship",
+        "title": "Applying for a scholarship | Heinrich Böll Stiftung",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-boell-apply",
+        "sha256": "c96b87ff187755ec531111687b0da3b5b8acdce93a6bb3f8bf0c924576f89335",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      },
+      {
+        "id": "review-20261024-boell",
+        "url": "https://www.boell.de/en/applying-scholarship",
+        "title": "Applying for a scholarship | Heinrich Böll Stiftung",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-boell",
+        "sha256": "4e1b0e8c846703caa2d612cff4e0cc9cc9c24a10b117eed68644da1bbdc012ec",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      },
+      {
+        "id": "review-20261024-boell-german",
+        "url": "https://www.boell.de/de/stipendium-studium",
+        "title": "„Studienstipendium Bewerbung“ | Heinrich-Böll-Stiftung",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-boell-german",
+        "sha256": "65acf6f1ccf45ad18857c1e284c53845633d0bcb8f136133f482aa65f2c34986",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      },
+      {
+        "id": "review-20261024-boell-study-checklist",
+        "url": "https://www.boell.de/sites/default/files/2026-04/2-a1-1b-info_checklist_application_stud_june_2025.pdf",
+        "title": "Heinrich Boell Foundation: international study application checklist (June 2025)",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-boell-study-checklist",
+        "sha256": "782811e347d386acf2ad00979527f265c652f6e380d8212f360db6e6c34ee271",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      },
+      {
+        "id": "review-20261024-boell-checklist-2026",
+        "url": "https://www.boell.de/sites/default/files/2026-09/1_a1-1a-infoblatt_checkliste_bewerbung-stud_september_2026-2.pdf",
+        "title": "Heinrich Boell Foundation: study application checklist (September 2026)",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-boell-checklist-2026",
+        "sha256": "07d19123d7b69a964be34d424b937712702c6969cd8e6515792bc42ce18f98d2",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      },
+      {
+        "id": "review-20261024-boell-finance-2026",
+        "url": "https://www.boell.de/sites/default/files/2026-10/uebersicht_finanzielle-forderung_engl_10_2026.pdf",
+        "title": "Heinrich Boell Foundation: financial support overview (October 2026)",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-boell-finance-2026",
+        "sha256": "7c7d90400dc360bdda1ec50589b0bfeae759bc404f69e45e4d195fff374d478e",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      }
+    ],
+    "last_checked": "2026-10-24",
+    "last_reviewed": "2026-10-24",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "The English page's first-cycle-only notice for March 2027 conflicts with its Master's section and the German page/September 2026 checklist. Provider clarification is still required.",
+      "Funding and country eligibility depend on the EU/non-EU and educational-background route; do not show a universal amount or nationality whitelist."
+    ]
+  }
+}

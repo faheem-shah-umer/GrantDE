@@ -1,0 +1,200 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000366",
+  "slug": "daad-10000366",
+  "title": "BAYHOST: Scholarships for students and young academics from Central, Eastern and Southeastern Europe for summer language courses",
+  "provider": {
+    "name": "BAYHOST"
+  },
+  "summary": "Summer school grants for German language courses at Bavarian higher education institutions for students and young academics from selected Central, Eastern and Southeastern European countries.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Target group includes undergraduates, graduates and young scientists.",
+      "source_ids": [
+        "daad-10000366"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified.",
+      "source_ids": [
+        "daad-10000366"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Bavarian institution of higher education"
+      ],
+      "notes": "Courses take place at a Bavarian higher education institution.",
+      "source_ids": [
+        "daad-10000366"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Applicants must be a national of one of the eligible countries.",
+      "source_ids": [
+        "daad-10000366"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Scholarships are for courses on-site in Bavaria, Germany. Applicants must be enrolled or working in an eligible country at the time of application.",
+      "source_ids": [
+        "daad-10000366"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "citizenship of Albania, Bosnia and Herzegovina, Croatia, Kosovo, North Macedonia, Montenegro, Serbia, Slovenia or Ukraine",
+        "source_ids": [
+          "daad-10000366"
+        ]
+      },
+      {
+        "text": "enrolled or working in an academic capacity at a higher education institution in one of the participating countries at the time of application",
+        "source_ids": [
+          "daad-10000366"
+        ]
+      },
+      {
+        "text": "at least 2 semesters spent at a higher education institution, proven by grades",
+        "source_ids": [
+          "daad-10000366"
+        ]
+      },
+      {
+        "text": "at least B1-level command of German",
+        "source_ids": [
+          "daad-10000366"
+        ]
+      },
+      {
+        "text": "Candidates have reached legal age by the time of application",
+        "source_ids": [
+          "daad-10000366"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Exceptions to the enrollment/employment rule may be made for Ukrainian citizens who are studying or working at higher education institutions in other countries.",
+        "source_ids": [
+          "daad-10000366"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Includes the course fee, accommodation and spending money allowance or board at a Bavarian institution of higher education. Travel expenses, international health insurance, or visa fees will not be reimbursed.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "one_off",
+    "duration": "approx. 4 weeks (course duration)",
+    "covered_costs": [
+      "tuition",
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000366"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Please find the updated application deadlines on the external website.",
+      "applicable_country_codes": [
+        "AL",
+        "BA",
+        "HR",
+        "ME",
+        "MK",
+        "RS",
+        "SI",
+        "UA"
+      ],
+      "id": "daad-10000366-round-unconfirmed-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000366"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Check the website for application forms and procedure.",
+        "source_ids": [
+          "daad-10000366"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000366",
+    "application_url": "https://www.uni-regensburg.de/en/bayhost/funding-and-scholarships/coming-to-bavaria/german-courses-in-bavaria",
+    "source_ids": [
+      "daad-10000366"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000366",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000366",
+        "title": "BAYHOST: Scholarships for students and young academics from Central, Eastern and Southeastern Europe for summer language courses - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000366",
+        "sha256": "eacfec2169dc585b2da299199c4db73798e20e5f998d8a384b70e883c91da0d8",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds international students for physically attending German language courses at a Bavarian institution of higher education in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Round country codes need review: XK",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Target group includes undergraduates, graduates and young scientists.",
+      "Invalid country code in allowed_country_codes; original rule retained in research snapshot."
+    ]
+  }
+}

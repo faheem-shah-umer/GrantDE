@@ -1,0 +1,273 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57504697",
+  "slug": "daad-57504697",
+  "title": "Combined Study and Practice Stays for Engineers from Developing Countries (KOSPIE) with Indian IITs",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Scholarship for Indian IIT students in engineering, mathematics, and natural sciences to complete a master's thesis project at a TU9 technical university in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "Students in the 2nd semester of their 2 year Master’s programme or 4th Semester of their 3 year MTech programme or in the 8th semester of an integrated / dual degree programme.",
+      "source_ids": [
+        "daad-57504697"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering",
+        "mathematics",
+        "natural_sciences"
+      ],
+      "notes": "The collected source does not establish this criterion.",
+      "source_ids": [
+        "daad-57504697"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "RWTH Aachen",
+        "Technische Universität Braunschweig",
+        "Technische Universität Darmstadt",
+        "Technische Universität Dresden",
+        "Leibniz Universität Hannover",
+        "Universität Stuttgart"
+      ],
+      "notes": "Applications for the KIT Campus Alpin, Garmisch-Partenkirchen cannot be considered.",
+      "source_ids": [
+        "daad-57504697"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "IN"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Restricted to students from Indian Institutes of Technology (IIT).",
+      "source_ids": [
+        "daad-57504697"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Country is the country in which you are living and from which you are applying.",
+      "source_ids": [
+        "daad-57504697"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Applicants must be in the 2nd semester of their 2 year Master’s programme or 4th Semester of their 3 year master’s programme or in the 8th semester of an integrated / dual degree programme.",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "Applicants must have obtained a minimum of 8,5 CGPA.",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "GATE scores must be above average.",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "Letter confirming supervision by a university teacher in Germany (academic adviser).",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "A successful participation in a German language course at your host university is mandatory for further funding.",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "At the time of application, the applicant should already be in possession of a valid passport.",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "Very good proficiency of the English language is expected.",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "It is not possible to draw funding from other German scholarship-awarding organisations or from other German public authorities simultaneously with a DAAD scholarship.",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Scholarship payments of 992 euros per month. Payments towards health, accident and liability insurance cover. 4 to 6 weeks German course at the host university. One-off research allowance of 266 euros. Monthly rent subsidy where appropriate. A lump sum travel subsidy.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "7 months (from September to March)",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "language_course",
+      "research",
+      "travel"
+    ],
+    "source_ids": [
+      "daad-57504697"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2026-02-20",
+      "deadline": "2026-04-01",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "",
+      "applicable_country_codes": [
+        "IN"
+      ],
+      "id": "daad-57504697-round-2026-2027-application-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57504697"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Full curriculum vitae",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "Letter confirming supervision by a university teacher in Germany (academic adviser)",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "One recent, supporting letter of recommendation from a university teacher",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "Detailed description of the research proposal for the master’s thesis agreed upon and signed by both academic advisers",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "University degree certificates indicating final grade(s) (CGPA /CPI /SGPA)",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "Copies of GATE results",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "Request recommendation form",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "Complete online application and upload required documents in PDF format",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      },
+      {
+        "text": "Submit the application online",
+        "source_ids": [
+          "daad-57504697"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57504697",
+    "application_url": null,
+    "source_ids": [
+      "daad-57504697"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57504697",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57504697",
+        "title": "Combined Study and Practice Stays for Engineers from Developing Countries (KOSPIE) with Indian IITs - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57504697",
+        "sha256": "e468459552ad7931f76b2915c7c624b7d910bd2639f655d2b0864d855f1680cc",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds international students from Indian Institutes of Technology to conduct research for their master's thesis physically in Germany at TU9 technical universities."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts."
+    ]
+  }
+}

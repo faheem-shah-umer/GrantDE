@@ -1,0 +1,150 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-50015450",
+  "slug": "daad-50015450",
+  "title": "DAAD/HEC Overseas Government Scholarships for Pakistan",
+  "provider": {
+    "name": "Higher Education Commission Pakistan / DAAD"
+  },
+  "summary": "Doctoral support in Germany for prospective higher-education teachers from Pakistan.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-50015450"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-50015450"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-50015450"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "PK"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "The German programme description identifies candidates from Pakistan.",
+      "source_ids": [
+        "daad-50015450"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-50015450"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Meet the current HEC and DAAD doctoral-selection conditions.",
+        "source_ids": [
+          "daad-50015450"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "HEC provides a monthly stipend, one-off travel support and health-insurance benefits; amount not stated.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Four years to doctoral completion.",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance"
+    ],
+    "source_ids": [
+      "daad-50015450"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "daad-50015450-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "daad-50015450"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/de/21148-stipendiendatenbank/?detail=50015450",
+    "application_url": null,
+    "source_ids": [
+      "daad-50015450"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-50015450",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/de/21148-stipendiendatenbank/?detail=50015450",
+        "title": "DAAD/HEC Overseas Government Scholarships for Pakistan",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/daad-50015450",
+        "sha256": "6979a78c563ba44712aee4c32b28fe73eab3c5dc4bfe72d6afeacc52161ae345",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "The English title mentions MSc leading to PhD, while the German detail page specifies doctoral study. Confirm the current HEC call."
+    ]
+  }
+}

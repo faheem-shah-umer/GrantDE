@@ -1,0 +1,221 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000612",
+  "slug": "daad-10000612",
+  "title": "DAAD Konrad Zuse School of Excellence in Reliable Artificial Intelligence (relAI): Scholarship for Master's Students and PhD Candidates",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Scholarships for international Master's students and PhD candidates in artificial intelligence and related subjects at relAI in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate"
+      ],
+      "notes": "Master's students and PhD candidates",
+      "source_ids": [
+        "daad-10000612"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "computer_science",
+        "mathematics",
+        "engineering",
+        "natural_sciences",
+        "other"
+      ],
+      "notes": "Artificial Intelligence and related subjects, computer science, mathematics, engineering, natural sciences or other data science/machine learning/AI related disciplines",
+      "source_ids": [
+        "daad-10000612"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified",
+      "source_ids": [
+        "daad-10000612"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "DAAD origin-unspecified page with a country selection list; specific eligible countries are not enumerated in the static text.",
+      "source_ids": [
+        "daad-10000612"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Country is the country in which you are living and from which you are applying.",
+      "source_ids": [
+        "daad-10000612"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "highly qualified current or prospective Master's students and PhD candidates who have achieved excellent results in previous studies",
+        "source_ids": [
+          "daad-10000612"
+        ]
+      },
+      {
+        "text": "pursue studies in Artificial Intelligence, broadly conceived",
+        "source_ids": [
+          "daad-10000612"
+        ]
+      },
+      {
+        "text": "excellent Bachelor's degree / Master's degree (for application for MSc / PhD respectively) in computer science, mathematics, engineering, natural sciences or other data science/machine learning/AI related disciplines",
+        "source_ids": [
+          "daad-10000612"
+        ]
+      },
+      {
+        "text": "genuine interest to work on a topic of reliableAI, covering aspects such as safety, security, privacy and responsibility in one of relAI’s research areas",
+        "source_ids": [
+          "daad-10000612"
+        ]
+      },
+      {
+        "text": "proof of English language proficiency: level C1 or equivalent (also acceptable: proof that previous university degree was taught mainly in English)",
+        "source_ids": [
+          "daad-10000612"
+        ]
+      },
+      {
+        "text": "PhD programme only: choice of 2 preferred supervisors who are relAI Fellows, along with a short explanation (max. 1,000 characters) for each why the respective supervisor would be a good fit; names and addresses of 2 researchers who consent to be contacted for recommendation letters",
+        "source_ids": [
+          "daad-10000612"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Information about the scholarship is published in the annual call for applications.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "standard duration of the Master's programme or 3 years for the PhD programme",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-10000612"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Open calls are published on the website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000612-round-open-calls",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000612"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "CV",
+        "source_ids": [
+          "daad-10000612"
+        ]
+      },
+      {
+        "text": "copies of relevant diplomas and transcripts",
+        "source_ids": [
+          "daad-10000612"
+        ]
+      },
+      {
+        "text": "motivation letter, also highlighting previous experience in the field, e.g. in Bachelor's or Master's thesis",
+        "source_ids": [
+          "daad-10000612"
+        ]
+      },
+      {
+        "text": "mention of the preferred research area",
+        "source_ids": [
+          "daad-10000612"
+        ]
+      },
+      {
+        "text": "proof of English language proficiency: level C1 or equivalent (also acceptable: proof that previous university degree was taught mainly in English)",
+        "source_ids": [
+          "daad-10000612"
+        ]
+      },
+      {
+        "text": "PhD programme only: choice of 2 preferred supervisors who are relAI Fellows, along with a short explanation (max. 1,000 characters) for each why the respective supervisor would be a good fit; names and addresses of 2 researchers who consent to be contacted for recommendation letters",
+        "source_ids": [
+          "daad-10000612"
+        ]
+      }
+    ],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000612",
+    "application_url": "https://zuseschoolrelai.de/application/",
+    "source_ids": [
+      "daad-10000612"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000612",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000612",
+        "title": "DAAD Konrad Zuse School of Excellence in Reliable Artificial Intelligence (relAI): Scholarship for Master&#039;s Students and PhD Candidates - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000612",
+        "sha256": "898a8012754e045873a0df82ac5d56370cdc005cce9d5274037677c3a8613423",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship supports international Master's students and PhD candidates for studying Artificial Intelligence in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

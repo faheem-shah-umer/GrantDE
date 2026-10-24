@@ -1,0 +1,305 @@
+{
+  "schema_version": "2.0.0",
+  "id": "fau-international-student-graduation-scholarship",
+  "slug": "fau-international-student-graduation-scholarship",
+  "title": "FAU Graduation Scholarship for International Students",
+  "provider": {
+    "name": "Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU) / German Academic Exchange Service (DAAD) / Free State of Bavaria"
+  },
+  "summary": "Final semester scholarship supporting international Master's and State Examination students at FAU during graduation with a one-time 1000 EUR payment.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "state_exam"
+      ],
+      "notes": "Open to students in Master's and State Examination degree programs. Excluded: Bachelor's degree programmes and one-year orientation, pre-master, or postgraduate programmes.",
+      "source_ids": [
+        "uni-fau"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No complete subject list is stated. Eligibility is specifically limited to eligible Master's and State Examination students at FAU.",
+      "source_ids": [
+        "uni-fau"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Friedrich-Alexander-Universität Erlangen-Nürnberg"
+      ],
+      "notes": "Must be actively enrolled at FAU.",
+      "source_ids": [
+        "uni-fau"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": [
+        "international_students"
+      ],
+      "notes": "Only international students without German citizenship or permanent residence may apply. This is additional to the degree, enrolment and financial-need conditions.",
+      "source_ids": [
+        "review-20261024-fau"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Continuous residence in Germany for the duration of the coming semester is required; scholarship is not intended for funding stays abroad.",
+      "source_ids": [
+        "uni-fau"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "International student without German citizenship or permanent residence",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Active enrollment at FAU",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Master's or State Examination degree program",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "FAU graduation planned by end of March 2027",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Good or very good grades (current GPA between 1,0 and 2,3)",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Minimum 75 ECTS visible in transcript of records",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "German language proficiency at least at basic level",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Monthly income under 992 EUR",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Continuous residence in Germany for the duration of the coming semester",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Complete online application and upload required documents",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Reference letter from a full FAU professor using the template, sent via FAU e-mail account to peter.forna@fau.de",
+        "source_ids": [
+          "uni-fau"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Students with low income will be given priority",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Students who hold the nationality of a country on the United Nations list of Least Developed Countries (LDCs) are given special consideration",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Students with extracurricular involvement are given special consideration",
+        "source_ids": [
+          "uni-fau"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Amounting to 1000 EUR in total, paid out to successful applicants in one transaction.",
+    "amount_min": 1000,
+    "amount_max": 1000,
+    "currency": "EUR",
+    "frequency": "one_off",
+    "duration": "last months before graduation (final semester)",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "review-20261024-fau"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-10-28",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadline for the Graduation Scholarship for Winter Semester 2026/27 is 28 October 2026 at 12:00 noon. Source deadline clock time: 12:00; timezone needs confirmation.",
+      "applicable_country_codes": null,
+      "id": "fau-international-student-graduation-scholarship-round-winter-semester-2026-27",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-fau"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Completed online application form",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Up-to-date transcript of records from FAUcampo",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Current certificate of enrollment",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "CV",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Reference letter from a full FAU professor (using the provided template, sent as a PDF from the professor's personal FAU e-mail account)",
+        "source_ids": [
+          "uni-fau"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Fill out the online application form and submit it",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Receive e-mail after successful submission containing a confirmation link",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Perform additional formalities within the platform (upload documents, etc.)",
+        "source_ids": [
+          "uni-fau"
+        ]
+      },
+      {
+        "text": "Ensure the professor's recommendation letter is sent directly by e-mail before the deadline",
+        "source_ids": [
+          "uni-fau"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.fau.eu/studying/organizing-your-studies-and-where-to-go-for-advice/funding-your-studies/scholarships-for-international-students-about-to-graduate/",
+    "application_url": "https://www.service4mobility.com/fau/BewerbungServlet?identifier=DERLANGE01&kz_bew_pers=S&kz_bew_art=OUT&aust_prog=ABSCHLSTIP&sprache=en",
+    "source_ids": [
+      "uni-fau"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-fau",
+        "url": "https://www.fau.eu/studying/organizing-your-studies-and-where-to-go-for-advice/funding-your-studies/scholarships-for-international-students-about-to-graduate/",
+        "title": "Scholarships for international students about to graduate | FAU",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-fau",
+        "sha256": "4a6aebbe9cd98d5c169931249a7729ae7a55c14bc146e44d8ccce07529eea96d",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International students physically studying in Germany at FAU in Master's or State Examination degree programs can receive funding for completing their studies."
+      },
+      {
+        "id": "review-20261024-fau",
+        "url": "https://www.fau.eu/studying/organizing-your-studies-and-where-to-go-for-advice/funding-your-studies/scholarships-for-international-students-about-to-graduate/",
+        "title": "Scholarships for international students about to graduate | FAU",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-fau",
+        "sha256": "35638d26493cd0082f4b886ec8197aa48462cd0137ee30b29489acee01d57bd0",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      }
+    ],
+    "last_checked": "2026-10-24",
+    "last_reviewed": "2026-10-24",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "The current source confirms 28 October 2026 at 12:00 noon but does not explicitly name a timezone or opening date; retain those as unconfirmed."
+    ]
+  }
+}

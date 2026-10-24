@@ -1,0 +1,272 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57742121",
+  "slug": "daad-57742121",
+  "title": "Research Grants in Germany",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Funding for international doctoral students and postdocs to conduct a research project at a state or state-recognised university or non-university research institute in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Supports research stays during a doctorate or in the early postdoc phase.",
+      "source_ids": [
+        "daad-57742121"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No discipline restrictions mentioned on page; human medicine, veterinary medicine and dentistry have further regulations.",
+      "source_ids": [
+        "daad-57742121"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State or state-recognised universities or non-university research institutes in Germany.",
+      "source_ids": [
+        "daad-57742121"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Origin-unspecified DAAD programme page listing specific countries in selection dropdown, but no explicit eligibility country restrictions listed in the text.",
+      "source_ids": [
+        "daad-57742121"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "You cannot apply if you are doing your entire doctorate at a German university, or have been resident in Germany for longer than 15 months at the application deadline.",
+      "source_ids": [
+        "daad-57742121"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Doctoral students: Start of doctorate should not be more than 3 years ago at application deadline.",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "Postdocs: Should not have completed doctorate more than 4 years before application deadline.",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "Must not have been resident in Germany for longer than 15 months at the application deadline.",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "Research project must be carried out in agreement with a scientific supervisor in Germany.",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Monthly scholarship payments of 1,400 euros for doctoral students (implied by standard or general rate, though exact rate specified as 1.400 euros), health, accident and personal liability insurance cover, travel allowance (if funding period exceeds 6 months), research allowance of 460 euros for funding periods over six months.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "doctoral students: 2 to 12 months; postdocs: 2 to 6 months",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "travel",
+      "research"
+    ],
+    "source_ids": [
+      "daad-57742121"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadlines are updated annually in the second quarter. Currently you cannot apply for this programme.",
+      "applicable_country_codes": null,
+      "id": "daad-57742121-round-unconfirmed-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57742121"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Application deadlines are updated annually in the second quarter. In most cases, they are in the same period as the previous year.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "full curriculum vitae in tabular form (max. 3 pages)",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "list of your published publications (max. 10 pages; mandatory for postdocs)",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "letter of motivation, 1 - 2 pages",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "proposal (max. 10 pages in total)",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "time schedule of planned research work",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "proof of admission to doctoral studies/enrolment for doctoral studies (for doctoral students)",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "confirmation from the academic host in Germany",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "Declaration from the scientific supervisor in Germany on safety-relevant and ethical aspects",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "all university degree certificates you have already obtained",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "Transcripts of Records",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "One recent supporting letter of recommendation (on a DAAD-form)",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "Request recommendation form",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "Prepare application documents and translations if necessary",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "Fill out application form and upload documents in PDF format",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      },
+      {
+        "text": "Submit the application online",
+        "source_ids": [
+          "daad-57742121"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121",
+    "application_url": null,
+    "source_ids": [
+      "daad-57742121"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57742121",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742121",
+        "title": "Research Grants in Germany - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57742121",
+        "sha256": "3e9a247cf3ab7f37808bb82baffd4965993db5074ef80a42d88d9cd573537a00",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme supports doctoral students and postdocs physically carrying out a research project in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "No confirmed opening or deadline dates are stated on the page.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: No discipline restrictions mentioned on page; human medicine, veterinary medicine and dentistry have further regulations.",
+      "A structured restriction needs manual classification: State or state-recognised universities or non-university research institutes in Germany.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

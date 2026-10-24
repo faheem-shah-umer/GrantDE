@@ -1,0 +1,168 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000158",
+  "slug": "daad-10000158",
+  "title": "Fulbright Programme",
+  "provider": {
+    "name": "Fulbright Commission"
+  },
+  "summary": "The Fulbright programme finances academic stays in Germany for US citizens, including graduates, teaching assistants, post-doctoral students, lecturers, and researchers through various funding opportunities.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Open to graduates, lecturers, researchers, and teaching assistants or teacher-training students.",
+      "source_ids": [
+        "daad-10000158"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Generally open to almost any academic discipline.",
+      "source_ids": [
+        "daad-10000158"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Depending on the specific programme.",
+      "source_ids": [
+        "daad-10000158"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "US"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Aimed at US citizens.",
+      "source_ids": [
+        "daad-10000158"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Aimed at US citizens living in and applying from the United States of America.",
+      "source_ids": [
+        "daad-10000158"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "academic or professional qualification",
+        "source_ids": [
+          "daad-10000158"
+        ]
+      },
+      {
+        "text": "interest in and commitment to the US-German cultural exchange",
+        "source_ids": [
+          "daad-10000158"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Funding modalities and grant amount depend on the individual sponsorship programme. Options include full-time sponsorship, travel grants, monthly stipend, health insurance, travel allowance, living costs, and other benefits depending on the grant type.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "variable",
+    "duration": "depending on the type of stipend (please see formal requirements)",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance",
+      "research",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000158"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadlines differ depending on the selected grant programme.",
+      "applicable_country_codes": null,
+      "id": "daad-10000158-round-default-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000158"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Please see all application forms and further information on the application procedure on the Fulbright website.",
+        "source_ids": [
+          "daad-10000158"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000158",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000158"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000158",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000158",
+        "title": "Fulbright Commission: Fulbright Programme - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000158",
+        "sha256": "e8f7421faa838baa99c0a1f4f8d6677d27e1a57e33cbbf3534452da63818b5de",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme finances academic stays by US citizens in Germany, including graduates and researchers, for physical study or research in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Open to graduates, lecturers, researchers, and teaching assistants or teacher-training students.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Generally open to almost any academic discipline."
+    ]
+  }
+}

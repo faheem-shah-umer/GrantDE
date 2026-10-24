@@ -1,0 +1,167 @@
+{
+  "schema_version": "2.0.0",
+  "id": "foundation-naumann-doctoral-doctoral-scholarships",
+  "slug": "foundation-naumann-doctoral-doctoral-scholarships",
+  "title": "Doctoral Scholarships",
+  "provider": {
+    "name": "Friedrich Naumann Foundation for Freedom"
+  },
+  "summary": "Funding for doctoral students from all disciplines working on an innovative research project and admitted to a doctoral programme at a university in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Doctorates in human medicine and dentistry are excluded.",
+      "source_ids": [
+        "foundation-naumann-doctoral"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines are supported except human medicine and dentistry.",
+      "source_ids": [
+        "foundation-naumann-doctoral"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Must be admitted to a doctoral programme at a university.",
+      "source_ids": [
+        "foundation-naumann-doctoral"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Explicit information is provided separately for German, EU, and non-EU doctoral students, but no overall nationality restrictions are listed here.",
+      "source_ids": [
+        "foundation-naumann-doctoral"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No specific residence location restriction mentioned on this page.",
+      "source_ids": [
+        "foundation-naumann-doctoral"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Previous study and examination achievements demonstrate a special ability with regard to academic work",
+        "source_ids": [
+          "foundation-naumann-doctoral"
+        ]
+      },
+      {
+        "text": "Work makes a significant contribution to research",
+        "source_ids": [
+          "foundation-naumann-doctoral"
+        ]
+      },
+      {
+        "text": "Admitted to a doctoral programme at a university",
+        "source_ids": [
+          "foundation-naumann-doctoral"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Persons with a law degree can only apply if they have already completed their postgraduate traineeship or will only start it after their doctorate.",
+        "source_ids": [
+          "foundation-naumann-doctoral"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Funding details are not specified on this page.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "not specified",
+    "covered_costs": [],
+    "source_ids": [
+      "foundation-naumann-doctoral"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "foundation-naumann-doctoral-doctoral-scholarships-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "foundation-naumann-doctoral"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.freiheit.org/scholarships-for-doctoral-students",
+    "application_url": null,
+    "source_ids": [
+      "foundation-naumann-doctoral"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "foundation-naumann-doctoral",
+        "url": "https://www.freiheit.org/scholarships-for-doctoral-students",
+        "title": "Scholarships for doctoral students | Friedrich Naumann Foundation",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/foundation-naumann-doctoral",
+        "sha256": "ea2c9347f0243ba50670784199542d31392691a798d36979f3edae5cc0d24542",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international and domestic doctoral students conducting research towards a doctorate at a university in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "A structured restriction needs manual classification: All disciplines are supported except human medicine and dentistry.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Must be admitted to a doctoral programme at a university.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: No specific residence location restriction mentioned on this page."
+    ]
+  }
+}

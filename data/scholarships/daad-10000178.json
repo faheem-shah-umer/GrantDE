@@ -1,0 +1,174 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000178",
+  "slug": "daad-10000178",
+  "title": "The Baden-Württemberg-STIPENDIUM for Students",
+  "provider": {
+    "name": "Baden-Württemberg Stiftung"
+  },
+  "summary": "Scholarship for highly qualified undergraduates, graduates, and doctoral students to spend 1 or 2 exchange semesters at partner institutions in Baden-Württemberg or abroad.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Undergraduates, graduates and doctoral candidates",
+      "source_ids": [
+        "daad-10000178"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "all disciplines",
+      "source_ids": [
+        "daad-10000178"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "institutions of higher education either in the federal state of Baden-Württemberg (Germany) or at their international partner institutions",
+      "source_ids": [
+        "daad-10000178"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Country selection list is provided on the page, but no explicit unrestricted statement or complete iso list is given in text.",
+      "source_ids": [
+        "daad-10000178"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Scholars can be from Baden-Württemberg going abroad or candidates from abroad coming to Baden-Württemberg.",
+      "source_ids": [
+        "daad-10000178"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "enrolment at a higher education institution in Baden-Württemberg or a partner institution abroad",
+        "source_ids": [
+          "daad-10000178"
+        ]
+      },
+      {
+        "text": "highly qualified undergraduate, graduate or doctoral student",
+        "source_ids": [
+          "daad-10000178"
+        ]
+      },
+      {
+        "text": "want to spend 1 or 2 exchange semesters at one of the partner institutions either in Baden-Württemberg (Germany) or abroad",
+        "source_ids": [
+          "daad-10000178"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "The scholarship amounts to between 800 EUR and 1,400 EUR per month. Scholars also receive non-material assistance and are part of a broad international network connecting people from different disciplines and cultures.",
+    "amount_min": 800,
+    "amount_max": 1400,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "The funding period ranges between 3 and 11 months.",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000178"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "The date of the application deadline may vary - please contact the International Office at your higher education institution.",
+      "applicable_country_codes": null,
+      "id": "daad-10000178-round-general-varies",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000178"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "The applications are exclusively handled by the International Offices; not by the Baden-Württemberg Stiftung.",
+        "source_ids": [
+          "daad-10000178"
+        ]
+      },
+      {
+        "text": "For specific information on the application process, the deadline and application forms, please contact the International Office at your higher education institution.",
+        "source_ids": [
+          "daad-10000178"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.bw-stipendium.de/en/scholarships/bws-for-university-students",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000178"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000178",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000178",
+        "title": "Baden-Württemberg Stiftung: The Baden-Württemberg-STIPENDIUM for Students - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000178",
+        "sha256": "e500c05d370517501fb89e1845153ededd7710c5d24d5d8447e94b6818867c3a",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme allows international students to spend exchange semesters physically studying in Germany (Baden-Württemberg)."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Undergraduates, graduates and doctoral candidates",
+      "Confirm explicit unrestricted criterion before enabling broad matching: all disciplines",
+      "Confirm explicit unrestricted criterion before enabling broad matching: institutions of higher education either in the federal state of Baden-Württemberg (Germany) or at their international partner institutions",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Scholars can be from Baden-Württemberg going abroad or candidates from abroad coming to Baden-Württemberg."
+    ]
+  }
+}

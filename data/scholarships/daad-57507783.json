@@ -1,0 +1,257 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57507783",
+  "slug": "daad-57507783",
+  "title": "Bi-nationally Supervised Doctoral Degrees / Cotutelle",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "This DAAD programme funds doctoral candidates for bi-nationally supervised research stays in Germany via a sandwich model or Cotutelle procedure.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Applicants must have earned a Master's degree or Diplom (or exceptional Bachelor's) for the sandwich model, or be admitted to a doctoral programme for the Cotutelle model.",
+      "source_ids": [
+        "daad-57507783"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No subject restrictions mentioned in general overview, though human medicine, veterinary medicine, and dentistry have separate regulations.",
+      "source_ids": [
+        "daad-57507783"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Research stays at a state or state-recognised institution of higher education or a non-university research institute in Germany.",
+      "source_ids": [
+        "daad-57507783"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Country eligibility depends on the specific list in the application portal; origin-unspecified DAAD page details apply.",
+      "source_ids": [
+        "daad-57507783"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Application cannot be considered if resident in Germany for longer than 15 months at the application deadline.",
+      "source_ids": [
+        "daad-57507783"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Most recent university degree should have been obtained no more than six years ago before the application deadline.",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "Start of the doctorate should not be longer than 3 years ago at the time of application.",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "Cannot have been resident in Germany for longer than 15 months at the application deadline.",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Monthly payments of 1,400 euros during the stay in Germany. Payments towards health, accident and personal liability insurance cover. Research allowance of 460 euros. Additional benefits for uninterrupted stays over 6 months may apply on application.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Between 7 and a maximum of 24 months",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "research"
+    ],
+    "source_ids": [
+      "daad-57507783"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Applications are possible between 1 June and the stated application deadline, updated annually.",
+      "applicable_country_codes": null,
+      "id": "daad-57507783-round-annual-call",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57507783"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Applications possible between 1 June and the application deadline each year.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Full curriculum vitae in tabular form (max. 3 pages)",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "List of published publications (max. 10 pages), if applicable",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "Letter of motivation (1-2 pages)",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "A proposal (max. 10 pages in total)",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "Schedule (informal) for planned research work",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "Declaration from the scientific supervisor in Germany on safety-relevant and ethical aspects",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "Proof of admission to/enrolment for doctoral studies at the home university, including start date",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "All university degree certificates already obtained",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "Transcripts of Records",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "Option a: Written confirmation, agreed and signed by both academic advisers / Option b: Cotutelle contract or confirmation from academic adviser in Germany",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "One recent, supporting letter of recommendation from a university teacher",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "Request recommendation form in the portal and have it completed",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "Fill out online application form and upload all required documents in PDF format",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      },
+      {
+        "text": "Submit the application online",
+        "source_ids": [
+          "daad-57507783"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57507783",
+    "application_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57507783",
+    "source_ids": [
+      "daad-57507783"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57507783",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57507783",
+        "title": "Bi-nationally Supervised Doctoral Degrees / Cotutelle - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57507783",
+        "sha256": "983fe430fa54042ed071d23553e856a3caae4fc1e682fd16284e5f5beaa7560a",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds international doctoral students for research stays and doctoral degrees carried out physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: No subject restrictions mentioned in general overview, though human medicine, veterinary medicine, and dentistry have separate regulations.",
+      "A structured restriction needs manual classification: Research stays at a state or state-recognised institution of higher education or a non-university research institute in Germany."
+    ]
+  }
+}

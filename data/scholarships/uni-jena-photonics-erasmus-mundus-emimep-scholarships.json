@@ -1,0 +1,163 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-jena-photonics-erasmus-mundus-emimep-scholarships",
+  "slug": "uni-jena-photonics-erasmus-mundus-emimep-scholarships",
+  "title": "Erasmus Mundus EMIMEP Scholarships",
+  "provider": {
+    "name": "European Union / Abbe School of Photonics"
+  },
+  "summary": "Full Erasmus Mundus scholarship for the European Master for Industry in Microwave Electronics and Photonics (EMIMEP) joint master.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "Joint Master",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "natural_sciences",
+        "engineering",
+        "other"
+      ],
+      "notes": "Microwave Electronics, Photonics, Optics, and Quantum Technologies",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Abbe School of Photonics in Jena"
+      ],
+      "notes": "Consortium partner universities including Abbe School of Photonics in Jena",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Not specified",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany",
+        "outside_germany"
+      ],
+      "notes": "Combines studies at several European partner universities",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Outstanding applicant admission to EMIMEP program",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Outstanding academic applicants",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "€1,400 per month for up to 24 months, with tuition fees waived.",
+    "amount_min": 1400,
+    "amount_max": 1400,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Up to 24 months",
+    "covered_costs": [
+      "living_costs",
+      "tuition"
+    ],
+    "source_ids": [
+      "uni-jena-photonics"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Review more details on the program website.",
+      "applicable_country_codes": null,
+      "id": "uni-jena-photonics-erasmus-mundus-emimep-scholarships-round-standard-intake",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.asp.uni-jena.de/9559/m-sc-photonics-emimep-program",
+    "application_url": null,
+    "source_ids": [
+      "uni-jena-photonics"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-jena-photonics",
+        "url": "https://www.asp.uni-jena.de/16808/scholarships-available",
+        "title": "Abbe School of Photonics • Master scholarships | Abbe School of Photonics",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-jena-photonics",
+        "sha256": "8dc6e8a42b54294b6ccbe0da953fc23b75c97959152ed8b9ff9f1794fdb4ce1b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Funds students pursuing physical joint master studies including at Jena, Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-cologne-artes-a-r-t-e-s-doctoral-scholarships",
+  "slug": "uni-cologne-artes-a-r-t-e-s-doctoral-scholarships",
+  "title": "a.r.t.e.s. Doctoral Scholarships",
+  "provider": {
+    "name": "a.r.t.e.s. Graduate School for the Humanities Cologne"
+  },
+  "summary": "8 Integrated Track Doctoral Scholarships awarded by a.r.t.e.s. Graduate School for the Humanities Cologne for pursuing a structured doctorate in the humanities.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Covers qualification levels of academic training in the arts and humanities from Master to postdoc, but the specific scholarship award is for doctoral candidates in the Integrated Track.",
+      "source_ids": [
+        "uni-cologne-artes"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "humanities",
+        "arts_design"
+      ],
+      "notes": "Addresses graduates of the humanities; faculty covers arts and humanities.",
+      "source_ids": [
+        "uni-cologne-artes"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "University of Cologne"
+      ],
+      "notes": "Hosted by a.r.t.e.s. Graduate School for the Humanities Cologne at the University of Cologne.",
+      "source_ids": [
+        "uni-cologne-artes"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "The Graduate School would like to further support international students hailing from outside of the EU, but specific allowed/excluded nationalities are not exhaustively listed.",
+      "source_ids": [
+        "uni-cologne-artes"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Residence status in or outside Germany is not explicitly restricted, though international students hailing from outside of the EU are explicitly supported.",
+      "source_ids": [
+        "uni-cologne-artes"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Outstanding final degree",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      },
+      {
+        "text": "Must have passed all examinations determining the final grade in order to qualify",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Applicants who successfully completed their studies as quickly as possible and look for immediate funding opportunities after their final examination",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      },
+      {
+        "text": "Young researchers from non-academic family backgrounds",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      },
+      {
+        "text": "International students hailing from outside of the EU",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      }
+    ],
+    "exceptions": [
+      {
+        "text": "Special circumstances such as parental and family leaves, obligatory state and military services, illnesses, disabilities and/or voluntary work can be recognised if evidence is provided",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Full scholarship of EUR 1700 per month awarded for three years.",
+    "amount_min": 1700,
+    "amount_max": 1700,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "three years",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "review-20261024-artes"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-10-29",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "open",
+      "notes": "Application deadline for the scholarship starting April 1, 2027. University diploma and report on degree thesis may be handed in later by November 24, 2026.",
+      "applicable_country_codes": null,
+      "id": "uni-cologne-artes-a-r-t-e-s-doctoral-scholarships-round-starting-april-2027",
+      "as_of": "2026-10-24",
+      "source_ids": [
+        "review-20261024-artes"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Covering letter providing a statement of your motivation to apply",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      },
+      {
+        "text": "Curriculum vitae",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      },
+      {
+        "text": "Scans of university diplomas and transcripts of records (including Bachelor's degree if applying with a Master's, authorized translations if necessary, and grading system overview)",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      },
+      {
+        "text": "Report on the degree thesis (e.g. M.A. thesis)",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      },
+      {
+        "text": "Research proposal for the doctoral dissertation project (7,000–12,000 characters incl. spaces plus footnotes, appendix & bibliography)",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      },
+      {
+        "text": "Expert report on the doctoral dissertation project",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Create an account with a.r.t.e.s. access web portal",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      },
+      {
+        "text": "Choose the application procedure 'a.r.t.e.s. doctoral scholarships (starting April 2026)' [Note: page text states starting April 2026 in portal instruction despite 2027 start]",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      },
+      {
+        "text": "Fill in general information about yourself and your doctoral dissertation project",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      },
+      {
+        "text": "Upload required application documents via the web portal by October 29, 2026",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      },
+      {
+        "text": "Submit expert report separately via e-mail to artes-application@uni-koeln.de",
+        "source_ids": [
+          "uni-cologne-artes"
+        ]
+      }
+    ],
+    "official_programme_url": "https://artes.phil-fak.uni-koeln.de/en/doctorate/funding-programmes/artes-doctoral-scholarships/application",
+    "application_url": "https://artes-access.phil-fak.uni-koeln.de/?lang=en",
+    "source_ids": [
+      "uni-cologne-artes"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-cologne-artes",
+        "url": "https://artes.phil-fak.uni-koeln.de/en/doctorate/funding-programmes/artes-doctoral-scholarships/application",
+        "title": "Application",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-cologne-artes",
+        "sha256": "93344cdef8c567b622b56dc3d5be237177484c2f4fce1d6ae1151a4f4afbd2a0",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds doctoral students for doing research and completing a dissertation in the humanities at the University of Cologne in Germany."
+      },
+      {
+        "id": "review-20261024-artes",
+        "url": "https://artes.phil-fak.uni-koeln.de/en/doctorate/funding-programmes/artes-doctoral-scholarships/application",
+        "title": "Application",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-24",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/review-20261024-artes",
+        "sha256": "40a68350b8dea1fd46a3cf8f3935390e8c547f9ac6d783d8645ca8c3c9a8efe8",
+        "supports": [
+          "editorial_source_review"
+        ],
+        "notes": "Official source checked for this editorial batch. Capture contains markdown, links and retrieval metadata; this is not publication approval."
+      }
+    ],
+    "last_checked": "2026-10-24",
+    "last_reviewed": "2026-10-24",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "The call and deadlines refer to April 2027, but one portal-selection instruction still says starting April 2026. Confirm the correct application route before publication."
+    ]
+  }
+}

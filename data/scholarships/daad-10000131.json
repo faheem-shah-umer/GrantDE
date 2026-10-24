@@ -1,0 +1,211 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000131",
+  "slug": "daad-10000131",
+  "title": "Grant Programme",
+  "provider": {
+    "name": "Foundation of the Berlin House of Representatives"
+  },
+  "summary": "Funding for young researchers from specific countries researching Berlin/German issues or needing access to Berlin research institutions. Includes a pre-doctoral student track (1,100 EUR monthly) and a post-doctoral track.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "At least a first higher education qualification; open to pre-doctoral students and post-doctoral researchers (postdoc track is excluded from the student award details).",
+      "source_ids": [
+        "daad-10000131"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Any subject area.",
+      "source_ids": [
+        "daad-10000131"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Must work on projects requiring access to Berlin research institutions and secure supervision from a higher education lecturer or director of an academic research institution in Berlin.",
+      "source_ids": [
+        "daad-10000131"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "US",
+        "GB",
+        "FR",
+        "AM",
+        "AZ",
+        "BY",
+        "GE",
+        "KZ",
+        "KG",
+        "MD",
+        "TJ",
+        "TM",
+        "UA",
+        "UZ"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": [
+        "United States",
+        "United Kingdom",
+        "France",
+        "states that once belonged to the Soviet Union / successor states of the Soviet Union"
+      ],
+      "notes": "Restricted to the United States, the United Kingdom, France and states that once belonged to the Soviet Union (specifically listed as Armenia, Azerbaijan, Belarus, France, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Tajikistan, Turkmenistan, Ukraine, United Kingdom, United States of America, Uzbekistan).",
+      "source_ids": [
+        "daad-10000131"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Country is the country in which the applicant is living and from which they are applying.",
+      "source_ids": [
+        "daad-10000131"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "At least a first higher education qualification",
+        "source_ids": [
+          "daad-10000131"
+        ]
+      },
+      {
+        "text": "Detailed research plan",
+        "source_ids": [
+          "daad-10000131"
+        ]
+      },
+      {
+        "text": "Commitment by a higher education lecturer or director of an academic research institution in Berlin to provide supervision",
+        "source_ids": [
+          "daad-10000131"
+        ]
+      },
+      {
+        "text": "Clearly above-average qualifications",
+        "source_ids": [
+          "daad-10000131"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "1,100 EUR per month for pre-doctoral students over a period of 10 months (post-doctoral researchers receive 1,630 EUR per month). Fixed travel allowance (200 EUR within Europe, 600 EUR outside of Europe).",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "10 months",
+    "covered_costs": [
+      "living_costs",
+      "travel"
+    ],
+    "source_ids": [
+      "daad-10000131"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "15 December of each year",
+      "applicable_country_codes": null,
+      "id": "daad-10000131-round-annual-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000131"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "15 December of each year",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Application forms",
+        "source_ids": [
+          "daad-10000131"
+        ]
+      },
+      {
+        "text": "Detailed research plan",
+        "source_ids": [
+          "daad-10000131"
+        ]
+      },
+      {
+        "text": "Confirmation of supervision by a higher education lecturer or a director of an academic research institution in Berlin",
+        "source_ids": [
+          "daad-10000131"
+        ]
+      }
+    ],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000131",
+    "application_url": "https://www.parlament-berlin.de/media/download/432",
+    "source_ids": [
+      "daad-10000131"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000131",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000131",
+        "title": "Foundation of the Berlin House of Representatives: Grant Programme - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000131",
+        "sha256": "db6afaa26106554eaf198de1394c5799391c68ededd7d3b51d8f19f1b5f32c24",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds young researchers, including pre-doctoral students, to conduct research physically in Berlin, Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Post-doctoral track is excluded from the student award scope/details per instructions, but mentioned for completeness.",
+      "Deadline date '15 December of each year' stated without year, so deadline is null with recurring note.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: At least a first higher education qualification; open to pre-doctoral students and post-doctoral researchers (postdoc track is excluded from the student award details).",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Any subject area.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Must work on projects requiring access to Berlin research institutions and secure supervision from a higher education lecturer or director of an academic research institution in Berlin."
+    ]
+  }
+}

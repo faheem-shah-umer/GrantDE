@@ -1,0 +1,243 @@
+{
+  "schema_version": "2.0.0",
+  "id": "tum-international-student-scholarship",
+  "slug": "tum-international-student-scholarship",
+  "title": "Scholarship for International Students of TUM",
+  "provider": {
+    "name": "Technical University of Munich"
+  },
+  "summary": "Semester support for enrolled international TUM students with good academic results and demonstrated financial need.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-tum"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-tum"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Technical University of Munich"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-tum"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "not_eligible_for_bafoeg_due_to_nationality"
+      ],
+      "notes": "Applicants must be ineligible for BAföG because of their nationality; this is a legal eligibility test rather than a simple non-German nationality rule.",
+      "source_ids": [
+        "curated-tum"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Requires enrolment at TUM and a residence permit among the application documents.",
+      "source_ids": [
+        "curated-tum"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Bachelor's students must be in at least their third semester; Master's students normally at least their second semester.",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "First-semester Master's applicants are eligible if their Bachelor's degree was completed at TUM.",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "Good academic results and proven financial need, including the applicant's, parents' and where applicable spouse's income.",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "Thesis submission must not be before 30 June for the summer term or 31 December for the winter term.",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "The scholarship is not paid during a leave of absence.",
+        "source_ids": [
+          "curated-tum"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "One-off aid of EUR 500–1,800 per semester; students may reapply each semester. Waivers and waiver scholarships count as income in the need assessment.",
+    "amount_min": 500,
+    "amount_max": 1800,
+    "currency": "EUR",
+    "frequency": "semester",
+    "duration": "Reapplication each semester; maximum total funding period 36 months.",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "curated-tum"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2026-10-01",
+      "deadline": "2026-10-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Grade reports and recommendations have a separate supplementary deadline of 15 November; this does not extend the application deadline.",
+      "applicable_country_codes": null,
+      "id": "tum-international-student-scholarship-round-winter-semester-2026-27",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "curated-tum"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Motivation letter explaining finances in 100–200 words, in English or German",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "CV",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "Residence permit",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "TUM grade report",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "Two recommendations no older than one semester",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "Income evidence and statements for every bank account covering the preceding 12 months",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "Parents' and, if applicable, spouse's income evidence; certified German translations where required",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "Where applicable, children's birth certificates, spouse's registration and other income-related documents",
+        "source_ids": [
+          "curated-tum"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Prepare the complete PDF documents.",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "Submit the online application within the stated period.",
+        "source_ids": [
+          "curated-tum"
+        ]
+      },
+      {
+        "text": "Provide grade reports and recommendations by the stated supplementary deadline.",
+        "source_ids": [
+          "curated-tum"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/scholarship-for-international-students-of-tum",
+    "application_url": "https://stipendienunderlaesse.tum.de/datenabfrage/StipIntWS2627",
+    "source_ids": [
+      "curated-tum"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-tum",
+        "url": "https://www.tum.de/en/studies/fees-and-financial-aid/scholarships/tum-scholarships/scholarship-for-international-students-of-tum",
+        "title": "Scholarship for international students of TUM - TUM",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-tum",
+        "sha256": "b5ab02a8d3eb8e8dc14ccb3e376308d048bb50c3b7e69d683d3b0e588415f7e7",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": []
+  }
+}

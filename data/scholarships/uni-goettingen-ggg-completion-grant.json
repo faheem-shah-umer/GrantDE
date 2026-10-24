@@ -1,0 +1,249 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-goettingen-ggg-completion-grant",
+  "slug": "uni-goettingen-ggg-completion-grant",
+  "title": "Completion Grant",
+  "provider": {
+    "name": "Goettingen Graduate School of Social Sciences (GGG)"
+  },
+  "summary": "Completion grant for international PhD students in Social Sciences at Georg-August-University Göttingen to help finalize their thesis within 3 to 6 months.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Position as PhD-student",
+      "source_ids": [
+        "uni-goettingen-ggg"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "social_sciences"
+      ],
+      "notes": "Goettingen Graduate School of Social Sciences (GGG)",
+      "source_ids": [
+        "uni-goettingen-ggg"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Georg-August-University Göttingen"
+      ],
+      "notes": "Georg-August-University / Goettingen Graduate School of Social Sciences (GGG)",
+      "source_ids": [
+        "uni-goettingen-ggg"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "External citizenship",
+      "source_ids": [
+        "uni-goettingen-ggg"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Came from abroad to Göttingen for their PhD thesis",
+      "source_ids": [
+        "uni-goettingen-ggg"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Position as PhD-student as member of the GGG and enrollment at the Georg-August-University",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      },
+      {
+        "text": "Foreign exam and external citizenship",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      },
+      {
+        "text": "The PhD thesis has to be close to finalization with realistic completion within the grant period",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Participants of other programs that offer financial support for the final time may only apply in case their program cannot support them",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "1.200,00 Euro per month (plus 400 Euro for one child or one person, you do care work for, plus 100 Euro for each other child, minus \"Elterngeld\").",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "3 - 6 months",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-goettingen-ggg"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-01-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "",
+      "applicable_country_codes": null,
+      "id": "uni-goettingen-ggg-completion-grant-round-january-2026-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-goettingen-ggg"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": "2026-06-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "",
+      "applicable_country_codes": null,
+      "id": "uni-goettingen-ggg-completion-grant-round-june-2026-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-goettingen-ggg"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Applications deadlines January 15th and June 15th",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Application form for this grant",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      },
+      {
+        "text": "Questionnaire of GGG",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      },
+      {
+        "text": "Resume in table form and diplomas achieved so far (copy)",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      },
+      {
+        "text": "Statement of need (3 pages max)",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      },
+      {
+        "text": "Table of contents of the dissertation",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      },
+      {
+        "text": "Work schedule for the period of financial funding",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      },
+      {
+        "text": "Statement of your supervision",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      },
+      {
+        "text": "Letters of intent from all reviewers (if looking for support until the disputation)",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      },
+      {
+        "text": "Confirmation as PhD student from your faculty or the students office (copy)",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit application via mail or e-mail (in pdf) to Goettingen Graduate School of Social Sciences (GGG)",
+        "source_ids": [
+          "uni-goettingen-ggg"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.uni-goettingen.de/en/completion+grant+to+international+phd+students+of+ggg+%28deadlines%3A+15.01.+and+15.06.2026%29/554292.html",
+    "application_url": null,
+    "source_ids": [
+      "uni-goettingen-ggg"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-goettingen-ggg",
+        "url": "https://www.uni-goettingen.de/en/completion+grant+to+international+phd+students+of+ggg+%28deadlines%3A+15.01.+and+15.06.2026%29/554292.html",
+        "title": "Completion Grant to International PhD students of GGG (Deadlines: estimated 15.01. and 15.06.2027) - Georg-August-Universität Göttingen",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-goettingen-ggg",
+        "sha256": "2b4c9ed4f46954ce6c291f9705763ad2c1eab01e99786822b75892a24b46e7b6",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International PhD students can receive funding for completing their PhD research physically at the Georg-August-University in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

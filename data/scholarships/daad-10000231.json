@@ -1,0 +1,188 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000231",
+  "slug": "daad-10000231",
+  "title": "Munich Aerospace PhD Scholarships",
+  "provider": {
+    "name": "Munich Aerospace"
+  },
+  "summary": "Doctoral support for aerospace research at TUM or the Bundeswehr University Munich.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000231"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000231"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Technical University of Munich",
+        "Bundeswehr University Munich"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000231"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality details require confirmation.",
+      "source_ids": [
+        "daad-10000231"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000231"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Aerospace-related degree graded good or better; satisfy the host's doctoral admission rules.",
+        "source_ids": [
+          "daad-10000231"
+        ]
+      },
+      {
+        "text": "Apply within three years of the qualifying degree and only to an advertised topic.",
+        "source_ids": [
+          "daad-10000231"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 1,800 monthly plus EUR 3,400 yearly for research.",
+    "amount_min": 1800,
+    "amount_max": 1800,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "12–36 months.",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-10000231"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "daad-10000231-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "daad-10000231"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Topic-specific motivation letter",
+        "source_ids": [
+          "daad-10000231"
+        ]
+      },
+      {
+        "text": "CV",
+        "source_ids": [
+          "daad-10000231"
+        ]
+      },
+      {
+        "text": "Two recent recommendations",
+        "source_ids": [
+          "daad-10000231"
+        ]
+      },
+      {
+        "text": "Certified degree certificates",
+        "source_ids": [
+          "daad-10000231"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Apply to an advertised Munich Aerospace call.",
+        "source_ids": [
+          "daad-10000231"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000231",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000231"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000231",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000231",
+        "title": "Munich Aerospace PhD Scholarships",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/daad-10000231",
+        "sha256": "dd745e0317a4a7c074aaa0d915004aa527e1015a1edc8460bac448babf2ad2d1",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Citizenship eligibility and current calls still require provider confirmation.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication."
+    ]
+  }
+}

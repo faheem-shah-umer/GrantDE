@@ -1,0 +1,176 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57471581",
+  "slug": "daad-57471581",
+  "title": "Combined study and practical stays for engineers from developing countries (KOSPIE) with Mexican universities",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "This scholarship offers Mexican students in natural sciences, engineering, and economics a one-year stay in Germany, comprising one semester at a German university and a four to six-month industrial internship.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "other"
+      ],
+      "notes": "Advanced students and undergraduates/graduates from participating Mexican universities.",
+      "source_ids": [
+        "daad-57471581"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "natural_sciences",
+        "engineering",
+        "business_economics"
+      ],
+      "notes": "Natural sciences, engineering, and economics and administrative sciences.",
+      "source_ids": [
+        "daad-57471581"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Instituto Tecnológico de Monterrey (TEC)",
+        "Instituto Tecnológico de Puebla (ITP)",
+        "Universidad Tecnológica el Retoño (UTR)",
+        "Universidad de Monterrey (UDEM)",
+        "Universidad de Sonora (UNISON)",
+        "Universidad Nacional Autonoma de Mexico (UNAM)",
+        "Instituto Politécnico Nacional (IPN)",
+        "Universidad Autónoma de Nuevo Leon (UANL)",
+        "Universidad Autónoma de San Luis Potosí (UASLP)",
+        "Universidad de Guanajuato (UG)",
+        "Universidad Autónoma Metropolitana (UAM)",
+        "Universidad Anáhuac Mayab (UAMAY)"
+      ],
+      "notes": "Applicants must be from the listed participating universities.",
+      "source_ids": [
+        "daad-57471581"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "MX"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "For students from Mexico.",
+      "source_ids": [
+        "daad-57471581"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Country is the country in which you are living and from which you are applying (Mexico).",
+      "source_ids": [
+        "daad-57471581"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Advanced students of the natural sciences and engineering and economics and administrative sciences from the specified participating universities",
+        "source_ids": [
+          "daad-57471581"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Mexican partners: monthly partial scholarship payments. DAAD: language course, monthly partial scholarship payments, accident, personal liability and health insurance, study allowance, travel expenses.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "monthly",
+    "duration": "13 months",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "study_completion",
+      "travel",
+      "language_course",
+      "research"
+    ],
+    "source_ids": [
+      "daad-57471581"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No application deadlines or opening dates are provided on the page.",
+      "applicable_country_codes": [
+        "MX"
+      ],
+      "id": "daad-57471581-round-dates-unconfirmed",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57471581"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57471581",
+    "application_url": null,
+    "source_ids": [
+      "daad-57471581"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57471581",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57471581",
+        "title": "Combined study and practical stays for engineers from developing countries (KOSPIE) with Mexican universities - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57471581",
+        "sha256": "4aed872ec873ae6ac4e1b9bda59be2a49bd39120004ad504e9518f1f38a8b60d",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds international students (from Mexico) for a physical study and internship stay in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

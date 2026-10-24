@@ -1,0 +1,179 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-hilde-domin-programme",
+  "slug": "daad-hilde-domin-programme",
+  "title": "Hilde Domin Programme",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Master's and doctoral support in Germany for applicants facing threats to their educational or other rights.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-hilde-domin"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-hilde-domin"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-hilde-domin"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality details require confirmation.",
+      "source_ids": [
+        "daad-hilde-domin"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Candidates must not already reside in Germany or the EU at nomination.",
+      "source_ids": [
+        "daad-hilde-domin"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Institutional nomination; applicants cannot initially apply themselves.",
+        "source_ids": [
+          "daad-hilde-domin"
+        ]
+      },
+      {
+        "text": "Documented risk, appropriate academic qualifications and German or English B2.",
+        "source_ids": [
+          "daad-hilde-domin"
+        ]
+      },
+      {
+        "text": "Excluded fields: human/dental/veterinary medicine, pharmacy and law.",
+        "source_ids": [
+          "daad-hilde-domin"
+        ]
+      },
+      {
+        "text": "Origin-country exclusions include EU/EEA/EFTA countries, Andorra, Monaco, San Marino and the UK.",
+        "source_ids": [
+          "daad-hilde-domin"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Master's EUR 992 or doctorate EUR 1,400 monthly; insurance, travel and possible preparatory language support.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "monthly",
+    "duration": "Master's up to 24 months; doctorate up to 48.",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-hilde-domin"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2026-03-17",
+      "deadline": "2026-04-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Nomination deadline 15 March 2026.",
+      "applicable_country_codes": null,
+      "id": "daad-hilde-domin-programme-round-summer-2027-intake-applications",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-hilde-domin"
+      ]
+    },
+    {
+      "opens_on": "2026-09-17",
+      "deadline": "2026-10-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Nomination deadline 15 September 2026.",
+      "applicable_country_codes": null,
+      "id": "daad-hilde-domin-programme-round-winter-2027-28-intake-applications",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-hilde-domin"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Nominations can be submitted continuously; invited applications follow separate fixed windows.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/hilde-domin-programme/",
+    "application_url": null,
+    "source_ids": [
+      "daad-hilde-domin"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-hilde-domin",
+        "url": "https://www.daad.de/en/studying-in-germany/scholarships/daad-funding-programmes/hilde-domin-programme/",
+        "title": "Hilde Domin Programme",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/daad-hilde-domin",
+        "sha256": "1a346f7f1aed9379782a754ef1a16fb76188eba666930c5c179448a4e610c5e9",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Arts-related nominations require an accredited institution and an additional academic/enrolment confirmation."
+    ]
+  }
+}

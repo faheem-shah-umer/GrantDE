@@ -1,0 +1,278 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-50076777",
+  "slug": "daad-50076777",
+  "title": "Development-Related Postgraduate Courses (EPOS)",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Scholarships for foreign graduates from developing and newly industrialised countries with at least two years' professional experience to take a postgraduate or Master's degree, or in exceptional cases a doctoral degree, at a German university.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Postgraduate or Master's degree, and in exceptional cases a doctoral degree.",
+      "source_ids": [
+        "daad-50076777"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Candidates from all disciplines are eligible.",
+      "source_ids": [
+        "daad-50076777"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State or state-recognised German university; exclusively for Postgraduate courses listed on the List of all Postgraduate courses.",
+      "source_ids": [
+        "daad-50076777"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Development and newly industrialised countries"
+      ],
+      "notes": "Graduates from development and newly industrialised countries; specific eligible countries are listed in the EPOS country list PDF.",
+      "source_ids": [
+        "daad-50076777"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants who have been resident in Germany for longer than 15 months at the application deadline cannot be considered.",
+      "source_ids": [
+        "daad-50076777"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "At least two years' professional experience after the first degree (bachelor) at the time of application",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "Bachelor degree (usually a four-year course) in an appropriate subject",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "Academic degree with far above average results (upper third)",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "Proof of development-related motivation",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "For German-taught courses: minimum German language level of B1 at the time of application and passing DSH 2 or TestDaF 4 before starting the course",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "For English-taught courses: proof of adequate language skills according to the regulations of the respective course",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Doctoral degrees are funded only in exceptional cases.",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Monthly payments of 992 euros for graduates or 1,300 euros (1,400 euros beginning with February 2026) for doctoral candidates. Payments towards health, accident and personal liability insurance cover. Travel allowance, unless covered by home country. Under certain circumstances: monthly rent subsidy, monthly allowance for accompanying members of family.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "12 to 42 months (dependent on study programme)",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "travel",
+      "other"
+    ],
+    "source_ids": [
+      "daad-50076777"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Please check scholarship brochure or the website of your chosen study programme.",
+      "applicable_country_codes": null,
+      "id": "daad-50076777-round-depending-on-chosen-study-programme",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-50076777"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Completed and signed checklist",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "EPOS application form",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "Curriculum vitae in reverse chronological order without any unexplained gaps (europass template)",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "One Letter of Motivation with detailed reference to academic, professional and personal reasons",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "Letter of recommendation from current employer with official letterhead, signature and official stamp",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "Certificate(s) of Employment showing at least two years of relevant work experience after the Bachelor's degree",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "Recent proof of Language Skills (English: IELTS/TOEFL; German: required for German-taught courses)",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "Copies of higher education degree certificates and certified translation if not in German or English",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "Copy of full set of transcript of records and explanation of grading system",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "APS Certificate (for applicants from the People's Republic of China)",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Send complete application(s) directly to the according postgraduate course.",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "Selection committee suggests potential candidates for a DAAD scholarship.",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "Suggested candidates will be contacted by DAAD to upload their complete application to the DAAD Portal.",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      },
+      {
+        "text": "Selection process is finalized and suggested candidates are informed.",
+        "source_ids": [
+          "daad-50076777"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777",
+    "application_url": null,
+    "source_ids": [
+      "daad-50076777"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-50076777",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50076777",
+        "title": "Development-Related Postgraduate Courses (EPOS) - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-50076777",
+        "sha256": "8a2ccb7bdd73905e837a46d22ddfdb23252bfcfac7c478512242dfbc94c977f3",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds international graduates for postgraduate or doctoral study physically at state or state-recognised German universities."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Postgraduate or Master's degree, and in exceptional cases a doctoral degree.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Candidates from all disciplines are eligible.",
+      "A structured restriction needs manual classification: State or state-recognised German university; exclusively for Postgraduate courses listed on the List of all Postgraduate courses."
+    ]
+  }
+}

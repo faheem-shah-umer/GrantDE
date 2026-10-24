@@ -1,0 +1,188 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000164",
+  "slug": "daad-10000164",
+  "title": "Boehringer Ingelheim Fonds: PhD Fellowships",
+  "provider": {
+    "name": "Boehringer Ingelheim Fonds"
+  },
+  "summary": "The Boehringer Ingelheim Fonds offers doctoral fellowships to outstanding junior scientists who want to conduct an ambitious doctoral project in the field of basic biomedical research at an internationally leading laboratory. The financing includes a monthly stipend plus a country-dependent premium, and a fixed monthly amount for minor project-related costs. The fellowships are initially awarded for 2 years with the option to extend for up to 18 months. Moreover, participation in international scientific conferences and practice-oriented training courses is supported. Beside the financial support, fellows receive personal support, participate in seminars where they discuss their research projects with other fellows, and attend communication trainings designed especially for the needs of scientists.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Natural scientists should have obtained their last university degree (BSc, diploma, MSc or equivalent) before starting their doctorate.",
+      "source_ids": [
+        "daad-10000164"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "natural_sciences"
+      ],
+      "notes": "Field of basic biomedical research / natural sciences.",
+      "source_ids": [
+        "daad-10000164"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Internationally leading laboratory.",
+      "source_ids": [
+        "daad-10000164"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Target group: Outstanding European junior scientists who want to do research worldwide, and non-European scientists wishing to do research in Europe. Specific eligible countries are listed in the dropdown on the page.",
+      "source_ids": [
+        "daad-10000164"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany",
+        "outside_germany"
+      ],
+      "notes": "Outstanding European junior scientists who want to do research worldwide, and non-European scientists wishing to do research in Europe (or Germany).",
+      "source_ids": [
+        "daad-10000164"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Applicants must have obtained their first university entrance qualification (secondary school leaving certificate, A-levels, or entrance test for first university studies after finishing school) within 8 years (96 months) before the application deadline.",
+        "source_ids": [
+          "daad-10000164"
+        ]
+      },
+      {
+        "text": "Excellent academic record.",
+        "source_ids": [
+          "daad-10000164"
+        ]
+      },
+      {
+        "text": "Ambitious doctoral project in the field of natural sciences, designed to make a relevant contribution to the future development in basic biomedical research.",
+        "source_ids": [
+          "daad-10000164"
+        ]
+      },
+      {
+        "text": "Candidates must not have been working on the project for more than 6 months at the time of application.",
+        "source_ids": [
+          "daad-10000164"
+        ]
+      },
+      {
+        "text": "For applicants educated outside Europe: The project must be pursued in Europe.",
+        "source_ids": [
+          "daad-10000164"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Base amount of 1,650 EUR per month plus individual country allowance (e.g., research in Germany will be funded with 2,400 EUR per month overall, in the US the overall funding is 3,800 EUR). Allowance for accompanying spouses and children possible. Travel allowance possible. Seminars and trainings. Lifetime membership in the alumni network. Individual support by the foundation.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "2 years with the option to apply for an extension of up to 18 months",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000164"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "1 February, 1 June and 1 October of each year",
+      "applicable_country_codes": null,
+      "id": "daad-10000164-round-annual-rounds",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000164"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "1 February, 1 June and 1 October of each year",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "All application forms and further information on the application procedure are available at http://www.bifonds.de/fellowships-grants/phd-fellowships/application.html",
+        "source_ids": [
+          "daad-10000164"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000164",
+    "application_url": "http://www.bifonds.de/fellowships-grants/phd-fellowships/application.html",
+    "source_ids": [
+      "daad-10000164"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000164",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000164",
+        "title": "Boehringer Ingelheim Fonds: PhD Fellowships - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000164",
+        "sha256": "73d29bd00c1338547e4808215e711be69257f1b4e067d780e710f88468463a3a",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": ""
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Internationally leading laboratory.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

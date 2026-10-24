@@ -1,0 +1,203 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-stuttgart-daad-stibet-commitment",
+  "slug": "uni-stuttgart-daad-stibet-commitment",
+  "title": "DAAD STIBET Commitment",
+  "provider": {
+    "name": "German Academic Exchange Service (DAAD) / University of Stuttgart"
+  },
+  "summary": "Scholarship for excellent international degree-seeking students at the University of Stuttgart who demonstrate outstanding international or intercultural commitment.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Applies to students and doctoral students who will graduate at the University of Stuttgart (Bachelor, Master, PhD).",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All subjects included.",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "University of Stuttgart"
+      ],
+      "notes": "Tenable at the University of Stuttgart.",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Restricted to international students.",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Residence details not explicitly specified other than being an international student.",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "International degree-seeking student",
+        "source_ids": [
+          "uni-stuttgart"
+        ]
+      },
+      {
+        "text": "At least in third semester at the time the scholarship begins",
+        "source_ids": [
+          "uni-stuttgart"
+        ]
+      },
+      {
+        "text": "Good grades to date",
+        "source_ids": [
+          "uni-stuttgart"
+        ]
+      },
+      {
+        "text": "Demonstrated outstanding commitment in an international or intercultural context at the University of Stuttgart",
+        "source_ids": [
+          "uni-stuttgart"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Do not simultaneously receive a full scholarship from a German or foreign organization.",
+        "source_ids": [
+          "uni-stuttgart"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "A selection committee at the International Office determines the specific period and the amount of the scholarship.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "variable",
+    "duration": "Determined by a selection committee at the International Office",
+    "covered_costs": [
+      "other"
+    ],
+    "source_ids": [
+      "uni-stuttgart"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-01-31",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Joint application date for all mentioned scholarships/financial aids.",
+      "applicable_country_codes": null,
+      "id": "uni-stuttgart-daad-stibet-commitment-round-application-round-1",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": "2026-06-30",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Joint application date for all mentioned scholarships/financial aids.",
+      "applicable_country_codes": null,
+      "id": "uni-stuttgart-daad-stibet-commitment-round-application-round-2",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": "2026-10-31",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Joint application date if funds are available.",
+      "applicable_country_codes": null,
+      "id": "uni-stuttgart-daad-stibet-commitment-round-application-round-3",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-stuttgart"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.uni-stuttgart.de/en/study/new-in-stuttgart/finances/international/#id-994379e8-0",
+    "application_url": null,
+    "source_ids": [
+      "uni-stuttgart"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-stuttgart",
+        "url": "https://www.uni-stuttgart.de/en/study/new-in-stuttgart/finances/international/",
+        "title": "Financing your studies and working for international students | University of Stuttgart",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-stuttgart",
+        "sha256": "dfbf0d5bc058de326afc9c675f429939e15c2d8f79af00e5f73da389192ecfdd",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international degree-seeking students for studying physically at the University of Stuttgart, Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "An upcoming call needs its opening date confirmed.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Applies to students and doctoral students who will graduate at the University of Stuttgart (Bachelor, Master, PhD).",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All subjects included.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

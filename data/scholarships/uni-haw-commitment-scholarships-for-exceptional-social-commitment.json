@@ -1,0 +1,222 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-haw-commitment-scholarships-for-exceptional-social-commitment",
+  "slug": "uni-haw-commitment-scholarships-for-exceptional-social-commitment",
+  "title": "Scholarships for exceptional social commitment",
+  "provider": {
+    "name": "HAW Hamburg / DAAD"
+  },
+  "summary": "HAW Hamburg awards scholarships per semester to international students demonstrating exceptional social commitment in international activities on campus, funded by the German Academic Exchange Service (DAAD).",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master"
+      ],
+      "notes": "Bachelor's and Master's students who have been studying at HAW Hamburg for at least one semester.",
+      "source_ids": [
+        "uni-haw-commitment"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines are eligible as no subject restrictions are mentioned.",
+      "source_ids": [
+        "uni-haw-commitment"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "HAW Hamburg"
+      ],
+      "notes": "Must be an international student at HAW Hamburg.",
+      "source_ids": [
+        "uni-haw-commitment"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Open to international students (obtained higher education entrance qualification abroad or successfully completed preparatory studies at a German Studienkolleg).",
+      "source_ids": [
+        "uni-haw-commitment"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Must be studying at HAW Hamburg in Germany.",
+      "source_ids": [
+        "uni-haw-commitment"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "International student at HAW Hamburg",
+        "source_ids": [
+          "uni-haw-commitment"
+        ]
+      },
+      {
+        "text": "Volunteer work in at least one intercultural programme of the International Office (e.g. weBuddy Programme, Welcome Weeks, Culture Cafe, country evenings, language tandems)",
+        "source_ids": [
+          "uni-haw-commitment"
+        ]
+      },
+      {
+        "text": "Studying at HAW Hamburg for at least one semester (Bachelor's and Master's students)",
+        "source_ids": [
+          "uni-haw-commitment"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Students with lower incomes may receive a higher scholarship",
+        "source_ids": [
+          "uni-haw-commitment"
+        ]
+      },
+      {
+        "text": "Volunteer work in student initiatives with an international angle are additionally considered",
+        "source_ids": [
+          "uni-haw-commitment"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "€1,500 per semester. Students with lower incomes may receive a higher scholarship.",
+    "amount_min": 1500,
+    "amount_max": 1500,
+    "currency": "EUR",
+    "frequency": "semester",
+    "duration": "per semester (maximum of two times)",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-haw-commitment"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-10-10",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "",
+      "applicable_country_codes": null,
+      "id": "uni-haw-commitment-scholarships-for-exceptional-social-commitment-round-semester-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-haw-commitment"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "CV (max. 2 pages, with a focus on your academic path and volunteer activity)",
+        "source_ids": [
+          "uni-haw-commitment"
+        ]
+      },
+      {
+        "text": "Letter of application (max. 2 pages)",
+        "source_ids": [
+          "uni-haw-commitment"
+        ]
+      },
+      {
+        "text": "Clear proof of volunteer work",
+        "source_ids": [
+          "uni-haw-commitment"
+        ]
+      },
+      {
+        "text": "Current transcript of records from myHAW",
+        "source_ids": [
+          "uni-haw-commitment"
+        ]
+      },
+      {
+        "text": "Financal Statement Form",
+        "source_ids": [
+          "uni-haw-commitment"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Gather all necessary documents",
+        "source_ids": [
+          "uni-haw-commitment"
+        ]
+      },
+      {
+        "text": "Send application by email to Mariana Müller before the deadline",
+        "source_ids": [
+          "uni-haw-commitment"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.haw-hamburg.de/en/international/international-students/funding-and-scholarships/scholarships/scholarships-for-exceptional-social-commitment/",
+    "application_url": null,
+    "source_ids": [
+      "uni-haw-commitment"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-haw-commitment",
+        "url": "https://www.haw-hamburg.de/en/international/international-students/funding-and-scholarships/scholarships/scholarships-for-exceptional-social-commitment/",
+        "title": "HAW-Hamburg: Scholarships for exceptional social commitment",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-haw-commitment",
+        "sha256": "e572972e2985bc3c18d0c1b2db60f26e2cb968b27cebf3a984ac909417b57cdd",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship is for international students physically studying at HAW Hamburg in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines are eligible as no subject restrictions are mentioned.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

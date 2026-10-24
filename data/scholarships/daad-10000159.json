@@ -1,0 +1,200 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000159",
+  "slug": "daad-10000159",
+  "title": "Cusanuswerk: Undergraduate and Postgraduate Fellowships",
+  "provider": {
+    "name": "Cusanuswerk"
+  },
+  "summary": "Fellowships for particularly gifted Catholic students and doctoral candidates from all disciplines, offering financial support modeled after BAföG or a monthly doctoral stipend, alongside interdisciplinary training.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Covers students (undergraduates/graduates) and doctoral candidates.",
+      "source_ids": [
+        "daad-10000159"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "From all disciplines.",
+      "source_ids": [
+        "daad-10000159"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German state or state-recognised higher-education institution mentioned for entrance qualifications and doctoral admissions.",
+      "source_ids": [
+        "daad-10000159"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "German citizenship or BAföG § 8, 1-3 eligibility for students; foreign nationals admitted to a doctoral programme in Germany or applicants from developing/emerging countries in Africa, Asia, Near/Middle East, Latin America, Eastern Europe unable to apply to KAAD for doctoral candidates.",
+      "source_ids": [
+        "daad-10000159"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "For doctoral candidates, must be admitted to a doctoral programme at a German state or state-recognised higher education institution.",
+      "source_ids": [
+        "daad-10000159"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Membership in the catholic Church (or non-united orthodox/oriental-orthodox after individual assessment)",
+        "source_ids": [
+          "daad-10000159"
+        ]
+      },
+      {
+        "text": "At least C1 level (CEFR) language skills in German",
+        "source_ids": [
+          "daad-10000159"
+        ]
+      },
+      {
+        "text": "Enrolment certificate",
+        "source_ids": [
+          "daad-10000159"
+        ]
+      },
+      {
+        "text": "Excellent academic merit and interest in interdisciplinary approach",
+        "source_ids": [
+          "daad-10000159"
+        ]
+      },
+      {
+        "text": "For students: German citizenship or BAföG § 8, 1-3 eligibility, plus Abitur or higher-education entrance qualification for German higher education",
+        "source_ids": [
+          "daad-10000159"
+        ]
+      },
+      {
+        "text": "For doctoral candidates: foreign nationals admitted to a doctoral programme at a German state or state-recognised higher education institution, or applicants from a developing or emerging country unable to apply to KAAD",
+        "source_ids": [
+          "daad-10000159"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Students receive a monthly BAföG-modelled grant based on income/assets plus a standard study cost allowance of 300 EUR per month. Doctoral candidates receive 1,650 EUR per month plus a research cost allowance of 100 EUR, plus health care, child, and family allowances if required.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "For doctoral candidates a maximum of 3 years and 6 months (extendable to 4 years for illness/child care); duration for students is individually agreed.",
+    "covered_costs": [
+      "living_costs",
+      "research",
+      "insurance",
+      "language_course",
+      "travel",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000159"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Updated application deadlines may be found on the provider's website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000159-round-website-deadlines",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000159"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Application forms",
+        "source_ids": [
+          "daad-10000159"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Check application forms and further information on the provider website.",
+        "source_ids": [
+          "daad-10000159"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000159",
+    "application_url": "https://www.cusanuswerk.de/foerderung/finanzielle-foerderung",
+    "source_ids": [
+      "daad-10000159"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000159",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000159",
+        "title": "Cusanuswerk: Undergraduate and Postgraduate Fellowships - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000159",
+        "sha256": "b8f267c2829583ecc28be0d1b43612345398474a19df4f2b8042bbe06fad9ed1",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Provides financial support for international students and doctoral candidates physically studying or researching in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Covers students (undergraduates/graduates) and doctoral candidates.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: From all disciplines.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000148",
+  "slug": "daad-10000148",
+  "title": "Boehringer Ingelheim Fonds: Travel Grants",
+  "provider": {
+    "name": "Boehringer Ingelheim Fonds"
+  },
+  "summary": "Travel grants for doctoral, MD and post-doctoral students pursuing experimental projects in basic biomedical research to attend practical training courses or short-term research stays worldwide or in Europe.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate",
+        "other"
+      ],
+      "notes": "Aimed at doctoral, MD, and post-doctoral students, as well as graduates who have applied for an experimental PhD project (requires at least a BSc). Post-doc track is excluded from student scope.",
+      "source_ids": [
+        "daad-10000148"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "natural_sciences",
+        "medicine",
+        "health_sciences"
+      ],
+      "notes": "Restricted to basic biomedical research.",
+      "source_ids": [
+        "daad-10000148"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No specific institution restrictions mentioned, applies to institutes worldwide or in Europe.",
+      "source_ids": [
+        "daad-10000148"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Europeans",
+        "non-Europeans"
+      ],
+      "notes": "Open to all Europeans and to non-Europeans working in Europe, and non-Europeans outside Europe for stays in Europe.",
+      "source_ids": [
+        "daad-10000148"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Open to Europeans and non-Europeans working in Europe to go to institutes worldwide, and non-Europeans working outside Europe to apply for stays in Europe.",
+      "source_ids": [
+        "daad-10000148"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Good academic standing",
+        "source_ids": [
+          "daad-10000148"
+        ]
+      },
+      {
+        "text": "At least a BSc",
+        "source_ids": [
+          "daad-10000148"
+        ]
+      },
+      {
+        "text": "Pursuing experimental projects in basic biomedical research",
+        "source_ids": [
+          "daad-10000148"
+        ]
+      },
+      {
+        "text": "Doctoral students must not have obtained their first university entrance qualification more than 11 years before the planned start of the travel grant (postdoctoral candidates no more than 13 years)",
+        "source_ids": [
+          "daad-10000148"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Allowance which may cover the expenses for travel to and from the respective destination, lodging, and course fees.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "variable",
+    "duration": "up to 3 months",
+    "covered_costs": [
+      "travel",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000148"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "rolling",
+      "notes": "Applications are welcome at any time, but must be submitted at the latest 6 weeks before, but not earlier than 6 months prior to the planned date of departure.",
+      "applicable_country_codes": null,
+      "id": "daad-10000148-round-rolling-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000148"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Applications are welcome at any time, but must be submitted at the latest 6 weeks before, but not earlier than 6 months prior to the planned date of departure.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Application forms and further information on the application procedure are available via the external application link.",
+        "source_ids": [
+          "daad-10000148"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000148",
+    "application_url": "http://www.bifonds.de/fellowships-grants/travel-grants.html",
+    "source_ids": [
+      "daad-10000148"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000148",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000148",
+        "title": "Boehringer Ingelheim Fonds: Travel Grants - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000148",
+        "sha256": "71f1e36ef4d85f624c0faece0cdc13232f675b61416757d9ac3efafe979733e7",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds international doctoral, MD, and post-doctoral students to undertake short-term research stays or practical training courses in Germany (and worldwide/Europe), fulfilling physical research/study in Germany for students."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Mixed PhD/postdoc scheme; postdoc track excluded from student award scope.",
+      "Exact numerical stipend amounts are not provided.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: No specific institution restrictions mentioned, applies to institutes worldwide or in Europe."
+    ]
+  }
+}

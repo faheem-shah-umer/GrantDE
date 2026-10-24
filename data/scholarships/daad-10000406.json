@@ -1,0 +1,233 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000406",
+  "slug": "daad-10000406",
+  "title": "German Academic Scholarship Foundation: Doctoral Scholarships",
+  "provider": {
+    "name": "Studienstiftung des deutschen Volkes (German Academic Scholarship Foundation)"
+  },
+  "summary": "Doctoral scholarships for highly qualified PhD students committed to social causes, providing 1,750 EUR monthly, research and health insurance allowances, and academic support programmes for research in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Doctoral candidates only.",
+      "source_ids": [
+        "daad-10000406"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines are eligible, as no subject restrictions are mentioned.",
+      "source_ids": [
+        "daad-10000406"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "German university"
+      ],
+      "notes": "Must be accepted to a doctoral programme at a German university where the thesis will also be submitted.",
+      "source_ids": [
+        "daad-10000406"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "If the doctoral programme is carried out at a German university, citizenship does not matter (applies to international candidates accepted to a German university).",
+      "source_ids": [
+        "daad-10000406"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Citizenship does not matter if the doctoral programme is carried out at a German university.",
+      "source_ids": [
+        "daad-10000406"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "The last academic degree should have been completed no longer than 4 years prior to submission of the application.",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      },
+      {
+        "text": "The doctoral candidate has been accepted for a doctoral programme at a German university where the thesis will also be submitted.",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      },
+      {
+        "text": "An exceptionally challenging and innovative scientific dissertation project that can be completed within a funding period of 3 years.",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      },
+      {
+        "text": "Appropriate supervision of the project and the doctoral candidate.",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      },
+      {
+        "text": "Successfully completed studies showing commitment and above-average marks.",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Exceptional academic or artistic talents and personal qualities",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      },
+      {
+        "text": "Commitment to social causes beyond one's own interests",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      }
+    ],
+    "exceptions": [
+      {
+        "text": "The 4-year interval since the last degree can be justified by pregnancies or proven prolonged periods of serious illness or incapacity for work.",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      },
+      {
+        "text": "In justified cases, doctorates abroad can also be funded; this presupposes that the doctoral candidate has German citizenship or a university entrance qualification acquired in Germany.",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Grant amount of 1,750 EUR a month, comprising a basic monthly stipend of 1,650 EUR and a research allowance of 100 EUR a month. Scholars can also apply for a contribution towards health insurance (50 percent of documented costs up to a maximum of 100 EUR a month) and family/childcare allowances.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Funding can be granted for 3 years, with a 6-month extension possible (maximum 42 months, or up to 54 months for doctoral students with children).",
+    "covered_costs": [
+      "living_costs",
+      "research",
+      "insurance",
+      "travel"
+    ],
+    "source_ids": [
+      "daad-10000406"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Calls are published approximately 8 months before each selection meeting and each call remains open for 2 weeks. The selection committee meets four times a year.",
+      "applicable_country_codes": null,
+      "id": "daad-10000406-round-general-calls",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000406"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "The Studienstiftung publishes calls for applications approximately 8 months before each selection meeting. Each call remains open for 2 weeks. The Selection Committee for Doctoral Candidates meets four times a year.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Apply together with supervisor.",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      },
+      {
+        "text": "Pre-selection by the Studienstiftung to check formal conditions.",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      },
+      {
+        "text": "Assessment round including a specialist report and an interview report.",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      },
+      {
+        "text": "Discussion and decision at the meeting of the Selection Committee for Doctoral Candidates.",
+        "source_ids": [
+          "daad-10000406"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000406",
+    "application_url": "https://daad.de/go/en/stipa10000406",
+    "source_ids": [
+      "daad-10000406"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000406",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000406",
+        "title": "German Academic Scholarship Foundation: Doctoral Scholarships - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000406",
+        "sha256": "2aedb830876292d976ed0cf69a7c745e6693c27ac676f88bee915149c046e07c",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international doctoral candidates pursuing a PhD programme physically at a German university where the thesis is submitted."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Doctoral theses undertaken as part of a medical degree are not supported.",
+      "Funding for part-time doctoral degrees is not possible.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines are eligible, as no subject restrictions are mentioned.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Citizenship does not matter if the doctoral programme is carried out at a German university."
+    ]
+  }
+}

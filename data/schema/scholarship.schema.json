@@ -1,0 +1,966 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:grantde:scholarship-record:2.0.0",
+  "title": "GrantDE scholarship record with embedded source references",
+  "description": "Unknown and explicitly unrestricted criteria are distinct. Collected records remain drafts until publication review.",
+  "type": "object",
+  "additionalProperties": false,
+  "properties": {
+    "schema_version": {
+      "const": "2.0.0"
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 1
+    },
+    "provider": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        }
+      },
+      "required": [
+        "name"
+      ]
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 900
+    },
+    "study_scope": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "degree_levels": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "status": {
+              "enum": [
+                "restricted",
+                "unrestricted",
+                "unknown"
+              ]
+            },
+            "values": {
+              "type": [
+                "array",
+                "null"
+              ],
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "enum": [
+                  "bachelor",
+                  "master",
+                  "doctorate",
+                  "state_exam",
+                  "diploma",
+                  "preparatory",
+                  "short_course",
+                  "exchange",
+                  "other"
+                ]
+              }
+            },
+            "notes": {
+              "type": "string",
+              "minLength": 1
+            },
+            "source_ids": {
+              "type": "array",
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          },
+          "required": [
+            "status",
+            "values",
+            "notes",
+            "source_ids"
+          ],
+          "allOf": [
+            {
+              "if": {
+                "properties": {
+                  "status": {
+                    "const": "restricted"
+                  }
+                }
+              },
+              "then": {
+                "properties": {
+                  "values": {
+                    "type": "array",
+                    "minItems": 1
+                  }
+                }
+              },
+              "else": {
+                "properties": {
+                  "values": {
+                    "type": "null"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "subject_areas": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "status": {
+              "enum": [
+                "restricted",
+                "unrestricted",
+                "unknown"
+              ]
+            },
+            "values": {
+              "type": [
+                "array",
+                "null"
+              ],
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "enum": [
+                  "engineering",
+                  "computer_science",
+                  "mathematics",
+                  "natural_sciences",
+                  "medicine",
+                  "health_sciences",
+                  "agriculture",
+                  "environment",
+                  "business_economics",
+                  "law",
+                  "social_sciences",
+                  "humanities",
+                  "education",
+                  "arts_design",
+                  "music",
+                  "architecture",
+                  "other"
+                ]
+              }
+            },
+            "notes": {
+              "type": "string",
+              "minLength": 1
+            },
+            "source_ids": {
+              "type": "array",
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          },
+          "required": [
+            "status",
+            "values",
+            "notes",
+            "source_ids"
+          ],
+          "allOf": [
+            {
+              "if": {
+                "properties": {
+                  "status": {
+                    "const": "restricted"
+                  }
+                }
+              },
+              "then": {
+                "properties": {
+                  "values": {
+                    "type": "array",
+                    "minItems": 1
+                  }
+                }
+              },
+              "else": {
+                "properties": {
+                  "values": {
+                    "type": "null"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "institutions": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "status": {
+              "enum": [
+                "restricted",
+                "unrestricted",
+                "unknown"
+              ]
+            },
+            "values": {
+              "type": [
+                "array",
+                "null"
+              ],
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "notes": {
+              "type": "string",
+              "minLength": 1
+            },
+            "source_ids": {
+              "type": "array",
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          },
+          "required": [
+            "status",
+            "values",
+            "notes",
+            "source_ids"
+          ],
+          "allOf": [
+            {
+              "if": {
+                "properties": {
+                  "status": {
+                    "const": "restricted"
+                  }
+                }
+              },
+              "then": {
+                "properties": {
+                  "values": {
+                    "type": "array",
+                    "minItems": 1
+                  }
+                }
+              },
+              "else": {
+                "properties": {
+                  "values": {
+                    "type": "null"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "study_country_codes": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "const": "DE"
+          }
+        }
+      },
+      "required": [
+        "degree_levels",
+        "subject_areas",
+        "institutions",
+        "study_country_codes"
+      ]
+    },
+    "applicant_requirements": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "nationality": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "status": {
+              "enum": [
+                "restricted",
+                "unrestricted",
+                "unknown"
+              ]
+            },
+            "allowed_country_codes": {
+              "type": [
+                "array",
+                "null"
+              ],
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "pattern": "^[A-Z]{2}$"
+              }
+            },
+            "excluded_country_codes": {
+              "type": [
+                "array",
+                "null"
+              ],
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "pattern": "^[A-Z]{2}$"
+              }
+            },
+            "country_groups": {
+              "type": [
+                "array",
+                "null"
+              ],
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            },
+            "notes": {
+              "type": "string",
+              "minLength": 1
+            },
+            "source_ids": {
+              "type": "array",
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          },
+          "required": [
+            "status",
+            "allowed_country_codes",
+            "excluded_country_codes",
+            "country_groups",
+            "notes",
+            "source_ids"
+          ]
+        },
+        "residence": {
+          "type": "object",
+          "additionalProperties": false,
+          "properties": {
+            "status": {
+              "enum": [
+                "restricted",
+                "unrestricted",
+                "unknown"
+              ]
+            },
+            "values": {
+              "type": [
+                "array",
+                "null"
+              ],
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "enum": [
+                  "in_germany",
+                  "outside_germany"
+                ]
+              }
+            },
+            "notes": {
+              "type": "string",
+              "minLength": 1
+            },
+            "source_ids": {
+              "type": "array",
+              "minItems": 1,
+              "uniqueItems": true,
+              "items": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          },
+          "required": [
+            "status",
+            "values",
+            "notes",
+            "source_ids"
+          ],
+          "allOf": [
+            {
+              "if": {
+                "properties": {
+                  "status": {
+                    "const": "restricted"
+                  }
+                }
+              },
+              "then": {
+                "properties": {
+                  "values": {
+                    "type": "array",
+                    "minItems": 1
+                  }
+                }
+              },
+              "else": {
+                "properties": {
+                  "values": {
+                    "type": "null"
+                  }
+                }
+              }
+            }
+          ]
+        },
+        "mandatory": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "text": {
+                "type": "string",
+                "minLength": 1
+              },
+              "source_ids": {
+                "type": "array",
+                "minItems": 1,
+                "uniqueItems": true,
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            },
+            "required": [
+              "text",
+              "source_ids"
+            ]
+          }
+        },
+        "preferences": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "text": {
+                "type": "string",
+                "minLength": 1
+              },
+              "source_ids": {
+                "type": "array",
+                "minItems": 1,
+                "uniqueItems": true,
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            },
+            "required": [
+              "text",
+              "source_ids"
+            ]
+          }
+        },
+        "exceptions": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "text": {
+                "type": "string",
+                "minLength": 1
+              },
+              "source_ids": {
+                "type": "array",
+                "minItems": 1,
+                "uniqueItems": true,
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            },
+            "required": [
+              "text",
+              "source_ids"
+            ]
+          }
+        }
+      },
+      "required": [
+        "nationality",
+        "residence",
+        "mandatory",
+        "preferences",
+        "exceptions"
+      ]
+    },
+    "funding": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "description": {
+          "type": "string",
+          "minLength": 1
+        },
+        "amount_min": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "amount_max": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "currency": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "pattern": "^[A-Z]{3}$"
+        },
+        "frequency": {
+          "enum": [
+            "monthly",
+            "semester",
+            "annual",
+            "one_off",
+            "variable",
+            "unknown"
+          ]
+        },
+        "duration": {
+          "type": "string",
+          "minLength": 1
+        },
+        "covered_costs": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "enum": [
+              "living_costs",
+              "tuition",
+              "research",
+              "travel",
+              "insurance",
+              "language_course",
+              "study_completion",
+              "other"
+            ]
+          }
+        },
+        "source_ids": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "repayment_required": {
+          "type": [
+            "boolean",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "description",
+        "amount_min",
+        "amount_max",
+        "currency",
+        "frequency",
+        "duration",
+        "covered_costs",
+        "source_ids",
+        "repayment_required"
+      ]
+    },
+    "application_rounds": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "opens_on": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          },
+          "deadline": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "format": "date"
+          },
+          "deadline_time": {
+            "type": [
+              "string",
+              "null"
+            ],
+            "pattern": "^\\d{2}:\\d{2}(:\\d{2})?$"
+          },
+          "timezone": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "availability": {
+            "enum": [
+              "open",
+              "upcoming",
+              "closed",
+              "rolling",
+              "dates_unconfirmed"
+            ]
+          },
+          "notes": {
+            "type": "string"
+          },
+          "applicable_country_codes": {
+            "type": [
+              "array",
+              "null"
+            ],
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "pattern": "^[A-Z]{2}$"
+            }
+          },
+          "as_of": {
+            "type": "string",
+            "format": "date"
+          },
+          "source_ids": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "minLength": 1
+            }
+          }
+        },
+        "required": [
+          "id",
+          "opens_on",
+          "deadline",
+          "deadline_time",
+          "timezone",
+          "availability",
+          "notes",
+          "applicable_country_codes",
+          "as_of",
+          "source_ids"
+        ]
+      }
+    },
+    "recurring_deadline_notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "application_process": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "required_documents_status": {
+          "enum": [
+            "as_listed",
+            "unknown"
+          ]
+        },
+        "required_documents": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "text": {
+                "type": "string",
+                "minLength": 1
+              },
+              "source_ids": {
+                "type": "array",
+                "minItems": 1,
+                "uniqueItems": true,
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            },
+            "required": [
+              "text",
+              "source_ids"
+            ]
+          }
+        },
+        "steps_status": {
+          "enum": [
+            "as_listed",
+            "unknown"
+          ]
+        },
+        "steps": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "text": {
+                "type": "string",
+                "minLength": 1
+              },
+              "source_ids": {
+                "type": "array",
+                "minItems": 1,
+                "uniqueItems": true,
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              }
+            },
+            "required": [
+              "text",
+              "source_ids"
+            ]
+          }
+        },
+        "official_programme_url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https?://[^\\s]+$"
+        },
+        "application_url": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "uri",
+          "pattern": "^https?://[^\\s]+$"
+        },
+        "source_ids": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "required": [
+        "required_documents_status",
+        "required_documents",
+        "steps_status",
+        "steps",
+        "official_programme_url",
+        "application_url",
+        "source_ids"
+      ]
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "sources": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "properties": {
+              "id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "url": {
+                "type": "string",
+                "format": "uri",
+                "pattern": "^https?://[^\\s]+$"
+              },
+              "title": {
+                "type": "string",
+                "minLength": 1
+              },
+              "source_type": {
+                "enum": [
+                  "official_provider",
+                  "official_aggregator"
+                ]
+              },
+              "checked_on": {
+                "type": "string",
+                "format": "date"
+              },
+              "http_status": {
+                "enum": [
+                  200,
+                  null
+                ]
+              },
+              "sha256": {
+                "type": "string",
+                "pattern": "^[a-f0-9]{64}$",
+                "description": "SHA-256 of the original captured JSON file, preserved in the referenced source entry."
+              },
+              "supports": {
+                "type": "array",
+                "uniqueItems": true,
+                "items": {
+                  "type": "string",
+                  "minLength": 1
+                }
+              },
+              "notes": {
+                "type": "string"
+              },
+              "retrieval_method": {
+                "enum": [
+                  "firecrawl_live_requested",
+                  "web_search_read"
+                ]
+              },
+              "snapshot_ref": {
+                "type": "string",
+                "minLength": 1,
+                "pattern": "^#/sources/",
+                "description": "JSON Pointer to the saved source in this same database file."
+              }
+            },
+            "required": [
+              "id",
+              "url",
+              "title",
+              "source_type",
+              "checked_on",
+              "http_status",
+              "snapshot_ref",
+              "sha256",
+              "supports",
+              "notes",
+              "retrieval_method"
+            ]
+          }
+        },
+        "last_checked": {
+          "type": "string",
+          "format": "date"
+        },
+        "last_reviewed": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date"
+        },
+        "review_method": {
+          "enum": [
+            "extracted_draft",
+            "assistant_source_review"
+          ]
+        }
+      },
+      "required": [
+        "sources",
+        "last_checked",
+        "last_reviewed",
+        "review_method"
+      ]
+    },
+    "publication": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "status": {
+          "enum": [
+            "draft",
+            "published",
+            "archived"
+          ]
+        },
+        "review_notes": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      },
+      "required": [
+        "status",
+        "review_notes"
+      ]
+    }
+  },
+  "required": [
+    "schema_version",
+    "id",
+    "slug",
+    "title",
+    "provider",
+    "summary",
+    "study_scope",
+    "applicant_requirements",
+    "funding",
+    "application_rounds",
+    "recurring_deadline_notes",
+    "application_process",
+    "provenance",
+    "publication"
+  ]
+}

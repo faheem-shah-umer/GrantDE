@@ -1,0 +1,192 @@
+{
+  "schema_version": "2.0.0",
+  "id": "foundation-rosalux-study-study-scholarship-for-domestic-students",
+  "slug": "foundation-rosalux-study-study-scholarship-for-domestic-students",
+  "title": "Study Scholarship for Domestic Students",
+  "provider": {
+    "name": "Rosa Luxemburg Foundation"
+  },
+  "summary": "Scholarship for domestic students enrolled at a university in Germany, an EU country, or Switzerland who are eligible for BAföG Section 8.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Covers Bachelor's, Diplom, Magister, State Examination, and Master's programs.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Domestic and international students of all disciplines are welcome to apply.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "university in Germany, an EU country, or Switzerland (state-run or state-recognized)"
+      ],
+      "notes": "University must be state-run or state-recognized.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Domestic students and those belonging to the group of people eligible for BAföG Section 8.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Enrolled at a university in Germany, an EU country, or Switzerland.",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Belong to the group of people eligible for BAföG Section 8",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Strong commitment to the Rosa Luxemburg Foundation",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Excellent academic performance",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Enrolled at a state-run or state-recognized university in Germany, an EU country, or Switzerland",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "A second full-time degree program is not eligible",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Part-time (work-based) study program is not eligible",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Students with a part-time job of more than 20 hours per week are not eligible",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      },
+      {
+        "text": "Study in Great Britain is not eligible",
+        "source_ids": [
+          "foundation-rosalux-study"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "No specific cash stipend amount stated on the page.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Not specified",
+    "covered_costs": [],
+    "source_ids": [
+      "foundation-rosalux-study"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadline mentioned for second-semester Master's is October 1st, but no specific round dates provided for general applications.",
+      "applicable_country_codes": null,
+      "id": "foundation-rosalux-study-study-scholarship-for-domestic-students-round-general-unspecified-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "foundation-rosalux-study"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Master's program application deadline of October 1st is mentioned.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/study-scholarship",
+    "application_url": null,
+    "source_ids": [
+      "foundation-rosalux-study"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "foundation-rosalux-study",
+        "url": "https://www.rosalux.de/en/foundation/studienwerk/scholarships/study-scholarship",
+        "title": "Study scholarship - Rosa-Luxemburg-Stiftung",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/foundation-rosalux-study",
+        "sha256": "a54ba04ee3a75ad890737fcb6cf96610ebc96cfbd59700aa07238ae6e40fb2ce",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "In scope because international students/EU nationals or those studying in Germany can receive funding for physical study in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Covers Bachelor's, Diplom, Magister, State Examination, and Master's programs.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Domestic and international students of all disciplines are welcome to apply.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

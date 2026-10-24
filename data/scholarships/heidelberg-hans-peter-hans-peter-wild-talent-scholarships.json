@@ -1,0 +1,168 @@
+{
+  "schema_version": "2.0.0",
+  "id": "heidelberg-hans-peter-hans-peter-wild-talent-scholarships",
+  "slug": "heidelberg-hans-peter-hans-peter-wild-talent-scholarships",
+  "title": "Hans-Peter Wild Talent Scholarships",
+  "provider": {
+    "name": "Heidelberg University"
+  },
+  "summary": "Supports top students in mathematics, computer science, natural sciences or technology (MINT) for the first semester at Heidelberg University with 1,000 € per month until the standard end of the course.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "state_exam",
+        "diploma",
+        "other"
+      ],
+      "notes": "Applies to the first semester of a MINT subject course of studies.",
+      "source_ids": [
+        "heidelberg-hans-peter"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "mathematics",
+        "computer_science",
+        "natural_sciences",
+        "engineering"
+      ],
+      "notes": "MINT subjects (mathematics, computer science, natural sciences, or technology).",
+      "source_ids": [
+        "heidelberg-hans-peter"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Heidelberg University"
+      ],
+      "notes": "Heidelberg University",
+      "source_ids": [
+        "heidelberg-hans-peter"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality restrictions are not specified on this page.",
+      "source_ids": [
+        "heidelberg-hans-peter"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified on the page.",
+      "source_ids": [
+        "heidelberg-hans-peter"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Love mathematics, computer science, natural sciences or technology and be one of the best in your field",
+        "source_ids": [
+          "heidelberg-hans-peter"
+        ]
+      },
+      {
+        "text": "Applying to a MINT subject for the first semester",
+        "source_ids": [
+          "heidelberg-hans-peter"
+        ]
+      },
+      {
+        "text": "Have not yet completed or will complete a course of studies at Heidelberg University before commencing your studies",
+        "source_ids": [
+          "heidelberg-hans-peter"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "1,000 € per month until the standard end of your course.",
+    "amount_min": 1000,
+    "amount_max": 1000,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Until the standard end of your course",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "heidelberg-hans-peter"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "The application portal is closed.",
+      "applicable_country_codes": null,
+      "id": "heidelberg-hans-peter-hans-peter-wild-talent-scholarships-round-general-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "heidelberg-hans-peter"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.uni-heidelberg.de/en/friends-supporters/hans-peter-wild-talent-scholarships",
+    "application_url": null,
+    "source_ids": [
+      "heidelberg-hans-peter"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "heidelberg-hans-peter",
+        "url": "https://www.uni-heidelberg.de/en/friends-supporters/hans-peter-wild-talent-scholarships",
+        "title": "Hans-Peter Wild Talent Scholarships - Heidelberg University",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/heidelberg-hans-peter",
+        "sha256": "c14ca3dfa4415e3a10a66dbdc0d123fe037d3d95ba1af435a96771b32b8de1d1",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Provides student funding for studying in Germany at Heidelberg University."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

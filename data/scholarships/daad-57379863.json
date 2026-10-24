@@ -1,0 +1,277 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57379863",
+  "slug": "daad-57379863",
+  "title": "Joint Rustaveli-DAAD-fellowship programme",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Research grants for doctoral candidates and postdocs from Georgia to conduct research visits at higher education or research institutions in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate",
+        "other"
+      ],
+      "notes": "Very well-qualified doctoral candidates and postdocs (postdoc track is excluded from student award focus, but included in mixed scheme per instructions).",
+      "source_ids": [
+        "daad-57379863"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines are eligible implicitly as no subject restrictions are mentioned.",
+      "source_ids": [
+        "daad-57379863"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State or state-recognised institutions of higher education or non-university research institutes in Germany.",
+      "source_ids": [
+        "daad-57379863"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "GE"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Georgia"
+      ],
+      "notes": "Restricted to Georgia.",
+      "source_ids": [
+        "daad-57379863"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants must work at or be affiliated to a university or institute of higher education in their home country.",
+      "source_ids": [
+        "daad-57379863"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Applicants must work at a university or institute of higher education (Post-Docs) or be affiliated to a university or institute of higher education (doctoral candidates) in their home country.",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "The research project must be coordinated with an academic host institute in Germany and a workplace must be provided.",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "Good German and/or English skills.",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Young researchers: Monthly scholarship payment of 2,150 euros plus contribution towards travel expenses and health insurance coverage. Doctoral candidates: Monthly scholarship payment of 1,400 euros plus contributions towards health, accident and personal liability insurance cover, and contribution towards travel expenses.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Young researchers 2-6 months; Doctoral candidates 3 months or 6 months (for binational doctoral degrees)",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance"
+    ],
+    "source_ids": [
+      "daad-57379863"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-04-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "The selection is expected to take place in May 2026.",
+      "applicable_country_codes": [
+        "GE"
+      ],
+      "id": "daad-57379863-round-2026-application-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57379863"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Online application form",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "Full curriculum vitae in tabular form (max. 3 pages)",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "List of academic publications (max. 3 pages)",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "Comprehensive statement about research project (max. 4 pages)",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "Time schedule and itinerary (host institutes / academic hosts) of the planned research stay",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "Letter from host confirming academic cooperation",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "Declaration from the scientific supervisor in Germany on safety-relevant and ethical aspects",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "German or English translations of documents submitted in the national language",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "Copy of last academic qualification; confirmation of their doctoral degree for doctoral candidates",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "All university certificates on all annual examinations with individual grade(s), incl. explanation of grading system",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "Participation Form",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "One recent letter of recommendation from a university teacher",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal.",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "Request recommendation form and have it completed by a university teacher.",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "Prepare and translate application documents.",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "Fill out the application form and upload the application documents in PDF format to the portal.",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      },
+      {
+        "text": "Submit the application online.",
+        "source_ids": [
+          "daad-57379863"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57379863",
+    "application_url": "https://www.meindaad.de/en/",
+    "source_ids": [
+      "daad-57379863"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57379863",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57379863",
+        "title": "Joint Rustaveli-DAAD-fellowship programme - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57379863",
+        "sha256": "469844f664776b0656824d10def9e8f55d0bac877c86f2455b426b3026d0a086",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International doctoral candidates and postdocs receive funding for research visits physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Mixed PhD/postdoc scheme; described student/doctoral award and mentioned excluded/postdoc track.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines are eligible implicitly as no subject restrictions are mentioned.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: State or state-recognised institutions of higher education or non-university research institutes in Germany."
+    ]
+  }
+}

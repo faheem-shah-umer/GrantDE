@@ -1,0 +1,235 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000128",
+  "slug": "daad-10000128",
+  "title": "Bavarian Academic Center for Central, Eastern and Southeastern Europe: One-year scholarship programme sponsored by the Free State of Bavaria for graduates of Central, Eastern and Southeastern European states (BAYHOST)",
+  "provider": {
+    "name": "BAYHOST"
+  },
+  "summary": "One-year scholarships for graduates and doctoral candidates from selected Central, Eastern and Southeastern European countries to complete postgraduate studies, PhDs, or research stays at Bavarian higher-education institutions.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate",
+        "exchange"
+      ],
+      "notes": "Postgraduate studies (i.e. Master's programmes), PhDs, and one-year research stays are sponsored; Bachelor's degree or academic equivalent is required as an academic entry requirement.",
+      "source_ids": [
+        "daad-10000128"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Subject areas are not explicitly restricted or listed on the page.",
+      "source_ids": [
+        "daad-10000128"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Bavarian higher-education institution"
+      ],
+      "notes": "Candidates must be enrolled at a Bavarian higher-education institution during the scholarship period.",
+      "source_ids": [
+        "daad-10000128"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "BG",
+        "HR",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "RS",
+        "SK",
+        "UA"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Bulgaria",
+        "Croatia",
+        "Czechia",
+        "Hungary",
+        "Poland",
+        "Romania",
+        "Serbia",
+        "Slovakia",
+        "Ukraine"
+      ],
+      "notes": "Restricted to citizens of Bulgaria, Croatia, Czechia, Hungary, Poland, Romania, Serbia, Slovakia and Ukraine who hold permanent residence in their country of origin.",
+      "source_ids": [
+        "daad-10000128"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany",
+        "in_germany"
+      ],
+      "notes": "Candidates must hold permanent residence in the country of origin at the time of application and study/research at a Bavarian higher-education institution.",
+      "source_ids": [
+        "daad-10000128"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Citizenship of one of the participating countries: Bulgaria, Croatia, the Czech Republic, Hungary, Poland, Romania, Serbia, Slovakia and Ukraine",
+        "source_ids": [
+          "daad-10000128"
+        ]
+      },
+      {
+        "text": "Candidates must hold permanent residence in the country of origin at the time of application",
+        "source_ids": [
+          "daad-10000128"
+        ]
+      },
+      {
+        "text": "Graduates must be under 30 and doctoral candidates under 35 years of age when the scholarship is first awarded",
+        "source_ids": [
+          "daad-10000128"
+        ]
+      },
+      {
+        "text": "Financial need, i.e., the stay can be financed neither out of the applicant's own resources nor by a third party",
+        "source_ids": [
+          "daad-10000128"
+        ]
+      },
+      {
+        "text": "Sufficient knowledge of German or English depending on the degree programme or research project (usually a C1 level according to CEFR is required)",
+        "source_ids": [
+          "daad-10000128"
+        ]
+      },
+      {
+        "text": "Outstanding academic achievements",
+        "source_ids": [
+          "daad-10000128"
+        ]
+      },
+      {
+        "text": "Candidates must be enroled at a Bavarian higher-education institution during the scholarship period",
+        "source_ids": [
+          "daad-10000128"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Exceptions to the age limits (under 30 for graduates, under 35 for doctoral candidates) can be requested individually.",
+        "source_ids": [
+          "daad-10000128"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "An average of 40 scholarships worth 992 EUR per month are awarded each year (paid in 12 instalments, total 11,904 EUR per year). Single parents or scholars with at least one child may be awarded a monthly amount of 1,152 EUR (13,824 EUR per year). The one-year scholarship can be generally extended twice for up to 3 years.",
+    "amount_min": 992,
+    "amount_max": 1152,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "One year, can be generally extended twice for up to 3 years.",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000128"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Please find the updated deadlines for application on the official external link.",
+      "applicable_country_codes": [
+        "BG",
+        "HR",
+        "CZ",
+        "HU",
+        "PL",
+        "RO",
+        "RS",
+        "SK",
+        "UA"
+      ],
+      "id": "daad-10000128-round-unconfirmed-deadline-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000128"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Visit the official BAYHOST application procedure page to find application forms and further information.",
+        "source_ids": [
+          "daad-10000128"
+        ]
+      }
+    ],
+    "official_programme_url": "https://daad.de/go/en/stipa10000128",
+    "application_url": "https://www.uni-regensburg.de/en/bayhost/funding-and-scholarships/coming-to-bavaria/study-in-bavaria",
+    "source_ids": [
+      "daad-10000128"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000128",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000128",
+        "title": "Bavarian Academic Center for Central, Eastern and Southeastern Europe: One-year scholarship programme sponsored by the Free State of Bavaria for graduates of Central, Eastern and Southeastern European states (BAYHOST) - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000128",
+        "sha256": "fc5c92206b44e23494e91148ac2bbe4981078f38d1e6149fada7f1f4e2bf7907",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds international graduates and doctoral candidates for postgraduate studies, PhDs, or research stays physically at Bavarian higher-education institutions in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Possible overlap with the Czech BTHA annual route listed separately as DAAD 10000699. Compare current provider calls before publishing or counting programme families.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000126",
+  "slug": "daad-10000126",
+  "title": "Friedrich Ebert Foundation: Scholarship for International Doctoral Students",
+  "provider": {
+    "name": "Friedrich Ebert Foundation"
+  },
+  "summary": "Financial and non-material support for international doctoral candidates admitted to a German higher education institution, promoting research and social commitment.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Doctoral candidates / PhD students; doctorates in medicine are excluded.",
+      "source_ids": [
+        "daad-10000126"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering",
+        "computer_science",
+        "mathematics",
+        "natural_sciences",
+        "health_sciences",
+        "agriculture",
+        "environment",
+        "business_economics",
+        "law",
+        "social_sciences",
+        "humanities",
+        "education",
+        "arts_design",
+        "music",
+        "architecture",
+        "other"
+      ],
+      "notes": "Doctoral projects in all academic disciplines are eligible with the exception of doctorates in medicine.",
+      "source_ids": [
+        "daad-10000126"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State or state-recognised higher education institution in Germany",
+      "source_ids": [
+        "daad-10000126"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Open to applicants who come from abroad and whose country is included in the application portal country list.",
+      "source_ids": [
+        "daad-10000126"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany",
+        "in_germany"
+      ],
+      "notes": "Applicants must come from abroad and be living in a country from the dropdown list when applying, and be enrolled at a German higher education institution.",
+      "source_ids": [
+        "daad-10000126"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Come from abroad",
+        "source_ids": [
+          "daad-10000126"
+        ]
+      },
+      {
+        "text": "Admitted to a doctoral programme at a state or state-recognised higher education institution in Germany",
+        "source_ids": [
+          "daad-10000126"
+        ]
+      },
+      {
+        "text": "Very good command of German (at least DSH level 2, TestDaF level 4, C1 Goethe Institute certificate, DSD II, or telc C1 Hochschule)",
+        "source_ids": [
+          "daad-10000126"
+        ]
+      },
+      {
+        "text": "Actively engaged in society and politics",
+        "source_ids": [
+          "daad-10000126"
+        ]
+      },
+      {
+        "text": "Identify with the values of social democracy",
+        "source_ids": [
+          "daad-10000126"
+        ]
+      },
+      {
+        "text": "Completed degree promptly and with above-average results",
+        "source_ids": [
+          "daad-10000126"
+        ]
+      },
+      {
+        "text": "Pursuing a research project that makes a significant contribution to the field",
+        "source_ids": [
+          "daad-10000126"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "1,500 EUR per month, contribution to statutory health insurance, networking within student and working groups, comprehensive seminar programme, participation in symposia.",
+    "amount_min": 1500,
+    "amount_max": 1500,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Generally 3.5 years. In exceptional cases longer, but no longer than until the date of the final examination.",
+    "covered_costs": [
+      "living_costs",
+      "insurance"
+    ],
+    "source_ids": [
+      "daad-10000126"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "rolling",
+      "notes": "Applications may be submitted at any time up to approximately 2 years before the dissertation is due to be submitted.",
+      "applicable_country_codes": null,
+      "id": "daad-10000126-round-general-application-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000126"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Applications may be submitted at any time.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Application forms",
+        "source_ids": [
+          "daad-10000126"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Use a desktop computer to access the application portal",
+        "source_ids": [
+          "daad-10000126"
+        ]
+      },
+      {
+        "text": "Submit application via the application portal",
+        "source_ids": [
+          "daad-10000126"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000126",
+    "application_url": "https://www.fes.de/studienfoerderung/bewerbung",
+    "source_ids": [
+      "daad-10000126"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000126",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000126",
+        "title": "Friedrich Ebert Foundation: Scholarship for International Doctoral Students - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000126",
+        "sha256": "d9cbbe39ed25fb5e0bac513c693420be1f4ab83f742e7d392961fbdfcfbe4658",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds international doctoral candidates for research at a German higher education institution."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "A structured restriction needs manual classification: State or state-recognised higher education institution in Germany",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "schema_version": "2.0.0",
+  "id": "potsdam-international-degree-completion-grant",
+  "slug": "potsdam-international-degree-completion-grant",
+  "title": "Potsdam DAAD Degree Completion Grant",
+  "provider": {
+    "name": "University of Potsdam"
+  },
+  "summary": "Completion support for international Bachelor's and Master's students with financial need.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-potsdam"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-potsdam"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "University of Potsdam"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-potsdam"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": null,
+      "notes": "German citizenship is excluded.",
+      "source_ids": [
+        "uni-potsdam"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-potsdam"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Foreign university entrance qualification, good academic standing and degree completion expected within one year.",
+        "source_ids": [
+          "uni-potsdam"
+        ]
+      },
+      {
+        "text": "Previously self-funded study and demonstrated financial need.",
+        "source_ids": [
+          "uni-potsdam"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 700 monthly, up to five months.",
+    "amount_min": 700,
+    "amount_max": 700,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Up to five months.",
+    "covered_costs": [],
+    "source_ids": [
+      "uni-potsdam"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2025-12-15",
+      "deadline": "2026-01-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Published dates.",
+      "applicable_country_codes": null,
+      "id": "potsdam-international-degree-completion-grant-round-summer-2026",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-potsdam"
+      ]
+    },
+    {
+      "opens_on": "2026-06-15",
+      "deadline": "2026-07-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "The provider labels this winter 2025/26 despite publishing 2026 dates; confirm the intended semester.",
+      "applicable_country_codes": null,
+      "id": "potsdam-international-degree-completion-grant-round-june-july-2026-call",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-potsdam"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Apply through MoveON using university credentials.",
+        "source_ids": [
+          "uni-potsdam"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.uni-potsdam.de/en/international/incoming/international-students/degree/finance/abschlussbeihilfe",
+    "application_url": "https://potsdam.moveon4.de/form/5ec77a561875ee1753440372/eng",
+    "source_ids": [
+      "uni-potsdam"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-potsdam",
+        "url": "https://www.uni-potsdam.de/en/international/incoming/international-students/degree/finance/abschlussbeihilfe",
+        "title": "Potsdam DAAD Degree Completion Grant",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/uni-potsdam",
+        "sha256": "9756ed5e1794b955faf6276d81cec4f301d36f4c7c7938371f03cd4a33d4591c",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Provider semester label and 2026 dates conflict."
+    ]
+  }
+}

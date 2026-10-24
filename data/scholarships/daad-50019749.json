@@ -1,0 +1,242 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-50019749",
+  "slug": "daad-50019749",
+  "title": "DLR-DAAD Research Fellowship Programme",
+  "provider": {
+    "name": "DAAD and German Aerospace Center (DLR)"
+  },
+  "summary": "Fellowships for foreign graduate, doctoral, postdoctoral researchers, and senior scientists to conduct research at DLR institutes in Germany across aeronautics, space, energy, and transportation.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate",
+        "exchange",
+        "other"
+      ],
+      "notes": "Intended for foreign graduate (enrolled in Master's) and doctoral students as well as postdoctoral researchers and senior scientists.",
+      "source_ids": [
+        "daad-50019749"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Research fields: Aeronautics, Space, Energy, Transportation.",
+      "source_ids": [
+        "daad-50019749"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "German Aerospace Center (DLR)"
+      ],
+      "notes": "You can only apply for a DLR institute, not for a university or any other institution.",
+      "source_ids": [
+        "daad-50019749"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": null,
+      "notes": "Not of German nationality, or main place of residence outside of Germany for at least six years.",
+      "source_ids": [
+        "daad-50019749"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants must not be of German nationality, or must be able to prove that the main place of residence lies outside of Germany for at least six years.",
+      "source_ids": [
+        "daad-50019749"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Not be of German nationality or have main place of residence outside Germany for at least six years",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      },
+      {
+        "text": "Prove outstanding study or research achievements in the corresponding research field",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      },
+      {
+        "text": "Excellent knowledge of English; knowledge of German is advantageous",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Knowledge of German is advantageous",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Type A – Graduate Students: monthly instalment of 992 euros; plus e.g. flat-rate travel allowance, rent subsidy, health insurance, family allowances. Type B – Doctoral Students: monthly instalment of 1,760 euros; plus e.g. flat-rate travel allowance, health insurance, family allowances. Type C – Postdoctoral Researchers: monthly instalment of 2,400. Type D – Senior Scientists: monthly instalment of 2,760 euros. Type E – Visiting Researchers PhD level: monthly instalment of 1,760 euros; plus health insurance, flat-rate travel allowance. Postdoc level: monthly instalment of 2,400 euros.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Type A: 9 months; Type B: 36 months; Type C: 7 to 24 months; Type D: 1 to 3 months; Type E: 1 to 6 months",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance",
+      "other"
+    ],
+    "source_ids": [
+      "daad-50019749"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "If an application deadline exists, it is mentioned in the current offers. Currently you cannot apply for this programme.",
+      "applicable_country_codes": null,
+      "id": "daad-50019749-round-current-offers-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-50019749"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Online application form",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      },
+      {
+        "text": "Cover page",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      },
+      {
+        "text": "Statement of the reasons for applying for a certain fellowship (Appendix)",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      },
+      {
+        "text": "Complete curriculum vitae",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      },
+      {
+        "text": "University certificates and degree certificates",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      },
+      {
+        "text": "Proof of English proficiency",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      },
+      {
+        "text": "Request recommendation form and have referees submit letters of recommendation",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      },
+      {
+        "text": "Prepare application documents and upload in PDF format",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      },
+      {
+        "text": "Submit the application online via the DAAD portal",
+        "source_ids": [
+          "daad-50019749"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50019749",
+    "application_url": null,
+    "source_ids": [
+      "daad-50019749"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-50019749",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50019749",
+        "title": "DLR-DAAD Research Fellowship Programme - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-50019749",
+        "sha256": "833c9faff4b9c46a03b28b9dce7016d6ca16e6dfa26fd1fc573c4ad8f7b185e4",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International students and researchers can receive funding for physically researching in Germany at DLR institutes."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Mixed fellowship covering graduates, PhDs, postdocs, and senior scientists; student awards are detailed alongside research tracks.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "A structured restriction needs manual classification: Research fields: Aeronautics, Space, Energy, Transportation."
+    ]
+  }
+}

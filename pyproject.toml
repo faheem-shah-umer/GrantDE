@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools==84.2.1", "wheel==0.48.0", "packaging==26.3"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "grantde"
+version = "0.1.0"
+description = "A maintained scholarship catalogue for international students in Germany"
+readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE", "THIRD_PARTY_NOTICES.md"]
+requires-python = ">=3.11"
+dependencies = ["jsonschema==4.24.0", "Jinja2==3.1.6"]
+
+[project.scripts]
+grantde-validate = "grantde.validate:main"
+grantde-normalise = "grantde.normalise:main"
+grantde-report = "grantde.report:main"
+grantde-export = "grantde.export:main"
+grantde-build = "grantde.build:main"
+grantde-preview = "grantde.preview:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

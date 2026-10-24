@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0.0",
+  "id": "ovgu-stibet-graduation-scholarship",
+  "slug": "ovgu-stibet-graduation-scholarship",
+  "title": "OVGU STIBET Graduation Scholarship",
+  "provider": {
+    "name": "Otto von Guericke University Magdeburg"
+  },
+  "summary": "Completion support for international OVGU students and doctoral candidates in acute financial or social difficulty.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "doctorate"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-magdeburg"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-magdeburg"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Otto von Guericke University Magdeburg"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-magdeburg"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality details require confirmation.",
+      "source_ids": [
+        "uni-magdeburg"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-magdeburg"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Good academic performance, acute social crisis and expected completion within twelve months.",
+        "source_ids": [
+          "uni-magdeburg"
+        ]
+      },
+      {
+        "text": "First- and second-semester students are excluded.",
+        "source_ids": [
+          "uni-magdeburg"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Students who have registered their thesis.",
+        "source_ids": [
+          "uni-magdeburg"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Students: EUR 550–992 monthly; doctoral candidates: EUR 1,300 monthly.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "monthly",
+    "duration": "Three to five months.",
+    "covered_costs": [],
+    "source_ids": [
+      "uni-magdeburg"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-10-21",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "The published deadline has passed.",
+      "applicable_country_codes": null,
+      "id": "ovgu-stibet-graduation-scholarship-round-october-2026-call",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-magdeburg"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Financial-hardship statement and CV",
+        "source_ids": [
+          "uni-magdeburg"
+        ]
+      },
+      {
+        "text": "Transcript or doctoral supervisor statement",
+        "source_ids": [
+          "uni-magdeburg"
+        ]
+      },
+      {
+        "text": "All bank-account statements for three months",
+        "source_ids": [
+          "uni-magdeburg"
+        ]
+      },
+      {
+        "text": "Employment evidence where applicable",
+        "source_ids": [
+          "uni-magdeburg"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit one complete PDF as specified in the call.",
+        "source_ids": [
+          "uni-magdeburg"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.ovgu.de/unimagdeburg/en/International/News/Call+for+Applications_+DAAD+Graduation+Scholarships+(STIBET_Programme)-p-167035.html",
+    "application_url": null,
+    "source_ids": [
+      "uni-magdeburg"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-magdeburg",
+        "url": "https://www.ovgu.de/unimagdeburg/en/International/News/Call+for+Applications_+DAAD+Graduation+Scholarships+(STIBET_Programme)-p-167035.html",
+        "title": "OVGU STIBET Graduation Scholarship",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/uni-magdeburg",
+        "sha256": "7a7ce1914f139e38dd48821a9233139ad521b46b2d9ade9c5dbeea66f001d0ae",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": []
+  }
+}

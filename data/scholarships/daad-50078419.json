@@ -1,0 +1,242 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-50078419",
+  "slug": "daad-50078419",
+  "title": "DAAD/BECAS Chile",
+  "provider": {
+    "name": "DAAD / ANID"
+  },
+  "summary": "Chilean graduates receive co-funded grants from ANID and DAAD to carry out research for a doctoral degree in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Doctoral studies at a German university and, where appropriate, in conjunction with a non-university research Institution.",
+      "source_ids": [
+        "daad-50078419"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines/subjects not explicitly restricted or detailed.",
+      "source_ids": [
+        "daad-50078419"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "German university",
+        "non-university research Institution"
+      ],
+      "notes": "German university and, where appropriate, in conjunction with a non-university research Institution.",
+      "source_ids": [
+        "daad-50078419"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "CL"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Chilean citizenship and living in Chile.",
+      "source_ids": [
+        "daad-50078419"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany",
+        "outside_germany"
+      ],
+      "notes": "Applicants live in Chile and study/research in Germany.",
+      "source_ids": [
+        "daad-50078419"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Chilean citizenship",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      },
+      {
+        "text": "Licenciatura-degree in study programmes with a minimum of eigth semesters or evidence of professional qualification within a study programme with a minimum of ten semesters",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      },
+      {
+        "text": "Academic excellence, you are among the 30 per cent of the best academic year",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      },
+      {
+        "text": "Must submit a Declaration on safety-relevant and ethical aspects of the doctorate / research project",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      },
+      {
+        "text": "Applications must be submitted both via DAAD Portal and ANID Portal",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Academic achievements",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      },
+      {
+        "text": "Quality of doctoral Project",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      },
+      {
+        "text": "Language skills",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      },
+      {
+        "text": "If applicable professional experience",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Co-funded by ANID and DAAD. Includes language course, pocket money during intensive German course (ANID), costs for outward and return travel (ANID), monthly scholarship payments up to the maximum amount determined by ANID, monthly increase of the scholarship by 100 EUR (DAAD), monthly allowance for accompanying spouse and children (ANID/DAAD), medical, accident and personal liability insurance (DAAD), initial allowance for start in Germany and return to Chile (ANID), contribution towards thesis printing costs (DAAD), and flat rate for intermediate travel (DAAD).",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "variable",
+    "duration": "Up to 48 months. Grants are awarded for one year respectively.",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance",
+      "language_course",
+      "research",
+      "other"
+    ],
+    "source_ids": [
+      "daad-50078419"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2026-09-03",
+      "deadline": "2026-10-01",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "You can apply from 3rd September 2026. Application deadline was 01.10.2026.",
+      "applicable_country_codes": [
+        "CL"
+      ],
+      "id": "daad-50078419-round-2026-application-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-50078419"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Application deadlines are updated at least once a year. In most cases, they are in the same period as the previous year.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Online Application (see Document Bases del Concurso)",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      },
+      {
+        "text": "Declaration on safety-relevant and ethical aspects of the doctorate / research project",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "1. Register in the DAAD portal",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      },
+      {
+        "text": "2. Applying online in the DAAD portal: prepare application documents, translate documents if necessary, scan and save in PDF format, fill out the application form and upload documents",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      },
+      {
+        "text": "3. Submit the application online via DAAD Portal and ANID Portal",
+        "source_ids": [
+          "daad-50078419"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50078419",
+    "application_url": null,
+    "source_ids": [
+      "daad-50078419"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-50078419",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50078419",
+        "title": "DAAD/BECAS Chile - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-50078419",
+        "sha256": "6e4a11343004e3857161611fe4b175b62b002c0f558e7f52e0bcdd62735d49a6",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International doctoral candidates receive funding for research time physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "degree_levels": [
+    "bachelor",
+    "master",
+    "doctorate",
+    "state_exam",
+    "diploma",
+    "preparatory",
+    "short_course",
+    "exchange",
+    "other"
+  ],
+  "subject_areas": [
+    "engineering",
+    "computer_science",
+    "mathematics",
+    "natural_sciences",
+    "medicine",
+    "health_sciences",
+    "agriculture",
+    "environment",
+    "business_economics",
+    "law",
+    "social_sciences",
+    "humanities",
+    "education",
+    "arts_design",
+    "music",
+    "architecture",
+    "other"
+  ],
+  "funding_purposes": [
+    "living_costs",
+    "tuition",
+    "research",
+    "travel",
+    "insurance",
+    "language_course",
+    "study_completion",
+    "other"
+  ],
+  "criterion_statuses": [
+    "restricted",
+    "unrestricted",
+    "unknown"
+  ],
+  "residence_situations": [
+    "in_germany",
+    "outside_germany"
+  ]
+}

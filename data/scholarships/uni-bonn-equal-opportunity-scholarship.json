@@ -1,0 +1,239 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-bonn-equal-opportunity-scholarship",
+  "slug": "uni-bonn-equal-opportunity-scholarship",
+  "title": "Equal opportunity scholarship",
+  "provider": {
+    "name": "University of Bonn / DAAD"
+  },
+  "summary": "Scholarships supporting international students facing special circumstances and challenges during their degree program.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "other"
+      ],
+      "notes": "Regular students working toward a degree (not exchange students). Degree level not explicitly restricted to specific types other than regular students.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "University of Bonn"
+      ],
+      "notes": "Must be enrolled at the University of Bonn.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": null,
+      "notes": "Foreign citizenship (dual nationals must not hold German citizenship). University entrance qualification from outside Germany.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Must be enrolled at the University of Bonn.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Enrollment at the University of Bonn as regular students (not exchange students)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Foreign citizenship (dual nationals must not hold German citizenship)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "University entrance qualification from outside Germany",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Must meet at least one criterion: Refugee background, recognized disability level of at least 50% or chronic condition, caring for children under 18 in their own household, or caring for first- and second-degree relatives",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "If you already receive financial support from the DAAD, further funding is not possible. If you receive funding from other public sources, only a top-up is possible.",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Worth €650 a month.",
+    "amount_min": 650,
+    "amount_max": 650,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Five months from October 01, 2025 onward",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-bonn"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2025-06-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Deadline was June 15, 2025.",
+      "applicable_country_codes": null,
+      "id": "uni-bonn-equal-opportunity-scholarship-round-2025-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Application form",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "One- to two-page letter of motivation",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Curriculum vitae",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Certificate of enrollment from the current semester (summer semester 2025)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Transcript of records (excerpt from the campus management platform BASIS)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Self-declaration on finances",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Evidence of any special circumstances or challenges faced, including a disability or refugee background (official documents or certificates, birth certificate(s) for childcare)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Optional: Official letter of recommendation from teachers at the University of Bonn",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Complete the application form",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Upload requested documents as PDF files by the deadline",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.uni-bonn.de/en/studying/international-students/costs-and-financing-for-international-students",
+    "application_url": null,
+    "source_ids": [
+      "uni-bonn"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-bonn",
+        "url": "https://www.uni-bonn.de/en/studying/international-students/costs-and-financing-for-international-students",
+        "title": "Costs and Financing for International Students — University of Bonn",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-bonn",
+        "sha256": "2191bde3bb5b62519b453e091357845db5ba309b44e5f2db7d49f7c5aa894ccc",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International degree-seeking students at the University of Bonn in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

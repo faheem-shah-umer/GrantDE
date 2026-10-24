@@ -1,0 +1,169 @@
+{
+  "schema_version": "2.0.0",
+  "id": "heidelberg-danziger-robert-and-christine-danziger-scholarship",
+  "slug": "heidelberg-danziger-robert-and-christine-danziger-scholarship",
+  "title": "Robert and Christine Danziger Scholarship",
+  "provider": {
+    "name": "Heidelberg University"
+  },
+  "summary": "Scholarships for very good up-and-coming doctoral and Master's students from Africa (primarily Ghana, West and Central Africa) planning to study at Heidelberg University in Geography, Political Science, or Sociology.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate"
+      ],
+      "notes": "Mentions Master's degree or a doctorate.",
+      "source_ids": [
+        "heidelberg-danziger"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Geography (with a focus on Geoinformatics), Political Science, and Sociology.",
+      "source_ids": [
+        "heidelberg-danziger"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Heidelberg University"
+      ],
+      "notes": "Heidelberg University",
+      "source_ids": [
+        "heidelberg-danziger"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Africa",
+        "Ghana",
+        "West and Central Africa"
+      ],
+      "notes": "From Africa (primarily from Ghana or another country in West and Central Africa)",
+      "source_ids": [
+        "heidelberg-danziger"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Wishing to come to Heidelberg University to start and successfully complete a Master's degree or a doctorate.",
+      "source_ids": [
+        "heidelberg-danziger"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Very good up-and-coming doctoral or Master's students from Africa (primarily Ghana or another country in West and Central Africa)",
+        "source_ids": [
+          "heidelberg-danziger"
+        ]
+      },
+      {
+        "text": "Planning to apply for a doctorate or Master's in Geography, Political Science, or Sociology at Heidelberg University",
+        "source_ids": [
+          "heidelberg-danziger"
+        ]
+      },
+      {
+        "text": "Need financial support",
+        "source_ids": [
+          "heidelberg-danziger"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Financial support for doctorate or Master's degree.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "not specified",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "heidelberg-danziger"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "The application period has ended.",
+      "applicable_country_codes": null,
+      "id": "heidelberg-danziger-robert-and-christine-danziger-scholarship-round-call-for-applications-2025",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "heidelberg-danziger"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.uni-heidelberg.de/en/friends-supporters/robert-and-christine-danziger-scholarship",
+    "application_url": "https://www.uni-heidelberg.de/en/friends-supporters/robert-and-christine-danziger-scholarship/your-application",
+    "source_ids": [
+      "heidelberg-danziger"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "heidelberg-danziger",
+        "url": "https://www.uni-heidelberg.de/en/friends-supporters/robert-and-christine-danziger-scholarship",
+        "title": "Robert and Christine Danziger Scholarship - Heidelberg University",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/heidelberg-danziger",
+        "sha256": "3bdca99152c1795e31509c8dec483f0a09d98813a38b635c32f31cc1fbcf7a1a",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds international Master's and doctoral students from Africa to study/research at Heidelberg University in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Prose mentions both doctoral students and Master's degree students.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "A structured restriction needs manual classification: Geography (with a focus on Geoinformatics), Political Science, and Sociology."
+    ]
+  }
+}

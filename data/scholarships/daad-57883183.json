@@ -1,0 +1,274 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57883183",
+  "slug": "daad-57883183",
+  "title": "Heilbronn AI Fellowships",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Research fellowships for international postdoctoral researchers and final-year PhD candidates in Artificial Intelligence for research stays at eligible host institutions on the Bildungscampus Heilbronn.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "International PhD candidates in the final year before their dissertation defense or postdoctoral researchers who obtained a PhD/doctorate no more than five years ago.",
+      "source_ids": [
+        "daad-57883183"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "computer_science",
+        "other"
+      ],
+      "notes": "Artificial Intelligence or a related field.",
+      "source_ids": [
+        "daad-57883183"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "DHBW Center for Advanced Studies",
+        "DHBW Heilbronn (Baden-Württemberg Cooperative State University)",
+        "Ferdinand-Steinbeis-Institute",
+        "Fraunhofer HNFIZ",
+        "Heilbronn University of Applied Sciences (HHN) – HHN",
+        "Technical University of Munich (TUM) Campus Heilbronn",
+        "Max Planck Institute -Heilbronn",
+        "Campus Founders"
+      ],
+      "notes": "Host institutions located on the Bildungscampus Heilbronn.",
+      "source_ids": [
+        "daad-57883183"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Open to international researchers, subject to status and country selection in the DAAD portal.",
+      "source_ids": [
+        "daad-57883183"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants must have been residing outside Germany throughout the 15 months prior to submitting their application.",
+      "source_ids": [
+        "daad-57883183"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Obtained PhD/doctorate no more than five years before the application deadline, or be in the final year before dissertation defense for PhD candidates",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Residing outside Germany throughout the 15 months prior to application submission",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Strong academic background in Artificial Intelligence or a related field",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Plan to undertake a research project at an eligible host institution in Bildungscampus Heilbronn",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Very good English language skills",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Monthly fellowship instalment of 2,800 Euros, payments towards health, accident and personal liability insurance cover, and a lump sum towards international travel costs. Additional support for disability/chronic illness and family benefits for stays exceeding six months may be granted under certain circumstances.",
+    "amount_min": 2800,
+    "amount_max": 2800,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "1 to 12 months",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "travel",
+      "other"
+    ],
+    "source_ids": [
+      "daad-57883183"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "rolling",
+      "notes": "Applications are accepted on a rolling basis and may be submitted at any time. Applications are possible between 1 June and the stated application deadline. Should generally be submitted at least four months before the intended start of the fellowship.",
+      "applicable_country_codes": null,
+      "id": "daad-57883183-round-rolling-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57883183"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Applications are accepted on a rolling basis, with application possible between 1 June and the application deadline.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Online application form",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Full curriculum vitae in tabular form (max. 3 pages)",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "List of publications (max. 10 pages), if applicable",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Letter of motivation (1-2 pages)",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "A research proposal, jointly developed by the applicant and the host in Germany (2-3 pages)",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Schedule of planned research work",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "One recent reference",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Invitation letter and confirmation from the academic host in Germany",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Declaration from the scientific supervisor in Germany on safety-relevant and ethical aspects of the research project",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Request recommendation form and have it completed by a university teacher",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Prepare application documents in PDF format",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Fill out the application form and upload documents to the DAAD portal",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      },
+      {
+        "text": "Submit the application online",
+        "source_ids": [
+          "daad-57883183"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57883183",
+    "application_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57883183",
+    "source_ids": [
+      "daad-57883183"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57883183",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57883183",
+        "title": "Heilbronn AI Fellowships - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57883183",
+        "sha256": "7b7cb4a008b765db3169bdaf5959b7d37996c916fc49d2738eecf0614d1bec3b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international PhD candidates and postdoctoral researchers for physical research stays in Germany at Bildungscampus Heilbronn."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

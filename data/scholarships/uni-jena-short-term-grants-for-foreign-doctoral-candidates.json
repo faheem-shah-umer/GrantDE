@@ -1,0 +1,150 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-jena-short-term-grants-for-foreign-doctoral-candidates",
+  "slug": "uni-jena-short-term-grants-for-foreign-doctoral-candidates",
+  "title": "Short-term grants for foreign doctoral candidates",
+  "provider": {
+    "name": "Friedrich Schiller University Jena (funded by the German Academic Exchange Service (DAAD))"
+  },
+  "summary": "Financial support for international doctoral candidates between the opening and termination of the doctoral examination procedure, funded by DAAD.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "The collected source does not establish this criterion.",
+      "source_ids": [
+        "uni-jena"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Disciplines not specified.",
+      "source_ids": [
+        "uni-jena"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Friedrich Schiller University of Jena"
+      ],
+      "notes": "The collected source does not establish this criterion.",
+      "source_ids": [
+        "uni-jena"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "foreign doctoral candidates"
+      ],
+      "notes": "Intended for international doctoral candidates.",
+      "source_ids": [
+        "uni-jena"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "The collected source does not establish this criterion.",
+      "source_ids": [
+        "uni-jena"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Must be in the time span between the opening and termination of the doctoral examination procedure",
+        "source_ids": [
+          "uni-jena"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Maximum 1,000 EUR per month.",
+    "amount_min": null,
+    "amount_max": 1000,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "up to three months, with a possible extension of up to six months",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-jena"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "",
+      "applicable_country_codes": null,
+      "id": "uni-jena-short-term-grants-for-foreign-doctoral-candidates-round-unspecified",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-jena"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.uni-jena.de/en/27625/scholarships#Short_term_grants",
+    "application_url": "https://www.uni-jena.de/en/16055/completing-a-doctorate",
+    "source_ids": [
+      "uni-jena"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-jena",
+        "url": "https://www.uni-jena.de/en/27625/scholarships",
+        "title": "Scholarships of University of Jena | Uni Jena",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-jena",
+        "sha256": "6fd157f4e4c38ba942c070a94b8ff3951335417e66c905e139f642100aeb1659",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international doctoral candidates doing research in Germany at the University of Jena."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

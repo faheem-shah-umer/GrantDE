@@ -1,0 +1,179 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000198",
+  "slug": "daad-10000198",
+  "title": "Leo Baeck Fellowship Programme",
+  "provider": {
+    "name": "German National Academic Foundation"
+  },
+  "summary": "Grants for doctoral students researching German-Jewish history and culture. Includes a 1-year stipend, research cost allowance, workshops, and networking opportunities.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Admission to doctoral studies",
+      "source_ids": [
+        "daad-10000198"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Projects on German-Jewish Studies on history and culture, including literature, philosophy, history, culture studies",
+      "source_ids": [
+        "daad-10000198"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "studying at any university",
+      "source_ids": [
+        "daad-10000198"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "It is open to doctoral candidates of any nationality",
+      "source_ids": [
+        "daad-10000198"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All fellows remain at their home institutions",
+      "source_ids": [
+        "daad-10000198"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "university degree(s) with outstanding marks",
+        "source_ids": [
+          "daad-10000198"
+        ]
+      },
+      {
+        "text": "latest higher education degree must be issued no earlier than February 2022",
+        "source_ids": [
+          "daad-10000198"
+        ]
+      },
+      {
+        "text": "formal qualification for doctoral studies",
+        "source_ids": [
+          "daad-10000198"
+        ]
+      },
+      {
+        "text": "research project focussing on German-Jewish history and culture",
+        "source_ids": [
+          "daad-10000198"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "stipend of 1,650 EUR per month together with a research cost allowance of 100 EUR. If necessary, a health insurance allowance of up to 100 EUR will also be included. In addition, allowances for fellows with children or for a (part-time) stay abroad are paid.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "1 year",
+    "covered_costs": [
+      "living_costs",
+      "research",
+      "insurance"
+    ],
+    "source_ids": [
+      "daad-10000198"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "You may find current application deadlines on the Studienstiftung website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000198-round-external-application-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000198"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Please find the application forms and further information on the application procedure on the external website.",
+        "source_ids": [
+          "daad-10000198"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000198",
+    "application_url": "https://www.studienstiftung.de/en/leo-baeck-fellowship",
+    "source_ids": [
+      "daad-10000198"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000198",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000198",
+        "title": "German National Academic Foundation: Leo Baeck Fellowship Programme - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000198",
+        "sha256": "34c3a0c27ebb60614d11311507cc7242828beedc7a6db2d1bc279f5ff4cf086b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme supports doctoral students carrying out research, and candidates preparing and submitting dissertations to universities in Germany can apply for extensions."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "A structured restriction needs manual classification: Projects on German-Jewish Studies on history and culture, including literature, philosophy, history, culture studies",
+      "Confirm explicit unrestricted criterion before enabling broad matching: studying at any university",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All fellows remain at their home institutions"
+    ]
+  }
+}

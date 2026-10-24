@@ -1,0 +1,197 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000221",
+  "slug": "daad-10000221",
+  "title": "Bayer Foundation: Fellowship for STEM Student Teachers & Teachers",
+  "provider": {
+    "name": "Bayer Foundation"
+  },
+  "summary": "Fellowship providing up to 10,000 EUR for up to 12 months for STEM student teachers and teachers undertaking internships, professional development, or research projects in Germany or abroad.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "doctorate",
+        "state_exam",
+        "other"
+      ],
+      "notes": "Students pursuing a teaching degree or a degree in education (Bachelor's, Master's, Ph.D., state examination) with a focus on STEM subjects.",
+      "source_ids": [
+        "daad-10000221"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering",
+        "computer_science",
+        "mathematics",
+        "natural_sciences",
+        "education"
+      ],
+      "notes": "STEM subjects and education/teaching focus.",
+      "source_ids": [
+        "daad-10000221"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified",
+      "source_ids": [
+        "daad-10000221"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Country selection lists numerous countries, but no specific explicit nationality restrictions are detailed in the extracted text beyond the residence requirement in Germany and the dynamic portal list.",
+      "source_ids": [
+        "daad-10000221"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Open exclusively to applicants who are currently working or studying in Germany.",
+      "source_ids": [
+        "daad-10000221"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Currently working or studying in Germany",
+        "source_ids": [
+          "daad-10000221"
+        ]
+      },
+      {
+        "text": "Focus on STEM subjects",
+        "source_ids": [
+          "daad-10000221"
+        ]
+      },
+      {
+        "text": "Pursuing a teaching degree or a degree in education (Bachelor's, Master's, Ph.D., state examination) OR qualified teacher with up to 10 years of professional experience",
+        "source_ids": [
+          "daad-10000221"
+        ]
+      },
+      {
+        "text": "Activities must have a clear connection to Trust in Science",
+        "source_ids": [
+          "daad-10000221"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Individual financial support, limited to 10,000 EUR per request.",
+    "amount_min": null,
+    "amount_max": 10000,
+    "currency": "EUR",
+    "frequency": "variable",
+    "duration": "up to 12 months",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-10000221"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Please find the updated deadlines for application on the external provider website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000221-round-website-deadline-link",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000221"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Detailed description of the proposed project, internship or course",
+        "source_ids": [
+          "daad-10000221"
+        ]
+      },
+      {
+        "text": "Corresponding budget",
+        "source_ids": [
+          "daad-10000221"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Find application forms and further information on the application procedure on the Bayer Foundation website.",
+        "source_ids": [
+          "daad-10000221"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000221",
+    "application_url": "https://www.bayer-foundation.com/science/fellowships-stipends#ForStudentTeachers",
+    "source_ids": [
+      "daad-10000221"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000221",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000221",
+        "title": "Bayer Foundation: Fellowship for STEM Student Teachers & Teachers - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000221",
+        "sha256": "141df756f74f730debbd2c58e87633ea661c7048627d1874ffafef661bb6657b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds students pursuing a teaching/education degree (including Bachelor, Master, PhD, state exam) with a focus on STEM subjects who are studying or working in Germany, covering activities in Germany or abroad."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Includes both students and qualified teachers (teachers excluded from scope are mentioned in the scholarship target group).",
+      "Activities can take place in Germany or abroad.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

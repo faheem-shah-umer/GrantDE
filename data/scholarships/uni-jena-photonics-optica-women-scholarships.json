@@ -1,0 +1,159 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-jena-photonics-optica-women-scholarships",
+  "slug": "uni-jena-photonics-optica-women-scholarships",
+  "title": "Optica Women Scholarships",
+  "provider": {
+    "name": "Optica Foundation"
+  },
+  "summary": "Merit and need-based grant for 20 selected Optica Women Scholars annually, including membership and mentorship.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "natural_sciences",
+        "engineering",
+        "other"
+      ],
+      "notes": "STEM / Optics focus implied",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Not specified beyond global scholar pool",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Selection as an Optica Woman Scholar",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Merit and need-based",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "US$10,000 grant, plus Optica Student Membership and mentorship network.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "USD",
+    "frequency": "annual",
+    "duration": "Annual selection",
+    "covered_costs": [
+      "study_completion",
+      "other"
+    ],
+    "source_ids": [
+      "uni-jena-photonics"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Selected annually. Check website for dates.",
+      "applicable_country_codes": null,
+      "id": "uni-jena-photonics-optica-women-scholarships-round-annual-selection",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Selected annually",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.optica.org/foundation/opportunities/scholarships/optica_women_scholars/",
+    "application_url": null,
+    "source_ids": [
+      "uni-jena-photonics"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-jena-photonics",
+        "url": "https://www.asp.uni-jena.de/16808/scholarships-available",
+        "title": "Abbe School of Photonics • Master scholarships | Abbe School of Photonics",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-jena-photonics",
+        "sha256": "8dc6e8a42b54294b6ccbe0da953fc23b75c97959152ed8b9ff9f1794fdb4ce1b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Open to students including those pursuing studies in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "This is a German university's summary of an external award. The actual provider page and current call still need independent review; do not assume all overseas-study destinations, universities or applicants are covered.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

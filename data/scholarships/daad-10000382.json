@@ -1,0 +1,180 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000382",
+  "slug": "daad-10000382",
+  "title": "Canon Foundation Research Fellowship",
+  "provider": {
+    "name": "Canon Foundation in Europe"
+  },
+  "summary": "Fellowships for European researchers to study in Japan and Japanese PhD researchers to study in Europe, supporting all fields of research.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate",
+        "other"
+      ],
+      "notes": "Applicants should have obtained at least a Master's or PhD degree. Target group mentions graduates, doctoral candidates/PhD students, postdoctoral researchers, faculty.",
+      "source_ids": [
+        "daad-10000382"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "The research grants support all fields of research. There are no limitations or restrictions.",
+      "source_ids": [
+        "daad-10000382"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Canon Fellows from Europe are free to choose their host institutes and hosts in Japan.",
+      "source_ids": [
+        "daad-10000382"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "European and Japanese researchers. Specific countries listed in the dropdown: Albania, Andorra, Austria, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Iceland, Ireland, Israel, Italy, Japan, Kosovo, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Republic of, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, Ukraine, United Kingdom, Vatican City.",
+      "source_ids": [
+        "daad-10000382"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Europeans should have permanent citizenship in the country. 'Country' is the country in which you are living and from which you are applying.",
+      "source_ids": [
+        "daad-10000382"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Europeans should have permanent citizenship in the country.",
+        "source_ids": [
+          "daad-10000382"
+        ]
+      },
+      {
+        "text": "Applicants should have obtained at least a Master's or PhD degree within the last 10 years of applying to the Canon Foundation.",
+        "source_ids": [
+          "daad-10000382"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Priority is given to applicants going to Europe and Japan for the first time.",
+        "source_ids": [
+          "daad-10000382"
+        ]
+      }
+    ],
+    "exceptions": [
+      {
+        "text": "Exceptions are possible regarding the requirement to have obtained a Master's or PhD degree within the last 10 years.",
+        "source_ids": [
+          "daad-10000382"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "The financial support for Research Fellows may amount up to 30,000 EUR per year and pro-rata for different periods.",
+    "amount_min": null,
+    "amount_max": 30000,
+    "currency": "EUR",
+    "frequency": "annual",
+    "duration": "minimum period of 3 months up to maximum of 1 year",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-10000382"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Applicable deadlines will be published on the website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000382-round-website-publication-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000382"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Access application forms and further information on the application procedure on the Canon Foundation website.",
+        "source_ids": [
+          "daad-10000382"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000382",
+    "application_url": "https://www.canonfoundation.org/programmes/research-fellowships/",
+    "source_ids": [
+      "daad-10000382"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000382",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000382",
+        "title": "Canon Foundation Research Fellowship - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000382",
+        "sha256": "9e94e14945b4e891a432b5d04980035259a67ef1ee0acfb025e0f0753a3e7ed2",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Outbound-only study for Europeans going to Japan, and inbound to Europe for Japanese researchers, but does not provide general international student funding for studying in Germany specifically based on the text describing Europe/Japan exchange."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "A Japanese graduate can undertake research at a European host, potentially in Germany. Confirm a German host, student/doctoral eligibility and the provider's current rules; the extracted exclusion of all inbound opportunities was too broad.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: The research grants support all fields of research. There are no limitations or restrictions.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Canon Fellows from Europe are free to choose their host institutes and hosts in Japan.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

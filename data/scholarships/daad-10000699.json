@@ -1,0 +1,223 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000699",
+  "slug": "daad-10000699",
+  "title": "BAYHOST/BTHA: Bavaria’s Annual Scholarship Programme",
+  "provider": {
+    "name": "Bayrisch-Tschechische Hochschulagentur (BAYHOST/BTHA)"
+  },
+  "summary": "Annual scholarships funded by Bavaria for graduates from the Czech Republic to pursue postgraduate studies, Master’s programmes, or PhD programmes at Bavarian higher education institutions, or a one-year research stay.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate",
+        "other"
+      ],
+      "notes": "Postgraduate programmes (e.g. Master’s programmes, but not Bachelor’s programmes) or PhD programmes.",
+      "source_ids": [
+        "daad-10000699"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Postgraduate programmes or PhD programmes in all subjects are eligible for funding.",
+      "source_ids": [
+        "daad-10000699"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Bavarian state higher education institution, a state-recognised higher education institution run by a religious body, or a college of art or music.",
+      "source_ids": [
+        "daad-10000699"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "CZ"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Czech nationality.",
+      "source_ids": [
+        "daad-10000699"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Permanent residence in the Czech Republic at the time of applying for the scholarship.",
+      "source_ids": [
+        "daad-10000699"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Czech nationality",
+        "source_ids": [
+          "daad-10000699"
+        ]
+      },
+      {
+        "text": "Permanent residence in the Czech Republic at the time of applying for the scholarship",
+        "source_ids": [
+          "daad-10000699"
+        ]
+      },
+      {
+        "text": "Under 30 years of age (for Master’s programmes) or under 35 years of age (for PhD programmes) at the time the scholarship is first awarded",
+        "source_ids": [
+          "daad-10000699"
+        ]
+      },
+      {
+        "text": "The study or research stay at a Bavarian higher education institution cannot be funded from the applicant’s own resources or from third-party funds",
+        "source_ids": [
+          "daad-10000699"
+        ]
+      },
+      {
+        "text": "Proficiency in German and/or English appropriate to the study or research project in Bavaria (generally C1 level)",
+        "source_ids": [
+          "daad-10000699"
+        ]
+      },
+      {
+        "text": "Well above-average academic performance at a higher education institution in the home country",
+        "source_ids": [
+          "daad-10000699"
+        ]
+      },
+      {
+        "text": "Enrolment at the chosen Bavarian higher education institution for the duration of the scholarship",
+        "source_ids": [
+          "daad-10000699"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Justified exceptions may be made for age limits",
+        "source_ids": [
+          "daad-10000699"
+        ]
+      },
+      {
+        "text": "For doctoral programmes in Bavaria, in well-justified and clearly documented exceptional cases, the funding may be extended a third time for up to one or two further semesters.",
+        "source_ids": [
+          "daad-10000699"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "The grant is expected to be paid in twelve monthly instalments of 992 EUR each. Grant recipients with at least one child may also apply for a family allowance (160 EUR per month).",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Initially awarded for one year and may be extended, upon application, a maximum of twice (to a total of three years).",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000699"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-12-01",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadline for a scholarship (first-time applications): 1 December 2026",
+      "applicable_country_codes": [
+        "CZ"
+      ],
+      "id": "daad-10000699-round-first-time-applications-for-2026",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000699"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "All documents must be submitted online via the BAYHOST / BTHA StipSys form",
+        "source_ids": [
+          "daad-10000699"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit all documents online via the BAYHOST / BTHA StipSys form.",
+        "source_ids": [
+          "daad-10000699"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000699",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000699"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000699",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000699",
+        "title": "BAYHOST/BTHA: Bavaria’s Annual Scholarship Programme - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000699",
+        "sha256": "ebd0d048e60bdb210d792cf52de22961f482b44023a392cfeb8d2c7bcd13b547",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds graduates from the Czech Republic for postgraduate studies, Master's programmes, PhD programmes, or research stays at Bavarian higher education institutions."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Possible overlap with the wider BAYHOST programme listed as DAAD 10000128. Compare provider calls before publishing or counting programme families.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "An upcoming call needs its opening date confirmed.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Postgraduate programmes or PhD programmes in all subjects are eligible for funding.",
+      "A structured restriction needs manual classification: Bavarian state higher education institution, a state-recognised higher education institution run by a religious body, or a college of art or music."
+    ]
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000418",
+  "slug": "daad-10000418",
+  "title": "Ernst Ludwig Ehrlich Studienwerk: Doctoral Scholarship",
+  "provider": {
+    "name": "Ernst Ludwig Ehrlich Studienwerk (ELES)"
+  },
+  "summary": "ELES provides doctoral scholarships for talented Jewish doctoral candidates across all disciplines except medicine, and for non-Jewish PhD students researching Jewish subjects, to study in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Doctoral candidates / PhD students",
+      "source_ids": [
+        "daad-10000418"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering",
+        "computer_science",
+        "mathematics",
+        "natural_sciences",
+        "health_sciences",
+        "agriculture",
+        "environment",
+        "business_economics",
+        "law",
+        "social_sciences",
+        "humanities",
+        "education",
+        "arts_design",
+        "music",
+        "architecture",
+        "other"
+      ],
+      "notes": "All disciplines and concentrations except medicine.",
+      "source_ids": [
+        "daad-10000418"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State or state-recognised institution of higher education in Germany or, if the applicant holds German citizenship, in an EU member state or Switzerland (or in justified cases, extra-European).",
+      "source_ids": [
+        "daad-10000418"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Not explicitly specified as all nationalities; requires selecting country from the provided list.",
+      "source_ids": [
+        "daad-10000418"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Country in which you are living and from which you are applying must be selected from the provided list.",
+      "source_ids": [
+        "daad-10000418"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Technically qualified Jewish doctoral candidates in all disciplines and concentrations (except medicine) or non-Jewish PhD students proposing research projects focusing on Jewish subjects",
+        "source_ids": [
+          "daad-10000418"
+        ]
+      },
+      {
+        "text": "Candidates are at the initial stage of their doctoral projects when applying for the scholarship funding",
+        "source_ids": [
+          "daad-10000418"
+        ]
+      },
+      {
+        "text": "Admission to a doctoral programme at a state or state-recognised institution of higher education in Germany or, if the applicant holds German citizenship, in an EU member state or Switzerland",
+        "source_ids": [
+          "daad-10000418"
+        ]
+      },
+      {
+        "text": "German language skills at level B2",
+        "source_ids": [
+          "daad-10000418"
+        ]
+      },
+      {
+        "text": "Active involvement in, e.g., the Jewish community, the social field, youth work, student organisations or their social environment",
+        "source_ids": [
+          "daad-10000418"
+        ]
+      },
+      {
+        "text": "Regular contact with the liaison lecturer and active participation in the scholarship's non-material services, activities and organisations",
+        "source_ids": [
+          "daad-10000418"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "In justified cases doctoral programmes at a higher education institution in an extra-European country may be funded",
+        "source_ids": [
+          "daad-10000418"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Monthly stipend of 1,650 EUR and a flat-rate research allowance of 100 EUR, as well as contributions toward health insurance and, if applicable, family-friendly subsidies.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Generally awarded over a standard period of 3 years. In exceptional cases, renewal once for 6 months.",
+    "covered_costs": [
+      "living_costs",
+      "research",
+      "insurance",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000418"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Deadlines for scholarship application are 31 March for admission on 1 October of the same year. Extracted deadline was '03-31'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000418-round-admission-on-1-october",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000418"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Deadlines for scholarship application are 30 September for admission to the programme starting 1 April of the following year. Extracted deadline was '09-30'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000418-round-admission-starting-1-april",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000418"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Deadlines are 31 March and 30 September annually.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit an application via the ELES application portal (desktop computer recommended).",
+        "source_ids": [
+          "daad-10000418"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000418",
+    "application_url": "https://eles-studienwerk.de/bewerbung/promovierendenfoerderung/",
+    "source_ids": [
+      "daad-10000418"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000418",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000418",
+        "title": "Ernst Ludwig Ehrlich Studienwerk: Doctoral Scholarship - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000418",
+        "sha256": "486dce69f0790d4417fb3e3a5cfe126ae95b7f70276b524cd212b72180c13e8d",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds doctoral candidates for research projects at higher education institutions in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Unconfirmed date '03-31' was not converted to a year-specific date.",
+      "Unconfirmed date '09-30' was not converted to a year-specific date.",
+      "A structured restriction needs manual classification: State or state-recognised institution of higher education in Germany or, if the applicant holds German citizenship, in an EU member state or Switzerland (or in justified cases, extra-European)."
+    ]
+  }
+}

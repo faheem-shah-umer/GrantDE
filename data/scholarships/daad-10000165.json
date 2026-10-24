@@ -1,0 +1,175 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000165",
+  "slug": "daad-10000165",
+  "title": "Gerda Henkel Foundation: PhD Scholarships",
+  "provider": {
+    "name": "Gerda Henkel Foundation"
+  },
+  "summary": "PhD scholarships for junior academics in historical sciences supporting doctoral theses in Germany. Covers monthly base amount and additional benefits with flexible application deadlines.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Admission to doctoral studies required.",
+      "source_ids": [
+        "daad-10000165"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "humanities",
+        "other"
+      ],
+      "notes": "Historical sciences and related fields such as archaeology, historical Islamic studies, history of art, history of law, prehistory and early history, history of science.",
+      "source_ids": [
+        "daad-10000165"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified.",
+      "source_ids": [
+        "daad-10000165"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Independent of the candidate's nationality.",
+      "source_ids": [
+        "daad-10000165"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Independent of place of work.",
+      "source_ids": [
+        "daad-10000165"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Final grade for the degree (Master's, for state examinations: Sec. II) must be 1.5 or higher.",
+        "source_ids": [
+          "daad-10000165"
+        ]
+      },
+      {
+        "text": "Applicants must not be older than 27 years at the time of concluding their Master's studies.",
+        "source_ids": [
+          "daad-10000165"
+        ]
+      },
+      {
+        "text": "Admission to doctoral studies.",
+        "source_ids": [
+          "daad-10000165"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Scholarship base amount: 1,920 EUR per month. Additional benefits such as travel allowance, material costs, and family allowance (480 EUR for academics with one child, +120 EUR for each additional child) if applicable.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "between 12 to 24 months (extension of up to 12 months possible)",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "research",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000165"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "rolling",
+      "notes": "Applications may be submitted at any time.",
+      "applicable_country_codes": null,
+      "id": "daad-10000165-round-rolling-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000165"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Applications may be submitted at any time.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit application through the application portal using a desktop computer.",
+        "source_ids": [
+          "daad-10000165"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000165",
+    "application_url": "https://www.gerda-henkel-stiftung.de/en/phd-scholarships",
+    "source_ids": [
+      "daad-10000165"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000165",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000165",
+        "title": "Gerda Henkel Foundation: PhD Scholarships - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000165",
+        "sha256": "c7d07e6b72a7e4433c7b20f66d420fb240e54480f3a0df9ac989672e069db7f0",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship supports doctoral candidates for research/study towards a PhD in historical sciences, applicable internationally."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Independent of place of work."
+    ]
+  }
+}

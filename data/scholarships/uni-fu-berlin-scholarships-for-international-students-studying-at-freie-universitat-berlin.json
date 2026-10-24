@@ -1,0 +1,235 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-fu-berlin-scholarships-for-international-students-studying-at-freie-universitat-berlin",
+  "slug": "uni-fu-berlin-scholarships-for-international-students-studying-at-freie-universitat-berlin",
+  "title": "Scholarships for International Students studying at Freie Universität Berlin",
+  "provider": {
+    "name": "Freie Universität Berlin"
+  },
+  "summary": "Freie Universität Berlin offers STIBET I scholarships funded by DAAD for expanding access to international degree-seeking students enrolled at FU Berlin who face specific life circumstances like refugee backgrounds, childcare, caregiving responsibilities, or disabilities/chronic illnesses.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "state_exam"
+      ],
+      "notes": "Not available for PhD students and exchange students.",
+      "source_ids": [
+        "uni-fu-berlin"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines/subjects are eligible as no restrictions are stated.",
+      "source_ids": [
+        "uni-fu-berlin"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Freie Universität Berlin"
+      ],
+      "notes": "Must be currently enrolled at Freie Universität Berlin.",
+      "source_ids": [
+        "uni-fu-berlin"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Must be international students and not currently German citizens; entrance qualification for higher-education must have been obtained abroad.",
+      "source_ids": [
+        "uni-fu-berlin"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Students are currently enrolled at Freie Universität Berlin in Germany.",
+      "source_ids": [
+        "uni-fu-berlin"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Must be an international student currently enrolled at Freie Universität Berlin pursuing a degree (Bachelor, State Exam, Master)",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      },
+      {
+        "text": "Must have obtained higher-education entrance qualification abroad",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      },
+      {
+        "text": "Must not be currently a German citizen",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      },
+      {
+        "text": "Must belong to at least one target group: refugee background, child/children under 12, caregiver, or with disabilities (degree of at least 50) or chronic illnesses",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      },
+      {
+        "text": "Must have regularly attended university classes (successfully completed at least one course per semester or attended at least 2 courses if in first semester)",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      },
+      {
+        "text": "Must be enrolled at FU Berlin during the entire funding period (March 1, 2026 - December 31, 2026)",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Monthly grant of 250 Euros over a 10-month period from March to December 2026. Other scholarships and/or income from work may be taken into account; public funding up to a full scholarship of 992 euros/month is possible, and gross additional income from work plus scholarship may not exceed 1,548 euros/month.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "10-month period from March to December 2026",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-fu-berlin"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-01-11",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Application deadline was January 11, 2026.",
+      "applicable_country_codes": null,
+      "id": "uni-fu-berlin-scholarships-for-international-students-studying-at-freie-universitat-berlin-round-january-11-2026-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-fu-berlin"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Certificate of enrollment or study certificate (Immatrikutationsbescheinigung or Studienbescheinigung)",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      },
+      {
+        "text": "Documentation of classes attended, such as a current transcript of records (Leistungsübersicht)",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      },
+      {
+        "text": "Copy of entrance qualification for higher-education (such as high school diploma)",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      },
+      {
+        "text": "Document of citizenship (such as current passport)",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      },
+      {
+        "text": "Documentation regarding the applicant’s eligibility to apply (official documents, medical documentation, birth certificate, care certificate, etc.)",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Complete and submit the online application form on or before the application deadline",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      },
+      {
+        "text": "Send a certificate of enrollment or study certificate and a transcript of records to international@studienberatung.fu-berlin.de by January 11, 2026",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      },
+      {
+        "text": "Attend a personal interview in February if invited by the selection committee",
+        "source_ids": [
+          "uni-fu-berlin"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.fu-berlin.de/en/sites/studienberatung/international/daad-stipendien.html",
+    "application_url": "https://www.fu-berlin.de/en/sites/studienberatung/international/daad-stipendien.html#__target_object_not_reachable",
+    "source_ids": [
+      "uni-fu-berlin"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-fu-berlin",
+        "url": "https://www.fu-berlin.de/en/sites/studienberatung/international/daad-stipendien.html",
+        "title": "/www.fu-berlin.de/en/sites/studienberatung/international/daad-stipendien.html",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-fu-berlin",
+        "sha256": "a14b25b00e71f328eecf9b7a6d45667eaaa1a352de5ec98e4b2b6d02a21a1da0",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International students are funded while studying at Freie Universität Berlin in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines/subjects are eligible as no restrictions are stated.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

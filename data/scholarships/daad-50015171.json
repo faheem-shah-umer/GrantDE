@@ -1,0 +1,268 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-50015171",
+  "slug": "daad-50015171",
+  "title": "ERP Study Scholarships for Graduates of Economics and Business Administration",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "ERP Study Scholarships provide foreign graduates of Economics and Business Administration with opportunities to complete a Master's degree course at a state or state-recognised German higher education institution.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "A complete Master's degree programme in Germany. Applicants must hold a first degree (Bachelor, Diplom or comparable academic degree).",
+      "source_ids": [
+        "daad-50015171"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "business_economics"
+      ],
+      "notes": "Economics and Business Administration",
+      "source_ids": [
+        "daad-50015171"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State (public) or state-recognised German higher education institution.",
+      "source_ids": [
+        "daad-50015171"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Armenia",
+        "Azerbaijan",
+        "Belarus",
+        "Georgia",
+        "Kazakhstan",
+        "Kyrgyzstan",
+        "Moldova, Republic of",
+        "Serbia",
+        "Tajikistan",
+        "Turkmenistan",
+        "Ukraine",
+        "Uzbekistan"
+      ],
+      "notes": "Restricted to specific countries listed in the source page country selection.",
+      "source_ids": [
+        "daad-50015171"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Your application cannot be considered, if you have been resident in Germany for longer than 15 months at the application deadline.",
+      "source_ids": [
+        "daad-50015171"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Hold at least a first academic degree (Bachelor, Diplom or comparable) in Economics and Business Administration at the latest by the time scholarship-supported study commences.",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "Final examinations of the last academic degree should be taken no longer than six years before the time of application, as a rule.",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "Apply to three host universities for admission to studies simultaneously.",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "Not have been resident in Germany for longer than 15 months at the application deadline.",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "Provide proof of proficiency in the language of instruction (German, English, or German and English).",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Scholarship payments of 992 euros a month; Study allowance of 460 euros a year; Payments towards health, accident and personal liability insurance cover; Travel allowance (upon application only); DAAD may fund a German language course for two months before studies begin; Further payments upon application (Family allowances cannot be paid).",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "18 - 24 months (scholarships are awarded for degree courses with a duration of 3 or 4 semesters)",
+    "covered_costs": [
+      "living_costs",
+      "research",
+      "travel",
+      "insurance",
+      "language_course"
+    ],
+    "source_ids": [
+      "daad-50015171"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": "Europe/Berlin",
+      "availability": "dates_unconfirmed",
+      "notes": "Applications can be submitted between 1 June and the stated application deadline. Current dates are updated at least once a year. Source specifies Central European seasonal time. Unnormalised source clock time: 24:00.",
+      "applicable_country_codes": null,
+      "id": "daad-50015171-round-general-application-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-50015171"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Applications for this scholarship programme can be submitted annually between 1 June and the stated application deadline.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Full curriculum vitae in tabular form (max. 3 pages)",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "Statement about academic and personal reasons for the planned study project in Germany (letter of motivation; 1 - 2 pages)",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "Letter of admission to the study programme at the host university in Germany (must be submitted before the funding period begins if not available at application)",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "Form 'Information about your preferred master programmes'",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "University degree certificate indicating final grade(s)",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "Proof of knowledge of language(s) of instruction in the chosen study programme",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "One recent, supporting letter of recommendation from a university teacher",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Register in the DAAD portal.",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "Request recommendation form in the DAAD Portal, have it completed by a university teacher, and upload it.",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "Complete the online application in full via the DAAD portal.",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "Upload all required application documents in PDF format to the DAAD portal.",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      },
+      {
+        "text": "Submit the application online.",
+        "source_ids": [
+          "daad-50015171"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015171",
+    "application_url": null,
+    "source_ids": [
+      "daad-50015171"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-50015171",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015171",
+        "title": "ERP Study Scholarships for Graduates of Economics and Business Administration - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-50015171",
+        "sha256": "479a141a2277d10832162062af14fbdceccaebccc4f911e37eb2e3f084745e7d",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Provides funding for international students to complete a Master's degree programme physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm the source deadline clock time; it was not converted automatically.",
+      "A structured restriction needs manual classification: State (public) or state-recognised German higher education institution."
+    ]
+  }
+}

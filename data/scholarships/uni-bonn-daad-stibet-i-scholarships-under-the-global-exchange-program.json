@@ -1,0 +1,168 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-bonn-daad-stibet-i-scholarships-under-the-global-exchange-program",
+  "slug": "uni-bonn-daad-stibet-i-scholarships-under-the-global-exchange-program",
+  "title": "DAAD-STIBET I scholarships under the Global Exchange Program",
+  "provider": {
+    "name": "University of Bonn / DAAD"
+  },
+  "summary": "DAAD-STIBET I scholarships for international students coming to Bonn from partner universities via the Global Exchange Program.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Degree level not specified for this exchange scholarship section.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "University of Bonn"
+      ],
+      "notes": "For students coming to Bonn from partner universities.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "International students who come to Bonn from partner universities.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Must come to Bonn as part of the Global Exchange Program.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Nomination by partner university via email when nominated for the Global Exchange Program",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Application submitted to the partner university",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Worth €650 a month.",
+    "amount_min": 650,
+    "amount_max": 650,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Up to 10 months",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-bonn"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Applications are submitted to the partner university, which handles nominations and final selection.",
+      "applicable_country_codes": null,
+      "id": "uni-bonn-daad-stibet-i-scholarships-under-the-global-exchange-program-round-unspecified-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Partner universities put names forward via email when nominating students for the Global Exchange Program",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Applications are submitted to the partner university",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.uni-bonn.de/en/studying/international-students/costs-and-financing-for-international-students",
+    "application_url": null,
+    "source_ids": [
+      "uni-bonn"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-bonn",
+        "url": "https://www.uni-bonn.de/en/studying/international-students/costs-and-financing-for-international-students",
+        "title": "Costs and Financing for International Students — University of Bonn",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-bonn",
+        "sha256": "2191bde3bb5b62519b453e091357845db5ba309b44e5f2db7d49f7c5aa894ccc",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International exchange students physically studying in Germany at the University of Bonn can receive funding."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Nationality restriction is not enumerated."
+    ]
+  }
+}

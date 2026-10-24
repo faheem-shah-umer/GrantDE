@@ -1,0 +1,177 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000119",
+  "slug": "daad-10000119",
+  "title": "Foundation of German Business (sdw): Academic study sponsorship",
+  "provider": {
+    "name": "Foundation of German Business (sdw)"
+  },
+  "summary": "Financial support and seminars for undergraduate and graduate students at German higher education institutions, requiring intermediate German proficiency and BAföG eligibility.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "diploma",
+        "state_exam",
+        "other"
+      ],
+      "notes": "Students pursuing a Bachelor's, Master's, Diplom, Magister or state examination degree can apply.",
+      "source_ids": [
+        "daad-10000119"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No specific subject restrictions are mentioned in the text.",
+      "source_ids": [
+        "daad-10000119"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State or state-recognised higher education institutions in Germany.",
+      "source_ids": [
+        "daad-10000119"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Any (future) undergraduate or graduate student who are eligible for funding under §8, 1-3 BAföG may apply. Country dropdown lists available options on the page.",
+      "source_ids": [
+        "daad-10000119"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not explicitly restricted to in_germany or outside_germany, though study takes place in Germany or border countries under specific conditions.",
+      "source_ids": [
+        "daad-10000119"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Eligible for funding under §8, 1-3 BAföG",
+        "source_ids": [
+          "daad-10000119"
+        ]
+      },
+      {
+        "text": "At least intermediate-level command of German (C1 or DSH 2)",
+        "source_ids": [
+          "daad-10000119"
+        ]
+      },
+      {
+        "text": "Studying at state or state-recognised higher education institutions in Germany (or a complete course of study abroad in a country close to the border with active participation in an sdw regional group)",
+        "source_ids": [
+          "daad-10000119"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "All scholarship holders receive a not means-tested study allowance of 300 EUR per month. Maximum scholarship for living support is 855 EUR per month, depending on family financial situation. Contributions to health- and long-term care insurance: 137 EUR per month where applicable. Childcare allowance: 160 EUR per month and child where applicable. Stays abroad are also funded.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Until the end of the standard period of study",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "research",
+      "travel",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000119"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Current information on the application period can be found on the external sdw website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000119-round-dates-unconfirmed-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000119"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit your application via the application portal first.",
+        "source_ids": [
+          "daad-10000119"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000119",
+    "application_url": "https://www.sdw.org/studierende-und-promovierende/stipendien-studierende",
+    "source_ids": [
+      "daad-10000119"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000119",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000119",
+        "title": "Foundation of German Business (sdw): Academic study sponsorship - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000119",
+        "sha256": "ffc84081b03632edc3c9cd9621688a17fda8193f3830dab00b24ed64b57ac9f1",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds undergraduate and graduate students pursuing a degree at state or state-recognised higher education institutions in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "A structured restriction needs manual classification: State or state-recognised higher education institutions in Germany.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

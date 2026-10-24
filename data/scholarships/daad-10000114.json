@@ -1,0 +1,232 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000114",
+  "slug": "daad-10000114",
+  "title": "Catholic Academic Exchange Service (KAAD): Eastern Europe Programme",
+  "provider": {
+    "name": "Catholic Academic Exchange Service (KAAD)"
+  },
+  "summary": "KAAD scholarship for graduates, master's and doctoral candidates from Central, Eastern and South-east Europe, the Caucasus and Central Asia to study or research in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "doctorate",
+        "exchange",
+        "other"
+      ],
+      "notes": "Eligible for post-graduates with a Bachelor's degree for Master's programmes, young scientists for doctoral degrees, post-graduates for research stays / non-consecutive graduate or additional courses / medical training, and Master's students for a study stay (up to 6 months). Postdoctoral researchers and faculty are also mentioned in target groups, but student/doctoral tracks are in scope.",
+      "source_ids": [
+        "daad-10000114"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering",
+        "computer_science",
+        "mathematics",
+        "natural_sciences",
+        "medicine",
+        "health_sciences",
+        "agriculture",
+        "environment",
+        "business_economics",
+        "law",
+        "social_sciences",
+        "humanities",
+        "education",
+        "arts_design",
+        "music",
+        "architecture",
+        "other"
+      ],
+      "notes": "Any subject area with the exception of courses of study in theology.",
+      "source_ids": [
+        "daad-10000114"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German universities / higher education institutions.",
+      "source_ids": [
+        "daad-10000114"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Central, Eastern and South-east Europe, the Caucasus and Central Asia"
+      ],
+      "notes": "Explicitly listed countries on page: Albania, Armenia, Azerbaijan, Belarus, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Estonia, Georgia, Hungary, Kazakhstan, Kosovo, Kyrgyzstan, Latvia, Lithuania, Moldova, Republic of, North Macedonia, Poland, Romania, Serbia, Slovakia, Slovenia, Tajikistan, Turkmenistan, Ukraine, Uzbekistan.",
+      "source_ids": [
+        "daad-10000114"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants are from Central, Eastern and South-east Europe, the Caucasus and Central Asia, and country is the country in which you are living and from which you are applying.",
+      "source_ids": [
+        "daad-10000114"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Applicants are expected to show excellent promise in their studies and/or research work.",
+        "source_ids": [
+          "daad-10000114"
+        ]
+      },
+      {
+        "text": "Applicants must be socially engaged and involved in the Church and be ready to participate in inter-religious dialogue.",
+        "source_ids": [
+          "daad-10000114"
+        ]
+      },
+      {
+        "text": "Proficiency in German at level B1 (or, for English-language courses of study at level A2).",
+        "source_ids": [
+          "daad-10000114"
+        ]
+      },
+      {
+        "text": "Applicants are of catholic faith (in exceptional cases candidates may have differing denominations if recommended by catholic partner organisations).",
+        "source_ids": [
+          "daad-10000114"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "In exceptional cases candidates may have differing denominations, if they are recommended by catholic partner organisations.",
+        "source_ids": [
+          "daad-10000114"
+        ]
+      },
+      {
+        "text": "Tuition fees for fee-based Master's programmes can be funded in exceptional cases.",
+        "source_ids": [
+          "daad-10000114"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Not specified in numerical detail on the page.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Master's programme max. 24 months; doctoral degree max. 36 months; research stay up to 12 months; university teachers research stay up to 6 months; Master's study stay up to 6 months.",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-10000114"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Two-stage application procedure. Initial application can be submitted throughout the year. Second stage deadline is 15 January. Extracted deadline was '01-15'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000114-round-second-stage-deadline-january",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000114"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Two-stage application procedure. Initial application can be submitted throughout the year. Second stage deadline is 30 June. Extracted deadline was '06-30'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000114-round-second-stage-deadline-june",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000114"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "The initial application can be submitted throughout the year. Second-stage application deadlines are 15 January and 30 June of each year.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Complete the online questionnaire to start the application process.",
+        "source_ids": [
+          "daad-10000114"
+        ]
+      },
+      {
+        "text": "If selected for the second stage, necessary application documents will be sent.",
+        "source_ids": [
+          "daad-10000114"
+        ]
+      }
+    ],
+    "official_programme_url": "https://daad.de/go/en/stipa10000114",
+    "application_url": "https://www.kaad.de/erstanfrage",
+    "source_ids": [
+      "daad-10000114"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000114",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000114",
+        "title": "Catholic Academic Exchange Service (KAAD): Eastern Europe Programme - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000114",
+        "sha256": "57c8817662c83f3c4ded89dc56ef39d912b96ac01ec6e6eda896aa9629411a3c",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Provides student, master's, and doctoral funding for individuals from Central, Eastern and South-east Europe, the Caucasus and Central Asia to conduct study or research stays physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Unconfirmed date '01-15' was not converted to a year-specific date.",
+      "Unconfirmed date '06-30' was not converted to a year-specific date.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: German universities / higher education institutions."
+    ]
+  }
+}

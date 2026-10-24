@@ -1,0 +1,172 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57549329",
+  "slug": "daad-57549329",
+  "title": "Government Scholarships Programme Paraguay BECAL-DAAD Promotion",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Scholarship for Paraguayan graduates to complete a doctoral degree in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Doctoral studies",
+      "source_ids": [
+        "daad-57549329"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All subject areas",
+      "source_ids": [
+        "daad-57549329"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German university and, where appropriate, in conjunction with a non-university research Institution.",
+      "source_ids": [
+        "daad-57549329"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "PY"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Paraguayan graduates living and applying from Paraguay",
+      "source_ids": [
+        "daad-57549329"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Study in Germany",
+      "source_ids": [
+        "daad-57549329"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Above-average performances during the previous studies",
+        "source_ids": [
+          "daad-57549329"
+        ]
+      },
+      {
+        "text": "High quality dissertation or research Project",
+        "source_ids": [
+          "daad-57549329"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Paraguayan Ministry of Finance pays living expenses with a monthly amount of 1.300,00 EUR, tuition fees up to 10.000 EUR, research allowance of 450,00 EUR per year, flight costs, and a one-off payment of 450,00 EUR for return. DAAD covers intensive German course, accommodation, allowance, and insurance.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "maximum duration of forty-eight (48) months",
+    "covered_costs": [
+      "living_costs",
+      "tuition",
+      "research",
+      "travel",
+      "insurance",
+      "language_course",
+      "other"
+    ],
+    "source_ids": [
+      "daad-57549329"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No application dates specified on the page.",
+      "applicable_country_codes": [
+        "PY"
+      ],
+      "id": "daad-57549329-round-default-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57549329"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Applications need to be submitted exclusively via the online portal of the Paraguayan Ministry of Finance at http://www.becal.gov.py/",
+        "source_ids": [
+          "daad-57549329"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57549329",
+    "application_url": "http://www.becal.gov.py/",
+    "source_ids": [
+      "daad-57549329"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57549329",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57549329",
+        "title": "Government Scholarships Programme Paraguay BECAL-DAAD Promotion - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57549329",
+        "sha256": "aee741edd2fdd58646b01eb998d80d499234f921b2bdcd830d54be18f2ea973f",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international doctoral candidates physically studying/researching in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts."
+    ]
+  }
+}

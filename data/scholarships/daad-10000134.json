@@ -1,0 +1,217 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000134",
+  "slug": "daad-10000134",
+  "title": "Hans Böckler Foundation: PhD Fellowship",
+  "provider": {
+    "name": "Hans Böckler Foundation"
+  },
+  "summary": "The Hans Böckler Foundation awards PhD fellowships to doctoral students with outstanding academic achievements who show commitment to labour unions or socio-political issues and are enrolled at a German higher education institution.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Doctoral candidates/PhD students",
+      "source_ids": [
+        "daad-10000134"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Doctoral candidates in any discipline",
+      "source_ids": [
+        "daad-10000134"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State or state-recognised higher education institution in Germany",
+      "source_ids": [
+        "daad-10000134"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "No nationality restrictions mentioned in the text, open to international students who meet residence and admission requirements in Germany.",
+      "source_ids": [
+        "daad-10000134"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "At the time of application, applicants must be a permanent resident of Germany.",
+      "source_ids": [
+        "daad-10000134"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "admission for doctoral studies at a state or state-recognised higher education institution in Germany",
+        "source_ids": [
+          "daad-10000134"
+        ]
+      },
+      {
+        "text": "permanent resident of Germany at the time of application",
+        "source_ids": [
+          "daad-10000134"
+        ]
+      },
+      {
+        "text": "material need",
+        "source_ids": [
+          "daad-10000134"
+        ]
+      },
+      {
+        "text": "outstanding school and academic achievements",
+        "source_ids": [
+          "daad-10000134"
+        ]
+      },
+      {
+        "text": "promising research proposal",
+        "source_ids": [
+          "daad-10000134"
+        ]
+      },
+      {
+        "text": "commitment to labour unions or socio-political issues, ideally in the long term",
+        "source_ids": [
+          "daad-10000134"
+        ]
+      },
+      {
+        "text": "responsible, motivated, reliable individuals willing to play an active role in the Foundation's work",
+        "source_ids": [
+          "daad-10000134"
+        ]
+      },
+      {
+        "text": "age limit set at 40 years old",
+        "source_ids": [
+          "daad-10000134"
+        ]
+      },
+      {
+        "text": "Knowledge of German must be proven by means of a B2 German language certificate (unless holding a German school leaving certificate or a Bachelor's degree in Germany)",
+        "source_ids": [
+          "daad-10000134"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Applicants with a German school leaving certificate or a Bachelor's degree in Germany do not need to provide proof of German language.",
+        "source_ids": [
+          "daad-10000134"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Doctoral students currently receive a grant of 1,750 EUR (1,650 EUR basic grant plus a research cost allowance of 100 EUR). In addition, they receive a health insurance subsidy of up to 100 EUR and, if applicable, a family allowance.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "3 years",
+    "covered_costs": [
+      "living_costs",
+      "research",
+      "insurance"
+    ],
+    "source_ids": [
+      "daad-10000134"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Please find the updated deadlines at https://www.boeckler.de/de/bewerbungsfristen-2669.htm",
+      "applicable_country_codes": null,
+      "id": "daad-10000134-round-general-deadlines",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000134"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Please find all application forms and information on the online application procedure at https://www.boeckler.de/de/stipendium-fur-promovierende-2670.htm",
+        "source_ids": [
+          "daad-10000134"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000134",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000134"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000134",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000134",
+        "title": "Hans Böckler Foundation: PhD Fellowship - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000134",
+        "sha256": "1a12787c7d07afe6a8e7a379029fbe680a0ecc723fd8cd939f3f8f769bb6c743",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds doctoral candidates studying/researching in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Doctoral candidates in any discipline",
+      "A structured restriction needs manual classification: State or state-recognised higher education institution in Germany",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

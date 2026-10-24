@@ -1,0 +1,156 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000185",
+  "slug": "daad-10000185",
+  "title": "American Friends of the Herzog August Library Travel Grant",
+  "provider": {
+    "name": "American Friends of the Herzog August Bibliothek"
+  },
+  "summary": "Travel support for eligible doctoral researchers using the Herzog August Library in Wolfenbüttel.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000185"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000185"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000185"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "US_citizens_or_US_permanent_residents"
+      ],
+      "notes": "Permanent US residence is an alternative to US citizenship.",
+      "source_ids": [
+        "daad-10000185"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000185"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Doctoral research requires the library's collections and a stay of at least four weeks.",
+        "source_ids": [
+          "daad-10000185"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Up to USD 2,000; may be combined with the library's doctoral fellowship.",
+    "amount_min": null,
+    "amount_max": 2000,
+    "currency": "USD",
+    "frequency": "one_off",
+    "duration": "Research stay of at least four weeks.",
+    "covered_costs": [
+      "travel"
+    ],
+    "source_ids": [
+      "daad-10000185"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "rolling",
+      "notes": "Applications can be submitted at any time.",
+      "applicable_country_codes": null,
+      "id": "daad-10000185-round-rolling-applications",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000185"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Request application forms through the official programme contact.",
+        "source_ids": [
+          "daad-10000185"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000185",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000185"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000185",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000185",
+        "title": "American Friends of the Herzog August Library Travel Grant",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/daad-10000185",
+        "sha256": "171b9b2740ba1d1c3afc817d3dfc540b70c57a1dd64747bdc495278679ee1f7d",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "A separate recent-postdoctoral route is outside this doctoral entry.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication."
+    ]
+  }
+}

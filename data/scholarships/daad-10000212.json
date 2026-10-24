@@ -1,0 +1,194 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000212",
+  "slug": "daad-10000212",
+  "title": "International Parliamentary Scholarships",
+  "provider": {
+    "name": "German Federal Parliament (Deutsche Bundestag)"
+  },
+  "summary": "Up to 120 sponsorships for young graduates from 50 nations are awarded every year by the German Federal Parliament, inviting them to Berlin for 5 months including a 3-month work placement with a member of the Bundestag.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "doctorate",
+        "other"
+      ],
+      "notes": "Higher-education degree (at least a Bachelor's).",
+      "source_ids": [
+        "daad-10000212"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Higher-education degree (at least a Bachelor's) in any subject.",
+      "source_ids": [
+        "daad-10000212"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Freie Universität",
+        "Humboldt Universität",
+        "Technische Universität"
+      ],
+      "notes": "Awarded by the Bundestag together with three of Berlin's higher-education institutions: the Freie Universität, the Humboldt Universität and the Technische Universität.",
+      "source_ids": [
+        "daad-10000212"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality of one of the participating countries. Palestinian Territories is also listed in the text.",
+      "source_ids": [
+        "daad-10000212"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Sponsored students are invited to Berlin for a period of 5 months.",
+      "source_ids": [
+        "daad-10000212"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "nationality of one of the participating countries",
+        "source_ids": [
+          "daad-10000212"
+        ]
+      },
+      {
+        "text": "higher-education degree (at least a Bachelor's) in any subject",
+        "source_ids": [
+          "daad-10000212"
+        ]
+      },
+      {
+        "text": "very good German language skills (corresponding to level B2 of the Common European Framework of Reference for Languages)",
+        "source_ids": [
+          "daad-10000212"
+        ]
+      },
+      {
+        "text": "under 30 years of age at the time of commencement of the sponsorship",
+        "source_ids": [
+          "daad-10000212"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "highly qualified, open-minded and committed young graduates with a strong interest in politics from the participating countries who are willing to play an active and responsible role in shaping the democratic futures of their countries",
+        "source_ids": [
+          "daad-10000212"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "700 EUR per month, free accommodation, health-, accident- and liability insurances, and allowance for the graduate's inbound and return journey.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "5 months, each year from 1 March to 31 July (Exception: German-French Parliamentary Scholarships start on 1 October and end on 31 July every year)",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000212"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadlines vary depending on the country of origin.",
+      "applicable_country_codes": null,
+      "id": "daad-10000212-round-general-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000212"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Please see all application forms and further information on the application procedure on the programme's website.",
+        "source_ids": [
+          "daad-10000212"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000212",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000212"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000212",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000212",
+        "title": "German Bundestag: International Parliamentary Scholarships - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000212",
+        "sha256": "90017a9f61d1232436afeed9ffcde86e416c5d2f19ea1c901456f08fb5182a23",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme invites international young graduates to Berlin for a 5-month period including a work placement, fulfilling student/graduate exchange/study funding for time physically researching or studying in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Higher-education degree (at least a Bachelor's) in any subject.",
+      "Invalid country code in allowed_country_codes; original rule retained in research snapshot."
+    ]
+  }
+}

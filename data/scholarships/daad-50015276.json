@@ -1,0 +1,157 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-50015276",
+  "slug": "daad-50015276",
+  "title": "ALECOSTA: Alemania-Costa Rica",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Scholarships for university lecturers from specific Costa Rican universities to obtain Master's and doctoral degrees in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate"
+      ],
+      "notes": "Master's and doctoral degrees",
+      "source_ids": [
+        "daad-50015276"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified on the page.",
+      "source_ids": [
+        "daad-50015276"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified on the page.",
+      "source_ids": [
+        "daad-50015276"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "CR"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Costa Rica",
+      "source_ids": [
+        "daad-50015276"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Country in which you are living and from which you are applying must be Costa Rica.",
+      "source_ids": [
+        "daad-50015276"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "University lecturers from the Costa Rican universities Universidad de Costa Rica, Instituto Tecnológico de Costa Rica, Universidad Nacional, Universidad Estatal a Distancia and Universidad Técnica Nacional.",
+        "source_ids": [
+          "daad-50015276"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Costa Rican partners: monthly scholarship payments. DAAD: Travel allowance, if not granted by the Costa Rican university; Initial language course in Germany (up to 6 months for Master's and doctoral candidates including accommodation and pocket money) or language course during the course of study; Health, nursing care, accident and liability insurance for the scholarship holder, if applicable, health and liability insurance for the accompanying family; One-year research and study grant; Printing costs subsidy for doctoral students; German language course costs for accompanying spouses, if applicable.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "24 to 48 months (Master: maximum of two years; PhD: initially granted for three years, possible fourth year with application)",
+    "covered_costs": [
+      "travel",
+      "insurance",
+      "research",
+      "language_course",
+      "other"
+    ],
+    "source_ids": [
+      "daad-50015276"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No application deadlines provided on the page.",
+      "applicable_country_codes": [
+        "CR"
+      ],
+      "id": "daad-50015276-round-default",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-50015276"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015276",
+    "application_url": null,
+    "source_ids": [
+      "daad-50015276"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-50015276",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015276",
+        "title": "ALECOSTA: Alemania-Costa Rica - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-50015276",
+        "sha256": "63fd353ddca9b13eccf1d2681924e41cae0b90a8cfca45ca06241708029f704d",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds international students (university lecturers from Costa Rica) for Master's and doctoral degrees physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-dresden-scholarships-for-highly-committed-students",
+  "slug": "uni-dresden-scholarships-for-highly-committed-students",
+  "title": "Scholarships for Highly Committed Students",
+  "provider": {
+    "name": "International Office of TU Dresden (Financed by the STIBET-Programme of the DAAD)"
+  },
+  "summary": "Financial support for highly qualified international students at TU Dresden involved in voluntary activities in an international context at TUD.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "diploma",
+        "bachelor",
+        "master",
+        "state_exam"
+      ],
+      "notes": "International students of TU Dresden on the level of a diploma, bachelor, master or state exam student.",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All subjects at TU Dresden are eligible.",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "TU Dresden"
+      ],
+      "notes": "Limited to TU Dresden.",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": null,
+      "notes": "International students; students with multiple nationalities where one is German are NOT eligible.",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Enrolled at TU Dresden during the funding period.",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "International student at TU Dresden in diploma, bachelor, master, or state exam program",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "At least three successfully completed examinations at TU Dresden",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Average grade of at least 2.5 achieved so far",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Evidence of an ongoing, regular commitment in an international context at TUD (volunteer or minimally compensated) continuing during the STIBET funding period",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "No income from paid employment or state social benefits above EUR 634 gross/month",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "No other scholarships during the funding period",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Enrolled at TU Dresden during the funding period",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 300 per month for a maximum of 3 months.",
+    "amount_min": 300,
+    "amount_max": 300,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "3 months (maximum until the deadline for the submission of final thesis)",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "uni-dresden"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "1 February until 18 March for the funding period 1 April - 30 September (summer semester)",
+      "applicable_country_codes": null,
+      "id": "uni-dresden-scholarships-for-highly-committed-students-round-summer-semester-funding-period",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "1 August until 8 September for the funding period 1 October - 31 March (winter semester)",
+      "applicable_country_codes": null,
+      "id": "uni-dresden-scholarships-for-highly-committed-students-round-winter-semester-funding-period",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-dresden"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Summer semester deadline: 1 February until 18 March. Winter semester deadline: 1 August until 8 September.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Application form for a STIBET Scholarship",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Certificate of enrollment for the funding period",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Current list of examination results (transcript) issued by the examination office",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Confirmation of the examination office stating the achieved credits as well as the overall average grade",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Attachment to the application form for a STIBET Scholarship (information on nature, scope, and duration of involvement)",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      },
+      {
+        "text": "Confirmation of the type, extent and duration of the volunteer work in an international context at TU Dresden",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Send complete application documents exclusively in digital form (PDF documents named Last name_First name, max. 10 MB) by the application deadline.",
+        "source_ids": [
+          "uni-dresden"
+        ]
+      }
+    ],
+    "official_programme_url": "https://tu-dresden.de/studium/vor-dem-studium/internationales/stipendien/stibet-i?set_language=en",
+    "application_url": null,
+    "source_ids": [
+      "uni-dresden"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-dresden",
+        "url": "https://tu-dresden.de/studium/vor-dem-studium/internationales/stipendien/stibet-i?set_language=en",
+        "title": "Scholarship- and Mentoring Programme (DAAD-STIBET) — Studies — TU Dresden",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-dresden",
+        "sha256": "2f235bdddb3d1eb6a16237da15e7ef4321f49f4cea0944ec939da58ff17cc92f",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Provides student funding for international students physically studying for a degree in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All subjects at TU Dresden are eligible."
+    ]
+  }
+}

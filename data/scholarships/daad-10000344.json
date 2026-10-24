@@ -1,0 +1,165 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000344",
+  "slug": "daad-10000344",
+  "title": "Government Scholarships Programme Tunisia",
+  "provider": {
+    "name": "DAAD / Ministère de l’Enseignement Supérieur et Recherche Scientifique Tunis"
+  },
+  "summary": "Supports students from Tunisia wishing to take a Bachelor or Master's degree in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master"
+      ],
+      "notes": "Aimed at applicants with a secondary education diploma wishing to take a Bachelor or Master’s degree.",
+      "source_ids": [
+        "daad-10000344"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No specific subject areas mentioned on the page.",
+      "source_ids": [
+        "daad-10000344"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State and state-recognised universities in Germany.",
+      "source_ids": [
+        "daad-10000344"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "TN"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Supports students from the Republic of Tunisia.",
+      "source_ids": [
+        "daad-10000344"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Funding is for degree programmes in Germany.",
+      "source_ids": [
+        "daad-10000344"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Secondary education diploma",
+        "source_ids": [
+          "daad-10000344"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Academic achievements",
+        "source_ids": [
+          "daad-10000344"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Tunesia's Ministère de l’Enseignement Supérieur covers monthly scholarship payments, one-off payment of travel expenses, payments towards health insurance cover, and payment of semester fees at German universities. Specific numerical amounts not stated.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "monthly",
+    "duration": "In general up to 6 years until obtaining a Master’s degree.",
+    "covered_costs": [
+      "living_costs",
+      "tuition",
+      "travel",
+      "insurance"
+    ],
+    "source_ids": [
+      "daad-10000344"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No specific application deadlines mentioned on the page.",
+      "applicable_country_codes": [
+        "TN"
+      ],
+      "id": "daad-10000344-round-general-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000344"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000344",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000344"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000344",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000344",
+        "title": "Government Scholarships Programme Tunisia - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000344",
+        "sha256": "b9f046106736e59ae887e2150990113ed100dc00900cc72e12a54e6f8fe61318",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international students from Tunisia for Bachelor or Master's degree studies physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "A structured restriction needs manual classification: State and state-recognised universities in Germany."
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-bonn-bridge-scholarships-for-palestinians-in-germany",
+  "slug": "uni-bonn-bridge-scholarships-for-palestinians-in-germany",
+  "title": "Bridge Scholarships for Palestinians in Germany",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "DAAD bridge scholarships supporting qualified Palestinians living in Germany unable to return home to find employment.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Reaches out to Palestinian bachelor's and master's students, doctorate holders, postdocs and university professors in all subjects. (Mixed PhD/postdoc scheme included per prompt instructions, describing student award/tracks as applicable).",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "In all subjects.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Palestinians"
+      ],
+      "notes": "Qualified Palestinians — particularly those from Gaza — living in Germany.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Living in Germany and unable to return home.",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Palestinian nationality, particularly from Gaza",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Living in Germany and unable to return home due to the current situation",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      },
+      {
+        "text": "Completed a degree program, an internship forming part of a degree program, a doctorate, or a research project in Germany within the past six months (or by the time they take up their scholarship)",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Funding amounts not numerically detailed in text.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Lasting between one and four months",
+    "covered_costs": [],
+    "source_ids": [
+      "uni-bonn"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2024-10-15",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Applications could be submitted any time between now and October 15, 2024.",
+      "applicable_country_codes": null,
+      "id": "uni-bonn-bridge-scholarships-for-palestinians-in-germany-round-past-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-bonn"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Applications can be submitted via the online application portal.",
+        "source_ids": [
+          "uni-bonn"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.uni-bonn.de/en/studying/international-students/costs-and-financing-for-international-students",
+    "application_url": null,
+    "source_ids": [
+      "uni-bonn"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-bonn",
+        "url": "https://www.uni-bonn.de/en/studying/international-students/costs-and-financing-for-international-students",
+        "title": "Costs and Financing for International Students — University of Bonn",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-bonn",
+        "sha256": "2191bde3bb5b62519b453e091357845db5ba309b44e5f2db7d49f7c5aa894ccc",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Palestinian students, doctorate holders, postdocs and professors living in Germany seeking employment or carrying out research/internships in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Reaches out to Palestinian bachelor's and master's students, doctorate holders, postdocs and university professors in all subjects. (Mixed PhD/postdoc scheme included per prompt instructions, describing student award/tracks as applicable).",
+      "Confirm explicit unrestricted criterion before enabling broad matching: In all subjects."
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000509",
+  "slug": "daad-10000509",
+  "title": "Jean Monnet Scholarship Programme (JMSP)",
+  "provider": {
+    "name": "DAAD / Jean Monnet Scholarship Programme"
+  },
+  "summary": "Supports academic studies at graduate or research level in EU-related fields for eligible students, professionals, and academics working or studying in Turkey.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate",
+        "exchange"
+      ],
+      "notes": "Target group mentions senior undergraduate students or postgraduate (Master's or PhD) students, and application requirements state graduates or PhD students.",
+      "source_ids": [
+        "daad-10000509"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "law",
+        "social_sciences",
+        "business_economics",
+        "other"
+      ],
+      "notes": "Fields related to the EU acquis.",
+      "source_ids": [
+        "daad-10000509"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Host institutions are not explicitly restricted on the page.",
+      "source_ids": [
+        "daad-10000509"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "EU member state",
+        "Turkey",
+        "IPA Beneficiary Country"
+      ],
+      "notes": "Citizens of an EU member state, Turkey or an IPA Beneficiary Country.",
+      "source_ids": [
+        "daad-10000509"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "People who are currently working or studying in Turkey.",
+      "source_ids": [
+        "daad-10000509"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Be working in the public sector, private sector, universities (as academic or administrative staff) in Turkey, or be a senior undergraduate or postgraduate (Master's or PhD) student in Turkey",
+        "source_ids": [
+          "daad-10000509"
+        ]
+      },
+      {
+        "text": "Knowledge of at least one official EU language at level B2",
+        "source_ids": [
+          "daad-10000509"
+        ]
+      },
+      {
+        "text": "Citizenship of an EU member state, Turkey or an IPA Beneficiary Country",
+        "source_ids": [
+          "daad-10000509"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Amount of the scholarship covers tuition fees, living expenses, and a fixed amount for various expenses to be paid only once (visa-passport, educational materials, travel, study visit, registration to local authorities, health and insurance, tax liabilities). The exact amount is capped and announced in the annual call for applications.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "variable",
+    "duration": "minimum 3, maximum 12 months",
+    "covered_costs": [
+      "tuition",
+      "living_costs",
+      "travel",
+      "insurance",
+      "research",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000509"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "The application deadline can be found on the programme website (www.jeanmonnet.org.tr).",
+      "applicable_country_codes": null,
+      "id": "daad-10000509-round-annual-call",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000509"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Announced in the annual call for applications.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Refer to the programme website (http://jeanmonnet.org.tr/en/about-scholarship-programme/) for the application form and further information.",
+        "source_ids": [
+          "daad-10000509"
+        ]
+      },
+      {
+        "text": "Use a desktop computer to use the application portal.",
+        "source_ids": [
+          "daad-10000509"
+        ]
+      }
+    ],
+    "official_programme_url": "http://jeanmonnet.org.tr/en/about-scholarship-programme/",
+    "application_url": "http://jeanmonnet.org.tr/en/about-scholarship-programme/",
+    "source_ids": [
+      "daad-10000509"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000509",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000509",
+        "title": "Jean Monnet Scholarship Programme (JMSP) - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000509",
+        "sha256": "716b5f866b3a0b2903627adb3bc429be97da5609c32f420810cdf8d6cd563e3e",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme allows international graduate students or researchers to conduct academic studies for 3 to 12 months, which can include studying in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Host institutions are not explicitly restricted on the page."
+    ]
+  }
+}

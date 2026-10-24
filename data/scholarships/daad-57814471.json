@@ -1,0 +1,164 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57814471",
+  "slug": "daad-57814471",
+  "title": "Country-related cooperation programme with Colombia (COLFUTURO - Fundación para el Futuro de Colombia) Master",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Grants for very well qualified Colombian graduates to complete a Master's degree in Germany, co-funded by COLFUTURO and DAAD.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "Master's degree programme; applicants must have accomplished a first university degree (bachelor or equivalent).",
+      "source_ids": [
+        "daad-57814471"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified.",
+      "source_ids": [
+        "daad-57814471"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German university",
+      "source_ids": [
+        "daad-57814471"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "CO"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Very well qualified Colombian graduates.",
+      "source_ids": [
+        "daad-57814471"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Country in which you are living and from which you are applying is Colombia.",
+      "source_ids": [
+        "daad-57814471"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Very well qualified Colombian graduates",
+        "source_ids": [
+          "daad-57814471"
+        ]
+      },
+      {
+        "text": "Accomplished a first university degree (bachelor or equivalent) at the time of application",
+        "source_ids": [
+          "daad-57814471"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Intensive German course in Germany (up to 6 months incl. accommodation and cost of living); costs of outward and return travel; monthly scholarship payments up to the maximum amount determined by COLFUTURO; medical, nursing care, accident and personal liability insurance; cost of German language course for accompanying spouse; refund of TestDaF or DSH exam; one-year research and study allowance. COLFUTURO contribution is a scholarship credit which is paid back in full or in part.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "variable",
+    "duration": "Approx. 2 years depending on the duration of the Master's programme",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance",
+      "language_course",
+      "research"
+    ],
+    "source_ids": [
+      "daad-57814471"
+    ],
+    "repayment_required": true
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No confirmed dates on this page.",
+      "applicable_country_codes": [
+        "CO"
+      ],
+      "id": "daad-57814471-round-default-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57814471"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57814471",
+    "application_url": null,
+    "source_ids": [
+      "daad-57814471"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57814471",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57814471",
+        "title": "Country-related cooperation programme with Colombia (COLFUTURO - Fundación para el Futuro de Colombia) Master - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57814471",
+        "sha256": "30192cd6c1635a04b22cb15f6409b9719bbc11c99d5368c54a305d9adbc6b1c9",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International students (Colombian graduates) receive funding for physical Master's study in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "COLFUTURO partner financing is a scholarship credit repayable wholly or in part. Confirm repayment and return conditions; do not present the entire package as a non-repayable scholarship.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Check partner loan and repayment conditions; this must not be presented as wholly non-repayable funding."
+    ]
+  }
+}

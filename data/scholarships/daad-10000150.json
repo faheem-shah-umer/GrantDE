@@ -1,0 +1,186 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000150",
+  "slug": "daad-10000150",
+  "title": "Foundation of German Business (sdw): Support for doctoral candidates",
+  "provider": {
+    "name": "Foundation of German Business (sdw)"
+  },
+  "summary": "The sdw supports high-achieving doctoral candidates taking on social responsibility, with particular focus on start-ups, entrepreneurship, sustainability, transformation, and education. Includes non-material support, network access, and financial stipends for qualified doctoral researchers.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Applicants must have completed a university degree and have been admitted to a doctoral programme.",
+      "source_ids": [
+        "daad-10000150"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Applicants from all academic disciplines are welcome, with particular support for start-ups and entrepreneurship, sustainability, transformation and education.",
+      "source_ids": [
+        "daad-10000150"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Admitted to a doctoral programme at a state or state-recognised higher education institution in Germany, an EU Member State, the United Kingdom or Switzerland.",
+      "source_ids": [
+        "daad-10000150"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "German and international early-career researchers may apply. The page contains a lengthy country dropdown list for applicants living in and applying from specific countries, but eligibility is subject to the conditions.",
+      "source_ids": [
+        "daad-10000150"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Applicants must credibly demonstrate that they will actively and regularly participate in one of the scholarship holder groups in Germany or abroad (London, Paris, Zurich or Vienna). Travel from place of study must not take more than 1.5 hours by bus/train and require no air travel.",
+      "source_ids": [
+        "daad-10000150"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Completed a university degree",
+        "source_ids": [
+          "daad-10000150"
+        ]
+      },
+      {
+        "text": "Admission to a doctoral programme at a state or state-recognised higher education institution in Germany, an EU Member State, the United Kingdom or Switzerland",
+        "source_ids": [
+          "daad-10000150"
+        ]
+      },
+      {
+        "text": "Active and regular participation in one of the scholarship holder groups in Germany or abroad (London, Paris, Zurich or Vienna)",
+        "source_ids": [
+          "daad-10000150"
+        ]
+      },
+      {
+        "text": "Travel time to monthly group meetings must not exceed 1.5 hours by bus or train and must not require air travel",
+        "source_ids": [
+          "daad-10000150"
+        ]
+      },
+      {
+        "text": "Active participation in and contribution to the non-material and academic support programme",
+        "source_ids": [
+          "daad-10000150"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Scholarship (maximum amount) of 1,650 EUR per month; research cost allowance (non means-tested) of 100 EUR per month; if applicable, family allowance from 155 EUR per month; additional financial support, e.g. for stays abroad, language course fees, travel expenses. Scholarship amount depends on income.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Generally for a maximum of 36 months; upon application, funding may be extended by up to a further 6 months.",
+    "covered_costs": [
+      "living_costs",
+      "research",
+      "travel",
+      "language_course",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000150"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "The application deadlines can be found on the external sdw website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000150-round-external-application-portal-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000150"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit application via the application portal first.",
+        "source_ids": [
+          "daad-10000150"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000150",
+    "application_url": "https://www.sdw.org/promotion",
+    "source_ids": [
+      "daad-10000150"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000150",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000150",
+        "title": "Foundation of German Business (sdw): Support for doctoral candidates - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000150",
+        "sha256": "934baed920753cfba906e51a3eb197b50b5dc95c30916b6823f31469eed896d7",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds international early-career researchers/doctoral candidates who are admitted to a doctoral programme, including those at higher education institutions in Germany, provided they can participate in groups in Germany or abroad."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Applicants from all academic disciplines are welcome, with particular support for start-ups and entrepreneurship, sustainability, transformation and education.",
+      "A structured restriction needs manual classification: Admitted to a doctoral programme at a state or state-recognised higher education institution in Germany, an EU Member State, the United Kingdom or Switzerland.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57742130",
+  "slug": "daad-57742130",
+  "title": "Study Scholarships for STEM Disciplines",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Master's funding in Germany for high-achieving applicants from developing and emerging countries entering a tuition-free STEM programme.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-daad-57742130-extracted"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "mathematics",
+        "computer_science",
+        "natural_sciences",
+        "engineering"
+      ],
+      "notes": "The programme explicitly covers these STEM disciplines; interdisciplinary courses must have a designated STEM focus.",
+      "source_ids": [
+        "curated-daad-57742130-extracted"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "curated-daad-57742130-extracted"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "developing_and_emerging_countries_DAAD_selection"
+      ],
+      "notes": "Eligible country selection must be confirmed through the programme; the country dropdown is not a complete nationality rule.",
+      "source_ids": [
+        "curated-daad-57742130-extracted"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany",
+        "outside_germany"
+      ],
+      "notes": "Applicants who have lived in Germany for longer than 15 months at the deadline cannot be considered.",
+      "source_ids": [
+        "curated-daad-57742130-extracted"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "First degree recognised in Germany completed by the application deadline.",
+        "source_ids": [
+          "curated-daad-57742130-extracted"
+        ]
+      },
+      {
+        "text": "Applicants who already hold a Master's degree at the application deadline cannot apply.",
+        "source_ids": [
+          "curated-daad-57742130-extracted"
+        ]
+      },
+      {
+        "text": "Above-average academic results.",
+        "source_ids": [
+          "curated-daad-57742130-extracted"
+        ]
+      },
+      {
+        "text": "A complete tuition-free, full-time and on-campus Master's degree at a state or state-recognised German university.",
+        "source_ids": [
+          "curated-daad-57742130-extracted"
+        ]
+      },
+      {
+        "text": "The programme must begin in winter semester 2027/28; an already-started Master's in Germany cannot be funded.",
+        "source_ids": [
+          "curated-daad-57742130-extracted"
+        ]
+      },
+      {
+        "text": "Degree programmes with integrated stays outside Germany are excluded.",
+        "source_ids": [
+          "curated-daad-57742130-extracted"
+        ]
+      },
+      {
+        "text": "No more than 15 months' residence in Germany at the application deadline.",
+        "source_ids": [
+          "curated-daad-57742130-extracted"
+        ]
+      },
+      {
+        "text": "Meet the programme's admission and language requirements and obtain admission before funding starts.",
+        "source_ids": [
+          "curated-daad-57742130-extracted"
+        ]
+      },
+      {
+        "text": "The most recent degree should generally be no more than six years old at the deadline.",
+        "source_ids": [
+          "curated-daad-57742130-extracted"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "EUR 992 monthly; insurance contributions; travel allowance on request; annual study allowance of EUR 460. Conditional rent, family, disability and language support may apply. Tuition is not paid.",
+    "amount_min": 992,
+    "amount_max": 992,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "10–24 months depending on the standard programme duration, with an academic progress check after year one.",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "travel",
+      "language_course"
+    ],
+    "source_ids": [
+      "curated-daad-57742130-extracted"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "daad-57742130-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "curated-daad-57742130-extracted"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Confirm the application deadline for the applicant's DAAD country context; the origin-unspecified source does not give a universal date.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Select the applicable country context and confirm the programme's current deadline.",
+        "source_ids": [
+          "curated-daad-57742130-extracted"
+        ]
+      },
+      {
+        "text": "Apply separately to the tuition-free STEM Master's course.",
+        "source_ids": [
+          "curated-daad-57742130-extracted"
+        ]
+      },
+      {
+        "text": "Prepare and submit a complete scholarship application; shortlisted applicants are interviewed.",
+        "source_ids": [
+          "curated-daad-57742130-extracted"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742130",
+    "application_url": null,
+    "source_ids": [
+      "curated-daad-57742130-extracted"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "curated-daad-57742130-extracted",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57742130",
+        "title": "Study scholarships for STEM disciplines - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/curated-daad-57742130-extracted",
+        "sha256": "f4f978f3ebc5d380d9c6b4cb7a50f6d1fb3c57c32908b96fc053723d066b88ce",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "The required-document checklist must still be extracted and reviewed from the saved source."
+    ]
+  }
+}

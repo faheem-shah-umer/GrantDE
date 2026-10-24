@@ -1,0 +1,275 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-50017039",
+  "slug": "daad-50017039",
+  "title": "DAAD-Short-term scholarships for master's degree students",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Short-term DAAD scholarships for Chinese master's students to conduct research for their Master's thesis at a German university or non-university research institute.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "Enrolment in a full-time Master degree course. Before the scholarship starts, applicants must have completed the second semester of their Master degree course.",
+      "source_ids": [
+        "daad-50017039"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Chinese graduates from all disciplines are eligible to apply.",
+      "source_ids": [
+        "daad-50017039"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "A state or state-recognised German university or non-university research institute.",
+      "source_ids": [
+        "daad-50017039"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "CN"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Chinese graduates are eligible. Applicants must be able to prove they have completed a Bachelor degree at a Chinese university (xueshi).",
+      "source_ids": [
+        "daad-50017039"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants who are already in Germany cannot be considered.",
+      "source_ids": [
+        "daad-50017039"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Enrolment in a full-time Master degree course and completed the second semester before the scholarship starts",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "Completed a Bachelor degree at a Chinese university (xueshi) (should not have graduated any longer than six years before the time of application)",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "Recommendation letter from a Chinese professor and written confirmation of academic supervision in Germany with explicit reference to the planned undertaking",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "Work and study plan coordinated with an academic advisor at the chosen host institute",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "Sufficient proficiency in German or English proven by TestDaF, DSH II, IELTS (5.5), TOEFL iBT (80), or TEM (8) certificates",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Applicants who are already in Germany cannot be considered.",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "Students who have spent a mandatory period in Germany as part of their Master degree programme (e.g. double degree programmes) or who take part in an exchange programme at a German partner university for a year are not eligible.",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "Monthly scholarship payments of 992 euros, currently valid travel allowance, and medical, accident and personal liability insurance.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "1-3 months (maximum of 90 days)",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance"
+    ],
+    "source_ids": [
+      "daad-50017039"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2026-02-03",
+      "deadline": "2026-04-02",
+      "deadline_time": null,
+      "timezone": "Europe/Berlin",
+      "availability": "closed",
+      "notes": " Source timezone label: CET. Unnormalised source clock time: 24.00.",
+      "applicable_country_codes": [
+        "CN"
+      ],
+      "id": "daad-50017039-round-2026-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-50017039"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Online application form",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "Full curriculum vitae",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "Extensive and detailed description of the study or research proposal and a description of previous study or research work",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "Letter confirming supervision",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "A precise schedule coordinated with the host institute",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "Officially certified copies of all university certificates for all annual examinations (with all individual grades) and explanation of grading systems",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "Language certificate",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "One recent, supporting letter of recommendation from a relevant professor",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "1. Register in the DAAD portal",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "2. Request recommendation form and send it to your university teacher to complete",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "3. Prepare application documents, translate if necessary, and scan in PDF format",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "4. Fill out the application form and upload documents to the DAAD portal",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      },
+      {
+        "text": "5. Submit the application online",
+        "source_ids": [
+          "daad-50017039"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50017039",
+    "application_url": null,
+    "source_ids": [
+      "daad-50017039"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-50017039",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50017039",
+        "title": "DAAD-Short-term scholarships for master&#039;s degree students - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-50017039",
+        "sha256": "400e60c709a7062c88495cb92cb750e431866e7226b835d281f708fabe3f20a9",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The scholarship funds physical research visits in Germany for international (Chinese) master's degree students."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm the source deadline clock time; it was not converted automatically.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: Chinese graduates from all disciplines are eligible to apply.",
+      "A structured restriction needs manual classification: A state or state-recognised German university or non-university research institute."
+    ]
+  }
+}

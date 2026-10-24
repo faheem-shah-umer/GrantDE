@@ -1,0 +1,219 @@
+{
+  "schema_version": "2.0.0",
+  "id": "heidelberg-haus-haus-study-scholarship",
+  "slug": "heidelberg-haus-haus-study-scholarship",
+  "title": "HAUS Study Scholarship",
+  "provider": {
+    "name": "Heidelberg Alumni U.S. (HAUS)"
+  },
+  "summary": "Study scholarship for U.S. students planning to study at Universität Heidelberg for bachelor’s or master’s programs.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master"
+      ],
+      "notes": "For undergraduate or master's program students.",
+      "source_ids": [
+        "heidelberg-haus"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines allowed by individual university programs, but specific subjects are not restricted or detailed on the scholarship page itself.",
+      "source_ids": [
+        "heidelberg-haus"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Universität Heidelberg"
+      ],
+      "notes": "Must study at Universität Heidelberg.",
+      "source_ids": [
+        "heidelberg-haus"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "US"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "United States residency and U.S. higher education enrollment required.",
+      "source_ids": [
+        "heidelberg-haus"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Candidates must have United States residency and be enrolled at or graduated from an institution of higher education in the U.S.",
+      "source_ids": [
+        "heidelberg-haus"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Undergraduate or master's program student with strong academic credentials enrolled at - or graduated from - an institution of higher education in the U.S.",
+        "source_ids": [
+          "heidelberg-haus"
+        ]
+      },
+      {
+        "text": "United States residency",
+        "source_ids": [
+          "heidelberg-haus"
+        ]
+      },
+      {
+        "text": "Acceptance as student at Heidelberg University (proof can be submitted at a later time)",
+        "source_ids": [
+          "heidelberg-haus"
+        ]
+      },
+      {
+        "text": "Successfully complete academic program at Heidelberg University",
+        "source_ids": [
+          "heidelberg-haus"
+        ]
+      },
+      {
+        "text": "Register with Heidelberg Alumni International (HAI) and HAUS upon arrival and cooperate with HAI while in Heidelberg",
+        "source_ids": [
+          "heidelberg-haus"
+        ]
+      },
+      {
+        "text": "Participate in Heidelberg HAUS chapter events",
+        "source_ids": [
+          "heidelberg-haus"
+        ]
+      },
+      {
+        "text": "Serve as an ambassador for HAUS and Heidelberg University after completing studies in Heidelberg",
+        "source_ids": [
+          "heidelberg-haus"
+        ]
+      },
+      {
+        "text": "Provide a report on your time at Heidelberg University, including good-quality photos",
+        "source_ids": [
+          "heidelberg-haus"
+        ]
+      },
+      {
+        "text": "Adhere to all federal and local public health and safety regulations",
+        "source_ids": [
+          "heidelberg-haus"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Candidates with a strong academic background who can also fulfill the role of ambassador for HAUS",
+        "source_ids": [
+          "heidelberg-haus"
+        ]
+      }
+    ],
+    "exceptions": [
+      {
+        "text": "Students currently enrolled at Heidelberg University are not eligible for the HAUS Scholarship.",
+        "source_ids": [
+          "heidelberg-haus"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "The scholarship award is $7,000 for master's program students or $4,500 for bachelor's program students for one semester with the possibility to extend for a second semester, pending availability of funds.",
+    "amount_min": 4500,
+    "amount_max": 7000,
+    "currency": "USD",
+    "frequency": "semester",
+    "duration": "One semester with the possibility to extend for a second semester",
+    "covered_costs": [
+      "living_costs",
+      "tuition",
+      "other"
+    ],
+    "source_ids": [
+      "heidelberg-haus"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "The HAUS Study Scholarship application for 2026/27 is now closed.",
+      "applicable_country_codes": [
+        "US"
+      ],
+      "id": "heidelberg-haus-haus-study-scholarship-round-2026-27-application",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "heidelberg-haus"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.hua.uni-heidelberg.de/en/scholarships/haus-study-scholarship",
+    "application_url": null,
+    "source_ids": [
+      "heidelberg-haus"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "heidelberg-haus",
+        "url": "https://www.hua.uni-heidelberg.de/en/scholarships/haus-scholarship",
+        "title": "HAUS Study Scholarship - Heidelberg University Association",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/heidelberg-haus",
+        "sha256": "97d3e21f67b42750dafbec42ec105f29698b6d09382d6a53e0ffb1679326407b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports U.S. students physically studying at Heidelberg University in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

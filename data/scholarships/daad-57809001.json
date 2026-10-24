@@ -1,0 +1,181 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57809001",
+  "slug": "daad-57809001",
+  "title": "Government Scholarships Programme Mexico COMECYT-DAAD Promotion",
+  "provider": {
+    "name": "DAAD / COMECYT"
+  },
+  "summary": "Scholarship for Mexican graduates to complete a doctoral degree in Germany, including a German language course and insurance coverage funded by DAAD, and monthly scholarship payments funded by COMECYT.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Graduates receive a scholarship to complete a doctoral degree.",
+      "source_ids": [
+        "daad-57809001"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified on the page.",
+      "source_ids": [
+        "daad-57809001"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German university and, where appropriate, in conjunction with a non-university research Institution.",
+      "source_ids": [
+        "daad-57809001"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "MX"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Mexican graduates living in Mexico and applying from there.",
+      "source_ids": [
+        "daad-57809001"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Physical presence in Germany for doctoral studies.",
+      "source_ids": [
+        "daad-57809001"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Mexican graduates",
+        "source_ids": [
+          "daad-57809001"
+        ]
+      },
+      {
+        "text": "Reside in Mexico and apply from there",
+        "source_ids": [
+          "daad-57809001"
+        ]
+      },
+      {
+        "text": "Doctoral candidates/PhD students status",
+        "source_ids": [
+          "daad-57809001"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "DAAD covers: Intensive German course in Germany with a duration of two (2) months incl. accommodation and cost of living during this period; Financing health insurance, care insurance, casualty insurance and personal liability insurance; Rent subsidy; Refund of TestDaF or DSH exam. COMECYT pays monthly scholarship payments (amount not specified numerically).",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "variable",
+    "duration": "Maximum duration of forty-eight (48) months.",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "language_course",
+      "other"
+    ],
+    "source_ids": [
+      "daad-57809001"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No specific dates provided on the page.",
+      "applicable_country_codes": [
+        "MX"
+      ],
+      "id": "daad-57809001-round-general-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57809001"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Select status and country in results list",
+        "source_ids": [
+          "daad-57809001"
+        ]
+      },
+      {
+        "text": "Use desktop computer to access application portal",
+        "source_ids": [
+          "daad-57809001"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57809001",
+    "application_url": null,
+    "source_ids": [
+      "daad-57809001"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57809001",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57809001",
+        "title": "Government Scholarships Programme Mexico COMECYT-DAAD Promotion - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57809001",
+        "sha256": "01363c7b4427b1d9075985b801b269c58b7425954aaf038c59c8f8bad13b1c16",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international doctoral students for physically researching/studying in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Monthly stipend amount is paid by COMECYT but no numerical value is given on the page.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

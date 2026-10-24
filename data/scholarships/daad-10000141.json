@@ -1,0 +1,214 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000141",
+  "slug": "daad-10000141",
+  "title": "German Cancer Research Center (DKFZ): International PhD Programme",
+  "provider": {
+    "name": "German Cancer Research Center (DKFZ)"
+  },
+  "summary": "International PhD programme at the German Cancer Research Center for Master's graduates in natural sciences and related fields to pursue doctoral studies in cancer research in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate"
+      ],
+      "notes": "Target group is those who wish to obtain a doctorate; requires a Master of Science (MSc) or academic equivalent.",
+      "source_ids": [
+        "daad-10000141"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "natural_sciences",
+        "computer_science",
+        "mathematics",
+        "medicine",
+        "health_sciences",
+        "other"
+      ],
+      "notes": "Fields specified: (molecular) biology, (bio-)chemistry, physics, mathematics, computational biology, computer science, epidemiology/public health studies and related subjects.",
+      "source_ids": [
+        "daad-10000141"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "German Cancer Research Center (DKFZ)"
+      ],
+      "notes": "Research groups at the DKFZ in Heidelberg and Dresden, partner sites within the German Cancer Consortium, HI-TRON, and National Centers of Tumor Diseases.",
+      "source_ids": [
+        "daad-10000141"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "The page lists a comprehensive dropdown of countries globally for application, indicating broad international eligibility.",
+      "source_ids": [
+        "daad-10000141"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Page mentions country is the country in which you are living and from which you are applying, but specific residency status rules inside Germany are not explicitly detailed beyond international eligibility.",
+      "source_ids": [
+        "daad-10000141"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Master of Science (MSc) or academic equivalent",
+        "source_ids": [
+          "daad-10000141"
+        ]
+      },
+      {
+        "text": "Very good school and academic records",
+        "source_ids": [
+          "daad-10000141"
+        ]
+      },
+      {
+        "text": "Very good proficiency in English (e.g. TOEFL 95+, IELTS 7.0, CAE or equivalent)",
+        "source_ids": [
+          "daad-10000141"
+        ]
+      },
+      {
+        "text": "2 letters of recommendation",
+        "source_ids": [
+          "daad-10000141"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": [
+      {
+        "text": "Applicants who have not yet obtained their Master’s degree should have completed the Master’s degree no later than 6 months after being admitted to the PhD programme.",
+        "source_ids": [
+          "daad-10000141"
+        ]
+      }
+    ]
+  },
+  "funding": {
+    "description": "All PhD positions at the DKFZ are fully funded for (at least) 3 years. The salaries are competitive by national standards in this field.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "3-4 years",
+    "covered_costs": [
+      "living_costs"
+    ],
+    "source_ids": [
+      "daad-10000141"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": "2026-10-19",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "The application deadline is 19 October 2026.",
+      "applicable_country_codes": null,
+      "id": "daad-10000141-round-deadline-19-october-2026",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000141"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Application periods are published on the website.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "2 letters of recommendation",
+        "source_ids": [
+          "daad-10000141"
+        ]
+      },
+      {
+        "text": "Proof of English proficiency",
+        "source_ids": [
+          "daad-10000141"
+        ]
+      },
+      {
+        "text": "School and academic records",
+        "source_ids": [
+          "daad-10000141"
+        ]
+      },
+      {
+        "text": "Higher-education qualification (Master of Science or academic equivalent)",
+        "source_ids": [
+          "daad-10000141"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Use the online application system on the DKFZ website.",
+        "source_ids": [
+          "daad-10000141"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000141",
+    "application_url": "http://www.dkfz.de/en/career/international-phd-program/admission-requirements-how-to-apply?mtm_campaign=phd&mtm_kwd=stipend",
+    "source_ids": [
+      "daad-10000141"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000141",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000141",
+        "title": "German Cancer Research Center (DKFZ): International PhD Programme - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000141",
+        "sha256": "461681b948bdf0b4a2e4189736abf11bec250ab500cc2c6a1e6ee326e67467b5",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "In scope because it is an international PhD student funding programme supporting physical research in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Country selection UI is not sufficient nationality evidence; confirm on provider page."
+    ]
+  }
+}

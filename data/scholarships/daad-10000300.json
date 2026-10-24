@@ -1,0 +1,196 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000300",
+  "slug": "daad-10000300",
+  "title": "Country-related cooperation programme with Argentina (ALEARG)",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Funding for graduates, doctoral candidates, and postdocs from Argentina to complete study or research stays or Master's/doctoral degrees in Germany, including language courses and financial support.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate",
+        "other"
+      ],
+      "notes": "Supports Master's, postgraduate courses, doctoral studies, and research stays.",
+      "source_ids": [
+        "daad-10000300"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines are eligible; preparatory German course specified for humanities, economics, and law.",
+      "source_ids": [
+        "daad-10000300"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German universities or research institutions.",
+      "source_ids": [
+        "daad-10000300"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "AR"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Argentina"
+      ],
+      "notes": "Applicants must be of Argentine nationality.",
+      "source_ids": [
+        "daad-10000300"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants must be living in and applying from Argentina.",
+      "source_ids": [
+        "daad-10000300"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Graduates, doctoral candidates, postdocs or teachers at universities in Argentina or researchers at publicly funded institutions of Argentine nationality",
+        "source_ids": [
+          "daad-10000300"
+        ]
+      },
+      {
+        "text": "Usually up to the age of 36",
+        "source_ids": [
+          "daad-10000300"
+        ]
+      },
+      {
+        "text": "Postdocs must have finished their doctoral studies no longer than 3 years previously",
+        "source_ids": [
+          "daad-10000300"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Above-average academic achievements",
+        "source_ids": [
+          "daad-10000300"
+        ]
+      },
+      {
+        "text": "Quality of doctoral or research project",
+        "source_ids": [
+          "daad-10000300"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Basic monthly payments of 1120 euros, monthly top-up payments of 180 euros, travel allowance, initial study and research allowance, rent subsidy, allowances for spouse and children according to DAAD guidelines, medical, accident and personal liability insurance, intensive German language course, and preparatory German course.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "Graduates: up to two years; Doctoral candidates: 1 year or 2 to 6-month short-term; Postdocs: 1 year or 2 to 6-month research visit",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance",
+      "research",
+      "language_course"
+    ],
+    "source_ids": [
+      "daad-10000300"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No specific deadlines are stated on the page.",
+      "applicable_country_codes": [
+        "AR"
+      ],
+      "id": "daad-10000300-round-default-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000300"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit applications via the online portal of the Argentinian Ministry of Education",
+        "source_ids": [
+          "daad-10000300"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.daad.de/go/en/stipa10000300",
+    "application_url": "https://www.argentina.gob.ar/educacion/campusargentinaglobal",
+    "source_ids": [
+      "daad-10000300"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000300",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000300",
+        "title": "Country-related cooperation programme with Argentina (ALEARG) - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000300",
+        "sha256": "205ee4b37dab7ff41d5370e0ada6356bc056b76925642765356fd4a5e0222c8c",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme supports international graduates, doctoral candidates, and postdocs for study and research stays physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines are eligible; preparatory German course specified for humanities, economics, and law.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: German universities or research institutions."
+    ]
+  }
+}

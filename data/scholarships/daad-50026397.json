@@ -1,0 +1,157 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-50026397",
+  "slug": "daad-50026397",
+  "title": "Helmut-Schmidt-Programme (Master’s Scholarships for Public Policy and Good Governance - PPGG)",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Supports future leaders from developing and emerging countries to obtain a master's degree in public policy, good governance, political science, law, economics, and administration at German universities.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "Master's degree",
+      "source_ids": [
+        "daad-50026397"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Political science, law, economics, and administration",
+      "source_ids": [
+        "daad-50026397"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Check current announcement for participating universities.",
+      "source_ids": [
+        "daad-50026397"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": [
+        "Developing and emerging countries from the DAAD list"
+      ],
+      "notes": "Applicants must come from developing and emerging countries listed on the DAAD website.",
+      "source_ids": [
+        "daad-50026397"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "For studying in Germany; country of residence must be selected from the eligible list.",
+      "source_ids": [
+        "daad-50026397"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "First academic degree (e.g. Bachelor)",
+        "source_ids": [
+          "daad-50026397"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Please check the Current Announcement for funding details.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Not specified",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-50026397"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Check Current Announcement for application deadlines.",
+      "applicable_country_codes": null,
+      "id": "daad-50026397-round-default-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-50026397"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Check Current Announcement for application procedure and documents.",
+        "source_ids": [
+          "daad-50026397"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026397",
+    "application_url": null,
+    "source_ids": [
+      "daad-50026397"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-50026397",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50026397",
+        "title": "Helmut-Schmidt-Programme (Master’s Scholarships for Public Policy and Good Governance - PPGG) - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-50026397",
+        "sha256": "54f1ad9dbe65c986007cdd43ccb39823972f3cfb56e3d29640f899ec7db88052",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Provides master's degree funding for international students from developing and emerging countries to study in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Origin-unspecified DAAD page details extracted without explicit financial amounts and deadlines provided in text.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "A structured restriction needs manual classification: Political science, law, economics, and administration"
+    ]
+  }
+}

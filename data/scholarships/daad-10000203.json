@@ -1,0 +1,211 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000203",
+  "slug": "daad-10000203",
+  "title": "Fellowship Programme with CEE Countries",
+  "provider": {
+    "name": "German Federal Environmental Foundation (DBU)"
+  },
+  "summary": "The DBU awards up to 50 fellowships per year for advanced qualification in all fields of environmental protection and nature conservation. Highly qualified graduates of all disciplines from CEE countries receive funding for a 6–12 months stay at German host institutions.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate",
+        "diploma",
+        "other"
+      ],
+      "notes": "above-average university degree (Master or equivalent) obtained within the last 5 years; Bachelor's degree is only sufficient if the degree includes admission to a doctorate; Doctoral candidates can apply if the doctoral project is not completed until after the end of the fellowship.",
+      "source_ids": [
+        "daad-10000203"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "All disciplines are eligible, with an environmental subject of current interest to the home country, the EU or globally.",
+      "source_ids": [
+        "daad-10000203"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German host institutions: universities, research institutes, companies, environmental- and nature protection agencies and authorities, NGOs, associations, etc.",
+      "source_ids": [
+        "daad-10000203"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Citizenship of one of the participating countries: Albania, Bosnia and Herzegovina, Bulgaria, the Czech Republic, Croatia, Estonia, Hungary, Kosovo, Latvia, Lithuania, North Macedonia, Moldova, Montenegro, Poland, Romania, Serbia, Slovakia, Slovenia and Ukraine.",
+      "source_ids": [
+        "daad-10000203"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Permanent residence in one of the eligible countries at the time of application.",
+      "source_ids": [
+        "daad-10000203"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "graduates from specific countries",
+        "source_ids": [
+          "daad-10000203"
+        ]
+      },
+      {
+        "text": "citizenship of one of the participating countries",
+        "source_ids": [
+          "daad-10000203"
+        ]
+      },
+      {
+        "text": "permanent residence in one of the eligible countries at the time of application",
+        "source_ids": [
+          "daad-10000203"
+        ]
+      },
+      {
+        "text": "very good academic qualification (Master's degree, Magister, Diplom; a Bachelor's degree is only sufficient if the degree includes admission to a doctorate)",
+        "source_ids": [
+          "daad-10000203"
+        ]
+      },
+      {
+        "text": "graduation within the past 5 years",
+        "source_ids": [
+          "daad-10000203"
+        ]
+      },
+      {
+        "text": "environmental subject of current interest to the home country, the EU or globally",
+        "source_ids": [
+          "daad-10000203"
+        ]
+      },
+      {
+        "text": "knowledge of German, verifiable at the latest at the beginning of the programme",
+        "source_ids": [
+          "daad-10000203"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "The fellowship amounts to 1,350 EUR per month. In addition to the fellowship, a monthly allowance of 100 EUR is paid for material and travel expenses (expense allowance). Each fellow is also covered by a health-, accident- and liability insurance. An intensive German language course of several weeks in Osnabrück (Germany) before commencement of the fellowship is also supported and if necessary, assistance is provided in finding a suitable host institution.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "6 to 12 months",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance",
+      "language_course"
+    ],
+    "source_ids": [
+      "daad-10000203"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Applications due by 5 March every year Extracted deadline was '03-05'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000203-round-march-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000203"
+      ]
+    },
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Applications due by 5 September every year Extracted deadline was '09-05'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000203-round-september-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000203"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Applications due by 5 September and 5 March every year",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://daad.de/go/en/stipa10000203",
+    "application_url": "https://www.dbu.de/en/promotion/moe-fellowship/",
+    "source_ids": [
+      "daad-10000203"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000203",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000203",
+        "title": "German Federal Environmental Foundation (DBU): Fellowship Programme with CEE Countries - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000203",
+        "sha256": "b8ce7f7f58c2eb928190967312959d3c230d2942bf91465ee279bce3efa4f7a2",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Provides fellowship funding for international graduates and doctoral candidates to spend 6 to 12 months conducting research/practical work at German host institutions."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Unconfirmed date '03-05' was not converted to a year-specific date.",
+      "Unconfirmed date '09-05' was not converted to a year-specific date.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: All disciplines are eligible, with an environmental subject of current interest to the home country, the EU or globally.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: German host institutions: universities, research institutes, companies, environmental- and nature protection agencies and authorities, NGOs, associations, etc.",
+      "Invalid country code in allowed_country_codes; original rule retained in research snapshot."
+    ]
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000422",
+  "slug": "daad-10000422",
+  "title": "RWTH International Academy Women in Engineering Scholarship",
+  "provider": {
+    "name": "RWTH International Academy"
+  },
+  "summary": "Partial tuition support for women entering selected English-taught engineering Master's programmes.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000422"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "engineering"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000422"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "RWTH International Academy"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000422"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality details require confirmation.",
+      "source_ids": [
+        "daad-10000422"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000422"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Female applicant with a strong engineering Bachelor's degree and admission to an eligible Academy programme.",
+        "source_ids": [
+          "daad-10000422"
+        ]
+      },
+      {
+        "text": "The source refers to a German-converted grade threshold of 2.0; confirm the direction and programme-specific interpretation.",
+        "source_ids": [
+          "daad-10000422"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "A 25% tuition-fee reduction, rather than a cash stipend.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "unknown",
+    "duration": "Up to 24 months.",
+    "covered_costs": [
+      "tuition"
+    ],
+    "source_ids": [
+      "daad-10000422"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "daad-10000422-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "daad-10000422"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Non-EU applicants: 1 March; EU applicants: 15 July. Years are unconfirmed.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Scholarship motivation letter of 500 words",
+        "source_ids": [
+          "daad-10000422"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit with the eligible degree application through RWTH's application portal.",
+        "source_ids": [
+          "daad-10000422"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000422",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000422"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000422",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000422",
+        "title": "RWTH International Academy Women in Engineering Scholarship",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/daad-10000422",
+        "sha256": "98d87fc4c1ece0af191a28c507c73956b4e2acbd1163f2b3f3e7a3d145f1cddc",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Check the provider's current eligible-course list and grade wording.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication."
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{% extends 'base.html' %}
+{% from 'partials/components.html' import arrow, search_icon, scholarship_card %}
+{% block content %}
+<section class="hero container">
+  <div class="hero-copy"><p class="eyebrow"><span class="short-rule" aria-hidden="true"></span> Your studies. Your possibilities.</p>
+    <h1>A little support.<br>A <em>bigger future.</em></h1>
+    <p class="hero-description">Find scholarships for your studies in Germany. Understand what’s offered, see what’s required, and take your next step with clarity.</p>
+    <a class="button primary" href="/scholarships/">Explore scholarships {{ arrow() }}</a>
+    <p class="hero-footnote">Free to explore. No account needed.</p>
+  </div>
+  <aside class="hero-index" aria-label="Catalogue overview">
+    <div class="index-heading"><span>THE DIRECTORY</span><span>DE / 01</span></div>
+    <div class="index-title"><span>Funding for<br>your future.</span><span class="index-asterisk" aria-hidden="true">✳</span></div>
+    <p class="index-caption">One place to begin.</p>
+    <div class="index-bottom"><span>For international students<br> finding their way in Germany.</span><a class="index-compass" href="/scholarships/" aria-label="Explore scholarships">{{ arrow(true) }}</a></div>
+  </aside>
+</section>
+<section class="discovery-band">
+  <div class="container discovery-inner"><div><p class="eyebrow">A place to start</p><h2>What’s your next chapter?</h2></div>
+    <div class="study-paths"><a href="/scholarships/" data-degree="bachelor"><span>01 / Undergraduate</span><strong>Bachelor’s {{ arrow() }}</strong></a><a href="/scholarships/" data-degree="master"><span>02 / Postgraduate</span><strong>Master’s {{ arrow() }}</strong></a><a href="/scholarships/" data-degree="doctorate"><span>03 / Research</span><strong>Doctorate {{ arrow() }}</strong></a></div>
+  </div>
+</section>
+<section class="container section-space">
+  <div class="section-heading"><div><p class="eyebrow">Explore the directory</p><h2>Places to begin.</h2></div><a class="text-link" href="/scholarships/">View all scholarships {{ arrow() }}</a></div>
+  <p class="section-intro">A few programmes from the catalogue. Each has its own conditions, application process and timing.</p>
+  <div class="featured-grid">{% for card in featured %}{{ scholarship_card(card, preview, true) }}{% endfor %}</div>
+</section>
+<section class="container trust-section"><div class="trust-heading"><p class="eyebrow">Clarity, before you apply</p><h2>Good information.<br>Better next steps.</h2><a class="text-link" href="/about/">How we build the directory {{ arrow() }}</a></div>
+  <div class="trust-points"><div><span class="step-number">01</span><div><h3>Start with the source.</h3><p>Every listing points to official provider or university information, so you can check the details for yourself.</p></div></div><div><span class="step-number">02</span><div><h3>See the whole picture.</h3><p>Funding, dates and additional requirements belong together. Missing information stays clearly marked.</p></div></div><div><span class="step-number">03</span><div><h3>Make your next move.</h3><p>Explore freely, then follow the official programme link. Eligibility and application decisions stay with the provider.</p></div></div></div>
+</section>
+{% endblock %}

@@ -1,0 +1,174 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-jena-photonics-government-funded-study-abroad-program-for-south-korean-applicants",
+  "slug": "uni-jena-photonics-government-funded-study-abroad-program-for-south-korean-applicants",
+  "title": "Government-Funded Study Abroad Program for South Korean applicants",
+  "provider": {
+    "name": "National Institute for International Education (NIIED)"
+  },
+  "summary": "Supports graduates of Korean universities wishing to pursue a full Master's or doctoral degree abroad.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate"
+      ],
+      "notes": "Full Master's or doctoral degree",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "natural_sciences",
+        "engineering",
+        "other"
+      ],
+      "notes": "Includes natural sciences such as physics",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Abroad university",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "KR"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Graduates of Korean universities",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany",
+        "in_germany"
+      ],
+      "notes": "Abroad",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Graduate of a Korean university",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      },
+      {
+        "text": "Pursuing a full Master's or doctoral degree abroad",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Up to USD 20,000 per year for living expenses, with additional eligible tuition-related costs within a total annual funding limit of USD 29,520.",
+    "amount_min": null,
+    "amount_max": 29520,
+    "currency": "USD",
+    "frequency": "annual",
+    "duration": "Up to two years for Master's degree studies",
+    "covered_costs": [
+      "living_costs",
+      "tuition",
+      "other"
+    ],
+    "source_ids": [
+      "uni-jena-photonics"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Consult current NIIED call for eligibility and procedures.",
+      "applicable_country_codes": [
+        "KR"
+      ],
+      "id": "uni-jena-photonics-government-funded-study-abroad-program-for-south-korean-applicants-round-current-niied-call",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-jena-photonics"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Consult the current NIIED call",
+        "source_ids": [
+          "uni-jena-photonics"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.niied.go.kr/convert/preview/1774398472263/index.html",
+    "application_url": null,
+    "source_ids": [
+      "uni-jena-photonics"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-jena-photonics",
+        "url": "https://www.asp.uni-jena.de/16808/scholarships-available",
+        "title": "Abbe School of Photonics • Master scholarships | Abbe School of Photonics",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-jena-photonics",
+        "sha256": "8dc6e8a42b54294b6ccbe0da953fc23b75c97959152ed8b9ff9f1794fdb4ce1b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports Korean graduates pursuing Master's or doctoral degrees abroad, including in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "This is a German university's summary of an external award. The actual provider page and current call still need independent review; do not assume all overseas-study destinations, universities or applicants are covered.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

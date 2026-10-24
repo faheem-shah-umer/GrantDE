@@ -1,0 +1,171 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000335",
+  "slug": "daad-10000335",
+  "title": "Government Scholarships Programme Oman",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Supports students from the Sultanate of Oman for pursuing a Bachelor degree in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor"
+      ],
+      "notes": "Aimed at applicants wishing to take a Bachelor degree.",
+      "source_ids": [
+        "daad-10000335"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "No specific subject restrictions stated.",
+      "source_ids": [
+        "daad-10000335"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "State and state-recognised universities in Germany.",
+      "source_ids": [
+        "daad-10000335"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "OM"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Aimed at students from the Sultanate of Oman.",
+      "source_ids": [
+        "daad-10000335"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants are living and applying from Oman.",
+      "source_ids": [
+        "daad-10000335"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Secondary education diploma",
+        "source_ids": [
+          "daad-10000335"
+        ]
+      },
+      {
+        "text": "Wish to take a Bachelor degree in Germany",
+        "source_ids": [
+          "daad-10000335"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Candidate's academic achievements",
+        "source_ids": [
+          "daad-10000335"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Monthly scholarship payments of 1,500 euros. Oman's Ministry of Education also covers one-off payment of travel expenses (outward and return flight), payments towards health, accident and personal liability insurance cover, payment of German language course, and payment of semester fees at German universities.",
+    "amount_min": 1500,
+    "amount_max": 1500,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "At least 5 years and may be extended by request",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "insurance",
+      "language_course",
+      "tuition"
+    ],
+    "source_ids": [
+      "daad-10000335"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No application dates specified on the page.",
+      "applicable_country_codes": [
+        "OM"
+      ],
+      "id": "daad-10000335-round-general",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000335"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000335",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000335"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000335",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000335",
+        "title": "Government Scholarships Programme Oman - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000335",
+        "sha256": "ebe9932a34ea9c1ce5a212243db7830395b6bbc0da1db5f50a9030a7e15c6d49",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme supports international students from Oman to take a Bachelor degree in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "A structured restriction needs manual classification: State and state-recognised universities in Germany."
+    ]
+  }
+}

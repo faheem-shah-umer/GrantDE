@@ -1,0 +1,188 @@
+{
+  "schema_version": "2.0.0",
+  "id": "hhu-stibet-degree-completion-grant",
+  "slug": "hhu-stibet-degree-completion-grant",
+  "title": "HHU STIBET Completion of Studies Grant",
+  "provider": {
+    "name": "Heinrich Heine University Düsseldorf"
+  },
+  "summary": "Final-stage support for international HHU students facing unexpected financial hardship.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "state_exam"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-hhu"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-hhu"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "Heinrich Heine University Düsseldorf"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-hhu"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": null,
+      "excluded_country_codes": [
+        "DE"
+      ],
+      "country_groups": null,
+      "notes": "German citizenship is excluded.",
+      "source_ids": [
+        "uni-hhu"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "uni-hhu"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Foreign entrance qualification, good grades and degree completion within twelve months.",
+        "source_ids": [
+          "uni-hhu"
+        ]
+      },
+      {
+        "text": "Unexpected financial difficulty and supervisor confirmation; study abroad during funding is excluded.",
+        "source_ids": [
+          "uni-hhu"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Up to EUR 992 monthly; income and other awards affect the rate.",
+    "amount_min": null,
+    "amount_max": 992,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "One to six months; exceptional extension up to twelve.",
+    "covered_costs": [],
+    "source_ids": [
+      "uni-hhu"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2026-07-27",
+      "deadline": "2026-08-31",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "Published application window.",
+      "applicable_country_codes": null,
+      "id": "hhu-stibet-degree-completion-grant-round-winter-2026-27",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-hhu"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Signed application and supervisor recommendation",
+        "source_ids": [
+          "uni-hhu"
+        ]
+      },
+      {
+        "text": "CV, enrolment, transcript and residence evidence",
+        "source_ids": [
+          "uni-hhu"
+        ]
+      },
+      {
+        "text": "Hardship statement and three months of bank statements",
+        "source_ids": [
+          "uni-hhu"
+        ]
+      },
+      {
+        "text": "Blocked-account or other funding evidence where applicable",
+        "source_ids": [
+          "uni-hhu"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Apply through the university's online portal.",
+        "source_ids": [
+          "uni-hhu"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.hhu.de/en/stibet-scholarship",
+    "application_url": null,
+    "source_ids": [
+      "uni-hhu"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-hhu",
+        "url": "https://www.hhu.de/en/stibet-scholarship",
+        "title": "HHU STIBET Completion of Studies Grant",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/uni-hhu",
+        "sha256": "3f56c34e7e8d305777b0755ea30cc68499b940d8e9ba6146df655873894f8441",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": []
+  }
+}

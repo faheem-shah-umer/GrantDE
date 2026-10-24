@@ -1,0 +1,220 @@
+{
+  "schema_version": "2.0.0",
+  "id": "uni-bremen-afghan-omid-farda-scholarship",
+  "slug": "uni-bremen-afghan-omid-farda-scholarship",
+  "title": "Omid Farda Scholarship",
+  "provider": {
+    "name": "University of Bremen and HERE AHEAD Academy"
+  },
+  "summary": "Scholarship for Afghan students unable to begin or complete their studies due to the situation in Afghanistan, enabling preparatory and degree studies in Bremen.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "preparatory"
+      ],
+      "notes": "Aimed at bachelor's and master's students, including preparatory study programs at the HERE AHEAD Academy.",
+      "source_ids": [
+        "uni-bremen-afghan"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "other"
+      ],
+      "notes": "Students choose a subject from the range of subjects offered by the universities in the state of Bremen.",
+      "source_ids": [
+        "uni-bremen-afghan"
+      ]
+    },
+    "institutions": {
+      "status": "restricted",
+      "values": [
+        "University of Bremen",
+        "HERE AHEAD Academy",
+        "universities in the state of Bremen"
+      ],
+      "notes": "Applies to universities in the state of Bremen, including the University of Bremen and HERE AHEAD Academy.",
+      "source_ids": [
+        "uni-bremen-afghan"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "AF"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Aimed at Afghan students.",
+      "source_ids": [
+        "uni-bremen-afghan"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany",
+        "in_germany"
+      ],
+      "notes": "Aimed at students in life-threatening situations abroad to come and study in Bremen.",
+      "source_ids": [
+        "uni-bremen-afghan"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Being no older than 30 years",
+        "source_ids": [
+          "uni-bremen-afghan"
+        ]
+      },
+      {
+        "text": "Last degree no older than five years",
+        "source_ids": [
+          "uni-bremen-afghan"
+        ]
+      },
+      {
+        "text": "Proof of previous school or study achievements",
+        "source_ids": [
+          "uni-bremen-afghan"
+        ]
+      },
+      {
+        "text": "Explanation of the current risk situation",
+        "source_ids": [
+          "uni-bremen-afghan"
+        ]
+      },
+      {
+        "text": "Unable to begin or complete bachelor's or master's studies after the Taliban took power in Afghanistan",
+        "source_ids": [
+          "uni-bremen-afghan"
+        ]
+      },
+      {
+        "text": "C1 level of German required to continue with a bachelor's degree",
+        "source_ids": [
+          "uni-bremen-afghan"
+        ]
+      },
+      {
+        "text": "Scholarship must be repaid in full in the event of early de-registration",
+        "source_ids": [
+          "uni-bremen-afghan"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "The scholarship includes the amount of a blocked account required for international prospective students (twelve times the BAföG loan maximum rate of 861 euros) and a travel allowance.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "one_off",
+    "duration": "Not specified",
+    "covered_costs": [
+      "living_costs",
+      "travel"
+    ],
+    "source_ids": [
+      "uni-bremen-afghan"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": "2022-05-05",
+      "deadline": "2022-06-05",
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "closed",
+      "notes": "The application period is from May 05 to June 05, 2022.",
+      "applicable_country_codes": [
+        "AF"
+      ],
+      "id": "uni-bremen-afghan-omid-farda-scholarship-round-2022-application-period",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "uni-bremen-afghan"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "Proof of previous school or study achievements",
+        "source_ids": [
+          "uni-bremen-afghan"
+        ]
+      },
+      {
+        "text": "Explanation of the current risk situation",
+        "source_ids": [
+          "uni-bremen-afghan"
+        ]
+      }
+    ],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Submit applications via the Academy's website",
+        "source_ids": [
+          "uni-bremen-afghan"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www.aheadbremen.de/en/",
+    "application_url": "https://www.aheadbremen.de/en/scholarships/Omidfarda_en.php",
+    "source_ids": [
+      "uni-bremen-afghan"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "uni-bremen-afghan",
+        "url": "https://www.uni-bremen.de/en/ten-scholarships-offered-for-afghan-students",
+        "title": "NO LONGER AVAILABLE: Ten Scholarships Offered for Afghan Students - Universität Bremen",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/uni-bremen-afghan",
+        "sha256": "d654c5e01f1ad046de1f13b767ad640cfd731677ea61b128fa2b8978129ed22b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International Afghan students receive funding for physical study and preparatory programs in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Check partner loan and repayment conditions; this must not be presented as wholly non-repayable funding.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts."
+    ]
+  }
+}

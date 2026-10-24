@@ -1,0 +1,184 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000133",
+  "slug": "daad-10000133",
+  "title": "Hezekiah Wardwell Fellowship",
+  "provider": {
+    "name": "Alexander von Humboldt Foundation"
+  },
+  "summary": "Fellowships for young Spanish musicians and musicologists to pursue further training or advanced studies at a German music academy or conservatory.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "other"
+      ],
+      "notes": "Bachelor's or comparable academic degree completed no longer than 3 years prior to the start of the fellowship",
+      "source_ids": [
+        "daad-10000133"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "music"
+      ],
+      "notes": "Music and musicology",
+      "source_ids": [
+        "daad-10000133"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "An academy of music or a conservatory in Germany, or higher education institutions.",
+      "source_ids": [
+        "daad-10000133"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "ES"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Must have Spanish citizenship.",
+      "source_ids": [
+        "daad-10000133"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "outside_germany"
+      ],
+      "notes": "Applicants should live in Spain or have completed their education in Spain.",
+      "source_ids": [
+        "daad-10000133"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Bachelor's or comparable academic degree completed no longer than 3 years prior to the start of the fellowship",
+        "source_ids": [
+          "daad-10000133"
+        ]
+      },
+      {
+        "text": "Binding agreement for academic supervision or acceptance prior to application",
+        "source_ids": [
+          "daad-10000133"
+        ]
+      },
+      {
+        "text": "Proficient in German",
+        "source_ids": [
+          "daad-10000133"
+        ]
+      },
+      {
+        "text": "Spanish citizenship, live in Spain or have completed education in Spain",
+        "source_ids": [
+          "daad-10000133"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "Preference will be given to candidates who have not yet had the opportunity to study in Germany.",
+        "source_ids": [
+          "daad-10000133"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Monthly sponsorship sum of 1,000 EUR. Single standard starting allowance of 250 EUR and a single standard travel expense allowance for fellowship holders travelling from Spain.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "1 or 2 academic semesters (grant period: October to February or July of the following year)",
+    "covered_costs": [
+      "living_costs",
+      "travel",
+      "other"
+    ],
+    "source_ids": [
+      "daad-10000133"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadline is 10 January of each year. Extracted deadline was '01-10'; year not confirmed.",
+      "applicable_country_codes": null,
+      "id": "daad-10000133-round-annual-deadline",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000133"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Application deadline is 10 January of each year.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www.humboldt-foundation.de/en/apply/sponsorship-programmes/hezekiah-wardwell-fellowship",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000133"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000133",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000133",
+        "title": "Alexander von Humboldt Foundation: Hezekiah Wardwell Fellowship - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000133",
+        "sha256": "c0a1befebbe71bfea00fd2bec022075360c0d5eeceac2ee72869da8dbed36fd1",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "Supports international students from Spain for physical study at a music academy or conservatory in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review.",
+      "Numeric award field withheld pending confirmation of base rate versus supplements and degree-specific rates. The source description retains the amounts.",
+      "Unconfirmed date '01-10' was not converted to a year-specific date.",
+      "Confirm explicit unrestricted criterion before enabling broad matching: An academy of music or a conservatory in Germany, or higher education institutions."
+    ]
+  }
+}

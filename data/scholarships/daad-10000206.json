@@ -1,0 +1,166 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000206",
+  "slug": "daad-10000206",
+  "title": "Fellowship for Medical Sciences",
+  "provider": {
+    "name": "Bayer Foundation"
+  },
+  "summary": "Bayer Foundation Fellowship for Medical Sciences supports international students planning to study, research, or intern in Germany in medical and health sciences fields. Includes Master's and PhD students; excludes postdocs.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master",
+        "doctorate",
+        "other"
+      ],
+      "notes": "Master's or PhD students; Bachelor's students and postdocs cannot receive funding (Bachelor's and postdocs excluded).",
+      "source_ids": [
+        "daad-10000206"
+      ]
+    },
+    "subject_areas": {
+      "status": "restricted",
+      "values": [
+        "medicine",
+        "health_sciences",
+        "computer_science"
+      ],
+      "notes": "Human or veterinary medicine, medical engineering, applied medical sciences, public health, or data science in medicine.",
+      "source_ids": [
+        "daad-10000206"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified on the page.",
+      "source_ids": [
+        "daad-10000206"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Country eligibility depends on the application portal list; no explicit universal unrestricted statement on page.",
+      "source_ids": [
+        "daad-10000206"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany"
+      ],
+      "notes": "International students who plan to study, research or do an internship in Germany.",
+      "source_ids": [
+        "daad-10000206"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "{'string': 'Strong sense of commitment and motivation'}",
+        "source_ids": [
+          "daad-10000206"
+        ]
+      },
+      {
+        "text": "{'string': 'Submit an innovative international research proposal'}",
+        "source_ids": [
+          "daad-10000206"
+        ]
+      }
+    ],
+    "preferences": [
+      {
+        "text": "{'string': 'Projects should be as interdisciplinary and collaborative as possible and focus primarily on health in low- and middle-income countries or treatment of rare or orphan diseases.'}",
+        "source_ids": [
+          "daad-10000206"
+        ]
+      }
+    ],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "individual financial support, but limited to 10,000 EUR per request",
+    "amount_min": null,
+    "amount_max": 10000,
+    "currency": "EUR",
+    "frequency": "one_off",
+    "duration": "up to 6 months",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-10000206"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "Application deadlines can be found on the Bayer Foundation website.",
+      "applicable_country_codes": null,
+      "id": "daad-10000206-round-external-website-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-10000206"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000206",
+    "application_url": "https://www.bayer-foundation.com/science/fellowships-stipends",
+    "source_ids": [
+      "daad-10000206"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000206",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000206",
+        "title": "Bayer Foundation: Fellowship for Medical Sciences - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-10000206",
+        "sha256": "28ba85d66a0c56317988772201e48204e416bea347d784adfd83f5ea5db34fdc",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "International students can receive funding for study, research or internships in Germany. Postdocs are excluded."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "DAAD describes another provider; confirm current terms on the provider page before publication.",
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

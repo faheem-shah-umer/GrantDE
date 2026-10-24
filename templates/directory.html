@@ -1,0 +1,35 @@
+{% extends 'base.html' %}
+{% from 'partials/components.html' import arrow, search_icon, scholarship_card %}
+{% block head %}<script type="module" src="{{ assets_url }}/js/directory.mjs"></script>{% endblock %}
+{% block main_attributes %}data-directory data-index="{{ index_url }}" data-fingerprint="{{ fingerprint }}" data-page="{{ page }}" data-page-size="{{ page_size }}"{% endblock %}
+{% block content %}
+<section class="container directory-intro"><p class="breadcrumb"><a href="/">Home</a><span aria-hidden="true">/</span>Scholarships</p><p class="eyebrow">The scholarship directory</p><h1>Find your next <em>possibility.</em></h1><p>Explore funding for your studies in Germany. A starting point for your research, with the details that matter.</p>
+  <div class="directory-search enhanced-only"><label class="search-field" for="search">{{ search_icon() }}<span class="sr-only">Search scholarships, providers or subjects</span><input type="search" id="search" maxlength="300" placeholder="Search scholarships, providers or subjects" autocomplete="off"><span class="search-shortcut" aria-hidden="true">Search</span></label></div>
+</section>
+<div class="container directory-layout">
+  <aside class="filter-sidebar" aria-label="Scholarship filters"><div id="filter-home">
+    <form id="filter-form" class="filter-form enhanced-only">
+      <div class="filter-heading"><h2>Refine your search</h2><button type="button" class="reset-button" data-reset>Reset</button></div>
+      <fieldset><legend>Degree level</legend>{% for value in vocabularies.degree_levels %}<label class="checkbox-row"><input type="checkbox" name="degrees" value="{{ value }}"><span>{{ value|label }}</span></label>{% endfor %}</fieldset>
+      <details class="filter-group"><summary>Subject area</summary><fieldset><legend class="sr-only">Subject area</legend>{% for value in vocabularies.subject_areas %}<label class="checkbox-row"><input type="checkbox" name="subjects" value="{{ value }}"><span>{{ value|label }}</span></label>{% endfor %}</fieldset></details>
+      <div class="filter-group"><label class="field-label" for="residence">Current situation</label><select id="residence" name="residence"><option value="">Not specified</option><option value="in_germany">Already in Germany</option><option value="outside_germany">Outside Germany</option></select></div>
+      <details class="filter-group"><summary>Funding purpose</summary><fieldset><legend class="sr-only">Funding purpose</legend>{% for value in vocabularies.funding_purposes %}<label class="checkbox-row"><input type="checkbox" name="purposes" value="{{ value }}"><span>{{ value|label }}</span></label>{% endfor %}</fieldset></details>
+      <div class="filter-group"><label class="field-label" for="availability">Application availability</label><select id="availability" name="availability"><option value="">All rounds</option>{% for value in ['open','upcoming','rolling','closed','dates_unconfirmed'] %}<option value="{{ value }}">{{ value|label }}</option>{% endfor %}</select></div>
+      <div class="filter-group"><label class="field-label" for="institution">University restriction</label><select id="institution" name="institution"><option value="">Any / not specified</option></select></div>
+      <p class="filter-note">Unknown criteria stay in your results and are marked for checking. A match is a starting point, not confirmation of eligibility.</p>
+    </form>
+  </div></aside>
+  <section class="results-section" aria-label="Scholarship results">
+    <div class="results-toolbar"><div><h2 id="result-heading" tabindex="-1">Scholarships</h2><p id="result-context">{% if preview %}Draft catalogue · {% endif %}Explore, compare, check the details.</p></div><div class="result-controls enhanced-only"><button type="button" id="open-filters" class="button secondary mobile-filter-button">Filters <span id="filter-count"></span></button><label class="sort-label" for="sort">Sort by<select id="sort"><option value="relevance">Relevance</option><option value="deadline">Nearest known deadline</option><option value="name">Name A–Z</option></select></label></div></div>
+    <div id="active-filters" class="active-filters" aria-label="Selected filters" hidden></div>
+    <p id="result-announcement" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></p>
+    <p id="directory-error" class="notice" hidden></p>
+    <noscript><p class="notice">You can browse every listing and detail page below. Search and filters are available with JavaScript enabled.</p></noscript>
+    <ul id="results" class="scholarship-list">{% for card in cards %}<li>{{ scholarship_card(card, preview) }}</li>{% endfor %}</ul>
+    <div id="empty-state" class="empty-state" hidden><span class="empty-mark" aria-hidden="true">∅</span><h3>No listings match these selections.</h3><p>Try a broader search or remove a filter. The directory is still growing.</p><button type="button" class="button primary" data-reset>Clear search & filters {{ arrow() }}</button></div>
+    <nav id="pagination" class="pagination" aria-label="Results pages"><span>Page {{ page }}</span><div>{% if page > 1 %}<a class="page-button" href="{{ directory_url(page - 1) }}" data-page="{{ page - 1 }}" aria-label="Previous page">←</a>{% endif %}{% for value in range(1, total_pages + 1) %}{% if value in [1,total_pages] or (value >= page - 1 and value <= page + 1) %}<a class="page-button" href="{{ directory_url(value) }}" data-page="{{ value }}" {% if value == page %}aria-current="page"{% endif %} aria-label="Page {{ value }}">{{ value }}</a>{% elif value == page - 2 or value == page + 2 %}<span class="page-ellipsis">…</span>{% endif %}{% endfor %}{% if page < total_pages %}<a class="page-button" href="{{ directory_url(page + 1) }}" data-page="{{ page + 1 }}" aria-label="Next page">→</a>{% endif %}</div></nav>
+    <div class="results-footnote"><span class="small-dot" aria-hidden="true"></span>Sources last checked on individual listing pages. Always confirm current dates with the provider.</div>
+  </section>
+</div>
+<dialog id="filter-dialog" aria-labelledby="dialog-title"><div class="dialog-header"><h2 id="dialog-title">Refine your search</h2><button type="button" id="close-filters" class="icon-button" aria-label="Close filters">×</button></div><div id="dialog-form-host"></div><div class="dialog-actions"><button type="button" id="cancel-filters" class="button secondary">Cancel</button><button type="button" id="apply-filters" class="button primary">Apply filters {{ arrow() }}</button></div></dialog>
+{% endblock %}

@@ -1,0 +1,156 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-57808993",
+  "slug": "daad-57808993",
+  "title": "Government Scholarships Programme Mexico COMECYT-DAAD Master",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Scholarship for Mexican graduates to complete a Master's degree in Germany, co-funded by DAAD and COMECYT.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "master"
+      ],
+      "notes": "Master's degree in Germany",
+      "source_ids": [
+        "daad-57808993"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified on the page",
+      "source_ids": [
+        "daad-57808993"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "German university",
+      "source_ids": [
+        "daad-57808993"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "restricted",
+      "allowed_country_codes": [
+        "MX"
+      ],
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Mexican graduates",
+      "source_ids": [
+        "daad-57808993"
+      ]
+    },
+    "residence": {
+      "status": "restricted",
+      "values": [
+        "in_germany",
+        "outside_germany"
+      ],
+      "notes": "Applicants live in and apply from Mexico, and study in Germany",
+      "source_ids": [
+        "daad-57808993"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Mexican graduate status",
+        "source_ids": [
+          "daad-57808993"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "COMECYT pays monthly scholarship payments. DAAD covers a 2-month intensive German course with accommodation and cost of living (or accompanying course), health/care/casualty/liability insurance, rent subsidy, and TestDaF or DSH exam refund.",
+    "amount_min": null,
+    "amount_max": null,
+    "currency": null,
+    "frequency": "variable",
+    "duration": "Maximum of twenty-four (24) months for Master's studies",
+    "covered_costs": [
+      "living_costs",
+      "insurance",
+      "language_course",
+      "other"
+    ],
+    "source_ids": [
+      "daad-57808993"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "notes": "No dates are specified on the page.",
+      "applicable_country_codes": [
+        "MX"
+      ],
+      "id": "daad-57808993-round-unspecified-round",
+      "as_of": "2026-10-23",
+      "source_ids": [
+        "daad-57808993"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": null,
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57808993",
+    "application_url": null,
+    "source_ids": [
+      "daad-57808993"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-57808993",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=57808993",
+        "title": "Government Scholarships Programme Mexico COMECYT-DAAD Master - DAAD - Deutscher Akademischer Austauschdienst",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": 200,
+        "retrieval_method": "firecrawl_live_requested",
+        "snapshot_ref": "#/sources/daad-57808993",
+        "sha256": "88eb2f29caaaaaab7dfe4c4839e251f1765c16e56121b9bea99ff49c343f1491",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The programme funds international students (Mexican graduates) for Master's degree studies at a German university physically in Germany."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": null,
+    "review_method": "extracted_draft"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Machine-extracted draft; eligibility, amounts, links and dates require editorial review."
+    ]
+  }
+}

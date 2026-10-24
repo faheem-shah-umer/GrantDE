@@ -1,0 +1,153 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-10000092",
+  "slug": "daad-10000092",
+  "title": "Prussian Cultural Heritage Foundation Research Grants",
+  "provider": {
+    "name": "Prussian Cultural Heritage Foundation"
+  },
+  "summary": "Short research residencies using the foundation's Berlin museums, libraries or archives.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "doctorate",
+        "other"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000092"
+      ]
+    },
+    "subject_areas": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000092"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000092"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality details require confirmation.",
+      "source_ids": [
+        "daad-10000092"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-10000092"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "At least a first university degree and a project related to a participating foundation institution.",
+        "source_ids": [
+          "daad-10000092"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "First-degree graduates receive EUR 1,300 monthly; a EUR 500 travel contribution may be available. Separate postdoctoral rates are outside this student entry.",
+    "amount_min": 1300,
+    "amount_max": 1300,
+    "currency": "EUR",
+    "frequency": "monthly",
+    "duration": "One to three months.",
+    "covered_costs": [],
+    "source_ids": [
+      "daad-10000092"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "daad-10000092-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "daad-10000092"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Dates vary by host institution.",
+  "application_process": {
+    "required_documents_status": "unknown",
+    "required_documents": [],
+    "steps_status": "as_listed",
+    "steps": [
+      {
+        "text": "Apply directly to the participating institution.",
+        "source_ids": [
+          "daad-10000092"
+        ]
+      }
+    ],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000092",
+    "application_url": null,
+    "source_ids": [
+      "daad-10000092"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-10000092",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=10000092",
+        "title": "Prussian Cultural Heritage Foundation Research Grants",
+        "source_type": "official_aggregator",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/daad-10000092",
+        "sha256": "8f9fc46b1b394da6438c1036642319123c9fde558a6f03f13472ed3b633b4037",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Confirm student eligibility and the current provider call.",
+      "DAAD describes another provider; confirm current terms on the provider page before publication."
+    ]
+  }
+}

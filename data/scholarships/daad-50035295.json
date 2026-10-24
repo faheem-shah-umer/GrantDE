@@ -1,0 +1,188 @@
+{
+  "schema_version": "2.0.0",
+  "id": "daad-50035295",
+  "slug": "daad-50035295",
+  "title": "DAAD University Summer Course Scholarships",
+  "provider": {
+    "name": "DAAD"
+  },
+  "summary": "Support for an in-person German-language and cultural course in Germany.",
+  "study_scope": {
+    "degree_levels": {
+      "status": "restricted",
+      "values": [
+        "bachelor",
+        "master",
+        "short_course"
+      ],
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-50035295"
+      ]
+    },
+    "subject_areas": {
+      "status": "unrestricted",
+      "values": null,
+      "notes": "The source explicitly accepts all subject areas.",
+      "source_ids": [
+        "daad-50035295"
+      ]
+    },
+    "institutions": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-50035295"
+      ]
+    },
+    "study_country_codes": [
+      "DE"
+    ]
+  },
+  "applicant_requirements": {
+    "nationality": {
+      "status": "unknown",
+      "allowed_country_codes": null,
+      "excluded_country_codes": null,
+      "country_groups": null,
+      "notes": "Nationality details require confirmation.",
+      "source_ids": [
+        "daad-50035295"
+      ]
+    },
+    "residence": {
+      "status": "unknown",
+      "values": null,
+      "notes": "Not specified in the collected source.",
+      "source_ids": [
+        "daad-50035295"
+      ]
+    },
+    "mandatory": [
+      {
+        "text": "Age at least 18 and ongoing enrolment at an eligible non-German university throughout the award.",
+        "source_ids": [
+          "daad-50035295"
+        ]
+      },
+      {
+        "text": "German-university enrolment, including relevant joint-degree enrolment, is excluded.",
+        "source_ids": [
+          "daad-50035295"
+        ]
+      },
+      {
+        "text": "Undergraduates need two completed academic years; final-year applicants must intend to progress directly to postgraduate study.",
+        "source_ids": [
+          "daad-50035295"
+        ]
+      },
+      {
+        "text": "The programme can be funded only once; provide recent accepted German-language proof.",
+        "source_ids": [
+          "daad-50035295"
+        ]
+      }
+    ],
+    "preferences": [],
+    "exceptions": []
+  },
+  "funding": {
+    "description": "Course and accommodation costs, EUR 475 once, insurance and country-specific travel allowance.",
+    "amount_min": 475,
+    "amount_max": 475,
+    "currency": "EUR",
+    "frequency": "one_off",
+    "duration": "Four weeks; summer courses June–September, winter courses January–February.",
+    "covered_costs": [
+      "language_course",
+      "living_costs",
+      "insurance",
+      "travel"
+    ],
+    "source_ids": [
+      "daad-50035295"
+    ],
+    "repayment_required": null
+  },
+  "application_rounds": [
+    {
+      "id": "daad-50035295-round-unconfirmed",
+      "opens_on": null,
+      "deadline": null,
+      "deadline_time": null,
+      "timezone": null,
+      "availability": "dates_unconfirmed",
+      "as_of": "2026-10-23",
+      "applicable_country_codes": null,
+      "notes": "No confirmed application dates were established.",
+      "source_ids": [
+        "daad-50035295"
+      ]
+    }
+  ],
+  "recurring_deadline_notes": "Opens 1 September; deadline 30 October annually at 23:59, labelled Central European Time by the source. No year is inferred.",
+  "application_process": {
+    "required_documents_status": "as_listed",
+    "required_documents": [
+      {
+        "text": "German CV and motivation",
+        "source_ids": [
+          "daad-50035295"
+        ]
+      },
+      {
+        "text": "Academic records and relevant degree or school certificate",
+        "source_ids": [
+          "daad-50035295"
+        ]
+      },
+      {
+        "text": "Accepted German-language certificate",
+        "source_ids": [
+          "daad-50035295"
+        ]
+      }
+    ],
+    "steps_status": "unknown",
+    "steps": [],
+    "official_programme_url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50035295",
+    "application_url": null,
+    "source_ids": [
+      "daad-50035295"
+    ]
+  },
+  "provenance": {
+    "sources": [
+      {
+        "id": "daad-50035295",
+        "url": "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50035295",
+        "title": "DAAD University Summer Course Scholarships",
+        "source_type": "official_provider",
+        "checked_on": "2026-10-23",
+        "http_status": null,
+        "retrieval_method": "web_search_read",
+        "snapshot_ref": "#/sources/daad-50035295",
+        "sha256": "9dd162ec689603d88650b45a4fe1e845e06ac0acd4fbc2fc8e69e70d3bf1e69b",
+        "supports": [
+          "identity",
+          "study_scope",
+          "requirements",
+          "funding",
+          "application"
+        ],
+        "notes": "The official source describes funding for international students studying in Germany. Read through built-in web research on 2026-10-23. The web tool may serve indexed or cached text; no live HTTP status was established. This file contains research notes, not a full page download."
+      }
+    ],
+    "last_checked": "2026-10-23",
+    "last_reviewed": "2026-10-23",
+    "review_method": "assistant_source_review"
+  },
+  "publication": {
+    "status": "draft",
+    "review_notes": [
+      "Confirm country eligibility, course-specific language requirements and the source's timezone label."
+    ]
+  }
+}

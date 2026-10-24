@@ -5,5 +5,5 @@ jsonschema-specifications==2025.4.1
 Jinja2==3.1.6
 MarkupSafe==3.0.3
 referencing==0.36.2
-rpds-py==0.25.1
+rpds-py==2026.9.1
 typing_extensions==4.15.0

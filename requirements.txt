@@ -3,7 +3,7 @@ attrs==25.4.0
 jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
 Jinja2==3.1.6
-MarkupSafe==3.0.3
+MarkupSafe==3.0.4
 referencing==0.36.2
 rpds-py==0.25.1
 typing_extensions==4.15.0
